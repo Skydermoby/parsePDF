@@ -91,27 +91,35 @@ def visitorToC(text, cm, tm, font_dict, font_size):
                 visitorHdNum.append(tempSplit[0])
                 if tempSplit[-1].isnumeric():
                     visitorHdPg.append(int(tempSplit[-1]))
+                    tempSplit.pop(0)
+                    tempSplit.pop(-1)
                     tempSplit.pop(-1)
                 else:
                     numCheck = False
                     strCheck = False
                     newEnd = ""
+                    #print("new")
+                    #print(tempSplit)
                     for x in range(0, len(tempSplit[-1])):
                         tempTxt = tempSplit[-1][x:]
-                        newTempTxt = tempSplit[-1][:x]
+                        newTempTxt = tempSplit[-1][:x+1]
+                        #print(newTempTxt)
+                        #print(strCheck)
+                        #print((not newTempTxt.isalpha()) and (not strCheck))
                         if tempTxt.isnumeric() and not numCheck:
                             visitorHdPg.append(int(tempTxt))
                             numCheck = True
-                        if not newTempTxt.isalpha() and not strCheck:
+                        if (not newTempTxt.isalpha()) and not strCheck:
+                            #print("got in")
                             if len(tempSplit[-1]) != len(newTempTxt):
-                                newEnd = tempSplit[-1][:x-1]
+                                newEnd = tempSplit[-1][:x]
                             strCheck = True
                         if strCheck and numCheck:
                             break
-                
                     tempSplit.pop(0)
                     tempSplit.pop(-1)
                     tempSplit.append(newEnd)
+                    #print(newEnd)
                 #print(text.split())
                 visitorHdTit.append(" ".join(tempSplit))
 
