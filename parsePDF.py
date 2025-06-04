@@ -70,20 +70,47 @@ for page in reader.pages:
             tocIn = False
         parts = []
     pageCount += 1
-print(tocStart)
-print(tocEnd)
-print(tocHeadNum)
-print(tocIn)
 
 returnDict = {}
 visitorHdNum = []
 visitorHdTit = []
 visitorHdPg = []
 workAround = [False]
+specialCase = [False]
 #Avoid Page number and header
 def visitorToC(text, cm, tm, font_dict, font_size):
     if text != "\n" and text != '':
         tempSplit = text.split()
+        if specialCase[0]:
+            #print(visitorHdTit[-1])
+            for x in range(0, len(tempSplit)-1):
+                if tempSplit[x].isalpha():
+                    tempJoinText = visitorHdTit[-1]
+                    visitorHdTit[-1] = " ".join([tempJoinText, tempSplit[x]])
+            if (tempSplit[-1].isnumeric()):
+                visitorHdPg.append(int(tempSplit[-1]))
+            else:
+                numCheck = False
+                strCheck = False
+                newEnd = ""
+                for x in range(0, len(tempSplit[-1])):
+                    tempTxt = tempSplit[-1][x:]
+                    newTempTxt = tempSplit[-1][:x+1]
+                    if tempTxt.isnumeric() and not numCheck:
+                        visitorHdPg.append(int(tempTxt))
+                        numCheck = True
+                    if (not newTempTxt.isalpha()) and not strCheck:
+                        if len(tempSplit[-1]) != len(newTempTxt):
+                            newEnd = tempSplit[-1][:x]
+                        strCheck = True
+                    if strCheck and numCheck:
+                        break
+                if not numCheck and not strCheck:
+                    print("ERROR: Something went wrong while scraping table of contents")
+                else:
+                    tempJoinText = visitorHdTit[-1]
+                    visitorHdTit[-1] = " ".join([tempJoinText, newEnd])
+            specialCase[0] = False
         if checkFloat(tempSplit[0]) != -1 and len(tempSplit) > 1:
             if checkFloat(tempSplit[0]) == 1.0:
                 workAround[0] = True
@@ -116,9 +143,13 @@ def visitorToC(text, cm, tm, font_dict, font_size):
                             strCheck = True
                         if strCheck and numCheck:
                             break
-                    tempSplit.pop(0)
-                    tempSplit.pop(-1)
-                    tempSplit.append(newEnd)
+                    if not numCheck and not strCheck:
+                        specialCase[0] = True
+                        tempSplit.pop(0)
+                    else:
+                        tempSplit.pop(0)
+                        tempSplit.pop(-1)
+                        tempSplit.append(newEnd)
                     #print(newEnd)
                 #print(text.split())
                 visitorHdTit.append(" ".join(tempSplit))
@@ -126,12 +157,6 @@ def visitorToC(text, cm, tm, font_dict, font_size):
 for x in range(tocStart, tocEnd + 1):
     page = reader.pages[x]
     page.extract_text(visitor_text=visitorToC)
-    print(visitorHdTit)
-    print(visitorHdNum)
-    print(visitorHdPg)
-    visitorHdTit = []
-    visitorHdNum = []
-    visitorHdPg = []
     if len(parts) != 0:
         counter = 0
         #print(parts)
@@ -161,3 +186,7 @@ for x in range(tocStart, tocEnd + 1):
         #print(txtBody.split())
         parts = []
     pageCount += 1
+
+print(visitorHdTit)
+print(visitorHdNum)
+print(visitorHdPg)
