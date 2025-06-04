@@ -2,6 +2,8 @@ import pymupdf
 import pymupdf4llm
 from pypdf import PdfReader
 import numpy as np
+import json
+import os
 
 inputFile = "Data\\NCT00660673_Prot_000.pdf"
 
@@ -19,8 +21,6 @@ for i in idHead.header_id:
     #print(i)
     headingSizes.append(i)
     #print(idHead.header_id.get(i))
-
-print(headingSizes)
 
 parts = []
 firstLine = True
@@ -71,7 +71,6 @@ for page in reader.pages:
         parts = []
     pageCount += 1
 
-returnDict = {}
 visitorHdNum = []
 visitorHdTit = []
 visitorHdPg = []
@@ -157,36 +156,122 @@ def visitorToC(text, cm, tm, font_dict, font_size):
 for x in range(tocStart, tocEnd + 1):
     page = reader.pages[x]
     page.extract_text(visitor_text=visitorToC)
-    if len(parts) != 0:
-        counter = 0
-        #print(parts)
-        breaker = True
-        while (breaker):
-            if parts[counter] == '\n':
-                counter += 1
+
+#print(visitorHdTit)
+#print(visitorHdNum)
+#print(visitorHdPg)
+
+if len(visitorHdTit) != len(visitorHdNum) or len(visitorHdNum) != len(visitorHdPg) or len(visitorHdPg) != len(visitorHdTit):
+    print("ERROR: number of headers, titles, and page numbers do not match")
+
+currentBigHeaderIndex = -1
+returnDict = {}
+pageContents = []
+
+def visitor_bodySpecial(text, cm, tm, font_dict, font_size):
+    print(text)
+"""
+firstPage = True
+for page in reader.pages:
+    returnedPage = page.extract_text(extraction_mode="layout", layout_mode_space_vertically=False, layout_mode_scale_weight=0.5)
+    if (firstPage):
+        print(returnedPage)
+        firstPage = False
+        """
+
+print("6.0 Study Objectives" in reader.pages[18].extract_text())
+    
+
+
+for x in range(0, len(visitorHdTit)):
+    nextPage = -1
+    if x == len(visitorHdNum) - 1:
+        nextPage = pageCount - 1
+    else:
+        nextPage = visitorHdPg[x+1] - 1
+    overAllText = ""
+    if checkFloat(visitorHdNum[x])%1 == 0:
+        returnDict[visitorHdTit[x]] = {}
+        returnDict[visitorHdTit[x]]["Header Number"] = visitorHdNum[x]
+        currentBigHeaderIndex = x
+        for y in range(visitorHdPg[x] - 1, nextPage):
+            curPage = reader.pages[y]
+            curText = curPage.extract_text()
+            if y != nextPage - 1 and y != visitorHdPg[x]:
+                overAllText = overAllText + curText
+            elif y == nextPage - 1 and y != visitorHdPg[x]:
+                if x != len(visitorHdTit) - 1:
+                    nextHeader = " ".join([visitorHdNum[x+1], visitorHdTit[x+1]])
+                    if nextHeader in curText:
+                        curTextSplit = curText.split(nextHeader)
+                        overAllText = overAllText + curTextSplit[0]
+                    else:
+                        overAllText = overAllText + curText
+                else:
+                    overAllText = overAllText + curText
+            elif y == visitorHdPg[x] and y != nextPage - 1:
+                if x != 0:
+                    prevHeader = " ".join([visitorHdNum[x], visitorHdTit[x]])
+                    if prevHeader in curText:
+                        curTextSplit = curText.split(prevHeader)
+                        overAllText = overAllText + curTextSplit[-1]
+                    else:
+                        overAllText = overAllText + curText
+                else:
+                    overAllText = overAllText + curText
             else:
-                breaker = False
-        analyst = parts[counter].split()
-        restOfText = analyst[1:]
-        headerTitle = " ".join(restOfText)
-        if headerTitle.lower() == "table of contents" and not tocIn:
-            tocStart = pageCount
-            tocIn = True
-            tocHeadNum = checkFloat(analyst[0])
-        #This way of checking should prevent issues with big ToCs
-        tempChecker = checkFloat(analyst[0])
-        if tempChecker == tocHeadNum + 1 and tocIn:
-            tocEnd = pageCount - 1 
-            tocIn = False
+                nextHeader = " ".join([visitorHdNum[x+1], visitorHdTit[x+1]])
+                prevHeader = " ".join([visitorHdNum[x], visitorHdTit[x]])
+                if nextHeader in curText:
+                    curTextSplit = curText.split(nextHeader)
+                    curText = curTextSplit[0]
+                if prevHeader in curText:
+                    curTextSplit = curText.split(prevHeader)
+                    curText = curTextSplit[-1]
+                overAllText = overAllText + curText
+        returnDict[visitorHdTit[x]]["Content"] = overAllText
+    else:
+        returnDict[visitorHdTit[currentBigHeaderIndex]][visitorHdTit[x]] = {}
+        returnDict[visitorHdTit[currentBigHeaderIndex]][visitorHdTit[x]]["Header Number"] = visitorHdNum[x]
+        for y in range(visitorHdPg[x] - 1, nextPage):
+            curPage = reader.pages[y]
+            curText = curPage.extract_text()
+            if y != nextPage - 1 and y != visitorHdPg[x]:
+                overAllText = overAllText + curText
+            elif y == nextPage - 1 and y != visitorHdPg[x]:
+                if x != len(visitorHdTit) - 1:
+                    nextHeader = " ".join([visitorHdNum[x+1], visitorHdTit[x+1]])
+                    if nextHeader in curText:
+                        curTextSplit = curText.split(nextHeader)
+                        overAllText = overAllText + curTextSplit[0]
+                    else:
+                        overAllText = overAllText + curText
+                else:
+                    overAllText = overAllText + curText
+            elif y == visitorHdPg[x] and y != nextPage - 1:
+                if x != 0:
+                    prevHeader = " ".join([visitorHdNum[x], visitorHdTit[x]])
+                    if prevHeader in curText:
+                        curTextSplit = curText.split(prevHeader)
+                        overAllText = overAllText + curTextSplit[-1]
+                    else:
+                        overAllText = overAllText + curText
+                else:
+                    overAllText = overAllText + curText
+            else:
+                nextHeader = " ".join([visitorHdNum[x+1], visitorHdTit[x+1]])
+                prevHeader = " ".join([visitorHdNum[x], visitorHdTit[x]])
+                if nextHeader in curText:
+                    curTextSplit = curText.split(nextHeader)
+                    curText = curTextSplit[0]
+                if prevHeader in curText:
+                    curTextSplit = curText.split(prevHeader)
+                    curText = curTextSplit[-1]
+                overAllText = overAllText + curText
+        returnDict[visitorHdTit[currentBigHeaderIndex]][visitorHdTit[x]]["Content"] = overAllText
 
-        #print(analyst)
-        returnDict[headerTitle] = analyst[0]
-        counter += 1
-        txtBody = "".join(parts)
-        #print(txtBody.split())
-        parts = []
-    pageCount += 1
+if os.path.exists("extractedTXT.json"):
+    os.remove("extractedTXT.json")
 
-print(visitorHdTit)
-print(visitorHdNum)
-print(visitorHdPg)
+with open("extractedTXT.json", "a") as f:
+    f.write(json.dumps(returnDict, indent=4))
