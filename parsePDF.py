@@ -6,6 +6,7 @@ import json
 import os
 
 inputFile = "Data\\NCT00660673_Prot_000.pdf"
+outputFile = "extractedTXT.json"
 
 doc = pymupdf.open(inputFile)
 reader = PdfReader(inputFile)
@@ -188,7 +189,7 @@ for x in range(0, len(visitorHdTit)):
     if x == len(visitorHdNum) - 1:
         nextPage = pageCount - 1
     else:
-        nextPage = visitorHdPg[x+1] - 1
+        nextPage = visitorHdPg[x+1]
     overAllText = ""
     if checkFloat(visitorHdNum[x])%1 == 0:
         returnDict[visitorHdTit[x]] = {}
@@ -270,8 +271,8 @@ for x in range(0, len(visitorHdTit)):
                 overAllText = overAllText + curText
         returnDict[visitorHdTit[currentBigHeaderIndex]][visitorHdTit[x]]["Content"] = overAllText
 
-if os.path.exists("extractedTXT.json"):
-    os.remove("extractedTXT.json")
+if os.path.exists(outputFile):
+    os.remove(outputFile)
 
-with open("extractedTXT.json", "a") as f:
+with open(outputFile, "a") as f:
     f.write(json.dumps(returnDict, indent=4))
