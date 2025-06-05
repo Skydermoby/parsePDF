@@ -5,6 +5,8 @@ import numpy as np
 import json
 import os
 
+os.system('cls')
+
 inputFile = "Data\\NCT00660673_Prot_000.pdf"
 outputFile = "extractedTXT.json"
 
@@ -156,7 +158,11 @@ def visitorToC(text, cm, tm, font_dict, font_size):
 
 for x in range(tocStart, tocEnd + 1):
     page = reader.pages[x]
+
     page.extract_text(visitor_text=visitorToC)
+for x in range(0, len(visitorHdTit)):
+    tempText = visitorHdTit[x].split()
+    visitorHdTit[x] = " ".join(tempText)
 
 #print(visitorHdTit)
 #print(visitorHdNum)
@@ -171,17 +177,6 @@ pageContents = []
 
 def visitor_bodySpecial(text, cm, tm, font_dict, font_size):
     print(text)
-"""
-firstPage = True
-for page in reader.pages:
-    returnedPage = page.extract_text(extraction_mode="layout", layout_mode_space_vertically=False, layout_mode_scale_weight=0.5)
-    if (firstPage):
-        print(returnedPage)
-        firstPage = False
-        """
-
-print("6.0 Study Objectives" in reader.pages[18].extract_text())
-    
 
 
 for x in range(0, len(visitorHdTit)):
@@ -200,9 +195,10 @@ for x in range(0, len(visitorHdTit)):
         for y in range(visitorHdPg[x] - 1, nextPage):
             curPage = reader.pages[y]
             curText = curPage.extract_text()
-            if y != nextPage - 1 and y != visitorHdPg[x]:
+            curText = curText.replace('\n', '')
+            if y != nextPage - 1 and y != visitorHdPg[x] - 1:
                 overAllText = overAllText + curText
-            elif y == nextPage - 1 and y != visitorHdPg[x]:
+            elif y == nextPage - 1 and y != visitorHdPg[x] - 1:
                 if x != len(visitorHdTit) - 1:
                     nextHeader = " ".join([visitorHdNum[x+1], visitorHdTit[x+1]])
                     if nextHeader in curText:
@@ -212,7 +208,7 @@ for x in range(0, len(visitorHdTit)):
                         overAllText = overAllText + curText
                 else:
                     overAllText = overAllText + curText
-            elif y == visitorHdPg[x] and y != nextPage - 1:
+            elif y == visitorHdPg[x] - 1 and y != nextPage - 1:
                 if x != 0:
                     prevHeader = " ".join([visitorHdNum[x], visitorHdTit[x]])
                     if prevHeader in curText:
@@ -223,6 +219,7 @@ for x in range(0, len(visitorHdTit)):
                 else:
                     overAllText = overAllText + curText
             else:
+                #print("Same Page Case: ", visitorHdNum[x])
                 nextHeader = " ".join([visitorHdNum[x+1], visitorHdTit[x+1]])
                 prevHeader = " ".join([visitorHdNum[x], visitorHdTit[x]])
                 if nextHeader in curText:
@@ -232,20 +229,28 @@ for x in range(0, len(visitorHdTit)):
                     curTextSplit = curText.split(prevHeader)
                     curText = curTextSplit[-1]
                 overAllText = overAllText + curText
+            if nextPage-1 < visitorHdPg[x]-1:
+                print("Someting is wrong: ", visitorHdNum[x])
         returnDict[-1]["Content"] = overAllText
     else:
         returnDict[currentBigHeaderIndex]["Sub-sections"].append({})
         returnDict[currentBigHeaderIndex]["Sub-sections"][-1] = {}
-        returnDict[currentBigHeaderIndex]["Sub-sections"][-1]["Title"] = visitorHdNum[x]
+        returnDict[currentBigHeaderIndex]["Sub-sections"][-1]["Title"] = visitorHdTit[x]
         returnDict[currentBigHeaderIndex]["Sub-sections"][-1]["Header Number"] = visitorHdNum[x]
         for y in range(visitorHdPg[x] - 1, nextPage):
             curPage = reader.pages[y]
             curText = curPage.extract_text()
-            if y != nextPage - 1 and y != visitorHdPg[x]:
+            curText = curText.replace('\n', '')
+            if y != nextPage - 1 and y != visitorHdPg[x] - 1:
                 overAllText = overAllText + curText
-            elif y == nextPage - 1 and y != visitorHdPg[x]:
+            elif y == nextPage - 1 and y != visitorHdPg[x] - 1:
                 if x != len(visitorHdTit) - 1:
                     nextHeader = " ".join([visitorHdNum[x+1], visitorHdTit[x+1]])
+                    #print("here", visitorHdNum[x])
+                    tester = [nextHeader]
+                    #print(tester)
+                    #print(curText)
+                    #print(nextHeader in curText)
                     if nextHeader in curText:
                         curTextSplit = curText.split(nextHeader)
                         overAllText = overAllText + curTextSplit[0]
@@ -253,7 +258,7 @@ for x in range(0, len(visitorHdTit)):
                         overAllText = overAllText + curText
                 else:
                     overAllText = overAllText + curText
-            elif y == visitorHdPg[x] and y != nextPage - 1:
+            elif y == visitorHdPg[x] - 1 and y != nextPage - 1:
                 if x != 0:
                     prevHeader = " ".join([visitorHdNum[x], visitorHdTit[x]])
                     if prevHeader in curText:
@@ -266,6 +271,8 @@ for x in range(0, len(visitorHdTit)):
             else:
                 nextHeader = " ".join([visitorHdNum[x+1], visitorHdTit[x+1]])
                 prevHeader = " ".join([visitorHdNum[x], visitorHdTit[x]])
+                #print("prev", prevHeader)
+                #print("next", nextHeader)
                 if nextHeader in curText:
                     curTextSplit = curText.split(nextHeader)
                     curText = curTextSplit[0]
