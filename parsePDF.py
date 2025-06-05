@@ -166,7 +166,7 @@ if len(visitorHdTit) != len(visitorHdNum) or len(visitorHdNum) != len(visitorHdP
     print("ERROR: number of headers, titles, and page numbers do not match")
 
 currentBigHeaderIndex = -1
-returnDict = {}
+returnDict = []
 pageContents = []
 
 def visitor_bodySpecial(text, cm, tm, font_dict, font_size):
@@ -192,9 +192,11 @@ for x in range(0, len(visitorHdTit)):
         nextPage = visitorHdPg[x+1]
     overAllText = ""
     if checkFloat(visitorHdNum[x])%1 == 0:
-        returnDict[visitorHdTit[x]] = {}
-        returnDict[visitorHdTit[x]]["Header Number"] = visitorHdNum[x]
-        currentBigHeaderIndex = x
+        returnDict.append({})
+        returnDict[-1]["Title"] = visitorHdTit[x]
+        returnDict[-1]["Header Number"] = visitorHdNum[x]
+        returnDict[-1]["Sub-sections"] = []
+        currentBigHeaderIndex = -1
         for y in range(visitorHdPg[x] - 1, nextPage):
             curPage = reader.pages[y]
             curText = curPage.extract_text()
@@ -230,10 +232,12 @@ for x in range(0, len(visitorHdTit)):
                     curTextSplit = curText.split(prevHeader)
                     curText = curTextSplit[-1]
                 overAllText = overAllText + curText
-        returnDict[visitorHdTit[x]]["Content"] = overAllText
+        returnDict[-1]["Content"] = overAllText
     else:
-        returnDict[visitorHdTit[currentBigHeaderIndex]][visitorHdTit[x]] = {}
-        returnDict[visitorHdTit[currentBigHeaderIndex]][visitorHdTit[x]]["Header Number"] = visitorHdNum[x]
+        returnDict[currentBigHeaderIndex]["Sub-sections"].append({})
+        returnDict[currentBigHeaderIndex]["Sub-sections"][-1] = {}
+        returnDict[currentBigHeaderIndex]["Sub-sections"][-1]["Title"] = visitorHdNum[x]
+        returnDict[currentBigHeaderIndex]["Sub-sections"][-1]["Header Number"] = visitorHdNum[x]
         for y in range(visitorHdPg[x] - 1, nextPage):
             curPage = reader.pages[y]
             curText = curPage.extract_text()
@@ -269,7 +273,7 @@ for x in range(0, len(visitorHdTit)):
                     curTextSplit = curText.split(prevHeader)
                     curText = curTextSplit[-1]
                 overAllText = overAllText + curText
-        returnDict[visitorHdTit[currentBigHeaderIndex]][visitorHdTit[x]]["Content"] = overAllText
+        returnDict[currentBigHeaderIndex]["Sub-sections"][-1]["Content"] = overAllText
 
 if os.path.exists(outputFile):
     os.remove(outputFile)
