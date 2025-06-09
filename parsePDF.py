@@ -7,16 +7,16 @@ import os
 
 os.system('cls')
 
-inputFile = "Data\\NCT00660673_Prot_000.pdf"
+debugMode = True
+verboseMode = True
+
+inputFile = "Data\\NCT00799266_Prot_000.pdf"
 outputFile = "extractedTXT.json"
 
 doc = pymupdf.open(inputFile)
 reader = PdfReader(inputFile)
 
 idHead = pymupdf4llm.IdentifyHeaders(doc = doc)
-#testMarkdown = pymupdf4llm.to_markdown(doc = doc)
-
-#print(testMarkdown)
 
 headingSizes = []
 
@@ -25,14 +25,40 @@ for i in idHead.header_id:
     headingSizes.append(i)
     #print(idHead.header_id.get(i))
 
+def checkBlank(text):
+    if text != '\n' and text != ' ' and text != '':
+        return True
+    else:
+        return False
+
+def debugVisitor(text, cm, tm, font_dict, font_size):
+    if "table of contents" in text.lower():
+            print("Table of Contents found:" , font_size)
+
+if debugMode:
+    print("")
+    print("Heading sizes found:", headingSizes)
+    print("")
+    print("Printing Contents of a Page:")
+    if verboseMode:
+        for x in range(0, len(reader.pages)):
+            customPage = reader.pages[x]
+            customPage.extract_text(visitor_text=debugVisitor)
+
 parts = []
 firstLine = True
+
+# REWORKED: Unfrotunately textfont does not seemt to be consistent
 def visitor_body(text, cm, tm, font_dict, font_size):
     y = font_size
+    if debugMode:
+        if "table of contents" in text.lower():
+            print("Table of Contents found:" , font_size)
     for i in headingSizes:
-        if y >= i:
+        if y >= i and checkBlank(text=text):
             parts.append(text)
-            #print(text)
+            if verboseMode:
+                print([text])
 
 # Note: theoretically a protocol should not be using negative headings, thus -1 in this case refers to not float
 def checkFloat(text):
@@ -52,6 +78,7 @@ for page in reader.pages:
     page.extract_text(visitor_text=visitor_body)
     if len(parts) != 0:
         counter = 0
+
         #print(parts)
         breaker = True
         while (breaker):
@@ -81,7 +108,9 @@ workAround = [False]
 specialCase = [False]
 #Avoid Page number and header
 def visitorToC(text, cm, tm, font_dict, font_size):
-    if text != "\n" and text != '':
+    if verboseMode:
+        print([text])
+    if text != "\n" and text != '' and text != ' ':
         tempSplit = text.split()
         if specialCase[0]:
             #print(visitorHdTit[-1])
