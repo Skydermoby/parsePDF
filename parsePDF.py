@@ -61,6 +61,62 @@ def visitor_body(text, cm, tm, font_dict, font_size):
             if verboseMode:
                 print([text])
 
+foundToc = [False]
+nextSec = [False]
+startToc = -1
+endToc = -1
+#Goes under the assumption that Table of contents includes table of content 
+# if assumption is correct "ToC" will be on the top of the page and somewhere inside the toc
+def findNextSection(text, cm, tm, font_dict, font_size):
+    if "table of contents" in text.lower():
+        if foundToc == -1:
+            curInfo = findPageInfo(text)
+            foundToc[0] = True
+            startToc = curInfo[2]
+        else:
+            nextSec[0] = True
+    elif nextSec[0]:
+        curInfo = findPageInfo(text)
+        endToc = curInfo[2]
+
+
+def findPageInfo(curText):
+    retNum = -1
+    retTit = ""
+    retPg = -1
+    curSplit = curText.split()
+    if checkFloat(curSplit[0]) != -1:
+        retNum = checkFloat(curSplit[0])
+    if checkFloat(curSplit[-1]) != -1:
+        retPg = checkFloat(curSplit[-1])
+        trimmed = curSplit.pop(-1)
+        trimmed = curSplit.pop(0)
+        retTit = " ".join(trimmed)
+    else:
+        strCheck = False
+        numCheck = False
+        for x in range(0, len(curSplit)-1):
+            tempTxt = curSplit[-1][x:]
+            newTempTxt = curSplit[-1][:x+1]
+            if tempTxt.isnumeric() and not numCheck:
+                retPg = (int(tempTxt))
+                numCheck = True
+            if (not newTempTxt.isalpha()) and not strCheck:
+                if len(curSplit[-1]) != len(newTempTxt):
+                    newEnd = curSplit[-1][:x]
+                strCheck = True
+            if strCheck and numCheck:
+                break
+        if not numCheck and not strCheck:
+            print("ERROR: Something went wrong while scraping table of contents")
+        curSplit.pop(0)
+        curSplit.pop(-1)
+        curSplit.append(newEnd)
+        retTit = (" ".join(curSplit))
+    return [retNum, retTit, retPg]
+            
+
+
 # Note: theoretically a protocol should not be using negative headings, thus -1 in this case refers to not float
 def checkFloat(text):
     try:
@@ -88,7 +144,9 @@ for page in reader.pages:
         analyst = parts[counter].split()
         restOfText = analyst[1:]
         headerTitle = " ".join(restOfText)
-        if headerTitle.lower() == "table of contents" and not tocIn:
+        if checkFloat(analyst[0]) == -1:
+            headerTitle = " ".join(analyst)
+        if "table of contents" in headerTitle.lower() and not tocIn:
             print("Tjos")
             tocStart = pageCount
             tocIn = True
@@ -96,10 +154,19 @@ for page in reader.pages:
         #This way of checking should prevent issues with big ToCs
         tempChecker = checkFloat(analyst[0])
         if tempChecker == tocHeadNum + 1 and tocIn:
+            print("help")
             tocEnd = pageCount - 1 
             tocIn = False
         parts = []
     pageCount += 1
+
+if debugMode:
+    for page in reader.pages:
+        page.extract_text(visitor_text=findNextSection)
+        if foundToc[0] and nextSec[0]:
+            break
+    tocStart = startToc
+    tocEnd = endToc
 
 visitorHdNum = []
 visitorHdTit = []
