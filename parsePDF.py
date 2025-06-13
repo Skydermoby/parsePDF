@@ -54,6 +54,7 @@ def visitor_body(text, cm, tm, font_dict, font_size):
     if debugMode:
         if "table of contents" in text.lower():
             print("Table of Contents found:" , font_size)
+            parts.append(text)
     for i in headingSizes:
         if y >= i and checkBlank(text=text):
             parts.append(text)
@@ -78,8 +79,6 @@ for page in reader.pages:
     page.extract_text(visitor_text=visitor_body)
     if len(parts) != 0:
         counter = 0
-
-        #print(parts)
         breaker = True
         while (breaker):
             if parts[counter] == '\n':
@@ -90,6 +89,7 @@ for page in reader.pages:
         restOfText = analyst[1:]
         headerTitle = " ".join(restOfText)
         if headerTitle.lower() == "table of contents" and not tocIn:
+            print("Tjos")
             tocStart = pageCount
             tocIn = True
             tocHeadNum = checkFloat(analyst[0])
