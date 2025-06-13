@@ -63,43 +63,46 @@ def visitor_body(text, cm, tm, font_dict, font_size):
 
 foundToc = [False]
 nextSec = [False]
-startToc = -1
-endToc = -1
+startToc = [-1]
+endToc = [-1]
 #Goes under the assumption that Table of contents includes table of content 
 # if assumption is correct "ToC" will be on the top of the page and somewhere inside the toc
 def findNextSection(text, cm, tm, font_dict, font_size):
-    if "table of contents" in text.lower():
-        if foundToc == -1:
-            curInfo = findPageInfo(text)
+    if "table of contents" in text.lower() and checkBlank(text):
+        if foundToc[0] == False:
             foundToc[0] = True
-            startToc = curInfo[2]
         else:
             nextSec[0] = True
-    elif nextSec[0]:
+            curInfo = findPageInfo(text)
+            startToc[0] = curInfo[2]
+    elif nextSec[0] and checkBlank(text):
         curInfo = findPageInfo(text)
-        endToc = curInfo[2]
+        endToc[0] = curInfo[2]
+        nextSec[0] = False
 
 
 def findPageInfo(curText):
-    retNum = -1
+    retNum = -3
     retTit = ""
-    retPg = -1
+    retPg = -2
     curSplit = curText.split()
     if checkFloat(curSplit[0]) != -1:
         retNum = checkFloat(curSplit[0])
     if checkFloat(curSplit[-1]) != -1:
-        retPg = checkFloat(curSplit[-1])
+        retPg = int(curSplit[-1]) - 1
         trimmed = curSplit.pop(-1)
         trimmed = curSplit.pop(0)
         retTit = " ".join(trimmed)
     else:
         strCheck = False
         numCheck = False
+        newEnd = ""
+        print("Focus", curSplit)
         for x in range(0, len(curSplit)-1):
             tempTxt = curSplit[-1][x:]
             newTempTxt = curSplit[-1][:x+1]
             if tempTxt.isnumeric() and not numCheck:
-                retPg = (int(tempTxt))
+                retPg = (int(tempTxt) - 1)
                 numCheck = True
             if (not newTempTxt.isalpha()) and not strCheck:
                 if len(curSplit[-1]) != len(newTempTxt):
@@ -165,8 +168,10 @@ if debugMode:
         page.extract_text(visitor_text=findNextSection)
         if foundToc[0] and nextSec[0]:
             break
-    tocStart = startToc
-    tocEnd = endToc
+    tocStart = startToc[0]
+    tocEnd = endToc[0]
+    print(tocStart)
+    print(tocEnd)
 
 visitorHdNum = []
 visitorHdTit = []
@@ -175,9 +180,9 @@ workAround = [False]
 specialCase = [False]
 #Avoid Page number and header
 def visitorToC(text, cm, tm, font_dict, font_size):
-    if verboseMode:
-        print([text])
-    if text != "\n" and text != '' and text != ' ':
+    if checkBlank(text):
+        if verboseMode:
+            print([text])
         tempSplit = text.split()
         if specialCase[0]:
             #print(visitorHdTit[-1])
@@ -209,7 +214,7 @@ def visitorToC(text, cm, tm, font_dict, font_size):
                     tempJoinText = visitorHdTit[-1]
                     visitorHdTit[-1] = " ".join([tempJoinText, newEnd])
             specialCase[0] = False
-        if checkFloat(tempSplit[0]) != -1 and len(tempSplit) > 1:
+        if len(tempSplit) > 1 and checkFloat(tempSplit[0]) != -1:
             if checkFloat(tempSplit[0]) == 1.0:
                 workAround[0] = True
             if workAround[0]:
@@ -260,9 +265,10 @@ for x in range(0, len(visitorHdTit)):
     tempText = visitorHdTit[x].split()
     visitorHdTit[x] = " ".join(tempText)
 
-#print(visitorHdTit)
-#print(visitorHdNum)
-#print(visitorHdPg)
+if debugMode:
+    print(visitorHdTit)
+    print(visitorHdNum)
+    print(visitorHdPg)
 
 if len(visitorHdTit) != len(visitorHdNum) or len(visitorHdNum) != len(visitorHdPg) or len(visitorHdPg) != len(visitorHdTit):
     print("ERROR: number of headers, titles, and page numbers do not match")
