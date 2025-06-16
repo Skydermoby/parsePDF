@@ -214,10 +214,10 @@ def visitorToC(text, cm, tm, font_dict, font_size):
                     tempJoinText = visitorHdTit[-1]
                     visitorHdTit[-1] = " ".join([tempJoinText, newEnd])
             specialCase[0] = False
-        if len(tempSplit) > 1 and checkFloat(tempSplit[0]) != -1:
+        if len(tempSplit) >= 1 and checkFloat(tempSplit[0]) != -1:
             if checkFloat(tempSplit[0]) == 1.0:
                 workAround[0] = True
-            if workAround[0]:
+            if workAround[0] and len(tempSplit) != 1:
                 visitorHdNum.append(tempSplit[0])
                 if tempSplit[-1].isnumeric():
                     visitorHdPg.append(int(tempSplit[-1]))
@@ -256,6 +256,9 @@ def visitorToC(text, cm, tm, font_dict, font_size):
                     #print(newEnd)
                 #print(text.split())
                 visitorHdTit.append(" ".join(tempSplit))
+            elif workAround[0]:
+                if checkFloat(tempSplit[0]) != -1:
+                    visitorHdNum.append(checkFloat(tempSplit[0]))
 
 for x in range(tocStart, tocEnd + 1):
     page = reader.pages[x]
