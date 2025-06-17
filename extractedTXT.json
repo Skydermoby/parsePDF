@@ -1,1 +1,564 @@
-[]
+[
+    {
+        "Title": "Table of contents",
+        "Sub-sections": []
+    },
+    {
+        "Title": "List of tables",
+        "Sub-sections": []
+    },
+    {
+        "Title": "List of abbreviations",
+        "Sub-sections": []
+    },
+    {
+        "Title": "Glossary of terms",
+        "Sub-sections": []
+    },
+    {
+        "Title": "Amendment 5",
+        "Sub-sections": []
+    },
+    {
+        "Title": "Protocol summary",
+        "Sub-sections": []
+    },
+    {
+        "Title": "1 Introduction",
+        "Sub-sections": [
+            {
+                "Title": "1.1 Background",
+                "Sub-sections": []
+            },
+            {
+                "Title": "1.2 Purpose",
+                "Sub-sections": []
+            }
+        ]
+    },
+    {
+        "Title": "2 Study objectives and endpoints",
+        "Sub-sections": [
+            {
+                "Title": "2.1 Primary objective(s)",
+                "Sub-sections": []
+            },
+            {
+                "Title": "2.2 Secondary objective(s)",
+                "Sub-sections": []
+            },
+            {
+                "Title": "2.4 Objectives and related endpoints",
+                "Sub-sections": [
+                    {
+                        "Title": "Table 2-1 Objectives and related endpoints- Objectives",
+                        "Sub-sections": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Title": "3 Investigational plan",
+        "Sub-sections": [
+            {
+                "Title": "3.1 Study design",
+                "Sub-sections": []
+            },
+            {
+                "Title": "3.2 Rationale for study design",
+                "Sub-sections": []
+            },
+            {
+                "Title": "3.3 Rationale for dose/regimen, route of administration and duration of treatment",
+                "Sub-sections": []
+            },
+            {
+                "Title": "3.4 Rationale for choice of comparator",
+                "Sub-sections": []
+            },
+            {
+                "Title": "3.5 Purpose and timing of interim analyses/design adaptations",
+                "Sub-sections": []
+            },
+            {
+                "Title": "3.6 Risks and benefits",
+                "Sub-sections": []
+            }
+        ]
+    },
+    {
+        "Title": "4 Population",
+        "Sub-sections": [
+            {
+                "Title": "4.1 Inclusion criteria",
+                "Sub-sections": []
+            },
+            {
+                "Title": "4.2 Exclusion criteria",
+                "Sub-sections": []
+            }
+        ]
+    },
+    {
+        "Title": "5 Treatment",
+        "Sub-sections": [
+            {
+                "Title": "5.1 Study treatment",
+                "Sub-sections": [
+                    {
+                        "Title": "5.1.1 Investigational and control drugs",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Title": "5.1.2 Additional treatment",
+                        "Sub-sections": [
+                            {
+                                "Title": "Table 5-1 Recommended minimum daily dietary allowances (Ross 2011)",
+                                "Sub-sections": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Title": "5.2 Treatment arms",
+                "Sub-sections": []
+            },
+            {
+                "Title": "5.3 Treatment assignment and randomization",
+                "Sub-sections": []
+            },
+            {
+                "Title": "5.4 Treatment blinding",
+                "Sub-sections": []
+            },
+            {
+                "Title": "5.5 Treating the patient",
+                "Sub-sections": [
+                    {
+                        "Title": "5.5.1 Patient numbering",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Title": "5.5.2 Dispensing the study drug",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Title": "5.5.3 Handling of study and additional treatment",
+                        "Sub-sections": [
+                            {
+                                "Title": "5.5.3.1 Handling of study treatment",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Title": "5.5.3.2 Handling of additional treatment",
+                                "Sub-sections": []
+                            }
+                        ]
+                    },
+                    {
+                        "Title": "5.5.4 Instructions for prescribing and taking study treatment",
+                        "Sub-sections": [
+                            {
+                                "Title": "Table 5-2 Preparation of iv zoledronic acid or placebo infusion",
+                                "Sub-sections": []
+                            }
+                        ]
+                    },
+                    {
+                        "Title": "5.5.5 Permitted dose adjustments and interruptions of study treatment",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Title": "5.5.6 Rescue medication",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Title": "5.5.7 Concomitant medication",
+                        "Sub-sections": [
+                            {
+                                "Title": "5.5.7.1 Treatment of study drug related adverse events:",
+                                "Sub-sections": []
+                            }
+                        ]
+                    },
+                    {
+                        "Title": "5.5.8 Prohibited medication",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Title": "5.5.9 Emergency breaking of assigned treatment code",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Title": "5.6 Study Completion and Discontinuation",
+                "Sub-sections": [
+                    {
+                        "Title": "5.6.1 Study completion and post-study treatment",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Title": "5.6.2 Discontinuation of Study Treatment",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Title": "5.6.3 Withdrawal of informed consent",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Title": "5.6.4 Loss to follow-up",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Title": "5.6.5 Early study termination by the sponsor",
+                        "Sub-sections": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Title": "6 Visit schedule and assessments",
+        "Sub-sections": [
+            {
+                "Title": "Table 6-1 Assessment schedule",
+                "Sub-sections": []
+            },
+            {
+                "Title": "6.1 Information to be collected on screening failures",
+                "Sub-sections": []
+            },
+            {
+                "Title": "6.2 Patient demographics/other baseline characteristics",
+                "Sub-sections": []
+            },
+            {
+                "Title": "6.3 Treatment exposure and compliance",
+                "Sub-sections": []
+            },
+            {
+                "Title": "6.4 Efficacy",
+                "Sub-sections": [
+                    {
+                        "Title": "6.4.1 Vertebral compression fracture",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Title": "6.4.3 DXA measurements",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Title": "6.4.4 Bone Marker Analysis",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Title": "6.4.6 Bone age assessment",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Title": "6.4.7 Pain assessment",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Title": "6.4.8 Appropriateness of efficacy assessments",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Title": "6.5 Safety",
+                "Sub-sections": [
+                    {
+                        "Title": "6.5.1 Physical examination",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Title": "6.5.2 Vital signs",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Title": "6.5.3 Height and weight",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Title": "6.5.4 Laboratory evaluations",
+                        "Sub-sections": [
+                            {
+                                "Title": "6.5.4.1 Hematology",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Title": "6.5.4.2 Clinical chemistry",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Title": "6.5.4.3 Urinalysis",
+                                "Sub-sections": []
+                            }
+                        ]
+                    },
+                    {
+                        "Title": "6.5.5 Pregnancy and assessments of fertility",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Title": "6.5.6 Bone Safety Monitoring",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Title": "6.5.7 Appropriateness of safety measurements",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Title": "6.6 Other assessments",
+                "Sub-sections": [
+                    {
+                        "Title": "6.6.3 Pharmacokinetics",
+                        "Sub-sections": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Title": "7 Safety monitoring",
+        "Sub-sections": [
+            {
+                "Title": "7.1 Adverse events",
+                "Sub-sections": []
+            },
+            {
+                "Title": "7.2 Serious adverse events",
+                "Sub-sections": [
+                    {
+                        "Title": "7.2.1 Definition of SAE",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Title": "7.2.2 SAE reporting",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Title": "7.3 Reporting of study treatment errors including misuse/abuse",
+                "Sub-sections": []
+            },
+            {
+                "Title": "7.4 Pregnancy reporting",
+                "Sub-sections": []
+            }
+        ]
+    },
+    {
+        "Title": "8 Data review and database management",
+        "Sub-sections": [
+            {
+                "Title": "8.1 Site monitoring",
+                "Sub-sections": []
+            },
+            {
+                "Title": "8.2 Data collection",
+                "Sub-sections": []
+            },
+            {
+                "Title": "8.3 Database management and quality control",
+                "Sub-sections": []
+            },
+            {
+                "Title": "8.4 Data Monitoring Committee",
+                "Sub-sections": []
+            }
+        ]
+    },
+    {
+        "Title": "9 Data analysis",
+        "Sub-sections": [
+            {
+                "Title": "9.1 Analysis sets",
+                "Sub-sections": [
+                    {
+                        "Title": "9.1.1 Intention-to-treat (ITT) population",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Title": "9.1.2 Modified Intention-to-treat (MITT) population",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Title": "9.1.3 Per-protocol (PP) population",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Title": "9.1.4 Safety population",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Title": "9.2 Patient demographics and other baseline characteristics",
+                "Sub-sections": []
+            },
+            {
+                "Title": "9.3 Treatments",
+                "Sub-sections": [
+                    {
+                        "Title": "9.3.1 Study drug and compliance",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Title": "9.3.2 Concomitant therapy",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Title": "9.4 Analysis of the primary variable",
+                "Sub-sections": [
+                    {
+                        "Title": "9.4.1 Variable",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Title": "9.4.2 Statistical model, hypothesis, and method of analysis",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Title": "9.4.3 Handling of missing values/censoring/discontinuations",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Title": "9.4.4 Sensitivity analyses",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Title": "9.5 Analysis of secondary variables",
+                "Sub-sections": [
+                    {
+                        "Title": "9.5.1 Efficacy variables",
+                        "Sub-sections": [
+                            {
+                                "Title": "9.5.1.1 Change in lumbar spine BMD Z-score at Month 6 relative to baseline",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Title": "9.5.1.2 Change in lumbar spine and total body BMC at Months 6 and 12 relative to baseline",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Title": "9.5.1.3 Relative change in biochemical markers of bone turnover (Serum NTX, TRAP-5b, BSAP and P1NP)",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Title": "9.5.1.4 Incidence of new vertebral fractures at Month 12",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Title": "9.5.1.5 Change in vertebral morphometry at Month 12 relative to baseline",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Title": "9.5.1.6 Change in metacarpal cortical width at Month 12 relative to baseline",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Title": "9.5.1.7 Reduction in pain from baseline",
+                                "Sub-sections": []
+                            }
+                        ]
+                    },
+                    {
+                        "Title": "9.5.2 Safety variables",
+                        "Sub-sections": [
+                            {
+                                "Title": "9.5.2.1 Adverse event",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Title": "9.5.2.2 Laboratory evaluations",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Title": "9.5.2.3 Vital signs",
+                                "Sub-sections": []
+                            }
+                        ]
+                    },
+                    {
+                        "Title": "9.5.3 Pharmacokinetics",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Title": "9.7 Interim analyses",
+                "Sub-sections": []
+            },
+            {
+                "Title": "9.8 Sample size calculation",
+                "Sub-sections": []
+            }
+        ]
+    },
+    {
+        "Title": "10 Ethical considerations",
+        "Sub-sections": [
+            {
+                "Title": "10.1 Regulatory and ethical compliance",
+                "Sub-sections": []
+            },
+            {
+                "Title": "10.2 Informed consent procedures",
+                "Sub-sections": []
+            },
+            {
+                "Title": "10.3 Responsibilities of the investigator and IRB/IEC",
+                "Sub-sections": []
+            },
+            {
+                "Title": "10.4 Publication of study protocol and results",
+                "Sub-sections": []
+            }
+        ]
+    },
+    {
+        "Title": "11 Protocol adherence",
+        "Sub-sections": [
+            {
+                "Title": "11.1 Protocol Amendments",
+                "Sub-sections": []
+            }
+        ]
+    },
+    {
+        "Title": "12 References",
+        "Sub-sections": []
+    },
+    {
+        "Title": "13 Appendix 1: Clinically notable laboratory values and vital signs",
+        "Sub-sections": []
+    },
+    {
+        "Title": "14 Appendix 2: Tanner staging",
+        "Sub-sections": []
+    },
+    {
+        "Title": "15 Appendix 3: Amount of blood to-be Drawn",
+        "Sub-sections": []
+    },
+    {
+        "Title": "16 Appendix 4: Faces Pain Scale \u2013 Revised",
+        "Sub-sections": []
+    },
+    {
+        "Title": "19 Appendix 7: Other subtypes of Osteoporosis in Children",
+        "Sub-sections": []
+    }
+]

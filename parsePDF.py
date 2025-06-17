@@ -23,7 +23,7 @@ headingSizes = []
 for i in idHead.header_id:
     #print(i)
     headingSizes.append(i)
-    #print(idHead.header_id.get(i))
+    print(idHead.header_id.get(i))
 
 def checkBlank(text):
     if text != '\n' and text != ' ' and text != '':
