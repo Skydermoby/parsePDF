@@ -10,55 +10,114 @@ import os
 
 os.system('cls')
 
-debugMode = True
-verboseMode = True
+debugMode = False
+verboseMode = False
 
-inputFile = "Data\\NCT00799266_Prot_000.pdf"
-outputFile = "extractedTXT.json"
+fileName = "NCT00799266_Prot_000" + ".pdf"
+
+inputFile = "Data\\" + fileName
+outputFile = "extractedTXT" + fileName + ".json"
 
 doc = pymupdf.open(inputFile)
 toc = doc.get_toc()
 
 testDict = []
 pointer = testDict
-for x in range (6):
-    testDict.append({})
-    testDict[-1]["sub"] = []
-    newPoint = testDict[-1]["sub"]
-    testDict = newPoint
 
-print(pointer)
 
+def checkHeader(text):
+    stillHeader = True
+    for x in text:
+        if (not x.isdigit()) and x != ".":
+            stillHeader = False
+            break
+    return stillHeader
+
+
+def printError(text):
+    print("Something wrong has occured:", text)
+
+breakerControl = 0
 
 curDict = []
 topDict = curDict
 lastLvl = 1
 if len(toc) != 0:
+    pgCounter = 0
     for x in toc:
         curLvl = x[0]
         curTit = x[1]
-        curPg = x[2]
-        if lastLvl == curLvl:
-            curDict.append({})
-            curDict[-1]["Title"] = curTit
-            curDict[-1]["Sub-sections"] = []
-        elif lastLvl < curLvl:
+        curPg = int(x[2])
+        if lastLvl < curLvl:
             newPoint = curDict[-1]["Sub-sections"]
             curDict = newPoint
-            curDict.append({})
-            curDict[-1]["Title"] = curTit
-            curDict[-1]["Sub-sections"] = []
-        else: #lastlvl > curLvl
+        elif lastLvl > curLvl:
             curDict = topDict
             for x in range(curLvl-1):
                 newPoint = curDict[-1]["Sub-sections"]
                 curDict = newPoint
-            curDict.append({})
-            curDict[-1]["Title"] = curTit
-            curDict[-1]["Sub-sections"] = []
-        lastLvl = curLvl
+        curDict.append({})
+        curSplit = curTit.split()
+        curHd = "-1"
+        curName = "-1"
+        if checkHeader(curSplit[0]):
+            curHd = curSplit[0]
+            curSplit.pop(0)
+            curName = " ".join(curSplit)
+        else:
+            curHd = "N/A"
+            curName = curTit
+        if curHd == "-1":
+            printError("Header Number bypassed Checker")
+        curDict[-1]["Header Number"] = curHd
+        curDict[-1]["Title"] = curName
+        curDict[-1]["Sub-sections"] = []
+        
+        nxtPg = -1
+        if pgCounter != len(toc) -1:
+            nxtPg = int(toc[pgCounter + 1][2])
+        else:
+            nxtPg = len(doc)
+        if nxtPg == -1:
+            printError("Next page number captured incorrectly")
 
-print(topDict)
+        if debugMode:
+            print("fortnite", curPg, nxtPg)
+        
+        firstPage = doc[curPg-1].get_textpage()
+        retFirstPg = firstPage.extractText()
+        retFirstPg = retFirstPg.replace('\n', '')
+        splitVile = retFirstPg.split(curTit)
+        if len(splitVile) != 1:
+            print("this happened at", pgCounter)
+        splitVile.pop(0)
+        if breakerControl == 0:
+            print("".join(splitVile))
+            
+        curContent = []
+        curContent.append("".join(splitVile))
+        for x in range(curPg, nxtPg - 1):
+            curPage = doc[x].get_textpage()
+            results = curPage.search(curTit)
+            curContent.append(curPage.extractText())
+        if pgCounter != len(toc)-1:
+            nextTit = toc[pgCounter+1][1]
+            lastPage = doc[nxtPg-1].get_textpage()
+            retLastPg = lastPage.extractText()
+            retLastPg = retLastPg.replace('\n', '')
+            splitVile = retLastPg.split(nextTit)
+            splitVile.pop(-1)
+            curContent.append("".join(splitVile))
+        
+        curCont = "".join(curContent)
+
+        curDict[-1]["Content"] = curCont
+
+        lastLvl = curLvl
+        pgCounter += 1
+        breakerControl =1
+if verboseMode:
+    print(topDict)
 
 
 if os.path.exists(outputFile):
