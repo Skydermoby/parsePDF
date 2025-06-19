@@ -71,7 +71,7 @@ if len(toc) != 0:
             printError("Header Number bypassed Checker")
         curDict[-1]["Header Number"] = curHd
         curDict[-1]["Title"] = curName
-        curDict[-1]["Sub-sections"] = []
+        
         
         nxtPg = -1
         if pgCounter != len(toc) -1:
@@ -88,10 +88,10 @@ if len(toc) != 0:
         retFirstPg = firstPage.extractText()
         retFirstPg = retFirstPg.replace('\n', '')
         splitVile = retFirstPg.split(curTit)
-        if len(splitVile) != 1:
+        if len(splitVile) != 1 and verboseMode:
             print("this happened at", pgCounter)
         splitVile.pop(0)
-        if breakerControl == 0:
+        if breakerControl == 0 and debugMode:
             print("".join(splitVile))
             
         curContent = []
@@ -108,10 +108,25 @@ if len(toc) != 0:
             splitVile = retLastPg.split(nextTit)
             splitVile.pop(-1)
             curContent.append("".join(splitVile))
+
+        if curPg == nxtPg:
+            if verboseMode:
+                print("this happened aaaaaaaaaaaaat", curTit)
+            firstPage = doc[curPg-1].get_textpage()
+            retFirstPg = firstPage.extractText()
+            retFirstPg = retFirstPg.replace('\n', '')
+            splitVile = retFirstPg.split(curTit)
+            splitVile.pop(0)
+            splitVile = "".join(splitVile)
+            splitVile = splitVile.split(nextTit) 
+            splitVile.pop(-1)
+            curContent = ["".join(splitVile)]
         
         curCont = "".join(curContent)
 
         curDict[-1]["Content"] = curCont
+
+        curDict[-1]["Sub-sections"] = []
 
         lastLvl = curLvl
         pgCounter += 1
