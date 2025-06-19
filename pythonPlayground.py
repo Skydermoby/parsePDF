@@ -13,9 +13,9 @@ os.system('cls')
 debugMode = False
 verboseMode = False
 
-fileName = "NCT00799266_Prot_000" + ".pdf"
+fileName = "NCT00701701_Prot_000"
 
-inputFile = "Data\\" + fileName
+inputFile = "Data\\" + fileName + ".pdf"
 outputFile = "extractedTXT" + fileName + ".json"
 
 doc = pymupdf.open(inputFile)
@@ -131,6 +131,8 @@ if len(toc) != 0:
         lastLvl = curLvl
         pgCounter += 1
         breakerControl =1
+else:
+    printError("TOC length is 0 :(")
 if verboseMode:
     print(topDict)
 
