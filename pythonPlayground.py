@@ -8,6 +8,8 @@ import numpy as np
 import json
 import os
 
+fileNames = ["NCT00230607_Prot_000", "NCT00295620_Prot_000", "NCT00310388_Prot_000", "NCT00378482_Prot_000", "NCT434512_Prot_000", "NCT00481091_Prot_000", "NCT00486889_Prot_000"]
+
 os.system('cls')
 
 debugMode = False
