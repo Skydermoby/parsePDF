@@ -2,23 +2,31 @@ print("5.0 Introduction " in "elated procedures being performed.5.0 Introduction
 
 import pymupdf
 import pymupdf4llm
+import pdfplumber
 import pathlib
 from pypdf import PdfReader
 import numpy as np
 import json
 import os
 
-fileNames = ["NCT00230607_Prot_000", "NCT00295620_Prot_000", "NCT00310388_Prot_000", "NCT00378482_Prot_000", "NCT434512_Prot_000", "NCT00481091_Prot_000", "NCT00486889_Prot_000"]
+fileNames = ["NCT00230607_Prot_000", "NCT00295620_Prot_000", "NCT00310388_Prot_000", "NCT00378482_Prot_000", "NCT434512_Prot_000", "NCT00481091_Prot_000", "NCT00486889_Prot_000", "NCT00543439_Prot_000", "NCT00545532_Prot_000", "NCT00585195_Prot_002", "NCT00556374_Prot_000", "NCT00625378_Prot_000", "NCT00658021_Prot_000", "NCT00660673_Prot_000", "NCT00680992_Prot_000", "NCT00686374_Prot_000", "NCT00700258_Prot_000", "NCT00701701_Prot_000", "NCT00743340_Prot_001", "NCT00761267_Prot_000", "NCT00767819_Prot_000", "NCT00777920_Prot_000", "NCT00790933_Prot_001", "NCT00799266_Prot_000", "NCT00804856_Prot_000", "NCT00810446_Prot_001", "NCT00858364_Prot_001", "NCT00862979_Prot_000"]
 
 os.system('cls')
 
 debugMode = False
 verboseMode = False
 
-fileName = "NCT00701701_Prot_000"
+fileName = "NCT00799266_Prot_000"
 
 inputFile = "Data\\" + fileName + ".pdf"
 outputFile = "extractedTXT" + fileName + ".json"
+
+tableExtractor = pdfplumber.open(inputFile)
+for p in tableExtractor.pages:
+        for t in p.extract_tables():
+            for r in t:
+                print(r)
+print(len(tableExtractor.pages))
 
 doc = pymupdf.open(inputFile)
 toc = doc.get_toc()
