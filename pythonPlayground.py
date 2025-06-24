@@ -24,9 +24,15 @@ outputFile = "extractedTXT" + fileName + ".json"
 tableExtractor = pdfplumber.open(inputFile)
 for p in tableExtractor.pages:
         for t in p.extract_tables():
+            
             for r in t:
                 print(r)
 print(len(tableExtractor.pages))
+print("pop")
+
+tableFinder = tableExtractor.pages[13].find_tables()
+print(tableFinder[0].bbox())
+
 
 doc = pymupdf.open(inputFile)
 toc = doc.get_toc()
