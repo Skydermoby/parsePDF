@@ -1,0 +1,108 @@
+[
+    {
+        "Header Number": "N/A",
+        "Title": "LIST OF ABBREVIATIONS",
+        "Content": " AE AS04 Adverse event GlaxoSmithKline\u2019s proprietary adjuvant system consisting of aluminium salt plus 3-O-desacyl-4'-monophosphoryl lipid A (MPL) ATP CARS According-To-Protocol Computer Aided for Regulatory Submission CI Confidence Interval eCRF electronic Case Report Form Eli Type Internal GSK database code for type of elimination code GSK HPV GlaxoSmithKline Human Papillomavirus LL \u00b5g Lower Limit of the confidence interval microgram pIMD potential Immune-Mediated Disease SAE Serious adverse event SAP Statistical Analysis Plan SD SDD Standard Deviation SAS Drug development TFL Tables Figures and Listing template annexed to SAP UL VLP Upper Limit of the confidence interval Virus-like particles  PPD",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "1.",
+        "Title": "Document history",
+        "Content": "",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "2.",
+        "Title": "Study design",
+        "Content": "",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "3.",
+        "Title": "Objectives",
+        "Content": "",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "4.",
+        "Title": "Endpoints",
+        "Content": "",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "5.",
+        "Title": "Study population",
+        "Content": "",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "6.",
+        "Title": "Statistical methods",
+        "Content": "",
+        "Sub-sections": [
+            {
+                "Header Number": "6.1.",
+                "Title": "Study cohorts to be evaluated",
+                "Content": " The analysis will be performed on the Total vaccinated cohort.  The Total Vaccinated Cohort will include all vaccinated subjects (i.e. subjects who received at least one dose of HPV-16/18 L1 VLP AS04 vaccine in this study) for whom safety data are available. Intervals between study visits Interval Optimal length of interval (months) Recommended interval  between scheduled visits/contact (months) 1 ( visit  1\uf0ae visit 2) 1 \u2013 2.5 1   2 ( visit 1\uf0ae visit 3) 5 - 12   6   3 ( visit 3\uf0ae phone contact) 6 - 7   6   Analysis of demographics/baseline characteristics Demographic characteristics (age, region, race) will be tabulated. The mean age (plus range and standard deviation) of the enrolled subjects will be calculated. The distribution of subjects enrolled among the study sites will be tabulated. Analysis of safety No inferential analysis will be performed. Analyses of safety endpoints will only be descriptive. The proportion of subjects with at least one report of an SAE and/or at least one medically significant condition (including pIMDs) will be tabulated with exact 95% confidence interval (CI) throughout the study period. PPD",
+                "Sub-sections": []
+            }
+        ]
+    },
+    {
+        "Header Number": "7.",
+        "Title": "Statistical calculations",
+        "Content": "",
+        "Sub-sections": [
+            {
+                "Header Number": "7.1.",
+                "Title": "Derived and transformed data",
+                "Content": " ",
+                "Sub-sections": [
+                    {
+                        "Header Number": "7.1.1.",
+                        "Title": "Date derivation",
+                        "Content": " \u2022 SAS date derived from a character date: In case day is missing, 15 is used. In case day & month are missing, 30June is used. ",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "7.1.2.",
+                        "Title": "Demography",
+                        "Content": "Age: Age of a subject is computed by considering the date of birth and date of the first vaccination in this study for that subject.In case day is missing, 15 is used.   In case day & month are missing, 30June is used. Number of decimals:The following decimal description will be used for the demography and safety analyses. Display Table Parameters Number of decimal digits All summaries % of count, including LL & UL of CI 1 Demographic characteristics Mean, median age 1 Demographic characteristics SD (age) 1 PPD",
+                        "Sub-sections": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Header Number": "8.",
+        "Title": "Conduct of analyses",
+        "Content": "",
+        "Sub-sections": [
+            {
+                "Header Number": "8.1.",
+                "Title": "Sequence of analyses",
+                "Content": " Description Analysis ID  (SDD & CARS sub-folder) Disclosure Purpose Reference for TFL Final Analysis E1_01 Study report All tables from TFL dated 19-OCT-2015 ",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "8.2.",
+                "Title": "Statistical considerations for interim analyses",
+                "Content": "",
+                "Sub-sections": []
+            }
+        ]
+    },
+    {
+        "Header Number": "9.",
+        "Title": "Changes from planned analyses",
+        "Content": "",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "10.",
+        "Title": "References",
+        "Content": "",
+        "Sub-sections": []
+    }
+]

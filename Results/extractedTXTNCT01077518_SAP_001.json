@@ -1,0 +1,690 @@
+[
+    {
+        "Header Number": "1.",
+        "Title": "INTRODUCTION",
+        "Content": "",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "2.",
+        "Title": "STUDY OBJECTIVES AND ENDPOINTS",
+        "Content": "",
+        "Sub-sections": [
+            {
+                "Header Number": "2.1.",
+                "Title": "Statistical Hypotheses",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "2.2.",
+                "Title": "Study Objectives",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "2.3.",
+                "Title": "Study Endpoints",
+                "Content": "CONFIDENTIAL\nOMB157E2301\n11\nKnown and Exploratory Prognostic Markers Correlating with Response\nto \nofatumumab:\n\uf0b7\nBaseline Follicular Lymphoma International Prognostic Index (FLIPI score)\n\uf0b7\nBaseline Absolute Lymphocyte Count (ALC)\n\uf0b7\nGenetic variation in FcR gamma 3A\nHuman Anti-Chimeric Antibodies (HACA)\nTable for the Five Parameters Retained for Building the FLIPI-1\nParameter\nAdverse Factor\nSource\nAge\n\uf0b360 years\nScreening value\nAnn Arbor Stage\nIII-IV\nScreening value\nHemoglobin Level\n< 120 g/L\nBaseline value (likely to be from Cycle \n1 Day 1)\nSerum LDH Level\n> ULN\nBaseline value (likely to be from Cycle \n1 Day 1)\nNumber of Nodal \nSites\n> 4\nFrom screening assessment by \ninvestigator\nAbbreviations: LDH: lactate dehydrogenase; \nULN: upper limit of normal\nTable for the Five Parameters Retained for Building the FLIPI-2\nParameter\nAdverse \nFactor\nSource\nBeta-2-microglobulin\n> ULN\nBaseline value (likely to be from Cycle \n1 Day 1)\nLoDLIN\n>6cm\nFrom screening assessment by \ninvestigator\nBone marrow involvement \npresence\nyes\nFrom screening assessment from \ncentral lab \nHemoglobin\n<120 g/L\nBaseline value (likely to be from Cycle \n1 Day 1)\nAge\n>60 \nScreening value\n",
+                "Sub-sections": []
+            }
+        ]
+    },
+    {
+        "Header Number": "3.",
+        "Title": "STUDY DESIGN",
+        "Content": "",
+        "Sub-sections": [
+            {
+                "Header Number": "3.1.",
+                "Title": "Treatment Phase",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "3.2.",
+                "Title": "Follow-up Phase",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "3.3.",
+                "Title": "Post PD follow-up",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "3.4.",
+                "Title": "Ofatumumab Salvage Following Progressive Disease for Arm B",
+                "Content": "",
+                "Sub-sections": []
+            }
+        ]
+    },
+    {
+        "Header Number": "4.",
+        "Title": "PLANNED ANALYSES",
+        "Content": "",
+        "Sub-sections": [
+            {
+                "Header Number": "4.1.",
+                "Title": "Interim Analyses",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "4.2.",
+                "Title": "Primary Analysis",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "4.3.",
+                "Title": "Final Analyses",
+                "Content": "",
+                "Sub-sections": []
+            }
+        ]
+    },
+    {
+        "Header Number": "5.",
+        "Title": "SAMPLE SIZE CONSIDERATIONS",
+        "Content": "",
+        "Sub-sections": [
+            {
+                "Header Number": "5.1.",
+                "Title": "Sample Size Assumptions",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "5.2.",
+                "Title": "Sample Size Sensitivity",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "5.3.",
+                "Title": "Sample Size Re-estimation",
+                "Content": "",
+                "Sub-sections": []
+            }
+        ]
+    },
+    {
+        "Header Number": "6.",
+        "Title": "ANALYSIS POPULATIONS",
+        "Content": "",
+        "Sub-sections": [
+            {
+                "Header Number": "6.1.",
+                "Title": "Intent-to-Treat Population",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "6.2.",
+                "Title": "Safety Population",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "6.3.",
+                "Title": "Per Protocol Population",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "6.4.",
+                "Title": "Optional Ofatumumab Population",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "6.5.",
+                "Title": "Pharmacokinetic Population",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "6.6.",
+                "Title": "Analysis Datasets",
+                "Content": "",
+                "Sub-sections": []
+            }
+        ]
+    },
+    {
+        "Header Number": "7.",
+        "Title": "TREATMENT COMPARISONS",
+        "Content": "",
+        "Sub-sections": [
+            {
+                "Header Number": "7.1.",
+                "Title": "Primary Comparisons of Interest",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "7.2.",
+                "Title": "Secondary and other Comparisons of Interest",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "7.3.",
+                "Title": "Data Display Treatment and Other Subgroup Descriptors",
+                "Content": "CONFIDENTIAL\nOMB157E2301\n20\nEfficacy Data:\nThe following treatment descriptors will be used on all applicable efficacy displays\nexcept displays summarizing response after administration of optional ofatumumab:\nTreatment Group\nData Display\nOrder \nof \nTreatment \nGroups\nCode\nDescription\nA\nOfatumumab + Bendamustine combination  \nfollowed by Ofatumumab monotherapy\nOfatumumab+ \nBendamustine\n1st \n \ntreatment \ncolumn\nB\nBendamustine monotherapy\nBendamustine\n2nd \n \ntreatment \ncolumn\nFor efficacy tables assessing \u2018Optional Ofatumumab Salvage\u2019 after progression on \nTreatment Arm B (Bendamustine monotherapy), a single treatment column displaying \n\u2018Optional Ofatumumab\u2019 will be presented.\nThe following treatment descriptors will be used on displays summarizing response after \nadministration of optional ofatumumab:\nTreatment Group\nData \nDisplay\nOrder \nof \nTreatment \nGroups\nCode\nDescription\nB\nOptional Ofatumumab (administered after \nprogression on Bendamustine monotherapy)\nOptional \nOfatumumab\n1st \n \ntreatment \ncolumn\nSafety Data:\nThe following treatment descriptors will be used on all applicable safety displays:\nTreatment Group\nData Display\nOrder \nof \nTreatment \nGroups\nCode\nDescription\nA\nOfatumumab + Bendamustine combination  \nfollowed by Ofatumumab monotherapy\nOfatumumab+ \nBendamustine\n1st \n \ntreatment \ncolumn\nB\nBendamustine monotherapy\nBendamustine\n2nd \n \ntreatment \ncolumn\nB*\nOptional Ofatumumab (administered after \nprogression on Bendamustine monotherapy)\nOptional \nOfatumumab\n3rd \n \ntreatment \ncolumn\nB/B* = Patients receiving Bendamustine and Optional Ofatumab will be summarized \nwith the Bendamustine group up to the time of administration of Optional Ofatumumab. \n",
+                "Sub-sections": []
+            }
+        ]
+    },
+    {
+        "Header Number": "8.",
+        "Title": "GENERAL CONSIDERATIONS FOR DATA ANALYSES",
+        "Content": "",
+        "Sub-sections": [
+            {
+                "Header Number": "8.1.",
+                "Title": "Multicenter Studies",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "8.2.",
+                "Title": "Other Strata and Covariates",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "8.3.",
+                "Title": "Examination of Subgroups",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "8.4.",
+                "Title": "Multiple Comparisons and Multiplicity",
+                "Content": "",
+                "Sub-sections": []
+            }
+        ]
+    },
+    {
+        "Header Number": "9.",
+        "Title": "DATA HANDLING CONVENTIONS",
+        "Content": "",
+        "Sub-sections": [
+            {
+                "Header Number": "9.1.",
+                "Title": "Premature Withdrawal and Missing Data",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "9.2.",
+                "Title": "Derived and Transformed Data",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "9.2.1.",
+                        "Title": "Reference Dates",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "9.2.2.",
+                        "Title": "Study Day for Safety Measures",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "9.2.3.",
+                        "Title": "Study Day for Efficacy",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "9.2.4.",
+                        "Title": "Duration and Elapsed Time",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "9.2.5.",
+                        "Title": "Imputation of Partial Dates",
+                        "Content": "CONFIDENTIAL\nOMB157E2301\n27\nM='Month': indicates that the month and day portions of the date are imputed\nY='Year': indicates that the entire date (year, month, and day) is imputed\nExample of Date Variables: \nXYZD_ - character date variable\nXYZDT - numeric date variable\nXYZDTFL - flag variable\nDetails on imputing partial dates for specific datasets are outlined below.\nAdverse Events (AE):\nImputations in the adverse events dataset are used for slotting events to the appropriate \nstudy time periods and for sorting in data listings.\nDataset\nDate\nMissing \nElement\nRule\nAdverse \nEvents \n(AE)\nStart \nDate\nday, \nmonth, \nand year\n\uf0b7\nNo Imputation for completely missing dates\nday, \nmonth\n\uf0b7\nIf study treatment start date is missing (i.e. subject did \nnot start study treatment), then set start date = January 1. \n\uf0b7\nElse if study treatment start date is not missing: \no\nIf year of start date = year of study treatment start \ndate then \n\uf0b7\nIf stop date contains a full date and \nstop date is earlier than study \ntreatment start date then set start date \n= January 1. \n\uf0b7\nElse set start date = study treatment \nstart date. \no\nElse set start date = January 1.\nCONFIDENTIAL\nOMB157E2301\n28\nDataset\nDate\nMissing \nElement\nRule\nday\n\uf0b7\nIf study treatment start date is missing (i.e. subject did \nnot start study treatment), then set start date = 1st of \nmonth. \n\uf0b7\nElse if study treatment start date is not missing: \no\nIf month and year of start date = month and year \nof study treatment start date then \n\uf0b7\nIf stop date contains a full date and \nstop date is earlier than study \ntreatment start date then set start \ndate= 1st of month. \n\uf0b7\nElse set start date = study treatment \nstart date.\no\nElse set start date = 1st of month.\nEnd \nDate\n\uf0b7\nNo imputation for partial end dates will be performed\nAnti-Cancer Therapy and Radiotherapy:\nStart and end dates are generally not imputed. If start or end dates need to be imputed for \nan analysis (e.g., to calculate duration or elapsed time as covariates for efficacy analyses), \nthe rules for imputation will be defined within the algorithm of the derived covariate.\nAdditionally, post treatment anti-cancer therapy and radiotherapy start dates may be \nimputed to determine date of new anti-cancer therapy. In this case only, the date of new \nanti-cancer therapy (not all anti-cancer therapy and radiotherapy start dates) will be \nstored on appropriate efficacy datasets. Imputed partial dates will not be used to derive \ntime since most recent prior therapy. In addition, the cancer therapy treatment status \nvariable, and not any variables that use imputed partial dates, will be used to differentiate \nprior and follow-up anti-cancer therapy and radiotherapy. \nCONFIDENTIAL\nOMB157E2301\n29\nDataset\nDate\nMissing \nElement\nRule\nAnti-Cancer \nTherapy \nRadiotherapy \nStart \nDate\nday, \nmonth, \nand year\n\uf0b7\nNo Imputation for completely missing dates\nday, \nmonth\n\uf0b7\nIf partial date contains a year only set to January \n1st.\nday\n\uf0b7\nIf partial date contains a month and year set to the \n1st of the month.\nEnd \nDate\n\uf0b7\nNo imputation for partial end dates will be \nperformed\nSurgery:\nThe date of surgery or procedure is generally not imputed. If the date of surgery or \nprocedure needs to be imputed for an analysis (e.g., to calculate duration or elapsed time \nas covariates for efficacy analyses), the rules for imputation will be defined within the \nalgorithm of the derived covariate. Additionally, post treatment surgery or procedure \ndates maybe imputed (where applicable) to determine date of new anti-cancer therapy. In \nthis case only, the date of new anti-cancer therapy (not specific surgery or procedure \ndate) will be stored on appropriate efficacy datasets. The category for surgical procedure \nvariable, and not any variables that use imputed partial dates, will be used to differentiate \nprior, on, and follow-up surgical procedure data. The derived time in relation to treatment \nvariables are not needed for reporting of data because the category for surgical procedure \nvariable can be used. Therefore, imputed dates are not needed for derivation of time in \nrelation to treatment.\nDataset\nMissing \nElement\nRule\nSurgical \nProcedures\nday, \nmonth, \nand year\n\uf0b7\nNo Imputation for completely missing dates\nday, month\n\uf0b7\nIf partial date contains a year only set to January \n1st.\nday\n\uf0b7\nIf partial date contains a month and year set to the \n1st of the month\nConcomitant Medication and Blood and Blood Supportive Care Products:\nCONFIDENTIAL\nOMB157E2301\n30\nImpute start and end dates for use in derivation of the reference variables concomitant \nmedication start and end relative to treatment and blood and blood supportive care start \nand end relative to treatment, but do not permanently store the imputed start and end \ndates in the analysis datasets. The reference variables will be used to differentiate before, \nduring and after for the concomitant medication or blood or blood supportive care start \nand end dates. The derived time in relation to treatment variables are not needed for \nreporting of these data.\nDataset\nDate\nMissing \nElement\nRule\nConcomitant \nMedication\nBlood \nand \nBlood \nSupportive \nCare \nProducts \nStart \nDate\nday, \nmonth, \nand year\n\uf0b7\nNo Imputation for completely missing dates\nday, \nmonth\n\uf0b7\nIf study treatment start date is missing (i.e. \nsubject did not start study treatment), then set \nstart date = January 1. \n\uf0b7\nElse if study treatment start date is not missing: \no\nIf year of start date = year of study \ntreatment start date then \n\uf0a7\nIf stop date contains a full date and \nstop date is earlier than study \ntreatment start date then set start \ndate = January 1. \n\uf0a7\nElse set start date = study \ntreatment start date. \no\nElse set start date = January 1.\nday\n\uf0b7\nIf study treatment start date is missing (i.e. \nsubject did not start study treatment), then set \nstart date = 1st of month. \n\uf0b7\nElse if study treatment start date is not missing: \no\nIf month and year of start date = month \nand year of study treatment start date then \n\uf0a7\nIf stop date contains a full date and \nstop date is earlier than study \ntreatment start date then set start \ndate= 1st of month. \n\uf0a7\nElse set start date = study \ntreatment start date.\nCONFIDENTIAL\nOMB157E2301\n31\nDataset\nDate\nMissing \nElement\nRule\no\nElse set start date = 1st of month.\nEnd \nDate\nday, \nmonth, \nand year\n\uf0b7\nNo Imputation for completely missing dates\nday, \nmonth\n\uf0b7\nIf partial end date contains year only, set end date \n= earliest of December 31 or date of last contact. \nday\n\uf0b7\nIf partial end date contains month and year, set \nend date = earliest of last day of the month or date \nof last contact.\nTime to Event, Overall Response, and Overall Response for Independent Review: \nStart dates for follow-up anti-cancer therapy, radiotherapy (where applicable), and \nsurgical procedures (where applicable) will be temporarily imputed in order to define \nevent and censoring rules for progression-free survival, response rate, or duration of \nresponse (i.e., start date for new anti-cancer therapy). Dates will only be imputed when a \nmonth and year are available but the day is missing. The imputed date(s) will not be \nstored on the anti-cancer therapy, or radiotherapy, datasets. The following rules will be \nused to impute the date when partial start dates are present on anti-cancer therapy \nradiotherapy, and/or surgical procedures dataset[s]:\nDataset\nDate\nMissing \nElement\nRule\nAnti-Cancer \nTherapy \nWhere \napplicable: \nRadiotherapy \nSurgical \nProcedures\nStart \nDate\nday, month, \nand year\n\uf0b7\nNo Imputation for completely missing dates\nday, month\n\uf0b7\nNo imputation for missing day and month \n(note the eCRF should only allow for \nmissing day)\nday\n\uf0b7\nIf partial date falls in the same month as the \nlast dose of study treatment, then assign to \nearlier of (date of last dose of study \nCONFIDENTIAL\nOMB157E2301\n32\nDataset\nDate\nMissing \nElement\nRule\ntreatment+1, last day of month). \n\uf0b7\nIf partial date falls in the same month as the \nsubject\u2019s last assessment and the subject\u2019s \nlast assessment is PD, then assign to earlier \nof (date of PD+1, last day of month). \n\uf0b7\nIf both rules above apply, then assign to \nlatest of the 2 dates \n\uf0b7\nOtherwise, impute missing day to the first of \nthe month.\nEnd \nDate\n\uf0b7\nNo imputation for partial end dates will be \nperformed\nThe date of new anti-cancer therapy is derived as the earliest date of new anti-cancer \ntherapy (e.g., chemotherapy), radiotherapy (where applicable), or cancer related surgical \nprocedure (where applicable) and will include imputed dates. If the date of new anti-\ncancer therapy is an imputed date, then the date of new anti-cancer therapy flag variable \nis assigned the value of 'D' to indicate that the day portion of the date is imputed \n(following ADaM convention). \nAs multiple dates are used to derive the date of new anti-cancer therapy ensure that the \ndate of new anti-cancer therapy flag is only set to \u2018D\u2019 if the derived date is imputed. For \nexample if the date of new radiotherapy is imputed but the date of new anti-cancer \ntherapy is prior to date of new radiotherapy and the new anti-cancer therapy date is not a \npartial date then the flag should be set to missing as the date used for the new anti-cancer \ntherapy is not an imputed date.\nCovariates:\nThe following imputation rules are the standard rules to be used when algorithms for \ncovariates require date imputations.\nVariable \nExample of when to impute\nRule\nPrior \nanti-cancer \ntherapy start date\nPrior \nradiotherapy \nstart date\n\uf0b7\nImpute to derive duration \no\nDuration of prior \nTherapy\n\uf0b7\nOnly impute when a month \nand year are available but \nthe day is missing. \n\uf0b7\nImpute to first day of the \nmonth. \n\uf0b7\nDo not store imputed date \n",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "9.2.6.",
+                        "Title": "Imputation of Missing Exposure End Dates",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "9.2.7.",
+                        "Title": "Baseline Definition",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "9.2.8.",
+                        "Title": "Change from baseline",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "9.2.9.",
+                        "Title": "Multiple Assessments",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "9.2.10.",
+                        "Title": "Actual Treatment",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "9.2.11.",
+                        "Title": "Treatment Cycle",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "9.2.12.",
+                        "Title": "Extended Loss to Follow-up or Extended Time without an Adequate Assessment",
+                        "Content": "",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "9.3.",
+                "Title": "Study Time Periods",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "9.3.1.",
+                        "Title": "Time in Relation to Treatment",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "9.3.2.",
+                        "Title": "Study Time Periods for Concomitant Medications and Blood and Blood Supportive Care Products",
+                        "Content": "",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "9.4.",
+                "Title": "Values of Potential Clinical Importance",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "9.4.1.",
+                        "Title": "Laboratory Parameters",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "9.4.2.",
+                        "Title": "Vital Signs",
+                        "Content": "",
+                        "Sub-sections": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Header Number": "10.",
+        "Title": "STUDY POPULATION",
+        "Content": "",
+        "Sub-sections": [
+            {
+                "Header Number": "10.1.",
+                "Title": "Disposition of Subjects",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "10.2.",
+                "Title": "Protocol Deviations",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "10.3.",
+                "Title": "Demographic and Baseline Characteristics",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "10.4.",
+                "Title": "Treatment Compliance",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "10.5.",
+                "Title": "Concomitant Medications",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "10.6.",
+                "Title": "Subsequent Anti-Cancer Therapies",
+                "Content": "",
+                "Sub-sections": []
+            }
+        ]
+    },
+    {
+        "Header Number": "11.",
+        "Title": "EFFICACY",
+        "Content": "",
+        "Sub-sections": [
+            {
+                "Header Number": "11.1.",
+                "Title": "Primary Efficacy Analysis",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "N/A",
+                        "Title": "Progression-free survival (PFS)",
+                        "Content": "The primary endpoint, progression-free survival (PFS), is defined as the interval of time (in months) between the date of randomization and the earlier of the date of disease progression or death due to any cause.  The IRC assessment of response will be used for the primary analysis. The date of documented disease progression will be defined as the date of disease progression based on imaging data.  The date of death should be taken from the Record of Death page.  Death on study due to any cause will be included as an event for calculation of PFS.If there is no adequate baseline assessment, the subjects will be censored at their date of randomization.  Subjects without any adequate post-baseline assessments will be censored at the date of randomization.CONFIDENTIAL\nOMB157E2301\n43\nSubjects who progressed or died after an extended period without an adequate assessment \nwill be censored at their date of last adequate assessment prior to progression or death \neven if subsequent information is available regarding progression or death.  An adequate \nassessment is defined as an assessment where the IRC determined response is CR, PR, or \nSD. The date of response at that assessment will be used for censoring. As the assessment \nschedule may change through the course of the protocol, specific rules for identifying \nextended loss to follow-up or extended time without an adequate assessment are provided \nin Section 9.\nFor subjects who receive subsequent anti-cancer therapy, the following rules will apply:\n\uf0b7\nIf the start date of the anti-cancer therapy is partial (i.e. either missing the day but has \nthe month and year available or missing both day and month) the imputation rules \ndescribed in Section 9 will be applied.  No imputation will be made for completely \nmissing dates.\n\uf0b7\nIf anti-cancer therapy is started without documented disease progression or is started \nprior to documented disease progression, then PFS will be censored at the date of the \nlast adequate assessment that is no later than the date of initiation of anti-cancer \ntherapy (i.e. if an assessment occurs on the same day as the start of new anti-cancer \ntherapy the assessment will be used as it will be assumed the assessment occurred \nprior to the administration of new anti-cancer therapy).  The date of response at the \nlast adequate assessment will be used as the censoring value.\n\uf0b7\nIf a subject has only a baseline visit or does not have an adequate assessment that is \nnot later than the date of initiation of anti-cancer therapy, PFS will be censored at the \ndate of randomization.\nIf a subject has not progressed, has not died and has not started new-anti-cancer therapy, \nthen PFS will be censored at the date of the last adequate assessment defined as an \nassessment where the IRC determined response is CR, PR, SD. The date of response will \nbe used as the censoring date.  \nA summary of the assignments for progression and censoring dates for PFS are specified \nin the following table.\nTable 1\nAssignments for Progression and Censoring Dates for PFS Analysis\nSituation\nDate \nof \nEvent \n(Progression/Death) \nor \nCensoring\nOutcome \nEvent (Progression/Death) \nor Censored\nNo (or inadequate) baseline \nassessment and the subject \nhas not died \nRandomization\nCensored\nNo post-baseline response Randomization\nCensored\nCONFIDENTIAL\nOMB157E2301\n44\nassessments and the subject \nhas not died\nProgression \ndocumented \nbetween scheduled visits\nDate \nof \nassessment \nof \nprogression\nEvent\nNo progression (or death)\nDate \nof \nlast \nadequate \nassessment of response1\nCensored\nNew anticancer treatment \nstarted (prior to documented \ndisease progression)2\nDate \nof \nlast \nadequate \nassessment of response1 (on \nor prior to starting anti-\ncancer therapy)\nCensored\nDeath \nbefore \nfirst \nPD \nassessment (or Death at \nbaseline or prior to any \nadequate assessments)\nDate of death\nEvent\nDeath \nbetween \nadequate \nassessment visits with no \nPD\nDate of death\nEvent\nDeath or progression after \nmore than one missed visit\nDate \nof \nlast \nadequate \nassessment \nof \nresponse \n(prior \nto \nmissed \nassessments)3\nCensored\n1An adequate assessment is defined as an assessment where the Independent Reveiwerer determined response is \nCR, PR, or SD. \n2If PD and new anti-cancer therapy occur on the same day, assume that progression was documented first (i.e. \noutcome is progression and the date is the date of the assessment of progression).  If anti-cancer therapy is started \nprior to any adequate assessments, censoring date should be the date of randomization.\n3For the rare case where a subject dies after more than 1 missed visit, and there are no post-baseline response \nassessments, the date of censoring will be defined as the randomization date.\nAn interim analysis of the primary endpoint, PFS confirmed by IRC, was planned to be\nperformed when approximately 2/3 of the initial number of PFS events confirmed by IRC \noccurred (172 PFS events by IRC).  The interim analysis for PFS was planned to be \nreviewed by an IDMC utilizing a significance level of 0.012 (for 172 events or adjusted \nas appropriate using an O\u2019Brien-Fleming spending function). The interim analysis of PFS \nwas conducted in the same manner as described for the primary analysis.  Details of the \ninterim analysis are also provided in the IDMC Charter. The IA occurred with 180 PFS \nevents by IRC and the actual alpha spent at IA was calculated to be 0.0144.\nThe primary analysis of PFS was planned to be based on a two-sided test with a \nsignificance level of 0.046. The primary analysis will be conducted at a significance level \nof 0.0483 (with 215 events) to maintain an overall study significance level of 0.05 (See \nSection 4.2 - Primary Analysis for details). The survival distributions will be estimated \nusing Kaplan-Meier survival curves and will be compared using a log-rank test stratified \nCONFIDENTIAL\nOMB157E2301\n45\nby randomization stratification factors. \nA Cox regression model stratified by \nrandomization stratification factors will be used to estimate the hazard ratio (HR) of PFS, \nalong with 95% CI based on the Wald test.\nIf there are a sufficient number of progressions or deaths, median PFS, first and third \nquartiles and 95% CI, will be estimated using the Brookmeyer-Crowley method \n[Brookmeyer, 1982]. A figure and listing of progression-free survival time will also be \nprovided.\nA supplementary table showing the details of the number at risk, number of events, and \nnumber censored with the event time will also be produced.  \nA Cox regression model stratified by randomization stratification factors will be used as \nsupportive analysis and will include covariates for treatment and other baseline data \ndeemed appropriate including age, gender, race, Ann Arbor stage at screening, histology \nat screening, FLIPI score, and ECOG. The hazard ratio for treatment will represent the \nrisk of experiencing disease progression or death for \u2018ofatumumab+bendamustine\u2019 vs \n\u2018bendamustine\u2019.\nPFS will be evaluated for the ITT population.  If the ITT population and Per Protocol \npopulation differ by more than 10%, then PFS will also be evaluated for the Per-Protocol \npopulation to check the robustness of the result.\nSensitivity Analyses for PFS\nFive sensitivity analyses of PFS will be performed.  All sensitivity analyses will be \nperformed as described for the primary analysis of PFS.  If the primary efficacy analysis \nis not significant, the supportive and sensitivity analyses will be considered exploratory \nin nature. The sensitivity analyses are specified as follows:\n\uf0b7\nThe first sensitivity analysis will be conducted using the Investigator assessed \nresponse data.  \n\uf0b7\nThe second sensitivity analysis will be conducted using stratification based on the \neCRF data rather than stratification based on randomization details (see Section \n8.2).\n\uf0b7\nThe third sensitivitity will treat all progressions and deaths as events, regardless \nof whether they occurred after starting new anti-cancer therapy, including the \noptional ofatumumab for subjects in Arm B.\n\uf0b7\nThe fourth sensitivitity will treat all progressions and deaths as events, regardless \nof whether they occurred after starting new anti-cancer therapy or after 2 or more \nmissed scheduled assessments.\n",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "11.2.",
+                "Title": "Secondary Efficacy Analyses",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "11.2.1.",
+                        "Title": "Overall Response Rate (ORR)",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "11.2.2.",
+                        "Title": "Overall Survival (OS)",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "11.2.3.",
+                        "Title": "Time to response",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "11.2.4.",
+                        "Title": "Duration of response",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "11.2.5.",
+                        "Title": "Time to progression",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "11.2.6.",
+                        "Title": "Time to next therapy",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "11.2.7.",
+                        "Title": "Reduction in tumor size",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "11.2.8.",
+                        "Title": "Improvement in ECOG performance status",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "11.2.9.",
+                        "Title": "Constitutional Symptoms (or B-Symptoms)",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "11.2.10.",
+                        "Title": "Organ Examination",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "11.2.11.",
+                        "Title": "Disease Markers",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "11.2.12.",
+                        "Title": "Prognostic and biological markers correlating with clinical response",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "11.2.14.",
+                        "Title": "Optional Ofatumumab \u2013 Investigator-Assessed Response Rate",
+                        "Content": "",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "11.3.",
+                "Title": "Other Efficacy Analyses",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "11.3.1.",
+                        "Title": "Concordance Analysis of Overall Response Rate",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "11.3.2.",
+                        "Title": "Concordance Analysis of PFS",
+                        "Content": "",
+                        "Sub-sections": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Header Number": "12.",
+        "Title": "SAFETY ANALYSES",
+        "Content": "",
+        "Sub-sections": [
+            {
+                "Header Number": "12.1.",
+                "Title": "Extent of Exposure",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "12.2.",
+                "Title": "Adverse Events",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "12.3.",
+                "Title": "AEs of Special Interest",
+                "Content": "CONFIDENTIAL\nOMB157E2301\n54\n\uf0b7\nTumor Lysis Syndrome (TLS)\n\uf0b7\nMucotaneous Reactions\n\uf0b7\nReactivation of Hepatitis B\n\uf0b7\nCardiac events\n\uf0b7\nBowel Obstruction\n\uf0b7\nNeoplasms\nSummaries of the number and percentage of subjects with these events will be provided\nfor each type of event separately.\nInfusion related AEs\nInfusion reactions will be summarized using the preferred terms from the AE dataset.  \nThe process for defining and reporting the infusion reactions is the following:\n1) Select the candidate AEs\nFor each infusion, only AEs occur during and within 24 hours following the end of \ninfusion will be included as candidate AEs. \nIf the AE onset date is available but the onset time is missing, then the AE will be \nincluded if it occurs on the same day as the infusion and the day following the infusion.\n2) The list of candidate events based on the above criteria will be reviewed by the clinical \nand safety review team to select the final set of terms for inclusion in the analysis tables.  \nThis will be conducted at the Preferred Term (PT) level. \nInfections\nSummaries of infections will be based on treatment period and follow-up period pooled \ntogether by each grade and will be provided for grade 3, 4 and 5, respectively, as well as \nall infections regardless of grades.\nIn addition, the following summaries will be presented:\n1) Summary of worst-grade infections \n2) Summary of type of infections by all infections, all respiratory tract infections, lower \nrespiratory tract infections, upper respiratory tract infections, sepsis and other infections.   \n3) Summary for drug-related infections \n4) Summary of infections for subjects with baseline neutropenia.\nCONFIDENTIAL\nOMB157E2301\n55\nThe number and percentage of subjects with grade 3,4, and 5 infections  will also be \nprovided by responders and non-responders.\nMyelosuppression events\nA summary of AEs associated with anemia, neutropenia, and thrombocytopenia will be \nprovided combined and separately. The frequency and percent of subjects with \nmyelosuppression will also be provided by responders and non-responders.\nA subject listing of all events will be provided.\nProgressive multifocal leukoencephalopathy (PML)\nA summary of AEs associated with progressive multifocal leukoencephalopathy (PML) \nwill be provided.\nA subject listing of all events will be provided.\nTumor Lysis Syndrome (TLS)\nA summary of AEs associated with progressive multifocal leukoencephalopathy (PML) \nwill be provided.  Candidate events include: hyperuricemia, hyperphosphatemia, \nhyperkalemia, hypocalemia, and acute kidney injury. \nA subject listing of all events will be provided.\nMucotaneous Reactions\nA summary of AEs associated with mucotaneous reactions will be provided.\nA subject listing of all events will be provided.\nReactivation of Hepatitis B\nA summary of AEs associated with reactiviation of Hepatitis B will be provided.\nA subject listing of all events will be provided.\nCardiac Events\nA summary of AEs associated with cardiac events will be provided.\nA subject listing of all events will be provided.\nBowel Obstruction\nA summary of AEs associated with Bowel obstruction will be provided.\nA subject listing of all events will be provided.\nNeoplasms\n",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "12.4.",
+                "Title": "Deaths and Serious Adverse Events",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "12.5.",
+                "Title": "Adverse Events Leading to Discontinuation of Investigational Product and/or Withdrawal from the Study and Other Significant Adverse Events",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "12.6.",
+                "Title": "Pregnancies",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "12.7.",
+                "Title": "Clinical Laboratory Evaluations",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "12.7.1.",
+                        "Title": "Analyses of Liver Function Tests",
+                        "Content": "",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "12.8.",
+                "Title": "Other Safety Measures",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "12.8.1.",
+                        "Title": "Vital Signs",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "12.8.2.",
+                        "Title": "ECG",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "12.8.3.",
+                        "Title": "Liver Events",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "12.8.4.",
+                        "Title": "Frequency of transfusions",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "12.8.5.",
+                        "Title": "Human Anti-Human Antibodies (HAHA)",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "12.8.6.",
+                        "Title": "Human Anti-Chimeric Antibodies (HACA)",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "12.8.7.",
+                        "Title": "Quantitative IgG, IgA, IgM",
+                        "Content": "",
+                        "Sub-sections": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Header Number": "13.",
+        "Title": "HEALTH OUTCOMES ANALYSES",
+        "Content": "CONFIDENTIALOMB157E230161     MODEL score = trt strat_factors time score_B trt*time / noint s ddfm=kr;     REPEATED timeC / subject=subject type=AR(1);RUN;/* score refers to the observed scores after Baselinescore_B refers to the baseline scoretrt is the treatment variabletimeC refers to the time window as class variabletime refers to the time windowmethod=remlspecifies that the restricted Maximum Likelihood Estimation method usedtype=AR(1) specifiesthat the first order autoregressive covariance matrix is used */Handling of missing dataMissing items data in a scale will be handled based on each instrument manual. No imputation will be applied if the total or subscale scores are missing at a visit, since all available data during the study will be used in the repeated measures model analyses which assume that the missing scores at any time point are missing-at-random.Time Windows for PRO analysesIf more than one assessment is available in the same time window, the assessment closest to the planned date will be considered. If two assessments are obtained with the same time difference compared to the scheduled visit day, the assessment obtained prior to visit will be considered. The assessment at end of treatment visit will be considered as a scheduled time-point and in the time window definition if collected within 28 days of the last date of study treatment in the treatment phase, before crossover and before the start of any further anti-neoplastic therapies based on the definitions in table below. The same time window definitions will be used for assessing the compliance rates over time-points for the PRO scores.  A patient will be considered as eligible for a time-point assessment if the lower bound of the time window for that scheduled time point is within 28 days of the last date of study treatment in the treatment phase, before crossover and start date of new antineoplastic therapy. ",
+        "Sub-sections": [
+            {
+                "Header Number": "N/A",
+                "Title": "Table Time Windows for PRO",
+                "Content": "Scheduled Time pointPlanned Visit Timing Time Window DefinitionOn treatment \u2013 includes assessment visits when treatment is ongoing and within 28 days of last doseScreening (Baseline, except for HCQ) On or before Day 1*\u2264 Study Day 1",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "13.1.",
+                "Title": "Functional Assessment of Cancer Therapy - Lymphoma (FACT-Lym)",
+                "Content": "CONFIDENTIAL\nOMB157E2301\n63\n   (PWB)\nGP3\n4\n-\n________\n=________\n      \nGP4\n4\n-\n________\n=________\n      \nGP5\n4\n-\n________\n=________\n      \nGP6\n4\n-\n________\n=________\n      \nGP7\n4\n-\n________\n=________\n              Sum individual item scores: ________  \n                      Multiply by 7: ________\n             Divide by number of items answered: ________=PWB \nsubscale score\nSOCIAL/FAMILY\nGS1\n0\n+\n________\n=________\nWELL-BEING\nGS2\n0\n+\n________\n=________\n    (SWB)\nGS3\n0\n+\n________\n=________\n      \nGS4\n0\n+\n________\n=________\n      \nGS5\n0\n+\n________\n=________\n   \nGS6\n0\n+\n________\n=________\n      \nGS7\n0\n+\n________\n=________\n             Sum individual item scores: ________  \n                     Multiply by 7: ________\n            Divide by number of items answered: ________=SWB \nsubscale score\nEMOTIONAL\nGE1\n4\n-\n________\n=________\nWELL-BEING\nGE2\n0\n+\n________\n=________\n    (EWB)\nGE3\n4\n-\n________\n=________\n      \nGE4\n4\n-\n________\n=________\n     \nGE5\n4\n-\n________\n=________\nGE6\n4\n-\n________\n=________\n             Sum individual item scores: ________  \n                     Multiply by 6: ________\nScore range: 0-28\nScore range: 0-28\nScore range: 0-24\nCONFIDENTIAL\nOMB157E2301\n64\n            Divide by number of items answered: ________=EWB \nsubscale score\nFUNCTIONAL  \nGF1\n0\n+\n________\n=________\nWELL-BEING \nGF2\n0\n+\n________\n=________\n     (FWB)\nGF3\n0\n+\n________\n=________\n      \nGF4\n0\n+\n________\n=________\n      \nGF5\n0\n+\n________\n=________\n      \nGF6\n0\n+\n________\n=________\n      \nGF7\n0\n+\n________\n=________\n             Sum individual item scores: ________  \n                     Multiply by 7: ________\n            Divide by number of items answered: ________=FWB \nsubscale score\nSubscale\n         Item Code       Reverse item?            Item response        \nItem Score\nLYMPHOMA\nP2\n4\n-\n________\n=________\nSUBSCALE\nLEU1\n4\n-\n________\n=________\n   (LYMS)\nBRM3\n4\n-\n________\n=________\n        \nES3\n4\n-\n________\n=________\n        \nLYM1\n4\n-\n________\n=________\n        \nLYM2\n4\n-\n________\n=________\n        \nBMT6\n4\n-\n________\n=________\n        \nC2\n4\n-\n________\n=________\n        \nGA1\n4\n-\n________\n=________\n        \nHI8\n4\n-\n________\n=________\n        \nN3\n4\n-\n________\n=________\n        \nLEU6\n4\n-\n________\n=________\n        \nLEU7\n4\n-\n________\n=________\n        \nBRM9\n4\n-\n________\n=________\nScore range: 0-28\nScore range: 0-60\nCONFIDENTIAL\nOMB157E2301\n65\n        \nLEU4\n4\n-\n________\n=________\n              Sum individual item scores:________  \n                   Multiply by 15: ________\n            Divide by number of items answered: ________=LYM \nSubscale score\nTo derive a FACT-Lymphoma Trial Outcome Index (TOI):\n__________ + __________ + __________ =________=FACT-Lymphoma TOI\n(PWB score)   (FWB score)   (LymS score)  \nTo Derive a FACT-G total score:\n__________ + __________ + __________ + __________=________=FACT-G Total score\n(PWB score)    (SWB score)   (EWB score)  (FWB score)\nTo Derive a FACT-Lymphoma total score:\n_________ + __________ + __________ + __________ + __________ =________=FACT-Lymphoma Total \n(PWB score)  (SWB score)   (EWB score)   (FWB score)    (LymS score)                    score\nHandling missing items for FACT-Lym\nIf there are missing items, subscale scores can be prorated.  This is done by multiplying \nthe sum of the subscale by the number of items in the subscale, then dividing by the \nnumber of items actually answered.  This can be done on the scoring guide or by using \nthe formula below:\nProrated subscale score = [Sum of item scores] x [N of items in subscale] \uf0b8[N of items \nanswered] \nWhen there are missing data, prorating by subscale in this way is acceptable as long as \nmore than 50% of the items were answered (e.g., a minimum of 4 of 7 items, 4 of 6 items, \netc).  The total score is then calculated as the sum of the un-weighted subscale scores.  \nThe FACT scale is considered to be an acceptable indicator of patient quality of life as \nlong as overall item response rate is greater than 80% (e.g., at least 22 of 27 FACT-G \nitems completed).  This is not to be confused with individual subscale item response rate, \nwhich allows a subscale score to be prorated for missing items if greater than 50% of \nitems are answered. In addition, a total score should only be calculated if ALL of the \ncomponent subscales have valid scores.\nThe analyses will be prepared by domain and will be summarized as follows:\nScore range: 0-116\nScore range: 0-108\nScore range: 0-168\n",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "13.2.",
+                "Title": "EuroQoL Five-Dimension (EQ-5D)",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "13.3.",
+                "Title": "Health Change Questionnaire",
+                "Content": "",
+                "Sub-sections": []
+            }
+        ]
+    },
+    {
+        "Header Number": "14.",
+        "Title": "PHARMACOKINETIC ANALYSES",
+        "Content": "",
+        "Sub-sections": [
+            {
+                "Header Number": "14.1.",
+                "Title": "Drug Concentration Measures",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "14.2.",
+                "Title": "Statistical Analyses",
+                "Content": "",
+                "Sub-sections": []
+            }
+        ]
+    },
+    {
+        "Header Number": "15.",
+        "Title": "PHARMACOKINETIC/PHARMACODYNAMIC ANALYSES",
+        "Content": "",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "16.",
+        "Title": "REFERENCES",
+        "Content": "",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "17.",
+        "Title": "ATTACHMENTS",
+        "Content": "",
+        "Sub-sections": [
+            {
+                "Header Number": "17.1.",
+                "Title": "Table of Contents for Data Display Specifications",
+                "Content": "",
+                "Sub-sections": []
+            }
+        ]
+    }
+]

@@ -1,0 +1,275 @@
+[
+    {
+        "Header Number": "1.",
+        "Title": "Amendments from Previous Version(s)",
+        "Content": "Protocol B3461023 Statistical Analysis Plan \n \ndiscontinuation criteria \nfrom this study LOCF is \nnot an appropriate analysis. \n \n \nMay 29, 2014 \n \n \n8.1.1 \n \n \nNo \n \n \n7. The list of the laboratory \nmeasures to be \nsummarized was shortened \nto those laboratory \nmeasures which are \npotentially related to \ndisease.  All values will be \nlisted in the subject \nlistings. \n \n \n \n \n \n \n \n \nMay 29, 2014 \n \n \n \n \n \n \n \n \n6.2.1 \n \n \n \n \n \n \n \n \nNo \n \n \n \n \n \n \n \n \n8. An Appendix was added \ndescribing the summary \nand handling of the post \ntransplant data.  \nAdditionally, the transplant \ncategory has been \nexpanded to include heart \ntransplant. \n \n \n \n \n \n \n \nMay 29, 2014 \n \n \n \n \n \n \n \nAppendix 2 \n \n \n \n \n \n \n \nNo \n \n \n \n \n \n \n \n9. Additional details on the \ndefinition of orthostatic \nhypotension were added. \nAn additional summary \ntable was added for \ntreatment emergent \northostatic hypotension. \n \n \n \n \n \n \nMay 29, 2014 \n \n \n \n \n \n \n8.3 \n \n \n \n \n \n \nNo \n \n \n \n \n \n \n10. Added formulae for \ncalculating QTc correction \nfactors (QTcB  and QTcF) \n \n \nMay 29, 2014 \n \nAppendix \n1.4 \n \n \nNo \n \n \n11. Removed TTR mutation as \na covariate and stated that \nthe analyses will be \nseparate for V30M and \nnon-V30M \n \n \n \n \nMay 29, 2014 \n \n \n \n \n6.5 \n \n \n \n \nNo \n \n \n \n \n12. Added analysis of time to \ndeath \nJuly 29, 2014 \n6.2.5 \nNo \n \n13. Modified ambulatory \nstatus mapping algorithm \nby assigning subjects who \nrequired brace assistance to \nnormal category  \nJuly 29, 2014 \nAppendix \n1.8 \nNo \n  \n14. Updated algorithm for \nimputing missing last dose \ndate of study drug. \nJuly 29, 2014 \nAppendix \n1.6 \nNo \n \n \nPFIZER CONFIDENTIAL \nPage 5 \nPPD\nPPD\nPPD\nPPD\nPPD\nPPD\nPPD\nPPD\nPPD\n",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "2.",
+        "Title": "Introduction",
+        "Content": "",
+        "Sub-sections": [
+            {
+                "Header Number": "2.1.",
+                "Title": "Study Design",
+                "Content": " This is a Phase 3, open-label study designed to obtain additional long-term safety and efficacy data for once-daily tafamidis (20 mg soft gel capsule).  In addition, this study will continue to provide subjects with tafamidis who have completed either Protocol Fx-006 (a 1-year, open-label extension study to Protocol Fx-005 which is a randomized, double-blind, placebo-controlled, 18-month study to evaluate the safety and efficacy of tafamidis) or Protocol Fx1A-201 (a Phase 2, open-label study to evaluate TTR stabilization, safety and tolerability of tafamidis) for up to 10 years or until subject has access to tafamidis for TTR-FAP via prescription.  Upon regulatory approval for the treatment of TTR-FAP in their respective country and access to prescription tafamidis, subjects may be withdrawn from the study.  Such subjects will be considered study completers. The decision to withdraw subjects in a country will be done in consultation between the investigator and the sponsor.  Any subject who is determined during this study to have developed severe chronic renal impairment (creatinine clearance <30 mL/minute as determined by the Investigator) will be asked to participate in a renal sub-study.     ",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "2.2.",
+                "Title": "Study Objectives",
+                "Content": " \ufffd To obtain additional, long-term, open-label safety and efficacy data for tafamidis (Fx-1006A) in subjects with TTR-FAP. \ufffd To continue to provide the investigational product tafamidis (Fx-1006A) to subjects with TTR-FAP who have completed Protocol Fx-006 or Protocol Fx1A-201.  PFIZER CONFIDENTIAL Page 6 CCI",
+                "Sub-sections": []
+            }
+        ]
+    },
+    {
+        "Header Number": "3.",
+        "Title": "Interim ANALYSES, Final Analyses and Unblinding",
+        "Content": "",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "4.",
+        "Title": "Hypotheses and decision rules",
+        "Content": "",
+        "Sub-sections": [
+            {
+                "Header Number": "4.1.",
+                "Title": "Statistical Hypotheses",
+                "Content": " This study is descriptive in nature, and as such, there are no formal hypotheses to be tested. ",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "4.2.",
+                "Title": "Statistical Decision Rules",
+                "Content": "",
+                "Sub-sections": []
+            }
+        ]
+    },
+    {
+        "Header Number": "5.",
+        "Title": "Analysis Sets",
+        "Content": "",
+        "Sub-sections": [
+            {
+                "Header Number": "5.1.",
+                "Title": "Intention to Treat (ITT) Population",
+                "Content": " The intent to treat (ITT) population consists of all subjects who are enrolled in this study, who have taken at least one dose of study medication, and who have baseline and at least one post-baseline NIS-LL measure. This population will be used for efficacy analysis.   ",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "5.2.",
+                "Title": "Safety Analysis Population",
+                "Content": " The safety analysis population consists of all subjects who are enrolled in this study and who have taken at least one dose of study medication. Per the protocol, subjects undergoing liver and/or heart transplantation while participating in this study will no longer receive investigational product. However, subjects who do undergo a liver transplant will not be withdrawn from this study and will be asked to return to the clinical unit post-transplantation on an annual basis for NIS, Norfolk QOL-DN, and Karnofsky Performance Scale Index evaluations, safety assessments, and to assess subject ambulation. If a subject has had a liver transplant and remains in the study, that subject\u2019s data will be omitted for all post-transplant visits from the summary analyses in the ITT and safety populations.  PFIZER CONFIDENTIAL Page 7 Protocol B3461023 Statistical Analysis Plan  ",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "5.3.",
+                "Title": "Liver and/or Heart Transplant Subjects",
+                "Content": " Data for subjects who have received a liver transplant during the course of this study and who remain in the study will have their post-transplant data summarized separately.  Appendix 2 will describe the summary table and listings to be produced. ",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "5.4.",
+                "Title": "Protocol Deviations",
+                "Content": "",
+                "Sub-sections": []
+            }
+        ]
+    },
+    {
+        "Header Number": "6.",
+        "Title": "Endpoints and covariates",
+        "Content": "",
+        "Sub-sections": [
+            {
+                "Header Number": "6.1.",
+                "Title": "Efficacy Endpoint(s)",
+                "Content": " \u2022 The Neuropathy Impairment Score (NIS): the following subscales from the NIS will be summarized: (NIS-LL, NIS-LL-MW, NIS-LL-Reflexes, NIS-LL Sensory, NIS-LL scores for: toe, ankle, knee and hip); Due to the fact that the full NIS was not collected in the parent studies, the NIS Total Score and NIS-UL will not be summarized for the V30M population, since there is no pre-study baseline.  However, the NIS Total Score and NIS-UL will be summarized for the non-V30M population. \u2022 The Total Quality of Life (TQOL) score as measured using the Norfolk Quality of Life for diabetic neuropathy (QOL-DN) questionnaire (including the following subscales:  Total QOL, Physical Functioning/Large Fiber, Activities of Daily Living (ADLs), Symptoms, Small Fiber, Autonomic); \u2022 The Karnofsky Performance Scale Index; \u2022 BMI and mBMI; \u2022 Assessment of subject ambulation. ",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "6.2.",
+                "Title": "Safety Endpoints",
+                "Content": " ",
+                "Sub-sections": [
+                    {
+                        "Header Number": "6.2.1.",
+                        "Title": "Clinical Laboratory Endpoints",
+                        "Content": " The following list of clinical laboratory endpoints was collected during the course of the study.  However, the summary tables will be restricted to the measures indicated with an asterisk (*).  All measures will be included in the subject listings. ",
+                        "Sub-sections": [
+                            {
+                                "Header Number": "6.2.1.1.",
+                                "Title": "Serum chemistry",
+                                "Content": " a. Sodium b. Globulin c. Potassium d. Alkaline phosphatase (ALP)* e. Alanine aminotransferase (ALT)* f. Chloride g. Aspartate aminotransferase (AST)*  PFIZER CONFIDENTIAL Page 8 Protocol B3461023 Statistical Analysis Plan  h. Bicarbonate i. Blood urea nitrogen* j. Gamma glutamyl transferase* k. Creatinine* l. Cholesterol  m. Calcium n. Uric acid  o. Inorganic Phosphorous p. Thyroid-stimulating hormone* q. Glucose * r. Total thyroxine (T4)* s. Total bilirubin* t. Free T4* u. Total proteins v. Prealbumin (transthyretin)* w. Albumin* x. Retinol-binding protein y. NT-pro-BNP* z. Troponin I* aa. Troponin T*  ",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "6.2.1.2.",
+                                "Title": "Coagulation",
+                                "Content": " a. Prothrombin time* b. INR*   ",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "6.2.1.3.",
+                                "Title": "Hematology",
+                                "Content": " a. Hemoglobin b. Platelets c. Hematocrit d. White blood cell count* e. Red blood cell count f. Neutrophils*  g. Lymphocytes*  h. Mean corpuscular volume i. Monocytes*  j. Mean corpuscular hemoglobin k. Eosinophils*  l. Mean corpuscular hemoglobin concentration m. Basophils*   ",
+                                "Sub-sections": []
+                            }
+                        ]
+                    },
+                    {
+                        "Header Number": "6.2.2.",
+                        "Title": "Urinalysis",
+                        "Content": " a. pH b. Blood (free Hb)  PFIZER CONFIDENTIAL Page 9 Protocol B3461023 Statistical Analysis Plan  c. Protein d. Nitrite e. Glucose f. Urobilinogen g. Ketones h. Specific gravity  i. Bilirubin  ",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "6.2.3.",
+                        "Title": "Physical exam and Medical history",
+                        "Content": " Physical exam will be listed by subject and visit in the listings.  Medical history will be listed by subject.  ",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "6.2.4.",
+                        "Title": "ECG",
+                        "Content": " ECG data will be summarized at each visit.  A summary of ECG abnormalities will be presented, including changes from normal to abnormal or abnormal to normal. In addition, a summary of the number of subjects who meet the following criteria for QTc, using both the Bazett\u2019s and Frederica correction factors, will be presented:  \u2022 a change from baseline > 60 msec,  \u2022 a change from baseline > 90 msec;  \u2022 a change from baseline between 30 msec (inclusive) and < 60 msec; \u2022 a reading of greater than 450 msec at any visit;  \u2022 a reading of greater than 480 msec at any visit; \u2022 a reading of greater than 500 msec at any visit.   ",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "6.2.5.",
+                        "Title": "Death",
+                        "Content": " Time to death will be calcuated from the first dose of the treatment (either Fx-005 or Fx1A-201), from active treatment start, and from onset of symptom, respectively.  Subjects alive at the end of the study will be censored at the last visit date.  For subjects who have received a liver and/or heart transplant, time will be censored at the time of transplant.  Death after discontinuation will be censored at time of discontinuation.  The date of onset of symptom is the start date of the earliest symptom related to ATTR in the Medical History CRF.  ",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "6.3.",
+                "Title": "Adverse Events",
+                "Content": " Treatment emergent adverse events will be summarized by all causes and treatment relatedness groupings.  For the purposes of this study, treatment emergent is defined as an event which begins after enrollment in the current study (B3461023) or which worsens during the course of the current study.  In addition, severity of the adverse events will be summarized by all causes and treatment relatedness. ",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "6.4.",
+                "Title": "Discontinuations",
+                "Content": "  All reasons for discontinuation will be summarized including: discontinuations due to adverse events, discontinuations due to laboratory abnormalities, discontinuations due to  PFIZER CONFIDENTIAL Page 10 Protocol B3461023 Statistical Analysis Plan  death, discontinuations due to liver and/or heart transplant, discontinuations due to other causes (not laboratory abnormalities, death or liver transplant), and all cause discontinuation.    ",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "6.5.",
+                "Title": "Covariates",
+                "Content": "  Due to the small number of subjects and the descriptive nature of this study, baseline will be used as a covariate in the change from baseline models and where appropriate, gender.  TTR mutations will be categorized as V30M or nonV30M and all analyses will be done separately by these TTR mutation groupings. ",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "6.6.",
+                "Title": "Baseline",
+                "Content": "",
+                "Sub-sections": []
+            }
+        ]
+    },
+    {
+        "Header Number": "7.",
+        "Title": "Handling of Missing Values",
+        "Content": "",
+        "Sub-sections": [
+            {
+                "Header Number": "7.1.",
+                "Title": "Norfolk Quality of Life \u2013 Diabetic Neuropathy (QoL-DN)",
+                "Content": " If missing responses to questions occur, missing scores will be imputed as the mean of the non-missing questions within the domain for that visit as long as at least 60% of the items within the domain have a non-missing response.  The domain score will then be the sum of the non-missing and imputed questions.  If all 35 questions are non-missing or imputed as defined above, then the TQOL will be calculated as the sum of the non-missing items and the imputed values.  If questions could not be imputed as defined above due to less than 60% of responses in a domain; however, at least 60% of the total questions are either non-missing or imputed, then the TQOL will be calculated as the mean of the non-missing and imputed questions times 35.  If greater than 40% of the items in a domain or TQOL are missing, then the domain is deemed missing. ",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "7.2.",
+                "Title": "Neuropathic Impairment Score (NIS)",
+                "Content": " If any question is answered as \u2018N/A\u2019 then the score for that question will be 0.  Additional missing imputation rules are provided in Appendix 1.1.  PFIZER CONFIDENTIAL Page 11 Protocol B3461023 Statistical Analysis Plan  ",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "7.3.",
+                "Title": "The Karnofsky Performance Scale Index",
+                "Content": " The Karnofsky Performance Scale Index is a single item scale, and, as such; missing values will be excluded from analyses. ",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "7.4.",
+                "Title": "Assessment of Subject Ambulation",
+                "Content": "",
+                "Sub-sections": []
+            }
+        ]
+    },
+    {
+        "Header Number": "8.",
+        "Title": "Statistical Methodology and STATISTICAL Analyses",
+        "Content": "",
+        "Sub-sections": [
+            {
+                "Header Number": "8.1.",
+                "Title": "Statistical Methods",
+                "Content": "  ",
+                "Sub-sections": [
+                    {
+                        "Header Number": "8.1.1.",
+                        "Title": "Analyses for Continuous Data",
+                        "Content": " All continuous data will be summarized with descriptive statistics, including mean, standard deviation, median, range and 95% confidence intervals.   In addition, change from baseline statistics will be presented as appropriate, to include the appropriate descriptive statistics.  For the change from baseline statistics, the estimate will be adjusted for baseline (where appropriate) and the LSMean and standard error will be presented with the 95% confidence interval. These summaries will be provided by treatment group and by TTR mutation.   For the V30M subjects, a repeated measures analysis of covariance model with change from baseline as the dependent variable, an unstructured covariance matrix, treatment, month and treatment-by-month as fixed effects, baseline as covariate and subject as a random effect in the model will be used to estimate the LSMeans and confidence intervals as indicated above. A sensitivity analysis will also be conducted using the model shown above however, without baseline as a covariate.  See Appendix 1.7 for an example of the SAS code for this analysis. In the event that the model will not converge due to the limited amount of data at the later visits, the model will be evaluated up to the point that it will converge.  The data after that  PFIZER CONFIDENTIAL Page 12 Protocol B3461023 Statistical Analysis Plan  point will be summarized using descriptive statistics only and for the T-T and P-T groups will not be compared and no p value will be produced. Separate analyses will be conducted using both measurements of baseline, at study start and at active treatment start as specified above.  Due to the 18 month length of Fx-005 and the fact that many of the outcomes are measured annually, the measurements aren\u2019t at the same time points (for example, 3 years of active treatment); this disparity of treatment schedules will not allow a direct comparison of the subjects\u2019 change from baseline on active treatment, at any time point after the parent trials; therefore, just descriptive statistics will be reported for the outcomes measured annually. For the non V30M subjects, a repeated measures analysis of covariance model with change from baseline as the dependent variable, an unstructured covariance matrix, month as fixed effect, baseline as covariate and subject as a random effect in the model will be used to estimate the LSMeans and confidence intervals.  A sensitivity analysis will also be conducted using the model shown above however, without baseline as a covariate.  ",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "8.1.2.",
+                        "Title": "Analyses for Categorical Data",
+                        "Content": "  All categorical data will be summarized as n, percentage and 95% confidence intervals.  These summaries will be provided by treatment group and by TTR mutation.  Separate analyses will be conducted using both measurements of baseline, at study start and at active treatment start as specified above. Confidence intervals will be based on estimates of the binomial probabilities with no adjustments to the probabilities. ",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "8.1.3.",
+                        "Title": "Analyses for Time to Event Endpoints",
+                        "Content": " Kaplan-Meier estimates will be computed for all time to event endpoints, including median , interquartile ranges, and 95% confidence intervals. Kaplan-Meier curves will be presented at yearly intervals.  These analyses will be provided by treatment group and by TTR mutation.  Separate analyses will be conducted using both measurements of baseline, at study start and at active treatment start as specified above.  Additionally, a set of analyses will be done for the time from onset of symptom.  ",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "8.2.",
+                "Title": "Efficacy Analyses",
+                "Content": " The efficacy endpoints for this study are the cumulative efficacy data as measured by the Neuropathy Impairment Score (NIS); the Total Quality of Life (TQOL) score as measured using the Norfolk Quality of Life for Diabetic Neuropathy (QOL-DN) questionnaire; the Karnofsky Performance Scale Index; and the Modified Polyneuropathy Disability (mPND) score of ambulatory status.   PFIZER CONFIDENTIAL Page 13 Protocol B3461023 Statistical Analysis Plan  The following measures will be analyzed using the methods described above for continuous outcomes in Section 8.1.1:  NIS-LL, TQOL, Karnofsky Performance Scale Index.   These analyses will be provided by treatment group and by TTR mutation. The assessment of subject ambulation will be analyzed using the methods described above for categorical measures in Section 8.1.2.  Due to the fact that there are two substantially different versions of the CRF page, the data will be summarized three ways: for the original CRF, for the revised CRF and for the combined recoded data.  In addition, shift tables will be presented showing the distribution of subjects with a change in ambulation based on the combined recoded data.  Finally, if there are sufficient numbers of subjects who demonstrate a change in ambulation stage, , then Kaplan-Meier estimates will be computed for the time to the next ambulatory stage  (see details in Appendix 1.8).  These analyses will be provided by treatment group and by TTR mutation.   ",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "8.3.",
+                "Title": "Safety Analyses",
+                "Content": " Safety data will be summarized for the safety analysis population. Treatment and Disposition of Subjects: Subject evaluation groups will show end of study subject disposition and will show which subjects were analyzed for efficacy, as well as for safety (adverse events and laboratory data).  Frequency counts will be supplied for subject discontinuation(s) by treatment. A listing of treatment duration for each subject will be reported in accordance with the sponsor reporting standards. Demographic and Baseline Characteristics.  A break-down of demographic data will be provided for age, gender, race, weight, body mass index, and height.  Each will be summarized by treatment group, sex at birth and \u2018All Subjects\u2019 in accordance with the sponsor reporting standards.  All baseline and disease characteristics will also be summarized.   Discontinuations. Subject discontinuations due to adverse events will be detailed and summarized.  Adverse events (AEs): Treatment emergent adverse events will be summarized by causality and severity. Hematology, Biochemistry and Urinalysis:  Descriptive statistics will be provided for each test result and for change from baseline by visit. Additional summaries for abnormalities in laboratory measures will be provided for the following populations:  without regard to baseline, abnormal at baseline and normal at baseline. Baseline is defined in two ways as described above. ECG: Changes from baseline (defined as the last evaluation prior to the first dose of study drug) will be summarized for each of the ECG measures listed above.  In addition, ECG changes from baseline will be categorized as follows:    PFIZER CONFIDENTIAL Page 14 Protocol B3461023 Statistical Analysis Plan \n \n\ufffd a change from baseline > 60 msec,  \n\ufffd a change from baseline > 90 msec;  \n\ufffd a change from baseline between 30 msec (inclusive) and < 60 msec; \n\ufffd a reading of greater than 450 msec at any visit;  \n\ufffd a reading of greater than 480 msec at any visit; \n\ufffd a reading of greater than 500 msec at any visit.  \n \nBaseline is defined in two ways as described above. \nNote:  In Italy only Echocardiograms and Holter Monitoring were performed, and therefore, \nthe Italian subjects will not be included in these summaries. \nVital signs: Will be summarized using descriptive statistics, to include:  values at each visit, \nchange from baseline to each visit and a categorization of clinically significant changes.  A \nsummary table of subjects experiencing orthostatic hypotension at each visit will be included.  \nA table summarizing the subjects who experienced treatment emergent hypotension will be \ncreated.   \nBaseline is defined in two ways as described above. \nSignificant changes from baseline are defined as follows: \n\ufffd Systolic Blood Pressure (mmHg) Decrease (Change < -20, or Value < 90) \n\ufffd Systolic Blood Pressure (mmHg) Increase (Change > 20, or Value > 180)  \n\ufffd Diastolic Blood Pressure (mmHg) Decrease (Change < -15, or Value < 50)  \n\ufffd Diastolic Blood Pressure (mmHg) Increase (Change > 15, or Value > 105)  \n\ufffd Heart Rate (bpm) Decrease (Change < -15, or Value < 50)  \n\ufffd Heart Rate (bpm) Increase (Change > 15, or Value > 120)  \n\ufffd Weight (kg) Decrease (Change < -7%)  \n\ufffd Weight (kg) Increase (Change > 7%) \n \n \n \n \n \n \n \n \n  \n \n \n \n  \n \nConcomitant medications: will be summarized. \nPhysical Examination: Results will be listed. \n \nPFIZER CONFIDENTIAL \nPage 15 \nCCI\n",
+                "Sub-sections": []
+            }
+        ]
+    },
+    {
+        "Header Number": "9.",
+        "Title": "LIST OF TABLES",
+        "Content": "",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "10.",
+        "Title": "LIST OF listings",
+        "Content": "",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "11.",
+        "Title": "LIST OF Figures",
+        "Content": "",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "12.",
+        "Title": "APPENDICES",
+        "Content": "Protocol B3461023 Statistical Analysis Plan \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nPFIZER CONFIDENTIAL \nPage 18 \nCCI\nProtocol B3461023 Statistical Analysis Plan \n \n \n \n \n  \n \n \n \n \n  \n \n \n \n   \n \n \n \n \n  \n \n \n \n \n \n   \n \n \n \n \n \n \n  \n \n \n \n \n \n \n \n \n \n \nPFIZER CONFIDENTIAL \nPage 19 \nCCI\nProtocol B3461023 Statistical Analysis Plan \n \nAutonomic \n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n  \n \n \n \n \n \n \n \n  \n \n  \n \nPFIZER CONFIDENTIAL \nPage 20 \nCCI\nProtocol B3461023 Statistical Analysis Plan \n \n  \n \n \n \n \n \n \n \n \n \n \n \n \n \n      \n \n              \n \n              \n \n \n \n \n \n \n \n            \n \n \n               \n \n               \n \n \n               \n \n \n \n  \n \n \n \n \n \n \n \n \n \n \n \n \nPFIZER CONFIDENTIAL \nPage 21 \nCCI\nProtocol B3461023 Statistical Analysis Plan \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n   \n \n   \n \n   \n \n   \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nPFIZER CONFIDENTIAL \nPage 22 \nCCI\nProtocol B3461023 Statistical Analysis Plan \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n  \n \n \n \n \n \n  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n  \n \n \n \n \n \n \nPFIZER CONFIDENTIAL \nPage 23 \nCCI\nProtocol B3461023 Statistical Analysis Plan \n \n \n \n   \n \n \n \n \n \n \n \n  \n \n \n \nPFIZER CONFIDENTIAL \nPage 24 \nCCI\nCCI\nProtocol B3461023 Statistical Analysis Plan \n \nPFIZER CONFIDENTIAL \nPage 25 \nCCI\nCCI\n",
+        "Sub-sections": []
+    }
+]

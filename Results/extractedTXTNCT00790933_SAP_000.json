@@ -1,0 +1,541 @@
+[
+    {
+        "Header Number": "N/A",
+        "Title": "STATISTICAL ANALYSIS PLAN",
+        "Content": "VedolizumabStatistical Analysis Plan, Study C13008Confidential2",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "N/A",
+        "Title": "TABLE OF CONTENTS",
+        "Content": "LIST OF ABBREVIATIONS AND DEFINITIONS OF TERMS ...........................................41. INTRODUCTION ................................................................................................................81.1 Study Design...................................................................................................................81.2 Study Objectives...........................................................................................................101.2.1 Primary Objective..................................................................................................101.2.2 Resource Utilization and Patient Reported Outcome Objectives ..........................101.2.3 Exploratory Objective............................................................................................102. POPULATIONS FOR ANALYSIS....................................................................................102.1 Safety Population..........................................................................................................102.2 Efficacy Population.......................................................................................................123. HYPOTHESES AND DECISION RULES........................................................................134. INTERIM ANALYSIS .......................................................................................................134.1 Interim Analysis............................................................................................................134.2 Data Safety Monitoring Board......................................................................................135. STUDY DEFINITIONS AND CONVENTIONS ..............................................................135.1 Study Definitions..........................................................................................................135.2 Definition of Baseline Values.......................................................................................155.2.1 Change and Percent Change From Baseline..........................................................155.3 Visit Assignments.........................................................................................................165.3.1 Study Start and End Dates .....................................................................................165.3.2 Visit Assignments for Efficacy Variables..............................................................175.3.3 Visit Assignments for Safety Variables.................................................................205.3.4 Conventions for Missing Adverse Event Dates.....................................................255.3.5 Conventions for Missing Concomitant Medication Dates.....................................275.3.6 Conventions for Missing Previous Medication Dates ...........................................275.4 Calculation of Body Mass Index ..................................................................................276. STATISTICAL METHODOLOGY ...................................................................................286.1 Determination of Sample Size for the Long-term Safety Study...................................286.2 Randomization and Stratification.................................................................................286.3 Unblinding....................................................................................................................286.4 Methods for Handling Missing Data ............................................................................286.5 Patient Disposition........................................................................................................286.6 Demographics and Baseline Disease Characteristics ...................................................296.6.1 Demographics ........................................................................................................296.7 Treatments and Medications.........................................................................................316.7.1 Concomitant Medications and Procedures ............................................................316.7.2 Study Drug Administration....................................................................................326.8 Safety Analyses.............................................................................................................356.8.1 Safety Data Summary Grouping for Long-term Safety Study...............................366.8.2 Adverse Events ......................................................................................................366.8.3 Laboratory Data .....................................................................................................416.8.4 ECG .......................................................................................................................43Vedolizumab\nStatistical Analysis Plan, Study C13008\nConfidential\n3\n6.8.5 Vital Signs..............................................................................................................44\n6.8.6 Immunogenicity Analysis ......................................................................................44\n6.9 Exploratory Efficacy Analyses .....................................................................................45\n6.9.1 General Methods....................................................................................................45\n6.9.2 Exploratory Efficacy Endpoints.............................................................................46\n6.9.3 Exploratory Efficacy Analysis ...............................................................................46\n6.10 Resource Utilization Outcomes..................................................................................47\n6.11 Patient-Reported Outcomes (PROs)...........................................................................48\n7. CHANGES TO PLANNED ANALYSES FROM PROTOCOL .......................................49\n8. REFERENCES ...................................................................................................................49\nVedolizumabStatistical Analysis Plan, Study C13008Confidential4",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "N/A",
+        "Title": "LIST OF ABBREVIATIONS AND DEFINITIONS OF TERMS",
+        "Content": "AbbreviationTerm5-ASAs5-aminosalicylatesAEsadverse eventsALTalanine aminotransferaseASTaspartate aminotransferaseBUNblood urea nitrogenCDCrohn\u2019s diseaseCFRCode of Federal RegulationsCHOChinese hamster ovaryCminminimum plasma concentrationCMVcytomegalovirusCNScentral nervous systemCRPC-reactive proteinCVcoefficient of variationDSMBdata safety monitoring boardECGelectrocardiogrameCRFelectronic case report formEDCelectronic data captureELISAenzyme-linked immunosorbent assayEQ-5DEuroQualETearly terminationGCPgood clinical practiceGIgastrointestinalhhoursHAHAhuman anti-human antibodyHBIHarvey-Bradshaw Index HCVhepatitis C virusHIVhuman immunodeficiency virusHLThigh level termIACIndependent Adjudication CommitteeIBInvestigator\u2019s BrochureIBDinflammatory bowel diseaseIBDQInflammatory Bowel Disease QuestionnaireICHInternational Conference on HarmonisationIECindependent ethics committeeIFNinterferonILinterleukinIRBinstitutional review boardIVintravenousJCVJC virus, a neurotropic DNA polyomavirusIVRSinteractive voice response systemVedolizumab\nStatistical Analysis Plan, Study C13008\nConfidential\n5\nAbbreviation\nTerm\nMAdCAM-1\nmucosal addressin cell adhesion molecule-1\nMCS\nmental component score\nMedDRA\nMedical Dictionary for Regulatory Activities\nMillennium\nMillennium Pharmaceuticals, Inc.  or its affiliates\nMLN0002\nVedolizumab\nNSAID\nnonsteroidal anti-inflammatory drug\nPCS\nphysical component score\nPD\npharmacodynamics\nPK\npharmacokinetics\nPML\nprogressive multifocal leukoencephalopathy\nPT\nPreferred Term\nPVC\npolyvinylchloride\nQOL\nquality of life\nRAMP\nRisk Assessment and Minimization for PML \nRBC\nred blood cell(s)\nSAEs\nserious adverse events\nSF-36\nShort-Form 36\nSOC\nSystem Organ Class\nTB\ntuberculosis\nTNF\uf061\ntumor necrosis factor alpha\nUC\nulcerative colitis\nUCCS\nUlcerative Colitis Clinical Score\nULN\nupper limit of normal\nUS\nUnited States\nVAS\nvisual analogue scale\nWBC\nwhite blood cell(s)\nVedolizumab\nStatistical Analysis Plan, Study C13008\nConfidential\n6\nRationale for SAP amendment 2\nThe  protocol was changed to include up to 400 additional patients with either ulcerative \ncolitis or Crohn\u2019s disease who had not been previously treated with vedolizumab (\u201cde novo \npatients\u201d). The additional patients will increase the number of patients with exposure to \nvedolizumab and supplement the safety database to detect adverse events resulting from \nlong-term vedolizumab administration that may not be detected in the year-long induction \nand maintenance studies. The addition of 400 patients allows for the detection of adverse \nevents that occur at a prevalence of 0.1% to be detected with more than 85% likelihood, and \nevents that occur at a prevalence of 1% to be detected with 99.99% likelihood. Importantly, \nthe inclusion and exclusion criteria for the de novo patients are nearly identical to the criteria \nfor patients who enrolled in Studies C13006, C13007, and C13011; study treatment and \nassessments  are the same for these de novo patients as for rollover patients (those patients \nwho enrolled in C13008 following participation in C13004, C13006, C13007, or C13011). \nThe additional patients  are enrolled at a subset of existing sites in select countries, including \nthe United States (US).\nIn addition, with this protocol amendment, both rollover and de novo patients participating \nin C13008 will have access to vedolizumab until March 2016, or until vedolizumab is \navailable in the country in which the patient resides , or until patient withdrawal, whichever \ncomes first (unless the study is terminated early by the sponsor, as described in Section \n11.12 of study protocol).\nAnother change to the protocol includes removal of JC virus DNA testing. When the\nvedolizumab pivotal studies were planned in 2008, it was unclear if JC virus DNA testing in\nthe blood might be predictive of progressive multifocal leukoencephalopathy (PML) risk.\nMore recently, controlled studies of natalizumab (which has a proven risk of PML) have\nconclusively demonstrated that detection of JC virus DNA in the blood is of no clinical\nutility in minimizing risk of PML. Therefore, monitoring for JC virus DNA in the blood  has \nbeen discontinued.\nOther changes to the protocol allow for the use of conventional, non-biological concomitant\nmedications for IBD to be more consistent with standard clinical practice. Thus, patients\nare now  allowed to start azathioprine, 6-mercaptopurine, methotrexate (methotrexate for\nCD only), or corticosteroids during the course of the study, even if they were not on these\nVedolizumab\nStatistical Analysis Plan, Study C13008\nConfidential\n7\nmedications when enrolled in the study. In addition, oral corticosteroid regimens have been \nmodified to be more consistent with individual patient needs, and the corticosteroid tapering\nrequirement has been changed to a recommendation.\nThe definition of treatment failure that mandates withdrawal from the study has been\nmodified to \u201clong-term treatment failure\u201d to more accurately reflect true treatment failure\nthat occurs in clinical practice. Given the fluctuating natural history of inflammatory bowel\ndisease (IBD), patients may be treated for short-term disease worsening with conventional\ntherapies for IBD, as allowed per protocol, without being required to withdraw from the\nstudy. Accordingly, one of the criteria for the protocol-defined treatment failure, \u201cdisease\nworsening,\u201d that was based on disease activity indices (Harvey-Bradshaw Index and partial\nMayo score), has been removed from the definition of long-term treatment failure.\nImportantly, patients are still required to be withdrawn if they require rescue medication or\nmajor surgery for the treatment of IBD.\n",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "1.",
+        "Title": "INTRODUCTION",
+        "Content": "",
+        "Sub-sections": [
+            {
+                "Header Number": "1.1",
+                "Title": "Study Design",
+                "Content": "Vedolizumab\nStatistical Analysis Plan, Study C13008\nConfidential\n9\nFor rollover patients, the first dose of vedolizumab in this study (Week 0) should occur no \nmore than 9 weeks after the last dose of study drug in the previous study; the preferable \nperiod is within 3 to 5 weeks after the last dose in the previous study. Results of assessments \nfrom the last visit in the previous vedolizumab study are used to determine their eligibility to \nparticipate in this study. Baseline data are also obtained from the previous study, including \nmedical history, disease history, demographics, tobacco use, and prior therapies.\nIn addition, up to 400 patients without previous treatment with vedolizumab are enrolled \ndirectly into this study (de novo patients). Patients with UC or CD must meet the \ninclusion/exclusion criteria for de novo patients (Section 5 of study protocol).  \nBaseline data for these patients is obtained during the Screening period.\nFollowing enrollment, all patients are administered 300 mg vedolizomab every 4 weeks for \nthe duration of the study, followed by a 16-week post-treatment observation and safety\nassessment period. The total duration of MLN0002 treatment varies by patient based on\ncontinued benefit until March 2016, or until vedolizumab is available in the country in \nwhich the patient resides , or until patient withdrawal, whichever is sooner (unless the study \nis terminated early by the sponsor, as described in Section 11.12 of study protocol).\nPatients may receive allowed concomitant medications for the treatment of IBD as detailed\nin Section 6.2.1 of study protocol, as determined by the principal investigator, at any time \npoint during the study. Medications may be discontinued during the study, but if \ndiscontinuation is planned, it should be done prior to the first dose of vedolizumab.\nIt is strongly recommended that patients receiving oral corticosteroids  begin an oral\ncorticosteroid tapering regimen once they achieve clinical response or if, in the opinion of\nthe investigator, they demonstrate sufficient improvement in clinical signs and symptoms.\nPatients are withdrawn from the study for long-term treatment failure as described in the\nstudy definitions, or if they are not benefiting from therapy (see Section 6.2.3, Section \n6.4.10, and Section 7.4 of study protocol).\nAll patients  return 16 weeks after their last dose of MLN0002 for the Final Safety visit.\nSafety assessments and efficacy assessments using the partial Mayo Score (for patients with\nUC) or the HBI score (for patients with CD) will be made throughout the treatment period.\n",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "1.2",
+                "Title": "Study Objectives",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "1.2.1",
+                        "Title": "Primary Objective",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "1.2.2",
+                        "Title": "Resource Utilization and Patient Reported Outcome Objectives",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "1.2.3",
+                        "Title": "Exploratory Objective",
+                        "Content": "",
+                        "Sub-sections": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Header Number": "2.",
+        "Title": "POPULATIONS FOR ANALYSIS",
+        "Content": "",
+        "Sub-sections": [
+            {
+                "Header Number": "2.1",
+                "Title": "Safety Population",
+                "Content": "Vedolizumab\nStatistical Analysis Plan, Study C13008\nConfidential\n11\nvedolizumab in this study. Waiver patient(s) are excluded.  The study safety population is \nused for all safety analyses.\nExposure for patients who first participated in Study C13004, C13006, C13007, or C13011 \nand who are now participating in the C13008 study, is evaluated from the first dose of  \nvedolizumab in Studies C13004, C13006, C13007, and C13011.  \nFor de novo patients, exposure  is calculated from the first dose of vedolizumab in Study \nC13008. \nAdverse events (AEs) are also evaluated from the first dose of vedolizumab in Studies \nC13004, C13006, C13007, and C13011 for the patients who received vedolizumab in Study\nC13004, C13006, C13007, or C13011.  AEs are counted only during the time of  \nvedolizumab administration, as follows:\n\uf0b7\nFor patients who received placebo in Studies C13006, C13007, and C13011, AEs are \ncounted from first dose of vedolizumab in the C13008 study.\n\uf0b7\nFor patients who received vedolizumab in the induction phase and placebo in the\nmaintenance phase, AEs are counted if the AE occurred between the first dose of \nvedolizumab and the last dose of vedolizumab  in the induction phase.\n\uf0b7\nFor patients who were in the placebo group in Study C13002, AEs are counted from \nthe first dose of vedolizumab in the C13004 study.\n\uf0b7\nFor patients who were in the vedolizumab group in Study C13002, AEs are counted \nfrom the first dose of vedolizumab in the C13002 study.\n\uf0b7\nFor de novo patients, AEs are counted from the first dose of  vedolizumab in the \nC13008 study. \nConcomitant medications for patients who participated in Study C13004 and continue \nparticipating in Study C13008 are evaluated only for the C13008 experience, while the \nconcomitant medications for patients who were in Studies C13006, C13007, and C13011  \nare evaluated following the administration of the first dose of vedolizumab in Studies \nC13006, C13007 and C13011.\n",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "2.2",
+                "Title": "Efficacy Population",
+                "Content": "",
+                "Sub-sections": []
+            }
+        ]
+    },
+    {
+        "Header Number": "3.",
+        "Title": "HYPOTHESES AND DECISION RULES",
+        "Content": "",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "4.",
+        "Title": "INTERIM ANALYSIS",
+        "Content": "",
+        "Sub-sections": [
+            {
+                "Header Number": "4.1",
+                "Title": "Interim Analysis",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "4.2",
+                "Title": "Data Safety Monitoring Board",
+                "Content": "",
+                "Sub-sections": []
+            }
+        ]
+    },
+    {
+        "Header Number": "5.",
+        "Title": "STUDY DEFINITIONS AND CONVENTIONS",
+        "Content": "",
+        "Sub-sections": [
+            {
+                "Header Number": "5.1",
+                "Title": "Study Definitions",
+                "Content": "Vedolizumab\nStatistical Analysis Plan, Study C13008\nConfidential\n14\nPertaining to Patients with UC\nTerm\nDefinition\nClinical Remission\nA partial Mayo score of \u22642 with no individual subscore > 1.\nClinical Response\nA decrease in the partial Mayo Score of at least 2 points and \uf0b325\uf025\nfrom baseline, with an accompanying decrease in rectal bleeding \nsubscore of \uf0b31 point from baseline or absolute rectal bleeding \nsubscore of \uf0a31 point\nRescue \nMedication(s)\nAny new medication to treat a new or unresolved luminal \nmanifestation of ulcerative colitis (UC), with the following \nexceptions:\n\ufffdoral and topical (rectal) 5-aminosalicylate (ASA) treatment\n\ufffdoral corticosteroids per the guidelines outlined in Section 6.2.3\n\ufffdtopical (rectal) corticosteroid enemas/suppositories\n\ufffdazathioprine or 6-mercaptopurine; stable doses are recommended\n\ufffdantibiotics\n\ufffdantidiarrheals for control of chronic diarrhea\n\uf0b7\n\ufffdprobiotics (eg, Culturelle, Saccharomyces boulardii)\nLong-term \nTreatment Failure\nNeed for rescue medications, or major surgical intervention for \ntreatment of UC, or a study drug-related adverse event leading to \ndiscontinuation from the study\nPertaining to Patients with CD\nTerm\nDefinition\nClinical Remission\nA HBI score \uf0a34 points\nClinical Response\nA \uf0b33-point decrease in HBI score from baseline\nRescue \nMedication(s)\nAny new medication to treat a new or unresolved luminal \nmanifestation of Crohn\u2019s disease (CD), with the following \nexceptions:\n\uf0b7\noral and topical (rectal) 5-ASA treatment\n",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "5.2",
+                "Title": "Definition of Baseline Values",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "5.2.1",
+                        "Title": "Change and Percent Change From Baseline",
+                        "Content": "",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "5.3",
+                "Title": "Visit Assignments",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "5.3.1",
+                        "Title": "Study Start and End Dates",
+                        "Content": "VedolizumabStatistical Analysis Plan, Study C13008Confidential17",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "5.3.2",
+                        "Title": "Visit Assignments for Efficacy Variables",
+                        "Content": "",
+                        "Sub-sections": [
+                            {
+                                "Header Number": "N/A",
+                                "Title": "Table 5\u20111   \tDay Windows:  Partial Mayo Score and HBI Score for the Patients Who Were in Studies C13006 and C13007, and C13008 de novo patients",
+                                "Content": "Vedolizumab\nStatistical Analysis Plan, Study C13008\nConfidential\n18\nTable 5-1   \nDay Windows: Partial Mayo Score and HBI Score for the Patients Who \nWere in Studies C13006 and C13007, and C13008 de novo patients\nWeek 36\n253\n225 \u2013 280\nWeek 44\n309\n281 \u2013 336\nWeek 52\n365\n337 \u2013 392\nWeek 60\n421\n393 \u2013 448\nWeek 68\n477\n449 \u2013 504\nWeek 76\n533\n505 \u2013 560\nWeek 84\n589\n561 \u2013 616\nWeek 92\n645\n617 \u2013 672\nWeek 100\n701\n673 - 728\nWeek 108\n757\n729-784\nWeek 116\n813\n785-840\nWeek 124\n869\n841 \u2013 896\nWeek 132\n925\n897 \u2013 952\nWeek 140\n981\n953 \u2013 1008\nWeek 148\n1037\n1009 \u2013 1064\nWeek 156\n1093\n1065 \u2013 1120\nWeek 164\n1149\n1121 \u2013 1176\nWeek 172\n1205\n1177 \u2013 1232\nWeek 180\n1261\n1233 \u2013 1288\nWeek 188\n1317\n1289 \u2013 1344\nWeek 196\n1373\n1345 \u2013 1400\nWeek 204\n1429\n1401-1456\nWeek 212\n1485\n1457-1512\nWeek 220\n1541\n1513-1568\nWeek 228\n1597\n1569-1624\nWeek 236\n1653\n1625-1680\nWeek 244\n1709\n1681-1722\nWeek 248\n1737\n1723-1764\nWeek 256\n1793\n1765-1820\nWeek 264\n1849\n1821-1876\nWeek 272\n1905\n1877-1932\nWeek 280\n1961\n1933-1988\nWeek 288\n2017\n1989-2044\nWeek 296\n2073\n2045-2086\nWeek 300\n2101\n2087-2128\nWeek 308\n2157\n2129-2184\n",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "N/A",
+                                "Title": "Table 5\u20112   \tDay Windows:  HBI Score for the Patients Who Were in Study C13011",
+                                "Content": "",
+                                "Sub-sections": []
+                            }
+                        ]
+                    },
+                    {
+                        "Header Number": "5.3.3",
+                        "Title": "Visit Assignments for Safety Variables",
+                        "Content": "",
+                        "Sub-sections": [
+                            {
+                                "Header Number": "N/A",
+                                "Title": "Table 5\u20113   \tDay Windows:  JCV, Clinical Chemistry, and Hematology*",
+                                "Content": "Vedolizumab\nStatistical Analysis Plan, Study C13008\nConfidential\n21\nTable 5-3   \nDay Windows: JCV, Clinical Chemistry, and Hematology*\nVisit in C13008\nTarget Day\nDay Range\nWeek 20\n141\n113 \u2013 168\nWeek 28\n197\n169 \u2013 224\nWeek 36a\n253\n225 \u2013 280\nWeek 44\n309\n281 \u2013 336\nWeek 52b\n365\n337 \u2013 392\nWeek 60\n421\n393 \u2013 448\nWeek 68a\n477\n449 \u2013 504\nWeek 76\n533\n505 \u2013 560\nWeek 84\n589\n561 \u2013 616\nWeek 92\n645\n617 \u2013 672\nWeek 100a\n701\n673 \u2013 728 (673 -- 756)c\nWeek 108\n757\n729-784\nWeek 116\n813\n785-840 (757-868)\nWeek 124\n869\n841 \u2013 896\nWeek 132\n925\n897 \u2013 952 (869 \u2013 980)\nWeek 140\n981\n953 \u2013 1008\nWeek 148\n1037\n1009 \u2013 1064 (981- 1092)\nWeek 156\n1093\n1065 \u2013 1120\nWeek 164\n1149\n1121 \u2013 1176 (1093 -1204)\nWeek 172\n1205\n1177 \u2013 1232\nWeek 180\n1261\n1233 \u2013 1288 (1205 -1316)\nWeek 188\n1317\n1289 \u2013 1344\nWeek 196\n1373\n1345 \u2013 1421 (1317 -1428)\nWeek 212\n1485\n1429-1540\nWeek 228\n1597\n1541-1666\nWeek 248\n1737\n1667-1792\nWeek 264\n1849\n1793-1904\nWeek 280\n1961\n1905-2030\nWeek 300\n2101\n2031-2156\nWeek 316\n2213\n2157-2268\nWeek 332\n2325\n2269-2394\nWeek 352\n2465\n2395-2535\n* JCV assessment, clinical chemistry and hematology are not conducted at Day 0.  For baseline, the last \nmeasurement from the previous study (eg, C13004, C13006, C13007, or C13011) is used.\n** For de novo patients, screening and week 0 are from nominal visit.\na Schedule for CRP follows Weeks 36, 68,  100, 132, 164, and 196 visits window above.\nb Schedule for coagulation follows Week 52, 104, and 152 visit window above.\nc Windows in the brackets are for clinical chemistry and hematology in Years 3 and 4 only. . JCV testing \n",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "N/A",
+                                "Title": "Table 5\u20114   \tStudy Visit Windows:  Vital Signs",
+                                "Content": "Vedolizumab\nStatistical Analysis Plan, Study C13008\nConfidential\n23\nTable 5-4   \nStudy Visit Windows: Vital Signs\nVisit in C13008\nTarget Day\nDay Range\nWeek 60\n421\n407 \u2013 434\nWeek 64\n449\n435 \u2013 462\nWeek 68\n477\n463 \u2013 490\nWeek 72\n505\n491 \u2013 518\nWeek 76\n533\n519 \u2013 546\nWeek 80\n561\n547 \u2013 574\nWeek 84\n589\n575 \u2013 602\nWeek 88\n617\n603 \u2013 630\nWeek 92\n645\n631 \u2013 658\nWeek 96\n673\n659 \u2013 686\nWeek 100\n701\n687 \u2013 714\nWeek 104\n729\n715 \u2013 742\nWeek 108\n757\n743 \u2013 770\nWeek 112\n785\n771 \u2013 798\nWeek 116\n813\n799 \u2013 826\nWeek 120\n841\n827 \u2013 854\nWeek 124\n869\n855 \u2013 882\nWeek 128\n897\n883 \u2013 910\nWeek 132\n925\n911 \u2013 938\nWeek 136\n953\n939 \u2013 966\nWeek 140\n981\n967 \u2013 994\nWeek 144\n1009\n995 \u2013 1022\nWeek 148\n1037\n1023 \u2013 1050\nWeek 152\n1065\n1051 \u2013 1078\nWeek 156\n1093\n1079 \u2013 1106\nWeek 160\n1121\n1107 \u2013 1134\nWeek 164\n1149\n1135 \u2013 1162\nWeek 168\n1177\n1163 \u2013 1190\nWeek 172\n1205\n1191 \u2013 1218\nWeek 176\n1233\n1219 \u2013 1246\nWeek 180\n1261\n1247 \u2013 1274\nWeek 184\n1289\n1275 \u2013 1302\nWeek 188\n1317\n1303 \u2013 1330\nWeek 192\n1345\n1331 \u2013 1358\nWeek 196\n1373\n1359 \u2013 1386\nWeek 200\n1401\n1387-1414\nWeek 204\n1429\n1415-1442\nVedolizumab\nStatistical Analysis Plan, Study C13008\nConfidential\n24\nTable 5-4   \nStudy Visit Windows: Vital Signs\nVisit in C13008\nTarget Day\nDay Range\nWeek 208\n1457\n1443-1470\nWeek 212\n1485\n1471-1498\nWeek 216\n1513\n1499-1526\nWeek 220\n1541\n1527-1554\nWeek 224\n1569\n1555-1582\nWeek 228\n1597\n1583-1610\nWeek 232\n1625\n1611-1638\nWeek 236\n1653\n1639-1666\nWeek 240\n1681\n1667-1694\nWeek 244\n1709\n1695-1722\nWeek 248\n1737\n1723-1750\nWeek 252\n1765\n1751-1778\nWeek 256\n1793\n1779-1806\nWeek 260\n1821\n1807-1834\nWeek 264\n1849\n1835-1862\nWeek 268\n1877\n1863-1890\nWeek 272\n1905\n1891-1918\nWeek 276\n1933\n1919--1946\nWeek 280\n1961\n1947-1974\nWeek 284\n1989\n1975-2002\nWeek 288\n2017\n2003-2030\nWeek 292\n2045\n2031-2058\nWeek 296\n2073\n2059-2086\nWeek 300\n2101\n2087-2114\nWeek 304\n2129\n2115-2142\nWeek 308\n2157\n2143-2170\nWeek 312\n2185\n2171-2198\nWeek 316\n2213\n2199-2226\nWeek 320\n2241\n2227-2254\nWeek 324\n2269\n2255-2282\nWeek 328\n2297\n2283-2310\nWeek 332\n2325\n2311-2338\nWeek 336\n2353\n2339-2366\nWeek 340\n2381\n2367-2394\nWeek 344\n2409\n2395-2422\nWeek 348\n2437\n2423-2450\nWeek 352\n2465\n2451-2478\n",
+                                "Sub-sections": []
+                            }
+                        ]
+                    },
+                    {
+                        "Header Number": "5.3.4",
+                        "Title": "Conventions for Missing Adverse Event Dates",
+                        "Content": "Vedolizumab\nStatistical Analysis Plan, Study C13008\nConfidential\n26\n\uf0b7\nFirst  vedolizumab dose date \n\uf0b7\nConsent date (for SAEs only)\n2. If an onset date is incomplete, the derived onset date  is calculated by the following:\n\uf0b7\nMissing day, but month and year present: the day is imputed as the 15th of the \nmonth.  If the month and year are equal to the month and year of the first \nvedolizumab dose and the first  vedolizumab dose occurs after the imputed date, \nthe derived onset date is set equal to the first vedolizumab date.  If the AE end \ndate occurs before the imputed date, the derived onset date is set equal to the AE \nend date.\n\uf0b7\nMissing day and month, but year present: the day and month is imputed as the \n30th June of the year.  If the year is equal to the year of the first vedolizumab dose \nand the first vedolizumab dose occurs after the imputed date, the derived onset \ndate  is set equal to the first vedolizumab  date.  If the AE end date occurs before\nthe imputed date, the derived onset date is set equal to the AE end date.\n\uf0b7\nIf the imputed AE onset date occurs after the database lock date, the imputed AE \nonset date is imputed as the database lock date.  \nFor AEs or SAEs, a missing or incomplete end date is imputed according to the following \nconventions:\n1. If an end date is missing, the derived end date is imputed as the last assessment date, \nassuming that the last assessment occurs after the AE start.  If the last assessment \noccurs before the AE start date, the derived end date is imputed as the AE start date.  \n2. If an end date is incomplete, the derived end date  is calculated by the following:\n\uf0b7\nMissing day, but month and year present: the day is imputed as the last date (for \nexample February 2009 is imputed as 28 February 2009) of the month.  \n\uf0b7\nMissing day and month, but year present: the day and month is imputed as the \n31st December of the year.  \n\uf0b7\nIf the imputed AE end date occurs after the database lock date, the imputed AE \nend date is imputed as the database lock date.  \n",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "5.3.5",
+                        "Title": "Conventions for Missing Concomitant Medication Dates",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "5.3.6",
+                        "Title": "Conventions for Missing Previous Medication Dates",
+                        "Content": "",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "5.4",
+                "Title": "Calculation of Body Mass Index",
+                "Content": "",
+                "Sub-sections": []
+            }
+        ]
+    },
+    {
+        "Header Number": "6.",
+        "Title": "STATISTICAL METHODOLOGY",
+        "Content": "",
+        "Sub-sections": [
+            {
+                "Header Number": "6.1",
+                "Title": "Determination of Sample Size for the Long-term Safety Study",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "6.2",
+                "Title": "Randomization and Stratification",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "6.3",
+                "Title": "Unblinding",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "6.4",
+                "Title": "Methods for Handling Missing Data",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "6.5",
+                "Title": "Patient Disposition",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "6.6",
+                "Title": "Demographics and Baseline Disease Characteristics",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "6.6.1",
+                        "Title": "Demographics",
+                        "Content": "",
+                        "Sub-sections": [
+                            {
+                                "Header Number": "N/A",
+                                "Title": "Table 6\u20111   \tSummaries of UC/CD-Related Baseline Characteristics",
+                                "Content": "",
+                                "Sub-sections": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Header Number": "6.7",
+                "Title": "Treatments and Medications",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "6.7.1",
+                        "Title": "Concomitant Medications and Procedures",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "6.7.2",
+                        "Title": "Study Drug Administration",
+                        "Content": "",
+                        "Sub-sections": [
+                            {
+                                "Header Number": "6.7.2.1",
+                                "Title": "Extent of Exposure",
+                                "Content": "Vedolizumab\nStatistical Analysis Plan, Study C13008\nConfidential\n33\nExposure Calculation Rules for Incorporating Up to 16 Week PK/PD Effect \nC13006/7 Patients\n\uf0b7\nCalculate exposure for C13006/7 and C13008 separately and sum.  \n\uf0b7\nFor C13006/7:\no\nIf on placebo in Induction in C13006/7, then C13006/7 EXPOSURE = 0\no\nIf on drug in Induction only (and not on drug in Maintenance):\n\uf02d\nCalculate C13006/7 End Exposure Date as min((Last Dose in Induction + 16 \nweeks), C13008 Start Date)\n\uf02d\nC13006/7 EXPOSURE = (C13006/7 End Exposure Date \u2013 First Dose in \nInduction + 1)\no\nIf on drug in Induction & Maintenance:\n\uf02d\nCalculate C13006/7 End Exposure Date as min (Last Dose in Maintenance + \n16 weeks, C13008 Start Date)\n\uf02d\nC13006/7 EXPOSURE = (C13006/7 End Exposure Date \u2013 First Dose in \nInduction + 1)\n\uf0b7\nFor C13008:\no\nEnd exposure date = min((Last Dose Date on C13008 + 16 weeks), Data Cutoff \nDate)\no\nC13008 EXPOSURE = (End Exposure Date-First Dose Date in C13008 + 1)\n\uf0b7\nTOTAL EXPOSURE = C13006/7 EXPOSURE + C13008 EXPOSURE\nC13011 Patients\n\uf0b7\nCalculate exposure for C13011 and C13008 separately and sum.  \n\uf0b7\nFor C13011:\nVedolizumab\nStatistical Analysis Plan, Study C13008\nConfidential\n34\no\nIf placebo in C13011, then C13011 EXPOSURE = 0\no\nCalculate C13011 End Exposure Date as min ((Last Dose in Induction in C13011 \n+ 16 weeks), C13008 Start Date)\no\nC13011 EXPOSURE = (C13011 End Exposure Date \u2013 First Dose in Induction \n+ 1)\n\uf0b7\nFor C13008:\no\nEnd exposure date = min((Last Dose Date on C13008 + 16 weeks), Data Cutoff \nDate)\no\nC13008 EXPOSURE = (End Exposure Date-First Dose Date in C13008 + 1)\n\uf0b7\nTOTAL EXPOSURE = C13011 EXPOSURE + C13008 EXPOSURE\nC13002/4 Patients\nFor patients who have rolled over into C13008:\n\uf0b7\nFor C13002/4:\no\nCalculate C13002 End Exposure Date as min ((Last Dose in C13002 + 16 \nweeks), C13004 Start Date)\no\nCalculate C13004 End Exposure Date as min ((Last Dose in C13004 + 16 \nweeks), C13008 Start Date)\no\nIf not in C13002 or on placebo in C13002, C13002/4 EXPOSURE = C13004 \nEnd Exposure Date - First Dose Date in C13004 + 1\no\nIf on drug in C13002, C13002/4 EXPOSURE = (C13004 End Exposure Date -\nFirst Dose Date in C13004 + 1) + (C13002 End Exposure Date \u2013 First Dose Date \nin C13002 + 1)\n\uf0b7\nFor C13008:\no\nCalculate C13008 End Exposure Date as min((Last Dose in C13008 + 16 weeks), \nC13008 Data Cutoff Date)\n",
+                                "Sub-sections": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Header Number": "6.8",
+                "Title": "Safety Analyses",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "6.8.1",
+                        "Title": "Safety Data Summary Grouping for Long-term Safety Study",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "6.8.2",
+                        "Title": "Adverse Events",
+                        "Content": "",
+                        "Sub-sections": [
+                            {
+                                "Header Number": "6.8.2.1",
+                                "Title": "Treatment-Emergent Adverse Events",
+                                "Content": "",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "6.8.2.2",
+                                "Title": "Time Adjusted Incidence Rates",
+                                "Content": "",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "6.8.2.3",
+                                "Title": "All Adverse Events",
+                                "Content": "",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "6.8.2.4",
+                                "Title": "Serious Adverse Events",
+                                "Content": "",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "6.8.2.5",
+                                "Title": "Deaths",
+                                "Content": "",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "6.8.2.6",
+                                "Title": "Adverse Events Resulting in Discontinuation of Study Drug",
+                                "Content": "",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "6.8.2.7",
+                                "Title": "Adverse Events of Special Interest",
+                                "Content": "Vedolizumab\nStatistical Analysis Plan, Study C13008\nConfidential\n39\nsome AEs of special interest are also summarized by SOC, HLT, PT, and CD/UC subgroups \nas defined in Section 6.5.  \nThe categories of adverse events of special interest and other planned analyses are as \nfollows:\nInfections\nSummary tables of all serious infections and infections leading to discontinuation of study \ndrug are presented .  As vedolizumab is a local immunomodulator of the gastrointestinal \ntract, mucosal and gastrointestinal infections are also summarized separately.  TEAE \ninfections are also listed.  Incidence of infections are summarized by the groups defined in \nSection 6.5.  Infection rates are summarized by SOC, HLT, PT, and CD/UC subgroups as \ndefined in Section 6.5.  \nInfections are also presented by time adjusted incidence rate (eg, events/person years).\nComparative rates of infection in patients who have not received concomitant \nimmunomodulators or concomitant corticosteroids (monotherapy) , patients who have \nreceived concomitant immunomodulators  (eg, azathioprine, 6-mercaptopurine), and patients \nwho have received concomitant corticosteroids (eg, prednisone, prednisolone),  are reported.\nGastrointestinal Adverse Events\nSubset analyses of all gastrointestinal AEs include all serious AEs and gastrointestinal AEs \nleading to discontinuations.  Gastrointestinal AE incident rates are summarized by the \npatient groups defined in Section 6.5.  \nInfusion-Related Reactions/Immunogenicity\nInfusion-related AEs are summarized by PT and the patient groups defined in Section 6.5.  \nIn addition, all AEs beginning on or 1 calendar day after the dates of study drug infusions are \nsimilarly analyzed.  Comparative rates of infusion-related AEs are reported in HAHA-\nnegative and HAHA- positive patients (see Section 6.8.6.3).  Comparative rates of infusion-\nrelated AEs are also reported by CD/UC subgroups as defined in Section 6.5.  Infusion-\nrelated AEs (investigator defined) are presented by preferred term.\n",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "6.8.2.8",
+                                "Title": "Adverse Events in Special Groups",
+                                "Content": "",
+                                "Sub-sections": []
+                            }
+                        ]
+                    },
+                    {
+                        "Header Number": "6.8.3",
+                        "Title": "Laboratory Data",
+                        "Content": "",
+                        "Sub-sections": [
+                            {
+                                "Header Number": "6.8.3.1",
+                                "Title": "Marked Laboratory Abnormalities",
+                                "Content": "",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "6.8.3.2",
+                                "Title": "Changes from Baseline Values for Selected Laboratory Parameters over Time",
+                                "Content": "",
+                                "Sub-sections": []
+                            }
+                        ]
+                    },
+                    {
+                        "Header Number": "6.8.4",
+                        "Title": "ECG",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "6.8.5",
+                        "Title": "Vital Signs",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "6.8.6",
+                        "Title": "Immunogenicity Analysis",
+                        "Content": "",
+                        "Sub-sections": [
+                            {
+                                "Header Number": "6.8.6.1",
+                                "Title": "Data Set Analyzed",
+                                "Content": "",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "6.8.6.2",
+                                "Title": "HAHA Definitions",
+                                "Content": "",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "6.8.6.3",
+                                "Title": "Patient Status",
+                                "Content": "",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "6.8.6.4",
+                                "Title": "Effects of HAHA on Safety",
+                                "Content": "",
+                                "Sub-sections": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Header Number": "6.9",
+                "Title": "Exploratory Efficacy Analyses",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "6.9.1",
+                        "Title": "General Methods",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "6.9.2",
+                        "Title": "Exploratory Efficacy Endpoints",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "6.9.3",
+                        "Title": "Exploratory Efficacy Analysis",
+                        "Content": "",
+                        "Sub-sections": [
+                            {
+                                "Header Number": "N/A",
+                                "Title": "Table 6\u20112   \tSummary of Analyses for Exploratory Objectives",
+                                "Content": "",
+                                "Sub-sections": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Header Number": "6.10",
+                "Title": "Resource Utilization Outcomes",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "N/A",
+                        "Title": "Table 6\u20113   \tSummary of Analyses for Resource Utilization Objectives",
+                        "Content": "",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "6.11",
+                "Title": "Patient-Reported Outcomes (PROs)",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "N/A",
+                        "Title": "Table 6\u20114   \tSummary of Analyses for Patient-Reported Outcomes Objectives",
+                        "Content": "",
+                        "Sub-sections": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Header Number": "7.",
+        "Title": "CHANGES TO PLANNED ANALYSES FROM PROTOCOL",
+        "Content": "",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "8.",
+        "Title": "REFERENCES",
+        "Content": "VedolizumabStatistical Analysis Plan, Study C13008Confidential50",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "N/A",
+        "Title": "APPENDICES",
+        "Content": "",
+        "Sub-sections": [
+            {
+                "Header Number": "N/A",
+                "Title": "APPENDIX 1 TABLES AND FIGURES",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "N/A",
+                "Title": "APPENDIX 2 LABORATORY ABNORMALITY CRITERIA",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "N/A",
+                "Title": "APPENDIX 3 GEOGRAPHIC REGIONS",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "N/A",
+                "Title": "APPENDIX 4 MAYO SCORE CALCULATION WORKSHEET",
+                "Content": "Vedolizumab\nStatistical Analysis Plan, Study C13008\nConfidential\n54\n1 = Mild disease\n2 = Moderate disease\n3 = Severe disease\nreceiving.\n\uf0d8\nBe based on the\n\uf0b7Other 3 components of the Mayo score\n\uf0b7Patient\u2019s recollection of abdominal discomfort and general sense of well-being\n\uf0b7Patient\u2019s performance status, fecal incontinence, and mood\n\uf0b7Physician's observations and physical exam findings\n\uf0d8\nReflect disease activity, NOT disease severity (eg. Do not automatically give a high \nPGA to patients with pancolitis or severe/complicated disease, or patients requiring \nmultiple medications.)\n\uf0b7\nSubscores representing the average of 3 days of patient diary data can be obtained from the IVRS subscore report. If \ncalculated manually, subscores should be rounded to the nearest integer.\n\uf0b7\nThe Mayo score is equal to the sum of the subscores.\n",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "N/A",
+                "Title": "APPENDIX 5 AES OF SPECIAL INTEREST",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "N/A",
+                "Title": "APPENDIX 6 PRIOR THERAPIES",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "N/A",
+                "Title": "APPENDIX 7 PATIENT REPORTED OUTCOMES",
+                "Content": "Vedolizumab\nStatistical Analysis Plan, Study C13008\nConfidential\n58\nTable A7.1:\nPatient Reported Outcomes \u2013 IBDQ, SF-36 and EQ-5D\nVariable\nMental Health (Z-score)\n(MH-74.98685)/17.75604\nAggregated physical score PHYS = (PF_Z*0.42402) + (RP_Z*0.35119) +( \nBP_Z*0.31754)+(GH_Z*0.24954)+( \nVT_Z*0.02877) +( SF_Z*0.00753*(-1))+( \nRE_Z* 0.19206*(-1)) + (MH_Z*0.22069*(-1))\nAggregated Mental score\nMENT = (PF_Z*0.22999*(-1)) + \n(RP_Z*0.12329*\n(-1)) +( BP_Z*0.09731*(-\n1))+(GH_Z*0.01571*(-1))+ ( VT_Z*0.23534) +( \nSF_Z*0.26876)+( RE_Z* 0.43407) + \n(MH_Z*0.48581)\nNote \nIf less than or equal to 4 Z-scores are missing, the average of the remaining Z \nscores will be used to compute the value for the missing component score.  If \nmore than 4 Z scores are missing, the aggregate mental or physical will be set \nto missing.\nIBDQ\nSub-score\nCalculation\nIBDQ Bowel symptoms \nscore\nSum of (Q1, Q5, Q9, Q13, Q17, Q20, Q22, Q24, \nQ26, Q29), Ranging from 10 to 70, 10 questions\nIBDQ Emotional function \nscore\nSum of (Q3, Q7, Q11, Q15, Q19, Q21, Q23, \nQ25, Q27, Q30, Q31, Q32), Ranging from 12 to \n84, 12 questions\nIBDQ Social function \nscore\nSum of (Q4, Q8, Q12, Q16,Q28), Ranging from \n5 to 35, 5 questions\nIBDQ Systemic symptoms \nscore\nSum of (Q2, Q6, Q10, Q14,Q18), Ranging from \n5 to 35, 5 questions\nNote\nFor each component score above, if 50% or less of the component score is \nmissing at a visit, the MEAN of the remaining component score will be \nimputed as the value for the missing component score. If more than 50% of \nthe component score is missing for the item, the imputed value will be set to \nmissing. \nIBDQ score\nSum of (bowel, emotion, social, system)\nNote\nIf any of the component score is missing at a visit, the imputed value will be \nset to missing..\nEQ-5D\nSub-score\nCalculation\nEQ5D Mobility \ncomponent score\nRanging from 1 to 3\nEQ5D self-care \ncomponent score\nRanging from 1 to 3\nEQ5D usual activities \ncomponent score\nRanging from 1 to 3\nEQ5D Pain/discomfort \nRanging from 1 to 3\nVedolizumab\nStatistical Analysis Plan, Study C13008\nConfidential\n59\nTable A7.1:\nPatient Reported Outcomes \u2013 IBDQ, SF-36 and EQ-5D\nVariable\ncomponent score\nEQ5D anxiety/depression \ncomponent score\nRanging from 1 to 3\nNote\nIf 2 or less out of 5 of the components are missing at a visit, the MEAN of \nthe remaining component score will be imputed as the value for the missing \ncomponent score.  If 3 or more components are missing, the imputed value \nwill be set to missing.\nEQ5D VAS\nOn a scale of 0 to 100, where 0 is the worst imaginable health state and 100 \nis the best imaginable health state.\n* Z-scores formula are described in the SC-36 Manual\n",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "N/A",
+                "Title": "APPENDIX 8 AES OF SPECIAL INTEREST",
+                "Content": "",
+                "Sub-sections": []
+            }
+        ]
+    }
+]

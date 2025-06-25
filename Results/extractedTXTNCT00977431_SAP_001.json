@@ -1,0 +1,238 @@
+[
+    {
+        "Header Number": "N/A",
+        "Title": "SIGNATURE INFORMATION",
+        "Content": "  Document:                                                            Document No.:                                                                                                                         Title                                                               SIGNATURES  (ELECTRONICALLY OBTAINED)   Meaning of Signature: Signed by: Date signed: (GMT)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              1200-0038--tsapT11-1081-01Phase I, open label trial to explore safety of combining BIBW 2992 andRadiotherapy with or without Temozolomide in newly diagnosed GBMAuthor-Trial Statistician12/1/2011 10:01:36Author-Trial ClinicalPharmacokineticist12/1/2011 10:10:50Author-Trial Clinical Monitor12/1/2011 11:09:50Verify Paper Signature Completion12/1/2011 14:25:56Approval-Project Statistician12/1/2011 15:22:51 \nSIGNATURE INFORMATION (continued) \nDocument \n                              \n                           \nDocument No.:                                                                                                                        \n \nTitle \n                             \n \n \n \n \n \n \n                          \nSIGNATURES  (ELECTRONICALLY OBTAINED)  \n(There are no entries on this page if there are up to seven signatures.) \nMeaning of Signature: \nSigned by: \nDate signed: (GMT) \n                                   \n \n \n \n                                \n                                                                                                                      \n                                   \n \n \n \n                                \n                                                                                                                      \n                                   \n \n \n \n                                \n                                                                                                                      \n                                     \n \n \n \n                                  \n                                                                                                                      \n                                     \n \n \n                                  \n                                                                                                                      \n                                     \n \n \n                                \n                                                                                                                       \n                                     \n \n \n                                 \n                                                                                                                       \n                                     \n \n \n                                  \n                                                                                                                     \n \n1200-0038--tsap\nT11-1081-01\nPhase I, open label trial to explore safety of combining BIBW 2992 and\nRadiotherapy with or without Temozolomide in newly diagnosed GBM\n",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "N/A",
+        "Title": "TITLE PAGE",
+        "Content": "  ABCD Trial Statistical Analysis Plan  T11-1081-01 BI Trial No.: 1200.38 Title: Phase I, open label trial to explore safety of combining BIBW 2992 and Radiotherapy with or without Temozolomide in newly diagnosed GBM (Including Protocol Amendment 1 [U09-1323-01-AM1], Protocol Amendment 2 [U09-1323-01-AM2], Protocol Amendment 3 [U09-1323-01-AM3]) Test substance: Tomtovok \u00ae, afatinib (BIBW 2992) Responsible trial statistician: Phone: Fax:     Date of statistical analysis plan: 01 December 2011 SIGNED Version: Final Page 1 of 22Proprietary confidential information \u00a9 2011 Boehringer Ingelheim International GmbH or one or more of its affiliated companies. All rights reserved. This document may not - in full or in part - be passed on, reproduced, published or otherwise used without prior written permission.  Boehringer Ingelheim  TSAP for BI Trial No: 1200.38 Page 2 of 22Proprietary confidential information \u00a9 2011 Boehringer Ingelheim International GmbH or one or more of its affiliated companies  TITLE PAGE ...................................................................................................... 1 ",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "1.",
+        "Title": "TABLE OF CONTENTS",
+        "Content": " TITLE PAGE ...................................................................................................... 1  ...................................................................... 2 LIST OF TABLES .............................................................................................. 4 2. LIST OF ABBREVIATIONS ............................................................... 5 3. INTRODUCTION .................................................................................. 6 4. CHANGES IN THE PLANNED ANALYSIS OF THE STUDY ...... 7 5. ENDPOINTS .......................................................................................... 8 5.1 PRIMARY ENDPOINTS .................................................................................... 8 5.2 SECONDARY ENDPOINTS .............................................................................. 8 5.2.1 Key secondary endpoints ................................................................................ 8 5.2.3 (Other) Secondary endpoints ......................................................................... 8 ..................................... 8 ..................................... 8 ..................................... 8 ..................................... 9 6. GENERAL ANALYSIS DEFINITIONS ........................................... 10 6.1 TREATMENTS .................................................................................................. 10 6.2 IMPORTANT PROTOCOL VIOLATIONS .................................................. 10 6.3 PATIENT SETS ANALYSED .......................................................................... 13 .................................................................................................... 14 6.5 POOLING OF CENTRES ................................................................................ 14 6.6 HANDLING OF MISSING DATA AND OUTLIERS ................................... 14 6.7  BASELINE, TIME WINDOWS AND CALCULATED VISITS .................. 14 7. PLANNED ANALYSIS ....................................................................... 15 7.1 DEMOGRAPHIC AND OTHER BASELINE CHARACTERISTICS ........ 15 7.2 CONCOMITANT DISEASES AND MEDICATION .................................... 15 7.3 TREATMENT COMPLIANCE ....................................................................... 15 7.4 PRIMARY ENDPOINTS .................................................................................. 15 7.5 SECONDARY ENDPOINTS ............................................................................ 16 7.5.1 Key secondary endpoints .............................................................................. 16 7.5.2 (Other) Secondary endpoints ....................................................................... 16 ............................................................................... 16 7.7 EXTENT OF EXPOSURE ................................................................................ 16 7.8 SAFETY ANALYSIS ......................................................................................... 16 7.8.1 Adverse events ............................................................................................... 16 7.8.1.1 Adverse events of special interest .............................................................. 17 7.8.2 Laboratory data ............................................................................................. 18 7.8.3 Vital signs ....................................................................................................... 18 7.8.4 ECG ................................................................................................................ 18 7.8.5 Others ............................................................................................................. 18 8. REFERENCES ..................................................................................... 20 ............................................................... 21 .......................................................................... 21 Boehringer Ingelheim  \nTSAP for BI Trial No: 1200.38 \nPage 3 of 22\nProprietary confidential information \u00a9 2011 Boehringer Ingelheim International GmbH or one or more of its affiliated companies \n. 21 \n10. \nHISTORY TABLE ............................................................................... 22 \n \nBoehringer Ingelheim  TSAP for BI Trial No: 1200.38 Page 4 of 22Proprietary confidential information \u00a9 2011 Boehringer Ingelheim International GmbH or one or more of its affiliated companies ",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "N/A",
+        "Title": "LIST OF TABLES",
+        "Content": " Table 6.2: 1 Important Protocol Violations ......................................................................... 11  Boehringer Ingelheim  TSAP for BI Trial No: 1200.38 Page 5 of 22Proprietary confidential information \u00a9 2011 Boehringer Ingelheim International GmbH or one or more of its affiliated companies ",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "2.",
+        "Title": "LIST OF ABBREVIATIONS",
+        "Content": " Term Definition / description AE Adverse event BI Boehringer Ingelheim BIBW 2992 Afatinib BMI Body mass index BSA Body surface area CR Complete response CTCAE Common Terminology Criteria for Adverse Events CTP Clinical Trial Protocol DLT Dose limiting toxicity EMA European Medicines Agency ICH International Conference on Harmonisation IPV Important protocol violation MedDRA Medical Dictionary for Regulatory Activities MGMT O6-methylguanine-DNA methyltransferase NCI National Cancer Institute PK Pharmacokinetics PR Partial response PT Preferred term RT Radiotherapy SAE Serious adverse event SD Standard deviation SIAE Significant adverse event SOC System Organ Class TMZ Temozolomide TSAP Trial statistical analysis plan  Boehringer Ingelheim  TSAP for BI Trial No: 1200.38 Page 6 of 22Proprietary confidential information \u00a9 2011 Boehringer Ingelheim International GmbH or one or more of its affiliated companies ",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "3.",
+        "Title": "INTRODUCTION",
+        "Content": " As per International Conference on Harmonisation (ICH) E9, the purpose of this document is to provide a more technical and detailed elaboration of the principal features of the analysis described in the protocol, and to include detailed procedures for executing the statistical analysis of the primary and secondary variables and other data. This Trial Statistical Analysis Plan (TSAP) assumes familiarity with the Clinical Trial Protocol (CTP), including Protocol Amendments. In particular, the TSAP is based on the planned analysis specification as written in CTP Section 7 \u201cStatistical Methods and Determination of Sample Size\u201d. Therefore, TSAP readers may consult the CTP for more background information on the study, e.g., on study objectives, study design and population, treatments, definition of measurements and variables, planning of sample size, randomisation. SAS\u00ae Version 9.2 (or later version) will be used for all analyses.  Boehringer Ingelheim  TSAP for BI Trial No: 1200.38 Page 7 of 22Proprietary confidential information \u00a9 2011 Boehringer Ingelheim International GmbH or one or more of its affiliated companies ",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "4.",
+        "Title": "CHANGES IN THE PLANNED ANALYSIS OF THE STUDY",
+        "Content": " See statistical changes described in: \u2022 Protocol amendment 3, dated 07 February 2011 (1).  In addition the following changes were not documented in CTP amendments.  Section 7.3.3 of the CTP states:  In-depth analyses will describe the onset, CTCAE grades, duration and clinical consequences of: \u2022 Diarrhoea; \u2022 Nausea and vomiting; \u2022 Rash and acne; \u2022 Worsening of cardiac left ventricular function; \u2022 Worsening of laboratory abnormalities; \u2022 Other AEs that occur with sufficient overall frequency (>10%).  However project defined special grouped-term search categories have not been identified for either worsening of cardiac left ventricular function or laboratory abnormalities as reported adverse events (AEs), therefore in-depth analyses will not be performed as described above. Instead, descriptive statistics are planned for left ventricular ejection fraction which will include worst value on treatment and change from baseline. Furthermore, clinically significant laboratory abnormalities will be analysed according to Boehringer Ingelheim (BI) standards. Also, dependent on the final sample size, it is possible that all AEs will occur with frequency >10%; thus the other AEs that will be analysed in-depth will be determined pragmatically by the trial team. Boehringer Ingelheim  TSAP for BI Trial No: 1200.38 Page 8 of 22Proprietary confidential information \u00a9 2011 Boehringer Ingelheim International GmbH or one or more of its affiliated companies ",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "5.",
+        "Title": "ENDPOINTS",
+        "Content": " ",
+        "Sub-sections": [
+            {
+                "Header Number": "5.1",
+                "Title": "PRIMARY ENDPOINTS",
+                "Content": " Investigator defined dose limiting toxicity during concomitant treatment period: At least one AE meeting the criteria for dose limiting toxicity (DLT; as determined by the investigator and defined in Section 5.2.3 of the CTP) with onset during the 42 day concomitant treatment period when trial medication is given concomitantly with radiotherapy (RT). ",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "5.2",
+                "Title": "SECONDARY ENDPOINTS",
+                "Content": " ",
+                "Sub-sections": [
+                    {
+                        "Header Number": "5.2.1",
+                        "Title": "Key secondary endpoints",
+                        "Content": " This section is not applicable as no key secondary endpoints have been specified in the CTP. ",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "5.2.3",
+                        "Title": "(Other) Secondary endpoints",
+                        "Content": " Adverse events: Maximum grade (severity) of AEs according to the United States National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE) version 3.0. Objective response: Best overall response of complete response (CR) or partial response (PR), where best overall response is the best overall response to trial medication (without clinical disease assessment) according to the Macdonald criteria (defined in Section 5.1.3 of the CTP) recorded since first administration of trial medication and until disease progression or start of further anti-cancer treatment. Pharmacokinetic (PK) parameters: The derivation of standard PK parameters is performed according to BI standards. (2) Boehringer Ingelheim  \nTSAP for BI Trial No: 1200.38 \nPage 9 of 22\nProprietary confidential information \u00a9 2011 Boehringer Ingelheim International GmbH or one or more of its affiliated companies \nBoehringer Ingelheim  TSAP for BI Trial No: 1200.38 Page 10 of 22Proprietary confidential information \u00a9 2011 Boehringer Ingelheim International GmbH or one or more of its affiliated companies ",
+                        "Sub-sections": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Header Number": "6.",
+        "Title": "GENERAL ANALYSIS DEFINITIONS",
+        "Content": " ",
+        "Sub-sections": [
+            {
+                "Header Number": "6.1",
+                "Title": "TREATMENTS",
+                "Content": " For safety analyses, data up to and including 28 days after last treatment intake will be considered as on-treatment. Patients will be analysed according to the treatment group initially assigned. All planned analysis will be presented by this treatment group. Handling of patients where treatment group assignment has not been followed will be handled on a case-by-case basis, to be agreed at report planning meetings. Analyses for Regimen M and Regimen U will be presented separately. ",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "6.2",
+                "Title": "IMPORTANT PROTOCOL VIOLATIONS",
+                "Content": " Important protocol violations (IPVs) are defined according to BI standards (3) and are specified in Table 6.2: 1 of this document. A per protocol set will not be defined for the analysis of this trial but IPVs will be described for patients in the treated set (as defined in Section 6.3 of this document). Boehringer Ingelheim  TSAP for BI Trial No: 1200.38 Page 11 of 22Proprietary confidential information \u00a9 2011 Boehringer Ingelheim International GmbH or one or more of its affiliated companies ",
+                "Sub-sections": [
+                    {
+                        "Header Number": "N/A",
+                        "Title": "Table 6.2: 1 Important Protocol Violations",
+                        "Content": " Category / Code Description Comment/Example A  Entrance criteria not met   A1 Diagnosis of trial disease questionable  Inclusion criteria IN1 not met. or Trial diagnosis is not histologically-confirmed WHO Grade IV newly diagnosed malignant glioma.  A2 MGMT testing   A2.1 Methylated MGMT status not proven (Regimen M only) For patients in Regimen M enrolled before implementation of CTP amendment 3 only: Inclusion criteria IN2 not met. or MGMT test result is not methylated. or Date of MGMT test is missing.  A2.2 Unmethylated MGMT status not proven (Regimen U only) For patients in Regimen U enrolled before implementation of CTP amendment 3 only: Inclusion criteria IN2 not met. or MGMT test result is not un-methylated.  or Date of MGMT test is missing.  A2.3 Tumour material not available for MGMT testing or MGMT test results not available For patients in Regimen M enrolled after implementation of CTP amendment 3 only: Inclusion criteria IN2 not met. or Both of the following: MGMT test result not already available. and  Date of MGMT test is missing.  A3 Safety exclusion criteria met   A3.1 Prohibited baseline condition or diagnosis At least one of exclusion criteria EX6-E11is met. or At least one baseline condition meeting exclusion criteria (defined in Section 3.3.2 of the CTP).  A3.2 LVEF assessment indicating inadequate cardiac function Exclusion criteria EX12 is met. or Screening left ventricular ejection fraction (LVEF) both missing or < 50%.  A3.3 Laboratory result indicating inadequate organ function At least one of exclusion criteria EX13-E17 is met. or Screening and baseline laboratory results both missing or meeting exclusion criteria (defined in Section 3.3.2 of the CTP).  A3.4 Negative pregnancy test result not obtained Exclusion criteria EX19 is met. or For female patient with reproductive potential, screening pregnancy test is positive or not done.  A3.5 Hypersensitivity to trial medication Exclusion criteria EX22 is met. Boehringer Ingelheim  \nTSAP for BI Trial No: 1200.38 \nPage 12 of 22\nProprietary confidential information \u00a9 2011 Boehringer Ingelheim International GmbH or one or more of its affiliated companies \nTable 6.2: 1 \nImportant Protocol Violations (continued) \nCategory / \nCode \nDescription \nComment/Example \n \nA3.6 \nRequirement for treatment with P-gp \ninhibitors \nor P-gp inducers \nFor patients enrolled after implementation of \nCTP amendment 2 only:  \nExclusion criteria EX23 is met. \nB \n \nInformed consent \n \n \nB1 \nInformed consent not given \n \n \nB1.1 \nInformed consent 1 not given \nFor patients enrolled before implementation of \nCTP amendment 3 and who do not already have \nan MGMT test result only: \nInclusion criteria IN7 is not met. \nor \nDate of informed consent 1 is missing. \n \nB1.2 \nInformed consent 2/3  not given \nInclusion criteria IN7 is not met. \nor  \nDate of informed consent 2/3 is missing. \n \nB2 \nInformed consent given too late \n  \n \nB2.1 \nInformed consent 1 given too late \nFor patients enrolled before implementation of \nCTP amendment 3 and who do not already have \nan MGMT test result only: \nDate of any study specific procedures before \ndate of informed consent 1. \n \nB2.2 \nInformed consent 2/3 given too late \nDate of any study specific procedures before \ndate of informed consent 2/3. \nC \n \nTrial medication and randomisation \n \n \nC1 \nIncorrect trial medication taken \n \n \nC1.1 \nIncorrect TMZ dosing during concomitant \ntreatment period (Regimen M only) \nFor patients in Regimen M only: \nAt least one TMZ dose during concomitant \ntreatment period not according to the dose \ndescribed in Section 4.1.4.2 of the CTP. \n \nC2 \nTreatment group assignment not followed \n \n \nC2.1 \nAfatinib treatment during concomitant \ntreatment period in discordance with \ntreatment group assignment \nInitial dose of afatinib does not correspond to \ntreatment group assignment. \nor \nAfatinib dose changes during concomitant \ntreatment period not according to the dose \nreduction scheme described in Section 4.1.4.1.2 \nof the CTP. \n \nC2.2 \nTMZ treatment during concomitant \ntreatment period in discordance with \ntreatment group assignment \nFor patients in Regimen M only: \nNo dose of TMZ during concomitant period. \nor \nFor patients in Regimen U only: \nAt least one dose of TMZ during concomitant \ntreatment period. \n \nC3 \nNon-compliance \n \n \nC3.1 \nAfatinib non-compliance during \nconcomitant treatment period \nTotal number of doses of afatinib missed for \nreasons other than AE is more than 8 during \nconcomitant treatment period. \nor \nNumber of consecutive doses of afatinib missed \nfor non-AE reasons is more than 5 during \nconcomitant treatment period. \nBoehringer Ingelheim  TSAP for BI Trial No: 1200.38 Page 13 of 22Proprietary confidential information \u00a9 2011 Boehringer Ingelheim International GmbH or one or more of its affiliated companies Table 6.2: 1 Important Protocol Violations (continued) Category / Code Description Comment/Example  C3.2 TMZ non-compliance during concomitant treatment period (Regimen M only) For patients in Regimen M only: Total number of doses of TMZ missed for reasons other than AE is more than 8 during concomitant treatment period.  C4 Trial specific PVs related to trial medication   C4.1 Dose reduction scheme for afatinib not followed Regardless of treatment period, incidence of DLT without subsequent adherence to the dose reduction scheme described in Section 4.1.4.1.2 of the CTP.  C4.2 TMZ treatment continued but re-treatment criteria not met (Regimen M only) For patients in Regimen M only: Following the concomitant treatment period, TMZ not terminated despite re-treatment criteria described in Section 4.1.4.2 of CTP not met. D  Concomitant medication   D1 Prohibited concomitant medication   D1.1 Prohibited medication use before the start of study treatment period Inclusion criteria IN6 is not met. or At least one of exclusion criteria EX1-EX5 is met. or Prohibited concomitant therapy use before start of study treatment (defined in Sections 3.3.1 and 3.3.2 of the CTP).  D1.2 Prohibited medication use during study treatment period Prohibited concomitant therapy use during study treatment (defined in Section 4.2.2 of the CTP).  D2 Mandatory medication not taken   D2.1 Incorrect dose of radiotherapy administered during the concomitant treatment period Radiotherapy total dose not equal to 60 Gy.   D2.2 Pneumocytis pneumonia prophylaxis not taken during concomitant treatment period (Regimen M only) For patients in Regimen M only: Concomitant therapy use during concomitant treatment period does not include appropriate prophylaxis. G  Trial specific protocol violations   G1 Non-adherence to safety withdrawal criteria Trial medication continued despite withdrawal criteria in Section 6.3 of the CTP met.  G2 Other protocol violations affecting patient rights or safety Any other protocol violation that affects the rights or safety of trial patients.  ",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "6.3",
+                "Title": "PATIENT SETS ANALYSED",
+                "Content": " Treated set: This patient set includes all patients who were dispensed trial medication and were documented to have taken at least one dose of investigational treatment. The treated set is to be used for all planned analysis. Boehringer Ingelheim  TSAP for BI Trial No: 1200.38 Page 14 of 22Proprietary confidential information \u00a9 2011 Boehringer Ingelheim International GmbH or one or more of its affiliated companies ",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "6.5",
+                "Title": "POOLING OF CENTRES",
+                "Content": " This section is not applicable because centre/country is not included in the statistical model. ",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "6.6",
+                "Title": "HANDLING OF MISSING DATA AND OUTLIERS",
+                "Content": " PK parameters: Missing data and outliers of PK data are handled according to BI standards. (2) Time from first histological diagnosis: If day of first histological diagnosis is missing it will be imputed using 15. If both day and month of first histological diagnosis is missing they will be imputed using 1st July. Adverse events: Missing or incomplete AE dates are imputed according to BI standards. (4) ",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "6.7",
+                "Title": "BASELINE, TIME WINDOWS AND CALCULATED VISITS",
+                "Content": " Baseline: The measurement observed immediately preceding start of trial medication will be assigned to baseline; note that for some trial procedures (vital signs, mini mental state examination and laboratory tests) this may be the value measured on the same day trial medication was started.  Boehringer Ingelheim  TSAP for BI Trial No: 1200.38 Page 15 of 22Proprietary confidential information \u00a9 2011 Boehringer Ingelheim International GmbH or one or more of its affiliated companies ",
+                "Sub-sections": []
+            }
+        ]
+    },
+    {
+        "Header Number": "7.",
+        "Title": "PLANNED ANALYSIS",
+        "Content": " For end of text tables, unless otherwise specified, the set of summary statistics is: N, mean, standard deviation (SD), minimum, median and maximum. Tabulations of frequencies for categorical data will include all possible categories and will display the number of observations in a category as well as the percentage (%) relative to the respective treatment group. Percentages will be given in whole numbers. The category missing will be displayed only if there are actually missing values. Unless otherwise specified, percentages will be based on all patients in the respective patient set whether they have non-missing values or not. ",
+        "Sub-sections": [
+            {
+                "Header Number": "7.1",
+                "Title": "DEMOGRAPHIC AND OTHER BASELINE CHARACTERISTICS",
+                "Content": " Only descriptive statistics are planned for this section of the report. ",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "7.2",
+                "Title": "CONCOMITANT DISEASES AND MEDICATION",
+                "Content": " Only descriptive statistics are planned for this section of the report. ",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "7.3",
+                "Title": "TREATMENT COMPLIANCE",
+                "Content": " Only descriptive statistics are planned for this section of the report. ",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "7.4",
+                "Title": "PRIMARY ENDPOINTS",
+                "Content": " DLT during concomitant treatment period: The analysis of the primary endpoint will summarise DLT using descriptive statistics with the aim of determining the maximum tolerated dose (defined in Section 5.2.4 of the CTP) of: \u2022 Afatinib in combination with TMZ when given concomitantly with RT (Regimen M); \u2022 Afatinib when given concomitantly with RT (Regimen U). An overall summary of AE occurrences with onset during the concomitant treatment period, which were defined to be DLTs by the investigator, will be presented. This will include the following AE attributes: \u2022 Preferred term, \u2022 Maximum CTCAE grade, \u2022 Outcome, \u2022 Time to first occurence (relative to start of trial medication; see Section 9.2 of this document). Any AE meeting the criteria for DLT, regardless of date of onset, will be considered a significant adverse event (SIAE). The analysis of non-serious SIAEs and serious adverse events (SAEs) is described in Section 7.8.1 of this document. DLTs with onset after the concomitant treatment period will be listed separately. Boehringer Ingelheim  TSAP for BI Trial No: 1200.38 Page 16 of 22Proprietary confidential information \u00a9 2011 Boehringer Ingelheim International GmbH or one or more of its affiliated companies ",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "7.5",
+                "Title": "SECONDARY ENDPOINTS",
+                "Content": " ",
+                "Sub-sections": [
+                    {
+                        "Header Number": "7.5.1",
+                        "Title": "Key secondary endpoints",
+                        "Content": " This section is not applicable as no key secondary endpoints have been specified in the CTP. ",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "7.5.2",
+                        "Title": "(Other) Secondary endpoints",
+                        "Content": " Adverse events: See Section 7.8.1 of this document.  Objective response: Only descriptive statistics are planned for this section of the report. PK parameters: The analysis of standard PK parameters is performed according to BI standards. (2) ",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "7.7",
+                "Title": "EXTENT OF EXPOSURE",
+                "Content": " Only descriptive statistics are planned for this section of the report. ",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "7.8",
+                "Title": "SAFETY ANALYSIS",
+                "Content": " ",
+                "Sub-sections": [
+                    {
+                        "Header Number": "7.8.1",
+                        "Title": "Adverse events",
+                        "Content": " The analyses of AEs will be descriptive in nature. All analyses of AEs will be based on the number of patients with AEs (not the number of AEs). For this purpose, AE data will be combined in a 2-step procedure into AE records. In a first step, AE occurrences, i.e. AE entries on the case report form, will be collapsed into AE episodes provided that all of the following applies: \u2022 The same Medical Dictionary for Regulatory Activities (MedDRA) lowest level term was reported for the occurrences, \u2022 The occurrences were time-overlapping or time-adjacent (time-adjacency of 2 occurrences is given if the second occurrence started on the same day or on the day after the end of the first occurrence), \u2022 Treatment did not change between the onset of the occurrences or treatment changed between the onset of the occurrences, but no deterioration was observed for the later occurrence. In a second step, AE episodes will be condensed into AE records provided that the episodes were reported with the same term on the respective MedDRA level and that the episodes are Boehringer Ingelheim  TSAP for BI Trial No: 1200.38 Page 17 of 22Proprietary confidential information \u00a9 2011 Boehringer Ingelheim International GmbH or one or more of its affiliated companies assigned to the same treatment. For further details on summarisation of AE data, please refer to BI standards for AEs. (5) CTCAE grade and investigator-defined DLT will be included as additional AE attributes. For the purposes of collapsing, additional deterioration rules will be defined for both attributes. In addition, in this trial, the standard AE attribute 'action taken with trial drug' is separated for afatinib and TMZ; the standard condensing rules will be applied for both. The analysis of AEs will be based on the concept of treatment emergent adverse events. That means that all AEs occurring between first administration of trial medication until 28 days after last administration of trial medication will be assigned to trial medication. All AEs occurring before first administration of trial medication will be assigned to \u2018screening\u2019 and all AEs occurring after last administration of trial medication + 28 days will be assigned to \u2018post-study\u2019. Any AE meeting the criteria for DLT (defined in Section 5.2.2 of the CTP), regardless of date of onset, will be considered an SAE or SIAE. According to ICH E3 (6), AEs classified as \u2018other significant\u2019 will include those non-serious and non-significant AEs: (i) with \u2018action taken = discontinuation\u2019 or \u2018action taken = reduced\u2019, or (ii) with marked haematological and other lab abnormalities or which lead to significant concomitant therapy as identified by the Trial Clinical Monitor/Investigator at a report planning meeting.  An overall summary of AEs will be presented, this will include the additional AE attributes maximum CTCAE grade and investigator defined DLT. The frequency of patients with AEs will be summarised by treatment, primary system organ class (SOC) and preferred term (PT). Separate tables will be provided for patients with other significant AEs according to ICH E3 (5), for patients with non-serious SIAEs, for patients with SAEs, for patients with investigator defined DLTs and for patients with related AEs. An additional table will be produced of AEs stratified by the attribute maximum CTCAE grade. The SOCs will be sorted according to the standard sort order specified by European Medicines Agency (EMA), PTs will be sorted by frequency (within SOC). ",
+                        "Sub-sections": [
+                            {
+                                "Header Number": "7.8.1.1",
+                                "Title": "Adverse events of special interest",
+                                "Content": " The following AEs are considered of special interest for this trial: \u2022 Diarrhoea, To be identified by the PT \u2018Diarrhoea\u2019; \u2022 Nausea and vomiting, To be identified by the PTs \u2018Nausea\u2019 and \u2018Vomiting\u2019; \u2022 Rash and acne, To be defined by the PTs contained within the project-defined special grouped-term category 'RASH/ACNE'; Boehringer Ingelheim  TSAP for BI Trial No: 1200.38 Page 18 of 22Proprietary confidential information \u00a9 2011 Boehringer Ingelheim International GmbH or one or more of its affiliated companies \u2022 Other AEs that occur with sufficient overall frequency, To be determined by the trial team at the report planning meeting prior to database lock. An overall summary of each of these AEs of special interest will be presented. This will include the additional AE attributes \u2018Patients with investigator-defined DLTs\u2019, \u2018Maximum CTCAE grade\u2019 and \u2018Time to first occurrence\u2019 (see Section 9.2 of this document).  In addition, the frequency of patients with AEs will be summarised by treatment and project-defined special grouped-term category or preferred term. Where applicable, AE PTs will be re-categorised into one of the following grouped-term categories: \u2022 Fatigue (FATIGUE); \u2022 Nail effect (NAILS); \u2022 Ocular effect (OCULAR); \u2022 Rash and acne (RASH/ACNE); \u2022 Stomatitis (STOMA). Otherwise, AEs will be categorised according to MedDRA PT. Further tables will be provided for patients with related AEs for AEs stratified by the attribute maximum CTCAE grade. The PTs identified within each of the project-defined special grouped-term categories will be listed. ",
+                                "Sub-sections": []
+                            }
+                        ]
+                    },
+                    {
+                        "Header Number": "7.8.2",
+                        "Title": "Laboratory data",
+                        "Content": " The analyses of laboratory data will be descriptive in nature and will be based on BI standards. (7) ",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "7.8.3",
+                        "Title": "Vital signs",
+                        "Content": " Only descriptive statistics are planned for this section of the report. ",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "7.8.4",
+                        "Title": "ECG",
+                        "Content": " This section is not applicable because only limited ECG data are collected. Clinically relevant ECG findings will be reported as AEs. ",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "7.8.5",
+                        "Title": "Others",
+                        "Content": " Left ventricular ejection fraction: Only descriptive statistics are planned for this section of the report. Karnofsky performance scale:  Only descriptive statistics are planned for this section of the report. Mini mental state examination:  Boehringer Ingelheim  \nTSAP for BI Trial No: 1200.38 \nPage 19 of 22\nProprietary confidential information \u00a9 2011 Boehringer Ingelheim International GmbH or one or more of its affiliated companies \nOnly descriptive statistics are planned for this section of the report. \nBoehringer Ingelheim  TSAP for BI Trial No: 1200.38 Page 20 of 22Proprietary confidential information \u00a9 2011 Boehringer Ingelheim International GmbH or one or more of its affiliated companies ",
+                        "Sub-sections": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Header Number": "8.",
+        "Title": "REFERENCES",
+        "Content": "  1 U09-1323-01-AM3: Phase I, open label trial to explore safety of combining BIBW 2992 and Radiotherapy with or without Temozolomide in newly diagnosed GBM (trial 1200.38) 07 February 2011. 2 029-DCP-102: \"Noncompartmental Pharmacokinetic Analyses of Clinical Studies\", current version; IDEA for CON. 3 001-MCG-158: \u201cHandling of Protocol Violations \", current version, IDEA for CON. 4 001-MCG-156_RD-01: \"Handling of missing and incomplete AE dates\", current version; IDEA for CON. 5 001-MCG-156: \"Handling and summarisation of adverse event data for clinical trial reports and integrated summaries\", current version; IDEA for CON. 6 CPMP/ICH/137/95: \u201cStructure and Content of Clinical Study Reports\u201d, ICH Guideline Topic E3; Note For Guidance on Structure and Content of Clinical StudyReports, current version. 7 001-MCG-157: \"Display and Analysis of Laboratory Data\", current version, IDEA for CON.  Boehringer Ingelheim  \nTSAP for BI Trial No: 1200.38 \nPage 21 of 22\nProprietary confidential information \u00a9 2011 Boehringer Ingelheim International GmbH or one or more of its affiliated companies \nBoehringer Ingelheim  TSAP for BI Trial No: 1200.38 Page 22 of 22Proprietary confidential information \u00a9 2011 Boehringer Ingelheim International GmbH or one or more of its affiliated companies ",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "10.",
+        "Title": "HISTORY TABLE",
+        "Content": "",
+        "Sub-sections": []
+    }
+]

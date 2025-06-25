@@ -1,0 +1,277 @@
+[
+    {
+        "Header Number": "N/A",
+        "Title": "STATISTICAL ANALYSIS PLAN PROTOCOL PX-171-010 (20130394): An Open-Label, Single-Arm, Phase 2 Study of Extended\r\nCarfilzomib Therapy in Subjects Previously Enrolled in\r\nCarfilzomib Treatment Protocols",
+        "Content": "",
+        "Sub-sections": [
+            {
+                "Header Number": "N/A",
+                "Title": "Signature Page",
+                "Content": "Onyx Pharmaceuticals Inc.                                                                    Statistical Analysis Plan For Protocol PX-171-010   3",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "N/A",
+                "Title": "LIST OF ABBREVIATIONS",
+                "Content": "  Abbreviation or Term Definition AE adverse event BSA body surface area CRF case report form CBR clinical benefit response CR complete response CSR clinical study report CTCAE Common Terminology Criteria for Adverse Events ECOG Eastern Cooperative Oncology Group FAS Full Analysis population M meter MM multiple myeloma MedDRA Medical Dictionary for Regulatory Activities Mg milligram N number of subjects NCI National Cancer Institute (US) ORR  objective response rate OS overall survival PD progressive disease PFS progression-free survival PR partial response PT MedDRA preferred term RECIST Response Evaluation Criteria in Solid Tumors SAE serious adverse event SAP statistical analysis plan sCR stringent complete response Onyx Pharmaceuticals Inc.                                                                    Statistical Analysis Plan For Protocol PX-171-010 \n \n \n4\nAbbreviation or Term \nDefinition \nSD \nstable disease \nSOC \nMedDRA system organ class \nTEAEs \ntreatment emergent adverse events \nTTP \ntime to progression \nVGPR \nvery good partial response  \n \n \n \n \n \n \n \n \n \nOnyx Pharmaceuticals Inc.                                                                    Statistical Analysis Plan For Protocol PX-171-010   5",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "N/A",
+                "Title": "Table of Contents",
+                "Content": "   1 INTRODUCTION .......................................................................................... 6 2 STUDY OVERVIEW ...................................................................................... 6 2.1 Study Design ............................................................................................ 6 2.2 Study Objective ........................................................................................ 6 2.3 Sample Size Considerations ..................................................................... 6 3 ANALYSIS ENDPOINTS ............................................................................... 7 3.1 Primary Endpoints - Safety ...................................................................... 7 3.2 Secondary Endpoints - Efficacy ............................................................... 7 4 ANALYSIS POPULATIONS .......................................................................... 7 4.1  Safety Population .................................................................................... 7 4.2 Full Analysis Set Population .................................................................... 8 5 ANALYTIC DEFINITIONS ........................................................................... 8 5.1 Study Day 1.............................................................................................. 8 5.2 Study Day................................................................................................. 8 5.3 Cycle 1 / Cycle Day 1 .............................................................................. 8 5.4 Cycle k / Cycle Day j ............................................................................... 9 5.5 Baseline .................................................................................................... 9 5.6 Age at Enrollment .................................................................................. 10 6 INTERIM ANALYSIS AND EARLY STOPPING GUIDELINES.................. 10 7 STATISTICAL METHODS .......................................................................... 10 7.1 General Considerations .......................................................................... 10 7.2 Subject Accountability ........................................................................... 10 7.3 Demographic and Baseline Characteristics ........................................... 11 7.4 Regimen Change .................................................................................... 12 7.5       Study Treatment Exposure and Compliance..................................................... 12 7.6        Safety Analysis ................................................................................................ 14 7.6.1 Adverse Events (AEs) ............................................................................ 14 7.6.2  Concomitant Medications ...................................................................... 15 7.7 Efficacy Analyses .................................................................................. 15 7.8 Handling of Data .................................................................................... 19 7.8.1 Data Management .................................................................................. 19 7.8.2 Incomplete Adverse Event Start Dates .................................................. 19 7.8.3 Prior and Concomitant Medication Start Dates ..................................... 21 8 REFERENCES ............................................................................................. 21    Onyx Pharmaceuticals Inc.                                                                    Statistical Analysis Plan For Protocol PX-171-010   6",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "1",
+                "Title": "INTRODUCTION",
+                "Content": " This Statistical Analysis Plan (SAP) covers a number of sections that describe how the data from the trial is going to be analyzed to assess the clinical safety and efficacy associated with the treatment under consideration.    This SAP was prepared in accordance with Protocol Amendment 3, dated March 25, 2011.   Any changes that are made to the planned analyses after the SAP is finalized, along with an explanation as to when and why they occurred, will be noted in any  Clinical Study Report (CSR) produced for the study.  Any changes made to the planned analyses that are in the protocol will be identified and documented in this document.  ",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "2",
+                "Title": "STUDY OVERVIEW",
+                "Content": " ",
+                "Sub-sections": [
+                    {
+                        "Header Number": "2.1",
+                        "Title": "Study Design",
+                        "Content": "  This is a multicenter, open-label, Phase 2 study of carfilzomib to monitor the safety and efficacy of long-term or continuing carfilzomib therapy for subjects who previously completed a primary carfilzomib treatment study.  Only subjects who have completed a prior carfilzomib treatment study will be eligible for the current study.   ",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "2.2",
+                        "Title": "Study Objective",
+                        "Content": "  To evaluate the safety and efficacy of long-term or continuing carfilzomib treatment in subjects who have completed a previous carfilzomib treatment study.   ",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "2.3",
+                        "Title": "Sample Size Considerations",
+                        "Content": "  The total number of subjects to be enrolled in the study is dependent upon the number of subjects who have completed the primary carfilzomib treatment protocols.  It is anticipated that approximately 100 subjects will be enrolled in this study.  Formal power  calculation was not used to determine the sample size.  Onyx Pharmaceuticals Inc.                                                                    Statistical Analysis Plan For Protocol PX-171-010   7",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "3",
+                "Title": "ANALYSIS ENDPOINTS",
+                "Content": " ",
+                "Sub-sections": [
+                    {
+                        "Header Number": "3.1",
+                        "Title": "Primary Endpoints - Safety",
+                        "Content": "  \u2022 Reported peripheral neuropathy AEs (All Grades) \u2022 Reported Grades 3 and 4 AEs \u2022 SAEs \u2022 Grade 1 through Grade 4 AEs leading to a missed carfilzomib dose or a carfilzomib dose reduction, or discontinuation ",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "3.2",
+                        "Title": "Secondary Endpoints - Efficacy",
+                        "Content": " \u2022 Overall Survival (OS) \u2022 Progression Free Survival (PFS)  \u2022 Time to Progression (TTP)  Tumor measurements and efficacy assessments will be in accordance with the methods employed in the subject\u2019s prior carfilzomib study.  For subjects participating in a carfilzomib trial without prior tumor measurements and efficacy assessments (eg, PX-171-008), tumor assessments will be conducted at the time of screening for the current study using the appropriate method (eg, RECIST criteria for solid tumors); these assessments will be used as the subjects\u2019 baseline disease assessments for determining response and progression while on the current protocol, PX-171-010.  ",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "4",
+                "Title": "ANALYSIS POPULATIONS",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "4.1",
+                        "Title": "Safety Population",
+                        "Content": "Onyx Pharmaceuticals Inc.                                                                    Statistical Analysis Plan For Protocol PX-171-010   8",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "4.2",
+                        "Title": "Full Analysis Set Population",
+                        "Content": " The Full Analysis Set (FAS) population will serve as the primary population for the analysis of the disease response data.  The FAS population is a subset of all enrolled subjects, with subjects excluded for the following reasons: \u2022 No post-baseline endpoint data subsequent to at least 1 dose of study treatment on the PX-171-010 protocol (applicable only to PX-171-008 subjects).  \u2022 Lack of baseline data for those analyses that require baseline data ",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "5",
+                "Title": "ANALYTIC DEFINITIONS",
+                "Content": "  ",
+                "Sub-sections": [
+                    {
+                        "Header Number": "5.1",
+                        "Title": "Study Day 1",
+                        "Content": "  Study Day 1 corresponds to the date of the first dose of carfilzomib in this study.  For subjects who receive at least one dose of carfilzomib, the earliest dosing date recorded on the Study Drug Administration case report form (CRF) will be used to determine Study Day 1. ",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "5.2",
+                        "Title": "Study Day",
+                        "Content": "  Study Day represents the elapsed number of days from Study Day 1, inclusive.  Unless otherwise specified, the timing of all study-related events, assessments, and interventions will be calculated relative to Study Day 1. If assessment date is after date of study day 1, study day will be calculated as: Study Day n = (Date of assessment \u2013 Date of Study Day 1) + 1 day  If assessment date is before date of study day 1, study day will be calculated as: Study Day -n = Date of assessment \u2013 Date of Study Day 1 ",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "5.3",
+                        "Title": "Cycle 1 / Cycle Day 1",
+                        "Content": "  The first 28-day treatment cycle will begin with the first dose of carfilzomib, and will be denoted as \u201cCycle 1 / Cycle Day 1\u201d.  In general, the start date of each cycle (i.e., Cycle Day 1 of Cycle k, where k=1 to last cycle) equals the date of the first dose of carfilzomib administered in the corresponding cycle.  If carfilzomib is permanently discontinued, Onyx Pharmaceuticals Inc.                                                                    Statistical Analysis Plan For Protocol PX-171-010   9then the cycle and cycle day for study-related assessments done after the last cycle of carfilzomib will be replaced in the tables, figures, and listings with the visit label (e.g., end of study assessment).  The visit date and study day also will be used to identify the timing of such assessments.  ",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "5.4",
+                        "Title": "Cycle k / Cycle Day j",
+                        "Content": "  Cycle Day j represents the elapsed number of days since the first dose of carfilzomib in Cycle k.          Cycle Day j = (Date of assessment \u2013 Date of Day 1 in Cycle k) + 1 day Unless otherwise specified, the timing of study-related visits and assessments will be calculated relative to Cycle Day 1 in each cycle. As noted previously, if carfilzomib is permanently discontinued, then the cycle and cycle day for study-related assessments done after the last cycle of carfilzomib will be replaced in the tables, figures, and listings with the visit name (e.g., End of Study assessment). The visit date and study day also will be used to identify the timing of such assessments. ",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "5.5",
+                        "Title": "Baseline",
+                        "Content": "   If subjects had not received other anti-cancer therapies and not reached progressive disease when they enrolled in study 010, baseline disease assessments from the initial study will be used for baseline values for determining response and progression unless no prior assessments were collected (eg, PX-171-008). For those subjects who didn\u2019t have baseline collected in prior study, tumor assessments will be conducted at the time of screening for the current study using the appropriate method. And for those who received other anti-cancer therapies and/or progressive disease when they enrolled in study 010, baseline values from current study will be used. During the study, the addition of certain approved agents with known antitumor activity or increase of carfilzomib dose and/or frequency is permitted if there is concern for disease progression and per Investigator discretion in consultation with the Onyx Medical Monitor. If it happens, measurements at the time of addition of new agents will be used as new baseline. Onyx Pharmaceuticals Inc.                                                                    Statistical Analysis Plan For Protocol PX-171-010   10",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "5.6",
+                        "Title": "Age at Enrollment",
+                        "Content": "  Age will be calculated in years relative to the subject\u2019s carfilzomib study enrollment date and based on the following SAS programming statement:   AGE = FLOOR((INTCK(\u2018MONTH\u2019, DOB,CONDT)         \u2013 (DAY(CONDT) < DAY(DOB))) / 12);  where DOB=date of birth; CONDT=consent DATE ",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "6",
+                "Title": "INTERIM ANALYSIS and EARLY STOPPING GUIDELINES",
+                "Content": " No interim analysis is planned for this study.  ",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "7",
+                "Title": "STATISTICAL METHODS",
+                "Content": " ",
+                "Sub-sections": [
+                    {
+                        "Header Number": "7.1",
+                        "Title": "General Considerations",
+                        "Content": " All statistical analyses will be performed in SAS\u00ae version 9, or later (SAS Institute Inc., Cary, NC, USA).  Summary statistics will be provided for all endpoints involved.  For continuous variables, the number of subjects with non-missing data (n), mean, standard deviation, median, minimum, and maximum will be presented.  For discrete data, the frequencies and percentages will be provided. Unless otherwise indicated, percentages will be calculated based on the number of subjects with non-missing data as the denominator.      For the efficacy analyses, point estimates will be accompanied by a two-sided 95% confidence interval.  The efficacy analyses will be performed separately by disease cohort (MM or solid tumor).  All other analyses will be presented by disease cohort and overall unless otherwise specified.  ",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "7.2",
+                        "Title": "Subject Accountability",
+                        "Content": " The number of subjects treated will be presented by disease cohort and overall.   Onyx Pharmaceuticals Inc.                                                                    Statistical Analysis Plan For Protocol PX-171-010   11The number and percent of subjects who terminated from the study and reasons for termination will be summarized. In addition, the number and percent of subjects who had a final visit and reasons for subjects who had no final visit will be presented.  ",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "7.3",
+                        "Title": "Demographic and Baseline Characteristics",
+                        "Content": "   The following demographic and baseline characteristics will be summarized by both disease cohorts and overall unless otherwise indicated. Summary statistics will be tabulated based on the Safety population. \u2022 Both Disease Cohorts \u2022 Age at the entry of PX-171-010: <65, \u226565 \u2022 Sex: female, male \u2022 Race: Caucasian, African American, Hispanic, Asian/pacific islander  \u2022 Time since diagnosis (years) in PX-171-010 \u2022 Clinical response assessment at entry of PX-171-010 \u2022 MM Cohort \u2022 Height (cm), weight (kg), body surface area (BSA), ECOG performance status, Neuropathy Grade (All data from time of entry in PX-171-010 except ECOG which is from the time of entry in initial study and entry in PX-171-010.) \u2022 Number of prior regimens (initial study) \u2022 Prior Bortezomib (initial study) \u2022 M-protein light chain isotype and heavy chain iostype (initial study and PX-171-010) \u2022 Measurable disease category (initial study) \u2022 Refractory status (initial study)    Onyx Pharmaceuticals Inc.                                                                    Statistical Analysis Plan For Protocol PX-171-010   12\u2022 Plasma cell involvement (<50%, >=50%) (initial study)  \u2022 Cytogenetics (initial study): normal/favorable, poor prognosis, unknown or not done \u2022  FISH (initial study): normal/favorable, poor prognosis, unknown or not done \u2022 Cytogenetics or FISH (initial study):  normal/favorable, poor prognosis, unknown or not done \u2022 Serum Beta-2 Microglobulin (mg/L) (initial study) \u2022 Durie-Salmon Staging and Subclassification (initial study) \u2022 Did the subject maintain the parent study\u2019s response until PX-171-010 enrollment? \u2022 Did the subject meet IMWG criteria for disease progression until PX-171-010 enrollment? \u2022 Solid Tumor Cohort \u2022 Tumor type (initial study) ",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "7.4",
+                        "Title": "Regimen Change",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "7.5",
+                        "Title": "Study Treatment Exposure and Compliance",
+                        "Content": "Onyx Pharmaceuticals Inc.                                                                    Statistical Analysis Plan For Protocol PX-171-010 \n \n \n13\ndays between the initial study and enrollment in PX-171-010, duration of exposure is \nthe sum of the exposure during the initial study and the exposure during PX-171-010. \n\u2022 Categorical summary of duration of exposure by number of weeks. \n\u2022 Total number of treatment cycles (PX-171-010 only and initial study + PX-171-010) \nduring which one or more doses of carfilzomib was administered per subject. \nCategorical summary of the number of cycles received per subject (PX-171-010 only \nand initial study + PX-171-010)   \n\u2022 Overall treatment duration in weeks, calculated as weeks from first dose \nadministration to last dose administration in PX-171-010, and treatment duration by \nregimen \n\u2022 Number of weeks between last day of initial study and PX-171-010 enrollment \n\u2022 Categorical summary of the number of weeks between last day of initial study and \nPX-171-010 enrollment \n\u2022 Number of doses received per subject \n\u2022 Average dose of carfilzomib (in mg/m\u00b2) administered across all cycles and average \ndose of carfilzomib (in mg/m\u00b2, mg) by regimen \n\u2022 Cumulative dose (mg) administered across cycles and cumulative dose (mg, mg/m2) \nby regimen  \n \nSummary of study drug administration will be summarized categorically as follows: \n\u2022 First dose administered (mg/m2) \n\u2022 Highest dose administered (mg/m2) \n\u2022 Method of administration (IV bolus, IV infusion)  \n\u2022 Dose frequency  \n\u2022 Drug product administered (Lyophilized or not)  \n\u2022 Dose level reduced at least once due to AE  \no Number of dose level reduction due to and AE   \no AEs resulting in dose level reduction  \n\u2022 Dose level increased at least once  \n",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "7.6",
+                        "Title": "Safety Analysis",
+                        "Content": "",
+                        "Sub-sections": [
+                            {
+                                "Header Number": "7.6.1",
+                                "Title": "Adverse Events (AEs)",
+                                "Content": "  Treatment emergent adverse events (TEAEs) are defined as AEs that start on or after the first administration of study drug and within 30 days of the last infusion of study treatment.  An AE that is present before the first administration of study treatment and subsequently worsens in severity during treatment is also considered to be treatment emergent.   Missing and partially missing AE start dates will be imputed according to the specifications described in Section 7.7.2 of the SAP.  Each reported AE term will be mapped to a preferred term (PT) and a system organ class (SOC) using the Medical Dictionary for Regulatory Activities (MedDRA, version 8.1).   Adverse events will be summarized based on the number and percentage of subjects experiencing events by MedDRA SOC and PT.  The denominator for the percentage will be based on the number of subjects at risk (i.e., those that received at least one dose of ",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "7.6.2",
+                                "Title": "Concomitant Medications",
+                                "Content": "",
+                                "Sub-sections": []
+                            }
+                        ]
+                    },
+                    {
+                        "Header Number": "7.7",
+                        "Title": "Efficacy Analyses",
+                        "Content": " The efficacy analyses will be performed by disease cohort and will be based on investigator\u2019s assessment recorded on the CRF page.  Onyx Pharmaceuticals Inc.                                                                    Statistical Analysis Plan For Protocol PX-171-010   16All efficacy analyses will be based on the FAS population. ",
+                        "Sub-sections": [
+                            {
+                                "Header Number": "7.7.1",
+                                "Title": "Overall Survival (OS)",
+                                "Content": " Duration of OS is defined as the days from the start of treatment (initial study) to death due to any cause. For subjects who are alive at the time of the data cut-off, duration of OS will be censored as of the date the subject was last known to be alive. Since the subjects will be followed up till 30 days after administration of last dose of study drug only per protocol, OS will be calculated and presented in a listing, no Kaplan-Meier estimates will be provided. Number and percentage of subjects who died within 30 days after administration of last dose of study drug will be calculated and death reason will be summarized.   ",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "7.7.2",
+                                "Title": "Progression Free Survival (PFS)",
+                                "Content": "  PFS is defined as number of days between start of treatment and first evidence of documented disease progression or death (due to any cause), whichever occurs first. Disease progression will be determined by the local investigator for regimens with the same baseline using the International Uniform Response Criteria (Durie et al. 2006, with corrections) (IMWG-URC) for multiple myeloma subjects and RECIST criteria (Therasse et al. 2000) for solid tumor subjects. PFS will be re-calculated whenever the baseline is reset due to addition of new anti-cancer therapy or increase of carfilzomib dose/frequency: 1) For regimens that continue from initial study without baseline being reset, if subjects didn\u2019t progress before PX-171-010, then PFS for the period from initial study to PX-171-010 study will be calculated as Disease Progression /Death Date \u2013 Date of first dose in initial study + 1 day, and PFS for the period of PX-171-010 study only will be calculated as Disease Progression /Death Date \u2013 Date of first dose in PX-171-010 + 1 day. 2) For regimens that start in PX-171-010 study with baseline being reset from initial study or previous regimens, PFS will be calculated as Disease Progression /Death Date \u2013 Onyx Pharmaceuticals Inc.                                                                    Statistical Analysis Plan For Protocol PX-171-010   17Date of first dose in the first regimen among the regimens with common baseline   + 1 day. PFS will be right-censored for subjects who met one of the following conditions: 1) no baseline disease assessments or any post-baseline assessments, 2) alive and does not have documentation of disease progression before a data analysis cutoff date.  The PFS censoring rules are described in Table 1.   ",
+                                "Sub-sections": [
+                                    {
+                                        "Header Number": "N/A",
+                                        "Title": "Table 1. Censoring Rules for PFS Analysis",
+                                        "Content": " Situation Date of Progression or Censoring Outcome No baseline disease assessments or any post-baseline assessments Date of first dose  Censored Alive and without documentation of disease progression Date of last disease assessment Censored Death or disease progression between planned disease assessments Date of death or first disease assessment showing disease progression, whichever occurs first Progressed Death or PD immediately after more than 1 consecutively missed disease assessment visit* Date of last disease assessment before the first missed visit Censored Death before first disease assessment Date of death Progressed  * If death or PD is more than 168 days after previous disease assessment, or the first dosing date if there is no previous disease assessment. The number and percentage of subjects with events, the number and percentage of subjects censored will be calculated for each disease cohort (MM, solid tumor) by regime. The denominator for each regimen will be subjects who had the regimen. Kaplan-Meier method will be used to estimate the distribution of PFS.  The 25%, 50% and 75% KM quartiles will be provided along with a two-sided 95% confidence interval (Klein and Moeschberger, 1997).  ",
+                                        "Sub-sections": []
+                                    }
+                                ]
+                            },
+                            {
+                                "Header Number": "7.7.3",
+                                "Title": "Time to Progression (TTP)",
+                                "Content": "  TTP is defined as number of days between start of treatment to the first documentation of disease progression. TTP will be re-calculated whenever the baseline is reset due to addition of new anti-cancer therapy or increase of carfilzomib dose/frequency: ",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "7.7.4",
+                                "Title": "Additional Efficacy Analyses",
+                                "Content": "",
+                                "Sub-sections": [
+                                    {
+                                        "Header Number": "7.7.4.1",
+                                        "Title": "Objective Response Rate (ORR)",
+                                        "Content": "Onyx Pharmaceuticals Inc.                                                                    Statistical Analysis Plan For Protocol PX-171-010   19\u2022 Solid Tumor \u2013 ORR is defined as the proportion of subjects for whom the best overall response is confirmed PR or confirmed CR. Point estimates for ORR will be accompanied by 2-sided 95% confidence intervals (Clopper CJ and Pearson, 1934). ",
+                                        "Sub-sections": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Header Number": "7.8",
+                        "Title": "Handling of Data",
+                        "Content": "   ",
+                        "Sub-sections": [
+                            {
+                                "Header Number": "7.8.1",
+                                "Title": "Data Management",
+                                "Content": " The data management for this study will be provided by Synteract.  All data reported on case report forms will be double-entered into a clinical database system.  A series of computerized edit checks will be run to identify missing data, inconsistent data, and errors in the clinical database.  A description of these procedures is provided in the Data Management and Data Quality Plan (document on file). ",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "7.8.2",
+                                "Title": "Incomplete Adverse Event Start Dates",
+                                "Content": " Missing and incomplete AE start dates will be imputed based on the algorithm described below. The algorithm will be used only if the end date of the AE (if reported) indicates the event was not resolved before the first administration of study drug. The purpose of the imputation is to determine for purposes of analysis if an AE with missing or incomplete start date is treatment emergent (as defined in Section 9.6.1). Imputed AE dates will not be used to calculate the duration of AE episodes.   A list of incomplete and imputed dates will be prepared by the statistical programmer and will be submitted to the statistician for review. Missing and incomplete AE end dates will not be imputed.  Algorithm for Imputation of Incomplete/Missing Adverse Event Start Dates   Case 1:   IF YEAR PORTION OF AE START DATE = MISSING THEN MISSING AE START DATE = FIRST DOSE DATE;  Onyx Pharmaceuticals Inc.                                                                    Statistical Analysis Plan For Protocol PX-171-010 \n \n \n20\n \nCase 2:  \n \nIF YEAR PORTION OF AE START DATE = YEAR PORTION OF FIRST \nDOSE DATE THEN DO; \n \nIF MONTH PORTION OF AE START DATE = MISSING THEN MISSING AE \nSTART DATE = FIRST DOSE DATE;  \nELSE  \n \nIF MONTH PORTION OF AE START DATE = MONTH PORTION OF FIRST \nDOSE DATE THEN MISSING AE START DATE = FIRST DOSE DATE;  \n \nELSE  \nIF MONTH PORTION OF AE START DATE \u2260 MONTH PORTION OF FIRST \nDOSE DATE THEN MISSING AE START DATE = MDY(AE START \nMONTH, 1, AE START YEAR);  \nEND;  \n \nCase 3: \n  \nIF YEAR PORTION OF AE START DATE > YEAR PORTION OF FIRST \nDOSE DATE THEN DO; \n \nIF MONTH PORTION OF AE START DATE = MISSING THEN MISSING AE \nSTART DATE = MDY(1, 1, AE START YEAR);  \n \nELSE  \nIF MONTH PORTION OF AE START DATE ^= MISSING THEN MISSING \nAE START DATE = MDY(AE START MONTH, 1, AE START YEAR);  \nEND; \nOnyx Pharmaceuticals Inc.                                                                    Statistical Analysis Plan For Protocol PX-171-010   21",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "7.8.3",
+                                "Title": "Prior and Concomitant Medication Start Dates",
+                                "Content": " Incomplete start dates for concomitant medications will be imputed in the same manner as AEs.  In determining if a medication is prior or concomitant, the following code will be used: *IF STARTED BEFORE TRTSTDT;   IF STRDT_S < TXST_S THEN PRIOR = 'Y';         *IF STOPPED BEFORE TRTSTDT OR NO DATE REPORTED AND     CONTINUED.;   IF STPDT_S < TXST_S AND CONT = ' ' THEN PRIOR = 'Y';         * IF STARTED ON/AFTER TRTSTDT;   IF STRDT_S >= TXST_S THEN PRINT= 'N';         * IF STOPPED ON/AFTER TRTSTDT OR CONTINUED.;    IF STPDT_S >= TXST_S OR CONT = 'Y' THEN PRIOR= 'N';         NOTE:    STRDT_S=START DATE FOR MEDICATION          TXST_S = treatment start date            CONT=\u2019Y\u2019 = medication is continuing  ",
+                                "Sub-sections": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Header Number": "8",
+                "Title": "REFERENCES",
+                "Content": "  \u2022 Blad\u00e9 J, Samson D, Reece D, Apperley J, Bj\u00f6rkstrand B, Gahrton G, et al. Criteria for evaluating disease response and progression in subjects with multiple myeloma treated by high-dose therapy and haemopoietic stem cell transplantation. Myeloma Subcommittee of the EBMT. European Group for Blood and Marrow Transplant. Br J Haematol 1998 Sep; 102(5):1115\u201323. \u2022 Clopper CJ and Pearson ES. The use of confidence or fiducial limits illustrated in the case of the binomial, Biometrika. 1934; 26(4):404-413. ",
+                "Sub-sections": []
+            }
+        ]
+    }
+]

@@ -1,0 +1,639 @@
+[
+    {
+        "Header Number": "N/A",
+        "Title": "PX-171-010: An Open-Label, Single-Arm, Phase 2 Study of Extended\r\nCarfilzomib Therapy in Subjects Previously Enrolled in\r\nCarfilzomib Treatment Protocols",
+        "Content": "Onyx Therapeutics, Inc.Protocol PX-171-010, Amendment 3Carfilzomib for InjectionPage 2 of 60Confidential",
+        "Sub-sections": [
+            {
+                "Header Number": "N/A",
+                "Title": "SIGNATURE PAGE",
+                "Content": "Protocol Title:An Open-Label, Single-Arm, Phase 2 Study of Extended Carfilzomib Therapy in Subjects Previously Enrolled in Carfilzomib Treatment ProtocolsProtocol Number:PX-171-010Sponsor:Onyx Therapeutics, Inc.249 E. Grand Ave.South San Francisco, CA  94080+1 650 266 0000Date of Original Protocol:24 February 2009Amendment 1:11 June 2009Amendment 2:09 April 2010Amendment 3:25 March 2011Approved By:<See Electronic Signature>Vice President, Clinical DevelopmentDate<See Electronic Signature>Vice President, Regulatory AffairsDate<See Electronic Signature>, PhDSenior Director, BiometricsDateAPPROVALS STATEMENTThis document is signed with electronic signatures at Onyx Therapeutics, Inc. (a wholly owned subsidiary of Onyx Pharmaceuticals, Inc.).  Electronic signatures made by our employees, agents, or representatives, located anywhere in the world, are the legally binding equivalent of traditional handwritten signatures.PPDPPDPPDOnyx Therapeutics, Inc.Protocol PX-171-010, Amendment 3Carfilzomib for InjectionPage 3 of 60Confidential",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "N/A",
+                "Title": "PROTOCOL ACCEPTANCE PAGE",
+                "Content": "PROTOCOL NUMBER:PX-171-010PROTOCOL TITLE:An Open-Label, Single Arm Phase 2 Study of Extended Carfilzomib Therapy in Subjects Previously Enrolled in Carfilzomib Treatment ProtocolsPROTOCOL DATE:24 February 2009 AMENDMENT 1:11 June 2009AMENDMENT 2:09 April 2010AMENDMENT 3:25 March 2011By signing this protocol acceptance page, I confirm I have read, understood, and agree to conduct the study in accordance with the current protocol.__________________________________________Principal Investigator Name (Printed)______________________________________________________Principal Investigator SignatureDatePlease return original form to Onyx Therapeutics, Inc. or designee.  Please retain a copy for your study files.This study is to be conducted in accordance with the ethical principles that have their origin in the Declaration of Helsinki, Title 21 of the Code of Federal Regulations \u00a7\u00a7 50, 56, and 312, the International Conference on Harmonization E6, and any applicable regulatory requirements.The study protocol and any amendments are to be reviewed by an Independent Ethics Committee (IEC) or Institutional Review Board (IRB) before implementation.Written informed consent is to be obtained from each study subject prior to the conduct of any study procedures which exceed or differ from standard practice at the study site.Confidential information contained in this document will not be used for any purpose other than the evaluation or conduct of the clinical investigation without the prior written consent of Onyx Therapeutics.Onyx Therapeutics, Inc.Protocol PX-171-010, Amendment 3Carfilzomib for InjectionPage 4 of 60Confidential",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "N/A",
+                "Title": "TABLE OF CONTENTS",
+                "Content": "CLINICAL STUDY PROTOCOL .....................................................................................1SIGNATURE PAGE ...........................................................................................................2PROTOCOL ACCEPTANCE PAGE ................................................................................3LIST OF ABBREVIATIONS .............................................................................................8PROTOCOL SYNOPSIS:  PX-171-010 ...........................................................................101INTRODUCTION .................................................................................................141.1Carfilzomib Background ..............................................................................141.2Phase 1 and 2 Experience with Carfilzomib in Hematologic Malignancies ...141.3Phase 1 and 2 Experience with Carfilzomib in Solid Tumors........................151.4Extended Carfilzomib Treatment Study Rationale ........................................171.5Dose Rationale.............................................................................................172STUDY OBJECTIVES..........................................................................................182.1Objective......................................................................................................183EXPERIMENTAL PLAN .....................................................................................183.1Study Design................................................................................................183.2Number of Centers .......................................................................................183.3Number of Subjects......................................................................................193.4Estimated Study Duration.............................................................................194SUBJECT SELECTION .......................................................................................194.1Inclusion Criteria..........................................................................................194.2Exclusion Criteria.........................................................................................205SUBJECT ENROLLMENT ..................................................................................206TREATMENT PROCEDURES............................................................................216.1Drug Preparation and Administration ...........................................................216.1.1Carfilzomib Drug Administration ..................................................216.2Dose Modification Guidelines......................................................................226.2.1Dose Frequency and Dose Level Reductions..................................226.2.2Dose Modifications for Hematologic Toxicities .............................236.2.3Dose modifications for Non-Hematologic Toxicities......................246.2.4Missed Doses.................................................................................266.2.5Changes in Body Surface Area.......................................................26Onyx Therapeutics, Inc.\nProtocol PX-171-010, Amendment 3\nCarfilzomib for Injection\nPage 5 of 60\nConfidential\n6.2.6\nOther Dosing Modifications...........................................................26\n6.2.7\nDose Escalation Rules....................................................................27\n6.3\nSafety Guidance for Investigators.................................................................27\n6.3.1\nSafety Guidance.............................................................................27\n6.4\nConcomitant Medications.............................................................................28\n6.4.1\nRequired Concomitant Medication.................................................28\n6.4.2\nAllowed Concomitant Medications ................................................28\n6.4.3\nExcluded Concomitant Medications...............................................28\n7\nSTUDY TESTS AND OBSERVATIONS .............................................................28\n7.1\nScreening (Days \u201330 to \u20131) ..........................................................................29\n7.2\nCycle 1 (Day 1)............................................................................................30\n7.3\nCycle 1 (Days 2, 8, 9, 15, and 16).................................................................30\n7.4\nCycles 2 and Higher (Day 1) ........................................................................30\n7.5\nCycles 2 and Higher (Days 2, 8, 9, 15, and 16).............................................31\n7.6\nCycle 3 and Every 3 Cycles (Day 1).............................................................31\n7.7\nEnd of Study Assessments (Within 30 Days of Study Discontinuation) ........32\n7.8\nTumor Response Assessment .......................................................................32\n7.9\nCorrelative Studies.......................................................................................33\n7.9.1\nCytogenetic and FISH Studies .......................................................33\n8\nSTUDY DISCONTINUATION.............................................................................33\n9\nADVERSE EVENTS .............................................................................................34\n9.1\nAdverse Events Definitions ..........................................................................34\n9.2\nCausality......................................................................................................35\n9.3\nAdverse Events Reporting Procedures..........................................................35\n9.3.1\nDisease Progression.......................................................................36\n9.4\nSerious Adverse Events Definitions..............................................................37\n9.5\nSerious Adverse Event Reporting and Documentation Requirements............38\n9.6\nPregnancy ....................................................................................................38\n10\nSTATISTICAL CONSIDERATIONS ..................................................................39\n10.1\nObjectives/Hypotheses .................................................................................39\n10.2\nAnalysis Endpoints.......................................................................................39\n10.2.1\nPrimary Endpoints (Safety)............................................................40\n10.2.2\nSecondary Endpoints (Efficacy/Disease Response) ........................40\nOnyx Therapeutics, Inc.\nProtocol PX-171-010, Amendment 3\nCarfilzomib for Injection\nPage 6 of 60\nConfidential\n10.3\nAnalysis Populations....................................................................................40\n10.3.1\nSafety Analysis..............................................................................40\n10.3.2\nDisease Response Analysis............................................................40\n10.4\nStatistical Methods.......................................................................................40\n10.4.1\nSafety Analysis..............................................................................40\n10.4.2\nDisease Response Analysis ............................................................41\n10.5\nSample Size .................................................................................................42\n10.6\nGuidelines for Early Study Termination .......................................................42\n11\nREGULATORY OBLIGATIONS ........................................................................42\n11.1\nInformed Consent.........................................................................................42\n11.2\nCompliance with Laws and Regulations .......................................................43\n11.3\nPre-study Documentation Requirements.......................................................44\n11.4\nSubject Confidentiality.................................................................................44\n12\nADMINISTRATIVE AND LEGAL OBLIGATIONS..........................................45\n12.1\nProtocol Amendments and Study Termination..............................................45\n12.2\nStudy Documentation and Archives..............................................................45\n12.2.1\nSource Documents.........................................................................45\n12.2.2\nCase Report Form Completion.......................................................46\n12.2.3\nArchival of Records.......................................................................46\n12.3\nStudy Monitoring and Data Collection .........................................................46\n13\nREFERENCES ......................................................................................................48\nOnyx Therapeutics, Inc.Protocol PX-171-010, Amendment 3Carfilzomib for InjectionPage 7 of 60Confidential",
+                "Sub-sections": [
+                    {
+                        "Header Number": "N/A",
+                        "Title": "LIST OF APPENDICES",
+                        "Content": "Appendix A:Schedule of Events.......................................................................................49Appendix B:ECOG Performance Scale (Eastern Cooperative Oncology Group)...............50Appendix C:NCI CTCAE Version 3.0..............................................................................51Appendix D:International Uniform Response Criteria for Multiple Myeloma...................52Appendix E:Response Criteria for Solid Tumors..............................................................54Appendix F:Summary of Changes ...................................................................................56",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "N/A",
+                        "Title": "LIST OF TABLES",
+                        "Content": "Table 1:Carfilzomib for Injection Dose Levels..........................................................22Table 2:Dose Adjustment Guideline for Renal Dysfunction ......................................25Table 3:Toxicity Grading..........................................................................................35Onyx Therapeutics, Inc.\nProtocol PX-171-010, Amendment 3\nCarfilzomib for Injection\nPage 8 of 60\nConfidential\nLIST OF ABBREVIATIONS\nAbbreviation\nDefinition\nAE\nadverse event\nBSA\nbody surface area\nCBC\ncomplete blood count\nCFR\nCode of Federal Regulations\nCHF\ncongestive heart failure\nCR\ncomplete response\nCRu\nunconfirmed complete response\nCRO\nclinical research organization\nCrCl\ncreatinine clearance\nCRF\ncase report form(s)\nCSR\nclinical study report\nCTCAE\nCommon Terminology Criteria for Adverse Events\nCV\ncurricula vitae\nDLT\ndose-limiting toxicity\nECOG\nEastern Cooperative Oncology Group\nFAS\nfull analysis set\nFCBP\nfemales of childbearing potential\nFDA\nFood and Drug Administration\nFISH\nfluorescent in situ hybridization\nGCP\nGood Clinical Practice \nHIPAA\nHealth Insurance Portability and Accountability Act\nIB\nInvestigator\u2019s Brochure\nIEC\nIndependent Ethics Committee\nIND\nInvestigational New Drug (Application)\nIRB\nInstitutional Review Board\nIV\nintravenous\nMM\nmultiple myeloma\nMR\nminimal response\nMTD\nmaximum tolerated dose\nNCI\nNational Cancer Institute\nNHL\nNon-Hodgkin\u2019s Lymphoma\nOS\noverall survival\nPD\nprogressive disease\nPFS\nprogression-free survival\nPR\npartial response\nQDx2\nconsecutive day dosing\nOnyx Therapeutics, Inc.\nProtocol PX-171-010, Amendment 3\nCarfilzomib for Injection\nPage 9 of 60\nConfidential\nAbbreviation\nDefinition\nQDx5\ndaily dosing for 5 consecutive days\nQIU\nQualified Investigator Undertaking Form\nRBC\nred blood cell\nSAE\nserious adverse event\nSAP\nstatistical analysis plan\nsCR\nstringent complete response\nSD\nstable disease\nTLS\ntumor lysis syndrome\nTTP\ntime to tumor progression\nUS\nUnited States\nVGPR\nvery good partial response\nOnyx Therapeutics, Inc.\nProtocol PX-171-010, Amendment 3\nCarfilzomib for Injection\nPage 10 of 60\nConfidential\nPROTOCOL SYNOPSIS:  PX-171-010\nTITLE\nAn Open-Label, Single-Arm Phase 2 Study of Extended Carfilzomib \nTherapy in Subjects Previously Enrolled in Carfilzomib Treatment \nProtocols\nOBJECTIVE\nTo evaluate the safety and efficacy of long-term or continuing \ncarfilzomib treatment in subjects who have completed a previous \ncarfilzomib treatment study.\nSTUDY DESIGN\nThis is a multi-center, open-label, Phase 2 study of carfilzomib to \nmonitor the safety and efficacy of long-term or continuing carfilzomib \ntherapy for subjects who previously completed a primary carfilzomib \ntreatment study.  Only subjects who have adequately completed a \nprior carfilzomib study will be eligible for the current study.\nSafety endpoints will consist of the following: (1) all reported \nGrades 3 and 4 adverse events (AEs), (2) all reported peripheral \nneuropathy AEs (Grades 1\u20134), (3) all serious adverse events (SAEs), \nand (4) Grades 1\u20134 AEs leading to either a missed carfilzomib dose, \ncarfilzomib dose reduction, or discontinuation.  In the event of a \ntoxicity leading to a dose reduction or discontinuation, pertinent \nlaboratory measurements and concomitant medications will be \ncollected and monitored as unscheduled visits.\nEfficacy endpoints will include time to tumor progression (TTP), \nprogression-free survival (PFS), and overall survival (OS).  Data on \nthe first subsequent treatment regimen following carfilzomib study \ndiscontinuation will also be collected.\nSTUDY \nPOPULATION\nApproximately 100 subjects from approximately 50 sites in the United \nStates and Canada will be eligible for participation in the extended \ncarfilzomib therapy study.  Additional subjects may be enrolled \nshould the number of eligible subjects exceed 100.\nINCLUSION \nCRITERIA\nSubjects must meet all of the following inclusion criteria to be eligible \nto enroll in this study:\nDisease Related\n1. Previous completion of a carfilzomib study within 90 days prior to \nfirst dose of study drug for Protocol PX-171-010.\n2. Disease Assessments performed within 30 days prior to first dose \nof study drug for Protocol PX-171-010.\nEthical/Other\n3. Written informed consent in accordance with federal, local, and \ninstitutional guidelines.\n4. Females of childbearing potential (FCBP) must have a negative \nserum or urine pregnancy test, with a sensitivity of at least \n50 mIU/mL, within 3 days prior to first dose of study drug for \nProtocol PX-171-010.\nOnyx Therapeutics, Inc.\nProtocol PX-171-010, Amendment 3\nCarfilzomib for Injection\nPage 11 of 60\nConfidential\n5. Subjects must agree to adhere to the study visit schedule and other \nstudy requirements and receive outpatient treatment and \nlaboratory monitoring at the institution that administers the drug.\nEXCLUSION \nCRITERIA\nSubjects who meet any of the following exclusion criteria are not \neligible to be enrolled in this study:\nDisease Related\n1. Administration of an intervening chemotherapy between the time \nof previous carfilzomib study termination and first dose of study \ndrug for Protocol PX-171-010.\nConcurrent Conditions\n2. Pregnant or lactating females.\n3. Diagnosis of a new malignancy of a different tumor type.\nPROCEDURES\nAfter screening, eligibility determination, and enrollment; subjects \nwill receive carfilzomib according to the doses and schedules as \nsummarized in the Study Treatment section of the Synopsis.  Standard \nmonitoring for hematologic and non-hematologic toxicity is outlined \nin Section 6.2.  Subjects may continue carfilzomib treatment until \ndisease progression and discussion with Onyx Medical Monitor,\ndiagnosis of new malignancy, unacceptable toxicity, Investigator \ndiscretion, voluntary withdrawal, or commercial availability of \ncarfilzomib.\nSafety Measures. A complete blood count (CBC) including platelets \nand basic metabolic chemistry panel (eg, Chem 7 or 8) will be \nperformed on Day 1 of each cycle.  Other general safety monitoring \n(eg, physical examinations, imaging, specialty tests, etc.) shall be in \naccordance with institutional guidelines and as clinically indicated. \nThese data will not be routinely collected.\nEfficacy Measures. Tumor measurements and efficacy assessments \nwill be in accordance with the methods employed in the subject\u2019s \nprior carfilzomib study.  For subjects participating in a carfilzomib \ntrial without prior tumor measurements and efficacy assessments \n(eg, PX-171-008), tumor assessments employing standard institutional \nmethods will be conducted at the time of screening for the current \nstudy.  Disease assessments (eg, extent of disease measurements and \nobjective response category) will occur within 30 days prior to \nenrollment to determine eligibility, at least every 3 months throughout \nstudy participation, and at end of study.  Refer to Appendix D\u2013E for \nResponse Criteria.\nFor subjects with multiple myeloma (MM) entering the extended\nstudy with a partial response (PR), minimal response (MR), or stable \ndisease (SD); bone marrow biopsies for cytogenetic and fluorescence \nin situ hybridization (FISH) evaluation will be optional at screening.  \nA bone marrow biopsy in these subjects will also be optional at end of \nstudy for cytogenetic and FISH evaluation if the reason for study \nOnyx Therapeutics, Inc.\nProtocol PX-171-010, Amendment 3\nCarfilzomib for Injection\nPage 12 of 60\nConfidential\ndiscontinuation is disease progression.  For subjects with MM \nentering the extended study with stringent complete response (sCR), \ncomplete response (CR), or very good partial response (VGPR), a \nbone marrow biopsy for cytogenetic and FISH analyses will also be \noptional upon the establishment of disease progression.\nSTUDY \nTREATMENT\nCarfilzomib will be administered intravenously (IV), using the same \nmethod, dose level and frequency as administered in the last cycle of \nthe subject\u2019s previous carfilzomib study; carfilzomib doses will be \nadministered on Days 1, 2, 8, 9, 15, and 16 of a 28-day cycle (or the \nsame dose level and frequency as administered at the last visit of the \nprior carfilzomib study) until disease progression and discussion with \nthe Onyx Medical Monitor, diagnosis of new malignancy, \nunacceptable toxicity, Investigator discretion, voluntary withdrawal, \nor commercial availability of carfilzomib.  Each dose will consist of \nCarfilzomib for Injection administered on a mg/m2 basis.  Subjects \nwith a body surface area (BSA) > 2.2 m2 will receive a dose based \nupon a 2.2 m2 BSA.  Dosing will be continued or modified based \nupon clinical and laboratory findings.\nDecreased carfilzomib dosing frequency to include dosing on Days 1, \n2, 15 and 16 (eg, every other week dosing schedule), will be permitted \nat the discretion of the Investigator; the Onyx Therapeutics Medical \nMonitor may be consulted as needed. Carfilzomib dose reductions for \ntoxicity, to a minimum dose of 11 mg/m2, will be permitted following \ndiscussion with the Medical Monitor, as needed.  Missed doses of \ncarfilzomib will not be made up.\nDose escalations above the original dose level are permitted.  \nFor subjects with evidence of disease progression, the Onyx Medical \nMonitor must be consulted prior to the dose escalation or termination \nfrom study.\nAcyclovir or valacyclovir should be given to all subjects with a \nhistory of herpes simplex or zoster, per institutional prophylaxis \nguidelines, unless contraindicated.\nPRIMARY \nENDPOINT\n\uf0b7Safety\nSECONDARY \nENDPOINTS\n\uf0b7Overall Survival (OS)\n\uf0b7Progression Free Survival (PFS)\n\uf0b7Time to Progression (TTP)\nOnyx Therapeutics, Inc.\nProtocol PX-171-010, Amendment 3\nCarfilzomib for Injection\nPage 13 of 60\nConfidential\nSTATISTICAL \nMETHODS\nSafety Analyses:  Safety data analysis will be conducted on all \nsubjects receiving at least 1 dose of study treatment.  Analyses will \nconsist of data summaries for reported AEs.  The number and \npercentage of subjects experiencing 1 or more AEs will be \nsummarized by dose, relationship to study drug, and severity.\nDisease Response Analyses:  Response to treatment will be tabulated \nusing the criteria employed in the subject\u2019s prior carfilzomib \ntreatment study.\nFor subjects participating in a carfilzomib trial without explicit tumor \nmeasurements and defined response criteria (eg, PX-171-008), \nresponse to treatment will be tabulated using the appropriate method \n(eg, RECIST criteria for solid tumors). Response to treatment will be \nbased on the tumor assessment conducted at the time of screening for \nthe current study.\nThe distribution of subjects by response category will be made by \ndisease cohort.  Time-to-event endpoints will be evaluated with the \nuse of the Kaplan-Meier method and plots will be provided.  Analysis \nof time-to-event outcomes will be performed by disease cohort.\nSTUDY \nDURATION\nAn individual subject is considered to have completed the study \n30 days after the last administered dose of carfilzomib to allow for \nsafety follow up.\nTreatment with carfilzomib will continue until the earliest of the \nfollowing:\n\uf0b7Confirmation of disease progression, and discussion with Medical \nMonitor\n- OR -\n\uf0b7Diagnosis of a new malignancy\n- OR -\n\uf0b7Unacceptable toxicity\n- OR -\n\uf0b7\nInvestigator discretion\n- OR -\n\uf0b7Voluntary withdrawal\n- OR -\n\uf0b7Commercial availability of carfilzomib\nOnyx Therapeutics, Inc.\nProtocol PX-171-010, Amendment 3\nCarfilzomib for Injection\nPage 14 of 60\nConfidential\n1\nINTRODUCTION\n1.1\nCARFILZOMIB BACKGROUND\nCarfilzomib (PR-171) is a tetrapeptide ketoepoxide-based selective inhibitor of the \nchymotrypsin-like activity of the 20S proteasome (Demo 2005). Carfilzomib is structurally \nand mechanistically different from the dipeptide boronic acid proteasome inhibitor \nbortezomib, which is currently approved for use in the treatment of patients with multiple \nmyeloma (Demo 2005, Velcade 2008).  In preclinical studies, carfilzomib demonstrates \npotent anti-tumor activity in a variety of tumor models, including multiple myeloma (MM)\n(Demo 2007, Ivancsits 2006, Kuhn 2007).\n1.2\nPHASE 1 AND 2 EXPERIENCE WITH CARFILZOMIB IN \nHEMATOLOGIC MALIGNANCIES (Carfilzomib IB 2010, Stewart 2007, \nOnyx Data on File)\nPhase 1 clinical trials of carfilzomib have been conducted in subjects with hematological \ntumors, including MM, Waldenstr\u00f6m\u2019s macroglobulinemia, non-Hodgkin\u2019s lymphoma \n(NHL), and Hodgkin\u2019s lymphoma.  In a completed study (PX-171-001), carfilzomib dosing \nranged from 1.2 mg/m2 to 20 mg/m2 daily for 5 consecutive days (QDx5) followed by \n9 days\u2019 rest, in cycles repeated every 14 days.  Dose-limiting toxicities (DLTs) associated \nwith the highest dose (20 mg/m2) were Grade 4 thrombocytopenia and Grade 3 febrile \nneutropenia, and the maximum tolerated dose (MTD) was established at 15 mg/m2.\nIn a completed Phase 1 Study PX-171-002, doses ranging from 1.2 mg/m2 to 27 mg/m2 are \nadministered on consecutive day dosing (QDx2) twice weekly for 3 weeks, followed by \n12 days rest, in cycles repeated every 28 days.  DLTs observed at the highest dose \n(27 mg/m2) included thrombocytopenia and hypoxia, therefore the MTD was established at \n20 mg/m2.  Observations of fever, chills, and rigors, and an elevated creatinine (Grade 2) \nobserved on Day 2 of the 27 mg/m2 cohort prior to dosing in this part of the study, led to the \ndevelopment of a stepped-up dosing regimen wherein carfilzomib administration is initiated \nwith a dose at 20 mg/m2 followed by escalation to 27 mg/m2 after the first cycle.\nThe most common non-hematologic toxicity events reported from the Phase 1 studies are \ngenerally mild, low-grade nausea, diarrhea, dyspnea, headache, and constipation.  A Grade 3 \nOnyx Therapeutics, Inc.\nProtocol PX-171-010, Amendment 3\nCarfilzomib for Injection\nPage 15 of 60\nConfidential\nor 4\u2013thrombocytopenia may occur in subjects with preexisting low platelets, with recovery \noccurring between treatments.  Grade 3 or higher neutropenia and anemia have also been \nreported, but less frequently than thrombocytopenia.\nObjective responses including partial responses (PRs) (50%\u201390% decreases in M-protein) \nand minimal responses (MRs) (25%\u201349% decreases in M-protein) were seen in several \nsubjects with plasma cell dyscrasias in both studies.  The responses have been durable with \nPRs on average of 9 months.  In addition, both MM and NHL subjects have had stable \ndisease (SD), exceeding 1 year in some cases.  Carfilzomib has also shown activity against \nrefractory MM, solid tumors, and 1 mantle cell lymphoma subject with gastrointestinal \nlymphoma involvement that achieved an unconfirmed complete response (CRu).\nThe use of carfilzomib in combination with lenalidomide and dexamethasone is being \nevaluated in a Phase 1b dose escalation Study PX-171-006 in relapsed MM subjects.  \nThe study will evaluate the MTD of this combination regimen.\nTwo Phase 2 studies are ongoing, one for relapsed refractory MM and another in MM \nsubjects relapsed following 1\u20133 prior therapies.  In these studies, tumor lysis syndrome \n(TLS) has been observed in 4 of 77 subjects treated at the 20 mg/m2 dose.  Guidelines for the \ninvestigator were subsequently implemented for the prevention and management of TLS in \nongoing studies.\nIn May 2009, a MM arm was added to the PX-171-007 study to explore carfilzomib given as \na 30-minute infusion.  MM subjects receiving carfilzomib administered over 30 minutes have \ndose escalated to 20/36 mg/m2 (4 subjects) and 20/45 mg/m2 (3 subjects) without \ndose-limiting toxicities.\n1.3\nPHASE 1 AND 2 EXPERIENCE WITH CARFILZOMIB IN SOLID \nTUMORS (Carfilzomib IB 2010, Stewart 2007, Onyx Data on File)\nCarfilzomib is also being studied as a single agent in a Phase 1b/2 Study PX-171-007 in \nadvanced stage solid tumor subjects who have failed available therapies. Subjects are treated \nwith carfilzomib on the QDx2 schedules using the stepped-up dosing regimen previously \ndescribed.  A Phase 1b dose escalation portion has been completed, demonstrating that \nOnyx Therapeutics, Inc.\nProtocol PX-171-010, Amendment 3\nCarfilzomib for Injection\nPage 16 of 60\nConfidential\nadministration of 20 mg/m2 on Days 1and 2 followed by 36 mg/m2 on subsequent days is \nwell tolerated.\nA Simon 2-stage open label study of 70 patients with 5 cohorts was initiated as the Phase 2 \nportion in April 2008.  The cohorts were stratified according to solid tumor disease type.  \nThe objective of this portion of the trial was to estimate overall response to 4 cycles of \ncarfilzomib.  This portion would only proceed to stage 2 if 1 PR or better occurred after \n16 weeks in a cohort.\nSeventy-nine patients had been enrolled on study through May 2009 in the Phase 1 \n(14 patients) and Phase 2 (65 patients) parts.  The median number of carfilzomib cycles given \nwas 2 (range 1-12). Of the 1064 doses administered ~68% were at the 36 mg/m2 dose level.  \nOne PR was observed in a renal cell patient; 11 patients achieved stable disease.  The most \ncommon AEs included fatigue, headache, diarrhea, nausea, and constipation.  There was a \nlow incidence of peripheral neuropathy and severe hematologic toxicity.\nDose escalation to evaluate and determine an MTD with a 30-minute infusion of carfilzomib \nis ongoing in patients with solid tumors and multiple myeloma. At this time, there is limited \nsafety data available to comment on differences, if any, associated with a 30-minute infusion \nversus a 10-minute infusion of carfilzomib.\nA drug-drug interaction Study PX-171-008 has been initiated where 15 subjects with \nadvanced solid tumors will be assessed to determine the effect of carfilzomib on the \npharmacokinetics of midazolam, a sensitive substrate for human CYP3A4. In addition, renal \nand biliary excretions will be assessed in this study.\nThe safety data from the solid tumor study indicate that the non-hematologic toxicities are \nsimilar to those seen in the Phase 1 studies.  The most common events reported regardless of \nrelationship to study drug are fatigue, diarrhea, and headache.\nFurther information about the Phase 1 and 2 studies is presented in the Investigator\u2019s \nBrochure (IB).\nOnyx Therapeutics, Inc.\nProtocol PX-171-010, Amendment 3\nCarfilzomib for Injection\nPage 17 of 60\nConfidential\n1.4\nEXTENDED CARFILZOMIB TREATMENT STUDY RATIONALE\nFor all of the aforementioned primary carfilzomib treatment studies, the maximum duration \nof treatment ranges from 1 to 18 cycles.  The purpose of the extended carfilzomib treatment \nstudy is to evaluate the safety and efficacy of long-term carfilzomib treatment for patients \nwho have completed a carfilzomib study.\n1.5\nDOSE RATIONALE\nCarfilzomib will be administered intravenously (IV) using the same method, dose level and \nfrequency as administered in the last cycle of the subject\u2019s previous carfilzomib study.  \nA carfilzomib dosing schedule on Days 1, 2, 8, 9, 15, and 16 of a 28-day cycle (or the same \ndose level and frequency as administered at the last visit of the prior carfilzomib study) will \nbe employed and evaluated for long-term safety and efficacy.  Subjects will remain at the \nsame dose level and frequency as their previous study because the dose has been shown to be \ntolerable in the individual subject.\nThe option will be available to reduce the dosing frequency to Days 1, 2, 15, and 16 of a \n28-day cycle (eg, twice a week, every other week).  Reductions in dosing frequency will be \nmade at the discretion of the Investigator in consultation with the Medical Monitor.\nDose escalations beyond the original dose level up to the maximum tolerated dose \nestablished in primary carfilzomib studies may be permitted following discussion with the \nMedical Monitor for subjects whose disease progresses on the extended carfilzomib \ntreatment regimen.\nOnyx Therapeutics, Inc.\nProtocol PX-171-010, Amendment 3\nCarfilzomib for Injection\nPage 18 of 60\nConfidential\n2\nSTUDY OBJECTIVES\n2.1\nOBJECTIVE\nTo evaluate the safety and efficacy of long-term or continuing carfilzomib dosing in subjects \nwho have completed a previous carfilzomib treatment study.\n3\nEXPERIMENTAL PLAN\n3.1\nSTUDY DESIGN\nThis is a multicenter, open-label, Phase 2 study of carfilzomib to monitor the safety and \nefficacy of long-term or continuing carfilzomib therapy for subjects who previously \ncompleted a primary carfilzomib treatment study.  Only subjects who have completed a prior \ncarfilzomib treatment study will be eligible for the current study.\nSafety endpoints will consist of the following: (1) all reported Grades 3 and 4 adverse events \n(AEs), (2) all reported peripheral neuropathy AEs (Grades 1\u20134), (3) all serious adverse \nevents (SAEs), and (4) Grades 1\u20134 AEs leading to either a missed carfilzomib dose, \ncarfilzomib dose reduction, or discontinuation.  In the event of a toxicity leading to a dose \nreduction or discontinuation, pertinent laboratory measurements and concomitant \nmedications will be collected and monitored as unscheduled visits.\nEfficacy endpoints will include time to tumor progression (TTP), progression-free survival \n(PFS), and overall survival (OS).  Data on the first subsequent treatment regimen following \nextended carfilzomib therapy study discontinuation will also be collected.\n3.2\nNUMBER OF CENTERS\nApproximately 50 study centers in the United States (US) and Canada will be eligible for \nparticipation in the current study.  Additional study sites selected to participate in future \nstudies may also be included.\nOnyx Therapeutics, Inc.\nProtocol PX-171-010, Amendment 3\nCarfilzomib for Injection\nPage 19 of 60\nConfidential\n3.3\nNUMBER OF SUBJECTS\nApproximately 100 subjects will be eligible for enrollment in this open-label multicenter \nstudy.  Additional subjects from future studies may also be enrolled to further establish long-\nterm safety of carfilzomib.\n3.4\nESTIMATED STUDY DURATION\nAn individual subject is considered to have completed the study 30 days after the last \nadministered dose of study drug in order to allow for safety follow up.  Treatment with \ncarfilzomib will continue until the earliest of the following:\n\uf0b7\nConfirmation of disease progression, and discussion with Medical Monitor\n- OR -\n\uf0b7\nDiagnosis of a new malignancy\n- OR -\n\uf0b7\nUnacceptable toxicity\n- OR -\n\uf0b7\nInvestigator discretion\n- OR -\n\uf0b7\nVoluntary withdrawal\n- OR -\n\uf0b7\nCommercial availability of carfilzomib\n4\nSUBJECT SELECTION\n4.1\nINCLUSION CRITERIA\nSubjects must meet all of the following inclusion criteria to be eligible to enroll in this study:\n1. Previous completion of a carfilzomib study within 90 days prior to first dose of study \ndrug for Protocol PX-171-010.\n2. Disease Assessments performed within 30 days prior to first dose of study drug for \nProtocol PX-171-010.\nEthical/Other\n3. Written informed consent in accordance with federal, local, and institutional guidelines\n4. Females of childbearing potential (FCBP)* must have a negative serum or urine \npregnancy test, with a sensitivity of at least 50 mIU/mL, within 3 days prior to first dose \nof extended carfilzomib therapy study drug.\nOnyx Therapeutics, Inc.\nProtocol PX-171-010, Amendment 3\nCarfilzomib for Injection\nPage 20 of 60\nConfidential\n5. Subjects must agree to adhere to the study visit schedule and other study requirements \nand receive outpatient treatment and laboratory monitoring at the institution that \nadministers the drug.\n* Females of childbearing potential (FCBP): Defined as sexually mature females who have not undergone a \nhysterectomy or who have not been postmenopausal for at least 24 consecutive months (ie, who have had \nmenses at some time in the preceding 24 consecutive months), or had a bilateral oophorectomy are \nconsidered to be females of childbearing potential.\n4.2\nEXCLUSION CRITERIA\nSubjects who meet any of the following exclusion criteria are not eligible to be enrolled in \nthis study:\n1. Administration of an intervening chemotherapy between the time of previous carfilzomib \nstudy termination and first dose of study drug for Protocol PX-171-010.\nConcurrent Conditions\n2. Pregnant or lactating females.\n3. Diagnosis of a new malignancy of a different tumor type.\n5\nSUBJECT ENROLLMENT\nThe screening period for a particular subject commences at the point which the subject signs \nthe informed consent.  Consent must be signed before any study-specific tests may be \nperformed.\nSubject demographics, including previous carfilzomib study unique identifier, will be \ncaptured in a study enrollment form.  Tumor measurements and efficacy assessments \n(eg, extent of disease measurements and objective response category) relevant to the \nsubject\u2019s tumor type will be collected in accordance to the method(s) employed in the \nsubject\u2019s previous carfilzomib study protocol.  Refer to Appendix D\u2013E for Response Criteria.  \nFor subjects participating in a carfilzomib trial without explicit tumor measurements and \ndefined response criteria (eg, PX-171-008), response to treatment will be tabulated using the \nappropriate method (eg, RECIST criteria for solid tumors).  Response to treatment will be \nbased on the tumor assessment conducted at the time of screening for the current study.  \nDisease assessments will be required within 30 days prior to study enrollment, at least every \n3 months throughout the extended treatment period (Day 1), and at end of study visit. \nOnyx Therapeutics, Inc.\nProtocol PX-171-010, Amendment 3\nCarfilzomib for Injection\nPage 21 of 60\nConfidential\nAfter a subject has been screened and has successfully fulfilled all eligibility criteria, the site \nrepresentative will fax the inclusion/exclusion checklist and all other required documentation \nto Onyx Therapeutics.\nSubjects will retain their study-specific number from the previous study.  This number will \nbe used to identify the subject throughout the study and must be used on all study \ndocumentation related to that subject.\nThe number of subjects may be expanded to include eligible subjects from future studies, to \nfurther establish safety and efficacy, if needed.\n6\nTREATMENT PROCEDURES\n6.1\nDRUG PREPARATION AND ADMINISTRATION\n6.1.1\nCARFILZOMIB DRUG ADMINISTRATION\nCarfilzomib for Injection is supplied as a lyophilized parenteral product in single-use vials \nwhich, when reconstituted with an appropriate volume of Water for Injection, contains \n2 mg/mL of carfilzomib.  The product is supplied in labeled carton(s) and is shipped and \nstored between 2\u00b0C\u20138\u00b0C (36\u00b0F\u201346\u00b0F).  Details of the description, formulation, preparation, \nstorage, and accountability of Carfilzomib for Injection may be found in a separate Pharmacy \nManual.\nCarfilzomib will be administered IV, using the same method, frequency, and at the same \ndose level as administered in the last cycle of the subject\u2019s previous carfilzomib study; in this \nstudy, carfilzomib doses will be administered on Days 1, 2, 8, 9, 15, and 16 of a 28-day cycle \n(or the same dose level and frequency as administered at the last visit of the prior carfilzomib\nstudy) until disease progression or unacceptable toxicity.  Each dose will consist of \nCarfilzomib for Injection administered on an mg/m2 basis.  Subjects with a body surface area \n(BSA) > 2.2 m2 will receive a dose based upon a 2.2 m2 BSA.\nDosing will be continued or modified based upon clinical and laboratory findings.\nThe dose will be administered at a facility capable of managing hypersensitivity reactions.  \nIf a carfilzomib dose is delayed by more than 1 day, it will not be made up.\n",
+                        "Sub-sections": [
+                            {
+                                "Header Number": "N/A",
+                                "Title": "Table 1: Carfilzomib for Injection Dose Levels",
+                                "Content": "Onyx Therapeutics, Inc.\nProtocol PX-171-010, Amendment 3\nCarfilzomib for Injection\nPage 23 of 60\nConfidential\nDose level reductions, to a minimum dose of 11 mg/m2, for toxicity will also be permitted; \nthe Medical Monitor may be consulted as needed.  Missed doses of carfilzomib will not be \nmade up.  Doses of carfilzomib may be rescheduled by up to 48 hours if the scheduled \nadministration falls upon a holiday.  Anticipated delays of a scheduled carfilzomib dose by \nmore than 1 day should be discussed beforehand with the Medical Monitor. A dose \nreduction guideline diagram is as follows:\n6.2.2\nDOSE MODIFICATIONS FOR HEMATOLOGIC TOXICITIES\nStudy drug will be withheld from subjects with:\n\uf0b7\nGrade 3 neutropenia (ANC < 1000/mm3)\n\uf0b7\nGrade 4 thrombocytopenia with active bleeding\nGrade 4 anemia and thrombocytopenia (without active bleeding) do not require the \ncarfilzomib dose to be withheld.  However, subjects should receive supportive measures in \naccordance with institutional guidelines.  For patients with Grade 4 thrombocytopenia \nwithout evidence of bleeding, study drug dosing may occur following consultation with the \nMedical Monitor.\nOnyx Therapeutics, Inc.\nProtocol PX-171-010, Amendment 3\nCarfilzomib for Injection\nPage 24 of 60\nConfidential\nSubjects with reversible and manageable hematologic toxicity (eg, effects have diminished to \nbaseline or better at the time of the next scheduled treatment) will continue to receive \ncarfilzomib at the same dose level. For the purposes of this study, \u2018baseline\u2019 refers to the \nsubject\u2019s status at the start of this Protocol (PX-171-010).\nIf required by continued or worsening toxicity, dose level and/or frequency reductions will be \npermitted after discussion with the Medical Monitor.  The minimum dose level will be \n11 mg/m2.  Dose reductions below 11 mg/m2 will not be permitted.  The minimum dose \nfrequency will be carfilzomib administration on Days 1, 2, 15 and 16 (eg, every other week).  \nLess frequent dosing will not be permitted.  If toxicity continues, the subject should be \nremoved from the study.\nFor subjects whose dose level/frequency is reduced due to study drug-related hematologic \ntoxicity, dose level/frequency re-escalation may be considered if the subject tolerates the \nreduced dose and at the Investigator\u2019s discretion in consultation with the Medical Monitor.\nIf there is no resolution of toxicity after 2 weeks of withholding treatment (up to 3 weeks for \ninfection treatment), the subject will be withdrawn from the study.\n6.2.3\nDOSE MODIFICATIONS FOR NON-HEMATOLOGIC TOXICITIES\nStudy drug should be held for drug-related \u2265 Grade 3 events until resolution to \u2264 Grade 1 or \nreturn to baseline status. For the purposes of this study, \u2018baseline\u2019 refers to the subject\u2019s \nstatus at the start of this Protocol (PX-171-010).\nAfter resolution to \u2264 Grade 1 or return to baseline status of the event, subsequent treatment \nwith carfilzomib may resume at full dose at the Investigator\u2019s discretion.\nIf required by continued or worsening toxicity, dose level and/or frequency reductions will be \npermitted after discussion with the Medical Monitor.  The minimum dose level will be \n11 mg/m2.  Dose reductions below 11 mg/m2 will not be permitted.  The minimum dose \nfrequency will be carfilzomib administration on Days 1, 2, 15, and 16 (eg, every other week).  \nLess frequent dosing will not be permitted.  If the toxicity continues, the subject should be \nremoved from the study.\n",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "N/A",
+                                "Title": "Table 2: Dose Adjustment Guideline for Renal Dysfunction",
+                                "Content": "Onyx Therapeutics, Inc.\nProtocol PX-171-010, Amendment 3\nCarfilzomib for Injection\nPage 26 of 60\nConfidential\noriginal dose.  If there is no resolution of the infection after 3 weeks, the subject will be \nwithdrawn from the study.\n6.2.3.3\nCongestive Heart Failure\nAny subject with symptoms of new or worsening congestive heart failure (CHF), whether or \nnot drug related, must have the dose held until resolution of the CHF.  After the CHF has \nresolved or returned to baseline, treatment may continue at a reduced dose with the approval \nof the Medical Monitor, or the subject may be withdrawn from the study.  If there is no \nresolution of CHF after 2 weeks, the subject will be withdrawn from the study.\n6.2.3.4\nConditions Not Requiring Dose Reduction \nThe following conditions are exceptions to the above guidelines.  Carfilzomib does not need \nto be held in the following cases:\n\uf0b7\nGrade 3 nausea, vomiting, or diarrhea (unless persisting > 3 days with adequate \ntreatment of anti-emetics or anti-diarrheals)\n\uf0b7\nGrade 3 fatigue (unless persisting for > 14 days)\n\uf0b7\nAlopecia\n\uf0b7\n\u2265 Grade 3 hyperglycemia attributed to dexamethasone\nOther exceptions may be discussed with the Medical Monitor on a case-by-case basis.\n6.2.4\nMISSED DOSES \nMissed doses will not be replaced during a cycle.  If a subject misses greater than 2 doses of \nany cycle for reasons other than toxicity, the subject will be discontinued.\n6.2.5\nCHANGES IN BODY SURFACE AREA\nDose adjustments do not need to be made for weight gains/losses of \u226420%.  Subjects with a \nBSA of > 2.2 m2 will receive carfilzomib based on 2.2 m2 BSA.\n6.2.6\nOTHER DOSING MODIFICATIONS\nDose modifications and delays different from those stated in the protocol, for management of \ntoxicities, may be permitted but must be decided jointly by the Principal Investigator and the \nMedical Monitor or designee.\nOnyx Therapeutics, Inc.\nProtocol PX-171-010, Amendment 3\nCarfilzomib for Injection\nPage 27 of 60\nConfidential\n6.2.7\nDOSE ESCALATION RULES\nDose escalations beyond the original dose level up to the maximum tolerated dose \nestablished in primary carfilzomib studies may be permitted following discussion with the \nMedical Monitor.\n6.3\nSAFETY GUIDANCE FOR INVESTIGATORS\n6.3.1\nSAFETY GUIDANCE\nBased upon the experience in Phase 1 studies with carfilzomib, the following observations \nmust be noted:\nPhysicians administering carfilzomib in subjects with compromised renal function should \nhydrate appropriately and treat according to calculated CrCl, not on serum creatinine.  It is \nrecommended that electrolyte abnormalities judged as clinically significant by the Principal \nInvestigator (or qualified designee) be corrected to \u2264 Grade 1 or baseline.  Renal function and \nserum creatinine should be monitored prior to dosing.  Carfilzomib must be held if a subject \npresents with a CrCl < 15 mL/min with the following exception:  for subjects with CrCl \n<15 mL/min at study entry, study drug must be held if CrCl drops \u2265 50% from baseline. \nSubjects who develop an active infection requiring systemic treatment should not be dosed \nwith carfilzomib until the infection has resolved and the treatment course has been \ncompleted.  Subjects with \u2265 Grade 3 neutropenia should not be treated with carfilzomib.\nCarfilzomib dosing must be held for Grade 4 thrombocytopenia with bleeding.  If platelet \ncounts do not recover, the dose of carfilzomib may be reduced or held according to the Dose \nReductions/Adjustments rules outlined in Section 6.2.2.  For Grade 4 thrombocytopenia \nwithout evidence of active bleeding, platelet transfusions may be used per study site policies \nand at the discretion of the Investigator or treating physician.\nCarfilzomib treatment can cause nausea, vomiting, diarrhea, or constipation, sometimes \nrequiring the use of antiemetics or antidiarrheals.  Fluid and electrolyte replacement should \nbe administered to prevent dehydration.\nOnyx Therapeutics, Inc.\nProtocol PX-171-010, Amendment 3\nCarfilzomib for Injection\nPage 28 of 60\nConfidential\n6.4\nCONCOMITANT MEDICATIONS\nConcomitant medication is defined as any prescription or over-the-counter preparation, \nincluding vitamins and supplements.\n6.4.1\nREQUIRED CONCOMITANT MEDICATION\nAll subjects with a history of herpes viral infection should receive acyclovir or valacyclovir\nprophylaxis according to institutional guidelines and the investigator\u2019s discretion.\n6.4.2\nALLOWED CONCOMITANT MEDICATIONS\nCommercially available bisphosphonates are permitted.  Subjects may receive antiemetics \nand antidiarrheals as necessary, but these should not be administered unless indicated.  \nColony-stimulating factors may be used if neutropenia occurs but should not be given \nprophylactically.\nSubjects may receive platelet transfusions in accordance with institutional guidelines.  \nRed blood cell (RBC) transfusions or supportive care with erythropoietin or darbepoetin alfa, \nin accordance with institutional guidelines, is also permitted.\nSubjects who received 4 mg dexamethasone prior to carfilzomib dosing on an ongoing basis \nduring their previous carfilzomib treatment protocol may continue to receive 4 mg \ndexamethasone prior to carfilzomib dosing on the current protocol at the investigator\u2019s \ndiscretion.\nThe addition of certain approved agents with known antitumor activity is permitted if there is \nconcern for disease progression and per Investigator discretion in consultation with the Onyx \nMedical Monitor.\n6.4.3\nEXCLUDED CONCOMITANT MEDICATIONS\nOther investigational agents should not be used during the study.\n7\nSTUDY TESTS AND OBSERVATIONS\nProtocol-required tests, observations, and procedures are summarized in the Schedule of \nEvents, Appendix A.\nOnyx Therapeutics, Inc.\nProtocol PX-171-010, Amendment 3\nCarfilzomib for Injection\nPage 29 of 60\nConfidential\nSafety Measures\nA CBC including platelets and basic metabolic chemistry panel (eg, Chem 7 or 8) will be \nperformed on Day 1 of each cycle.  Other general safety monitoring (eg, physical \nexaminations, imaging, specialty tests, etc.) shall be in accordance with institutional \nguidelines and as clinically indicated.  These data will not be routinely recorded on case \nreport forms (CRFs).\nPregnancy Test\nFemales of Child Bearing Potential (FCBP) must have a negative serum or urine pregnancy \ntest, with a sensitivity of at least 50 mIU/mL within 3 days prior to dosing. All subjects must \nbe informed that he/ she needs to use a dual effective method of birth control while in this \nstudy, such as oral contraceptives plus use of a physical barrier (ie, condom) for the full \nduration of the study, plus 3 additional months.\n7.1\nSCREENING (DAYS \u201330 TO \u20131)\nThe following screening assessments must be performed between Days \u201330 and \u20131:\n1. Obtain written informed consent prior to carrying out any study procedure\n2. Obtain previous PX-171 protocol unique identifier (patient study number)\n3. Determine eligibility according to Inclusion/Exclusion criteria (see Section 4)\n4. Perform Disease Assessments, ie, extent of disease measurements (per method employed \nin previous protocol); and response category (see Appendix D\u2013E). \nNote: If disease assessments are performed previously within 30 days of first dose \nof extended carfilzomib therapy study drug, a second disease assessment will not be \nrequired.\n5. Perform routine physical examination\n6. Perform pregnancy test for FCBP\n7. Obtain height, weight, and BSA\n8. Obtain Eastern Cooperative Oncology Group (ECOG) performance status and \nneuropathy grade\n9. OPTIONAL:  Bone marrow aspirate and/or biopsy sample collection for cytogenetic and \nfluorescent in situ hybridization (FISH) analysis (only for MM subjects whose disease \nstatus at study entry is PR, MR or SD).\n10. Record peripheral neuropathy AEs (all grades)\n11. Record Grade 3 and 4 AEs, and all SAEs\nOnyx Therapeutics, Inc.\nProtocol PX-171-010, Amendment 3\nCarfilzomib for Injection\nPage 30 of 60\nConfidential\n12. Record AE (any Grade) leading to a missed carfilzomib dose, carfilzomib dose reduction \nor discontinuation.\n13. Record any concomitant chemotherapy agents\n7.2\nCYCLE 1 (DAY 1)\nThe following assessments must be completed on Cycle 1, Day 1:\n1. Serum chemistry \u2013 basic chemistry panel (Chem 7 or 8), pre-dose.  Laboratory values \nmay be obtained within 24 hours prior to treatment for convenience.  Results must be \nreviewed prior to dosing.\n2. CBC and platelet count \u2013 pre-dose.  Laboratory values may be obtained within 24 hours \nprior to treatment for convenience.  Results must be reviewed prior to dosing.\n3. Administer carfilzomib dose IV\n4. Record peripheral neuropathy AEs (all grades)\n5. Record Grade 3 and 4 AEs, and all SAEs\n6. Record AE (any Grade) leading to a missed carfilzomib dose, carfilzomib dose reduction, \nor discontinuation. In the event of a toxicity leading to a dose reduction or \ndiscontinuation, pertinent laboratory measurements and concomitant medications will be \ncollected and monitored as unscheduled visits\n7. Record any concomitant chemotherapy agents\n7.3\nCYCLE 1 (DAYS 2, 8, 9, 15, AND 16)\nThe following assessments must be completed on Cycle 1 on Days 2, 8, 9, 15, and 16 (or the \nsame dose level and frequency as administered at the last visit of the prior carfilzomib study):\n1. Administer carfilzomib dose IV\n2. Record peripheral neuropathy AEs (all grades)\n3. Record Grade 3 and 4 AEs, and all SAEs\n4. Record AE (any Grade) leading to a missed carfilzomib dose, carfilzomib dose reduction, \nor discontinuation. In the event of a toxicity leading to a dose reduction or \ndiscontinuation, pertinent laboratory measurements and concomitant medications will be \ncollected and monitored as unscheduled visits.\n5. Record any concomitant chemotherapy agents\n7.4\nCYCLES 2 AND HIGHER (DAY 1)\nThe following assessments must be completed on Cycle 2 and higher (Day 1):\n1. Serum chemistry \u2013 basic panel (Chem 7 or 8), pre-dose; laboratory values must be \nreviewed prior to dosing.\n2. CBC and platelet count, pre-dose; laboratory values must be reviewed prior to dosing.\nOnyx Therapeutics, Inc.\nProtocol PX-171-010, Amendment 3\nCarfilzomib for Injection\nPage 31 of 60\nConfidential\n3. Obtain weight and BSA\n4. Administer carfilzomib dose IV\n5. Record peripheral neuropathy AEs (all grades)\n6. Record Grade 3 and 4 AEs, and all SAEs\n7. Record AE (any Grade) leading to a missed carfilzomib dose, carfilzomib dose reduction, \nor discontinuation. In the event of a toxicity leading to a dose reduction or \ndiscontinuation, pertinent laboratory measurements and concomitant medications will be \ncollected and monitored as unscheduled visits.\n8. Record any concomitant chemotherapy agents\n7.5\nCYCLES 2 AND HIGHER (DAYS 2, 8, 9, 15, AND 16)\nThe following assessments must be completed on Cycle 2 and higher on Days 2, 8, 9, 15, and \n16 (or the same dose level and frequency as administered at the last visit of the prior \ncarfilzomib study):\n1. Administer carfilzomib dose IV\n2. Record peripheral neuropathy AEs (all grades)\n3. Record Grade 3 and 4 AEs, and all SAEs\n4. Record AE (any Grade) leading to a missed carfilzomib dose, carfilzomib dose reduction, \nor discontinuation. In the event of a toxicity leading to a dose reduction or \ndiscontinuation, pertinent laboratory measurements and concomitant medications will be \ncollected and monitored as unscheduled visits.\n5. Record any concomitant chemotherapy agents\n7.6\nCYCLE 3 AND EVERY 3 CYCLES (DAY 1)\nThe following assessments must be completed on Cycle 3 and every 3 cycles (Day 1):\n1. Serum chemistry \u2013 basic panel (Chem 7 or 8), pre-dose; laboratory values must be \nreviewed prior to dosing. \n2. CBC and platelet count, pre-dose; laboratory values must be reviewed prior to dosing. \n3. Perform Disease Assessments, ie, extent of disease measurements (per method employed \nin previous protocol); and response category (see Appendix D\u2013E).  \nNote:  If disease assessments, per standard institutional practices, occur more frequently \nthan every 3 months (eg every month or every 2 months), the most recent assessment \nmay be reported.\n4. Administer carfilzomib dose IV\n5. Record peripheral neuropathy AEs (all grades)\nOnyx Therapeutics, Inc.\nProtocol PX-171-010, Amendment 3\nCarfilzomib for Injection\nPage 32 of 60\nConfidential\n6. Record Grade 3 and 4 AEs, and all SAEs\n7. Record AE (any Grade) leading to a missed carfilzomib dose, carfilzomib dose reduction, \nor discontinuation. In the event of a toxicity leading to a dose reduction or \ndiscontinuation, pertinent laboratory measurements and concomitant medications will be \ncollected and monitored as unscheduled visits.\n8. Record any concomitant chemotherapy agents\n7.7\nEND OF STUDY ASSESSMENTS \n(WITHIN 30 DAYS OF STUDY DISCONTINUATION)\nThe following assessment must be completed within 30 days of administration of last dose of \nstudy drug and prior to initiation of any new therapy:\n1. Perform complete physical examination\n2. Perform Disease Assessments, ie, extent of disease measurements (per method employed \nin previous protocol); and response category (see Appendix D\u2013E).\n3. OPTIONAL: Bone marrow aspirate and/or biopsy for cytogenetic and FISH analysis \n(only required for MM subjects whose reason for study discontinuation is PD).\n4. Record peripheral neuropathy AEs (all grades)\n5. Record Grade 3 and 4 AEs, and all SAEs\n6. Record any concomitant chemotherapy agents\n7.8\nTUMOR RESPONSE ASSESSMENT\nEfficacy Measures\nTumor measurements and efficacy assessments will be in accordance with the methods \nemployed in the subject\u2019s prior carfilzomib study.  For subjects participating in a carfilzomib \ntrial without prior tumor measurements and efficacy assessments (eg, PX-171-008), tumor \nassessments will be conducted at the time of screening for the current study using the \nappropriate method (eg, RECIST criteria for solid tumors); these assessments will be used as \nthe subjects\u2019 baseline disease assessments for determining response and progression while on \nthe current Protocol (PX-171-010). Disease assessments (eg, Extent of Disease \nMeasurements and objective response category) will occur within 30 days prior to enrollment \nto determine eligibility, at least every 3 months throughout study participation, and at end of \nstudy.  Subjects will be evaluated for disease response according to the parameters employed \nin their previous carfilzomib study.  Refer to Appendix D\u2013E for Response Criteria.\nOnyx Therapeutics, Inc.\nProtocol PX-171-010, Amendment 3\nCarfilzomib for Injection\nPage 33 of 60\nConfidential\n7.9\nCORRELATIVE STUDIES\n7.9.1\nCYTOGENETIC AND FISH STUDIES\nA bone marrow biopsy and/or aspirate for determining percent plasma cell involvement, \nincluding metaphase cytogenetic and FISH studies are optional for all MM subjects entering \nwith a PR, MR, or SD.  Samples for cytogenetic and FISH analysis will also be optional for \nall MM subjects who discontinue study due to PD.  Bone marrow cytogenetic and FISH \nanalyses will be carried out at the site\u2019s local laboratory, per standard of practice, or in a \nCentral Reference Laboratory.\n8\nSTUDY DISCONTINUATION\nSubjects may withdraw from the study at any time.  Subjects who discontinue from the study \nwill be monitored for AEs as described in Appendix C (NCI-CTCAE Version 3.0).\nThe Sponsor, Onyx Therapeutics, Inc. may elect to discontinue the study at any time.\nThe Investigator may remove a subject from the study for the following reasons:\n\uf0b7\nNoncompliance with study procedures\n\uf0b7\nNeed of treatment with medications not allowed by the study protocol\n\uf0b7\nSubject no longer consents to participate in the study\n\uf0b7\nIntercurrent illness that interferes with study assessments\n\uf0b7\nIncidence or severity of AEs in this study indicates a potential health hazard to\nthe subject\n\uf0b7\nConfirmation of PD, and discussion with the Medical Monitor\nOnyx Therapeutics or designee must be notified within 24 hours if a subject is withdrawn \nfrom the study.\nIf the reason for withdrawal is the occurrence of an AE, the subject will be followed by the \nInvestigator until such events resolve, stabilize, and, according to the Investigator\u2019s \njudgment, there is no need of further follow-up.  The reason for withdrawal from the study \nwill be documented in the CRF.\nIf a subject is withdrawn for PD, the date of the laboratory test or procedure indicating \ndisease progression will be used as the date of PD.  The CRFs must have appropriate source \nOnyx Therapeutics, Inc.\nProtocol PX-171-010, Amendment 3\nCarfilzomib for Injection\nPage 34 of 60\nConfidential\ndocumentation to demonstrate that a subject has progressed.  Bone marrow aspirate or biopsy \nsamples for cytogenetic analysis are optional for all MM subjects who discontinue due to PD.\n9\nADVERSE EVENTS\n9.1\nADVERSE EVENTS DEFINITIONS\nAn AE is any untoward medical occurrence in a study subject administered an investigational \nproduct and that does not necessarily have a causal relationship with this treatment.\nAn unexpected AE is any adverse drug event, the specificity or severity of which is not \nconsistent with the current Investigator\u2019s Brochure or prescribing information for a marketed \ncompound. Also, reports which add significant information on specificity or severity of a \nknown, already documented AE constitute unexpected AEs. For example, an event more \nspecific or more severe than described in the Investigator\u2019s Brochure would be considered \n\u201cunexpected\u201d.\nAn AE therefore can be any unfavorable and unintended sign (including laboratory finding), \nsymptom, or disease temporally associated with participation in an investigational study, \nwhether or not considered treatment-related.  In addition to new events, any increase in the \nseverity or frequency of a pre-existing condition that occurs after the subject signs a consent \nform for participation is considered an AE.  This includes any side effect, injury, toxicity, or \nsensitivity reaction.\nWhenever possible, the CTCAE Version 3.0 (see Appendix D) should be used to describe the \nevent and for assessing the severity of AEs.  Any event representing a change in the CTCAE \ngrade needs to be reported on the AE CRF.  This includes any change in a laboratory value.\nFor AEs not adequately addressed in the CTCAE, the severity table below may be used:\n",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "N/A",
+                                "Title": "Table 3: Toxicity Grading",
+                                "Content": "Onyx Therapeutics, Inc.Protocol PX-171-010, Amendment 3Carfilzomib for InjectionPage 8 of 60Confidential",
+                                "Sub-sections": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Header Number": "N/A",
+                "Title": "LIST OF ABBREVIATIONS",
+                "Content": "AbbreviationDefinitionAEadverse eventBSAbody surface areaCBCcomplete blood countCFRCode of Federal RegulationsCHFcongestive heart failureCRcomplete responseCRuunconfirmed complete responseCROclinical research organizationCrClcreatinine clearanceCRFcase report form(s)CSRclinical study reportCTCAECommon Terminology Criteria for Adverse EventsCVcurricula vitaeDLTdose-limiting toxicityECOGEastern Cooperative Oncology GroupFASfull analysis setFCBPfemales of childbearing potentialFDAFood and Drug AdministrationFISHfluorescent in situ hybridizationGCPGood Clinical Practice HIPAAHealth Insurance Portability and Accountability ActIBInvestigator\u2019s BrochureIECIndependent Ethics CommitteeINDInvestigational New Drug (Application)IRBInstitutional Review BoardIVintravenousMMmultiple myelomaMRminimal responseMTDmaximum tolerated doseNCINational Cancer InstituteNHLNon-Hodgkin\u2019s LymphomaOSoverall survivalPDprogressive diseasePFSprogression-free survivalPRpartial responseQDx2consecutive day dosingOnyx Therapeutics, Inc.\nProtocol PX-171-010, Amendment 3\nCarfilzomib for Injection\nPage 9 of 60\nConfidential\nAbbreviation\nDefinition\nQDx5\ndaily dosing for 5 consecutive days\nQIU\nQualified Investigator Undertaking Form\nRBC\nred blood cell\nSAE\nserious adverse event\nSAP\nstatistical analysis plan\nsCR\nstringent complete response\nSD\nstable disease\nTLS\ntumor lysis syndrome\nTTP\ntime to tumor progression\nUS\nUnited States\nVGPR\nvery good partial response\n",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "N/A",
+                "Title": "PROTOCOL SYNOPSIS: PX-171-010",
+                "Content": "Onyx Therapeutics, Inc.\nProtocol PX-171-010, Amendment 3\nCarfilzomib for Injection\nPage 11 of 60\nConfidential\n5. Subjects must agree to adhere to the study visit schedule and other \nstudy requirements and receive outpatient treatment and \nlaboratory monitoring at the institution that administers the drug.\nEXCLUSION \nCRITERIA\nSubjects who meet any of the following exclusion criteria are not \neligible to be enrolled in this study:\nDisease Related\n1. Administration of an intervening chemotherapy between the time \nof previous carfilzomib study termination and first dose of study \ndrug for Protocol PX-171-010.\nConcurrent Conditions\n2. Pregnant or lactating females.\n3. Diagnosis of a new malignancy of a different tumor type.\nPROCEDURES\nAfter screening, eligibility determination, and enrollment; subjects \nwill receive carfilzomib according to the doses and schedules as \nsummarized in the Study Treatment section of the Synopsis.  Standard \nmonitoring for hematologic and non-hematologic toxicity is outlined \nin Section 6.2.  Subjects may continue carfilzomib treatment until \ndisease progression and discussion with Onyx Medical Monitor,\ndiagnosis of new malignancy, unacceptable toxicity, Investigator \ndiscretion, voluntary withdrawal, or commercial availability of \ncarfilzomib.\nSafety Measures. A complete blood count (CBC) including platelets \nand basic metabolic chemistry panel (eg, Chem 7 or 8) will be \nperformed on Day 1 of each cycle.  Other general safety monitoring \n(eg, physical examinations, imaging, specialty tests, etc.) shall be in \naccordance with institutional guidelines and as clinically indicated. \nThese data will not be routinely collected.\nEfficacy Measures. Tumor measurements and efficacy assessments \nwill be in accordance with the methods employed in the subject\u2019s \nprior carfilzomib study.  For subjects participating in a carfilzomib \ntrial without prior tumor measurements and efficacy assessments \n(eg, PX-171-008), tumor assessments employing standard institutional \nmethods will be conducted at the time of screening for the current \nstudy.  Disease assessments (eg, extent of disease measurements and \nobjective response category) will occur within 30 days prior to \nenrollment to determine eligibility, at least every 3 months throughout \nstudy participation, and at end of study.  Refer to Appendix D\u2013E for \nResponse Criteria.\nFor subjects with multiple myeloma (MM) entering the extended\nstudy with a partial response (PR), minimal response (MR), or stable \ndisease (SD); bone marrow biopsies for cytogenetic and fluorescence \nin situ hybridization (FISH) evaluation will be optional at screening.  \nA bone marrow biopsy in these subjects will also be optional at end of \nstudy for cytogenetic and FISH evaluation if the reason for study \nOnyx Therapeutics, Inc.\nProtocol PX-171-010, Amendment 3\nCarfilzomib for Injection\nPage 12 of 60\nConfidential\ndiscontinuation is disease progression.  For subjects with MM \nentering the extended study with stringent complete response (sCR), \ncomplete response (CR), or very good partial response (VGPR), a \nbone marrow biopsy for cytogenetic and FISH analyses will also be \noptional upon the establishment of disease progression.\nSTUDY \nTREATMENT\nCarfilzomib will be administered intravenously (IV), using the same \nmethod, dose level and frequency as administered in the last cycle of \nthe subject\u2019s previous carfilzomib study; carfilzomib doses will be \nadministered on Days 1, 2, 8, 9, 15, and 16 of a 28-day cycle (or the \nsame dose level and frequency as administered at the last visit of the \nprior carfilzomib study) until disease progression and discussion with \nthe Onyx Medical Monitor, diagnosis of new malignancy, \nunacceptable toxicity, Investigator discretion, voluntary withdrawal, \nor commercial availability of carfilzomib.  Each dose will consist of \nCarfilzomib for Injection administered on a mg/m2 basis.  Subjects \nwith a body surface area (BSA) > 2.2 m2 will receive a dose based \nupon a 2.2 m2 BSA.  Dosing will be continued or modified based \nupon clinical and laboratory findings.\nDecreased carfilzomib dosing frequency to include dosing on Days 1, \n2, 15 and 16 (eg, every other week dosing schedule), will be permitted \nat the discretion of the Investigator; the Onyx Therapeutics Medical \nMonitor may be consulted as needed. Carfilzomib dose reductions for \ntoxicity, to a minimum dose of 11 mg/m2, will be permitted following \ndiscussion with the Medical Monitor, as needed.  Missed doses of \ncarfilzomib will not be made up.\nDose escalations above the original dose level are permitted.  \nFor subjects with evidence of disease progression, the Onyx Medical \nMonitor must be consulted prior to the dose escalation or termination \nfrom study.\nAcyclovir or valacyclovir should be given to all subjects with a \nhistory of herpes simplex or zoster, per institutional prophylaxis \nguidelines, unless contraindicated.\nPRIMARY \nENDPOINT\n\uf0b7Safety\nSECONDARY \nENDPOINTS\n\uf0b7Overall Survival (OS)\n\uf0b7Progression Free Survival (PFS)\n\uf0b7Time to Progression (TTP)\nOnyx Therapeutics, Inc.\nProtocol PX-171-010, Amendment 3\nCarfilzomib for Injection\nPage 13 of 60\nConfidential\nSTATISTICAL \nMETHODS\nSafety Analyses:  Safety data analysis will be conducted on all \nsubjects receiving at least 1 dose of study treatment.  Analyses will \nconsist of data summaries for reported AEs.  The number and \npercentage of subjects experiencing 1 or more AEs will be \nsummarized by dose, relationship to study drug, and severity.\nDisease Response Analyses:  Response to treatment will be tabulated \nusing the criteria employed in the subject\u2019s prior carfilzomib \ntreatment study.\nFor subjects participating in a carfilzomib trial without explicit tumor \nmeasurements and defined response criteria (eg, PX-171-008), \nresponse to treatment will be tabulated using the appropriate method \n(eg, RECIST criteria for solid tumors). Response to treatment will be \nbased on the tumor assessment conducted at the time of screening for \nthe current study.\nThe distribution of subjects by response category will be made by \ndisease cohort.  Time-to-event endpoints will be evaluated with the \nuse of the Kaplan-Meier method and plots will be provided.  Analysis \nof time-to-event outcomes will be performed by disease cohort.\nSTUDY \nDURATION\nAn individual subject is considered to have completed the study \n30 days after the last administered dose of carfilzomib to allow for \nsafety follow up.\nTreatment with carfilzomib will continue until the earliest of the \nfollowing:\n\uf0b7Confirmation of disease progression, and discussion with Medical \nMonitor\n- OR -\n\uf0b7Diagnosis of a new malignancy\n- OR -\n\uf0b7Unacceptable toxicity\n- OR -\n\uf0b7\nInvestigator discretion\n- OR -\n\uf0b7Voluntary withdrawal\n- OR -\n\uf0b7Commercial availability of carfilzomib\n",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "1",
+                "Title": "INTRODUCTION",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "1.1",
+                        "Title": "CARFILZOMIB BACKGROUND",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "1.2",
+                        "Title": "PHASE 1 AND 2 EXPERIENCE WITH CARFILZOMIB IN HEMATOLOGIC MALIGNANCIES (Carfilzomib IB 2010, Stewart 2007, Onyx Data on File)",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "1.3",
+                        "Title": "PHASE 1 AND 2 EXPERIENCE WITH CARFILZOMIB IN SOLID TUMORS (Carfilzomib IB 2010, Stewart 2007, Onyx Data on File)",
+                        "Content": "Onyx Therapeutics, Inc.\nProtocol PX-171-010, Amendment 3\nCarfilzomib for Injection\nPage 16 of 60\nConfidential\nadministration of 20 mg/m2 on Days 1and 2 followed by 36 mg/m2 on subsequent days is \nwell tolerated.\nA Simon 2-stage open label study of 70 patients with 5 cohorts was initiated as the Phase 2 \nportion in April 2008.  The cohorts were stratified according to solid tumor disease type.  \nThe objective of this portion of the trial was to estimate overall response to 4 cycles of \ncarfilzomib.  This portion would only proceed to stage 2 if 1 PR or better occurred after \n16 weeks in a cohort.\nSeventy-nine patients had been enrolled on study through May 2009 in the Phase 1 \n(14 patients) and Phase 2 (65 patients) parts.  The median number of carfilzomib cycles given \nwas 2 (range 1-12). Of the 1064 doses administered ~68% were at the 36 mg/m2 dose level.  \nOne PR was observed in a renal cell patient; 11 patients achieved stable disease.  The most \ncommon AEs included fatigue, headache, diarrhea, nausea, and constipation.  There was a \nlow incidence of peripheral neuropathy and severe hematologic toxicity.\nDose escalation to evaluate and determine an MTD with a 30-minute infusion of carfilzomib \nis ongoing in patients with solid tumors and multiple myeloma. At this time, there is limited \nsafety data available to comment on differences, if any, associated with a 30-minute infusion \nversus a 10-minute infusion of carfilzomib.\nA drug-drug interaction Study PX-171-008 has been initiated where 15 subjects with \nadvanced solid tumors will be assessed to determine the effect of carfilzomib on the \npharmacokinetics of midazolam, a sensitive substrate for human CYP3A4. In addition, renal \nand biliary excretions will be assessed in this study.\nThe safety data from the solid tumor study indicate that the non-hematologic toxicities are \nsimilar to those seen in the Phase 1 studies.  The most common events reported regardless of \nrelationship to study drug are fatigue, diarrhea, and headache.\nFurther information about the Phase 1 and 2 studies is presented in the Investigator\u2019s \nBrochure (IB).\n",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "1.4",
+                        "Title": "EXTENDED CARFILZOMIB TREATMENT STUDY RATIONALE",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "1.5",
+                        "Title": "DOSE RATIONALE",
+                        "Content": "",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "2",
+                "Title": "STUDY OBJECTIVES",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "2.1",
+                        "Title": "OBJECTIVE",
+                        "Content": "",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "3",
+                "Title": "EXPERIMENTAL PLAN",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "3.1",
+                        "Title": "STUDY DESIGN",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "3.2",
+                        "Title": "NUMBER OF CENTERS",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "3.3",
+                        "Title": "NUMBER OF SUBJECTS",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "3.4",
+                        "Title": "ESTIMATED STUDY DURATION",
+                        "Content": "",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "4",
+                "Title": "SUBJECT SELECTION",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "4.1",
+                        "Title": "INCLUSION CRITERIA",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "4.2",
+                        "Title": "EXCLUSION CRITERIA",
+                        "Content": "",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "5",
+                "Title": "SUBJECT ENROLLMENT",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "6",
+                "Title": "TREATMENT PROCEDURES",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "6.1",
+                        "Title": "DRUG PREPARATION AND ADMINISTRATION",
+                        "Content": "",
+                        "Sub-sections": [
+                            {
+                                "Header Number": "6.1.1",
+                                "Title": "CARFILZOMIB DRUG ADMINISTRATION",
+                                "Content": "",
+                                "Sub-sections": []
+                            }
+                        ]
+                    },
+                    {
+                        "Header Number": "6.2",
+                        "Title": "DOSE MODIFICATION GUIDELINES",
+                        "Content": "",
+                        "Sub-sections": [
+                            {
+                                "Header Number": "6.2.1",
+                                "Title": "DOSE FREQUENCY AND DOSE LEVEL REDUCTIONS",
+                                "Content": "",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "6.2.2",
+                                "Title": "DOSE MODIFICATIONS FOR HEMATOLOGIC TOXICITIES",
+                                "Content": "",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "6.2.3",
+                                "Title": "DOSE MODIFICATIONS FOR NON-HEMATOLOGIC TOXICITIES",
+                                "Content": "",
+                                "Sub-sections": [
+                                    {
+                                        "Header Number": "6.2.3.1",
+                                        "Title": "Decreased Creatinine Clearance",
+                                        "Content": "",
+                                        "Sub-sections": []
+                                    },
+                                    {
+                                        "Header Number": "6.2.3.2",
+                                        "Title": "Infections",
+                                        "Content": "",
+                                        "Sub-sections": []
+                                    },
+                                    {
+                                        "Header Number": "6.2.3.3",
+                                        "Title": "Congestive Heart Failure",
+                                        "Content": "",
+                                        "Sub-sections": []
+                                    },
+                                    {
+                                        "Header Number": "6.2.3.4",
+                                        "Title": "Conditions Not Requiring Dose Reduction",
+                                        "Content": "",
+                                        "Sub-sections": []
+                                    }
+                                ]
+                            },
+                            {
+                                "Header Number": "6.2.4",
+                                "Title": "MISSED DOSES",
+                                "Content": "",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "6.2.5",
+                                "Title": "CHANGES IN BODY SURFACE AREA",
+                                "Content": "",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "6.2.6",
+                                "Title": "OTHER DOSING MODIFICATIONS",
+                                "Content": "",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "6.2.7",
+                                "Title": "DOSE ESCALATION RULES",
+                                "Content": "",
+                                "Sub-sections": []
+                            }
+                        ]
+                    },
+                    {
+                        "Header Number": "6.3",
+                        "Title": "SAFETY GUIDANCE FOR INVESTIGATORS",
+                        "Content": "",
+                        "Sub-sections": [
+                            {
+                                "Header Number": "6.3.1",
+                                "Title": "SAFETY GUIDANCE",
+                                "Content": "",
+                                "Sub-sections": []
+                            }
+                        ]
+                    },
+                    {
+                        "Header Number": "6.4",
+                        "Title": "CONCOMITANT MEDICATIONS",
+                        "Content": "",
+                        "Sub-sections": [
+                            {
+                                "Header Number": "6.4.1",
+                                "Title": "REQUIRED CONCOMITANT MEDICATION",
+                                "Content": "",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "6.4.2",
+                                "Title": "ALLOWED CONCOMITANT MEDICATIONS",
+                                "Content": "",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "6.4.3",
+                                "Title": "EXCLUDED CONCOMITANT MEDICATIONS",
+                                "Content": "",
+                                "Sub-sections": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Header Number": "7",
+                "Title": "STUDY TESTS AND OBSERVATIONS",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "7.1",
+                        "Title": "SCREENING (DAYS \u201330 TO \u20131)",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "7.2",
+                        "Title": "CYCLE 1 (DAY 1)",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "7.3",
+                        "Title": "CYCLE 1 (DAYS 2, 8, 9, 15, AND 16)",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "7.4",
+                        "Title": "CYCLES 2 AND HIGHER (DAY 1)",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "7.5",
+                        "Title": "CYCLES 2 AND HIGHER (DAYS 2, 8, 9, 15, AND 16)",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "7.6",
+                        "Title": "CYCLE 3 AND EVERY 3 CYCLES (DAY 1)",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "7.7",
+                        "Title": "END OF STUDY ASSESSMENTS (WITHIN 30 DAYS OF STUDY DISCONTINUATION)",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "7.8",
+                        "Title": "TUMOR RESPONSE ASSESSMENT",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "7.9",
+                        "Title": "CORRELATIVE STUDIES",
+                        "Content": "",
+                        "Sub-sections": [
+                            {
+                                "Header Number": "7.9.1",
+                                "Title": "CYTOGENETIC AND FISH STUDIES",
+                                "Content": "",
+                                "Sub-sections": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Header Number": "8",
+                "Title": "STUDY DISCONTINUATION",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "9",
+                "Title": "ADVERSE EVENTS",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "9.1",
+                        "Title": "ADVERSE EVENTS DEFINITIONS",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "9.2",
+                        "Title": "CAUSALITY",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "9.3",
+                        "Title": "ADVERSE EVENTS REPORTING PROCEDURES",
+                        "Content": "",
+                        "Sub-sections": [
+                            {
+                                "Header Number": "9.3.1",
+                                "Title": "DISEASE PROGRESSION",
+                                "Content": "",
+                                "Sub-sections": []
+                            }
+                        ]
+                    },
+                    {
+                        "Header Number": "9.4",
+                        "Title": "SERIOUS ADVERSE EVENTS DEFINITIONS",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "9.5",
+                        "Title": "SERIOUS ADVERSE EVENT REPORTING AND DOCUMENTATION REQUIREMENTS",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "9.6",
+                        "Title": "PREGNANCY",
+                        "Content": "",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "10",
+                "Title": "STATISTICAL CONSIDERATIONS",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "10.1",
+                        "Title": "OBJECTIVES/HYPOTHESES",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "10.2",
+                        "Title": "ANALYSIS ENDPOINTS",
+                        "Content": "",
+                        "Sub-sections": [
+                            {
+                                "Header Number": "10.2.1",
+                                "Title": "PRIMARY ENDPOINTS (SAFETY)",
+                                "Content": "",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "10.2.2",
+                                "Title": "SECONDARY ENDPOINTS (EFFICACY/DISEASE RESPONSE)",
+                                "Content": "",
+                                "Sub-sections": []
+                            }
+                        ]
+                    },
+                    {
+                        "Header Number": "10.3",
+                        "Title": "ANALYSIS POPULATIONS",
+                        "Content": "",
+                        "Sub-sections": [
+                            {
+                                "Header Number": "10.3.1",
+                                "Title": "SAFETY ANALYSIS",
+                                "Content": "",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "10.3.2",
+                                "Title": "DISEASE RESPONSE ANALYSIS",
+                                "Content": "",
+                                "Sub-sections": []
+                            }
+                        ]
+                    },
+                    {
+                        "Header Number": "10.4",
+                        "Title": "STATISTICAL METHODS",
+                        "Content": "",
+                        "Sub-sections": [
+                            {
+                                "Header Number": "10.4.1",
+                                "Title": "SAFETY ANALYSIS",
+                                "Content": "",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "10.4.2",
+                                "Title": "DISEASE RESPONSE ANALYSIS",
+                                "Content": "",
+                                "Sub-sections": []
+                            }
+                        ]
+                    },
+                    {
+                        "Header Number": "10.5",
+                        "Title": "SAMPLE SIZE",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "10.6",
+                        "Title": "GUIDELINES FOR EARLY STUDY TERMINATION",
+                        "Content": "",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "11",
+                "Title": "REGULATORY OBLIGATIONS",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "11.1",
+                        "Title": "INFORMED CONSENT",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "11.2",
+                        "Title": "COMPLIANCE WITH LAWS AND REGULATIONS",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "11.3",
+                        "Title": "PRE-STUDY DOCUMENTATION REQUIREMENTS",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "11.4",
+                        "Title": "SUBJECT CONFIDENTIALITY",
+                        "Content": "",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "12",
+                "Title": "ADMINISTRATIVE AND LEGAL OBLIGATIONS",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "12.1",
+                        "Title": "PROTOCOL AMENDMENTS AND STUDY TERMINATION",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "12.2",
+                        "Title": "STUDY DOCUMENTATION AND ARCHIVES",
+                        "Content": "",
+                        "Sub-sections": [
+                            {
+                                "Header Number": "12.2.1",
+                                "Title": "SOURCE DOCUMENTS",
+                                "Content": "",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "12.2.2",
+                                "Title": "CASE REPORT FORM COMPLETION",
+                                "Content": "",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "12.2.3",
+                                "Title": "ARCHIVAL OF RECORDS",
+                                "Content": "",
+                                "Sub-sections": []
+                            }
+                        ]
+                    },
+                    {
+                        "Header Number": "12.3",
+                        "Title": "STUDY MONITORING AND DATA COLLECTION",
+                        "Content": "Onyx Therapeutics, Inc.\nProtocol PX-171-010, Amendment 3\nCarfilzomib for Injection\nPage 47 of 60\nConfidential\nand significant findings, deviations and deficiencies, conclusions, actions taken or to be taken \nto ensure site compliance.\nThe Investigator must also permit trial-related audits, IRB/IEC review, and regulatory \ninspections providing direct access to data and source documents pertaining to this study if so \nrequested.\nThe following steps will be taken to ensure the accuracy, consistency, completeness, and \nreliability of the data:\n\uf0b7\nRoutine study site monitoring\n\uf0b7\nCRF review against source documents\n\uf0b7\nData management quality control checks\n\uf0b7\nSponsor medical review\nA contract research organization (CRO) will be responsible for the data management of this \nclinical trial.  Onyx Therapeutics or its designee will be responsible for the design and \ndistribution of the CRFs.  Onyx Therapeutics or its designee will be responsible for the \nmonitoring of the CRFs.  CRFs will be returned to the CRO.  The CRO, and/or Onyx \nTherapeutics, and/or its designee will generate queries in the event of incomplete or \ninconsistent data to be reconciled by the study site.\n",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "13",
+                "Title": "REFERENCES",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "N/A",
+                "Title": "APPENDICES",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "N/A",
+                        "Title": "APPENDIX A: SCHEDULE OF EVENTS",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "N/A",
+                        "Title": "Appendix B: ECOG Performance Scale (Eastern Cooperative Oncology Group)",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "N/A",
+                        "Title": "APPENDIX C: NCI CTCAE VERSION 3.0",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "N/A",
+                        "Title": "APPENDIX D: INTERNATIONAL UNIFORM RESPONSE CRITERIA FORMULTIPLE MYELOMA",
+                        "Content": "Onyx Therapeutics, Inc.\nProtocol PX-171-010, Amendment 3\nCarfilzomib for Injection\nPage 53 of 60\nConfidential\nMinimal Response \nResponse \nSubcategory\nResponse Criteria\nMR\n25%\u201349% reduction in the level of serum M-protein or a 50%\u201389% reduction in 24 hours\nurinary M-protein, which still exceeds 200 mg/24 h, maintained for a minimum of 6 weeks.\nFor subjects with non-secretory myeloma only, 25%\u201349% reduction in plasma cells in a \nbone marrow aspirate and on trephine biopsy, if biopsy is performed, maintained for a \nminimum of 6 weeks.\n25%\u201349% reduction in the size of soft tissue plasmacytomas (by radiography or clinical \nexamination)\nSource: Blad\u00e9 J, Samson D, Reece D, Apperley J, Bj\u00f6rkstrand B, Gahrton G, et al. Criteria for evaluating \ndisease response and progression in subjects with multiple myeloma treated by high-dose therapy and \nhaemopoietic stem cell transplantation. Myeloma Subcommittee of the EBMT. European Group for \nBlood and Marrow Transplant. Br J Haematol 1998 Sep; 102(5):1115\u201323.\n",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "N/A",
+                        "Title": "APPENDIX E: RESPONSE CRITERIA FOR SOLID TUMORS",
+                        "Content": "Onyx Therapeutics, Inc.\nProtocol PX-171-010, Amendment 3\nCarfilzomib for Injection\nPage 55 of 60\nConfidential\n\uf0b7\nSubjects with a global deterioration of health status requiring discontinuation of treatment \nwithout objective evidence of disease progression at that time should be classified as \nhaving \u201csymptomatic deterioration.\u201d  Every effort should be made to document the \nobjective progression even after discontinuation of treatment. \n\uf0b7\nIn some circumstances it may be difficult to distinguish residual disease from normal \ntissue.  When the evaluation of complete response depends on this determination, it is \nrecommended that the residual lesion be investigated (fine needle aspirate/biopsy) to \nconfirm the complete response status.\nSource: Therasse P, Arbuck SG, Eisenhauer EA, Wanders J, Kaplan RS, Rubinstein L, et al. New guidelines to \nevaluate the response to treatment in solid tumors. European Organization for Research and Treatment \nof Cancer, National Cancer Institute of the United States, National Cancer Institute of Canada. J Natl \nCancer Inst 2000;92:205\u201316.\n",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "N/A",
+                        "Title": "APPENDIX F: SUMMARY OF CHANGES",
+                        "Content": "Onyx Therapeutics, Inc.\nProtocol PX-171-010, Amendment 3\nCarfilzomib for Injection\nPage 57 of 60\nConfidential\nSection No.\nAmendment 2\nAmendment 3\nRationale\nSynopsis: PROCEDURES\nEfficacy Measures\nFor subjects with multiple myeloma \n(MM) entering the extended study with a \npartial response (PR), minimal response \n(MR), or stable disease (SD); bone \nmarrow biopsies for cytogenetic and \nfluorescence in situ hybridization (FISH) \nevaluation will be required at screening.  \nA bone marrow biopsy in these subjects \nwill also be required at end of study for \ncytogenetic and FISH evaluation if the \nreason for study discontinuation is \ndisease progression.\nFor subjects with multiple myeloma \n(MM) entering the extended study with a \npartial response (PR), minimal response \n(MR), or stable disease (SD); bone \nmarrow biopsies for cytogenetic and \nfluorescence in situ hybridization (FISH) \nevaluation will be optional at screening.  \nA bone marrow biopsy in these subjects \nwill also be optional at end of study for \ncytogenetic and FISH evaluation if the \nreason for study discontinuation is \ndisease progression.\nRevision. To allow bone marrow biopsies \nfor cytogenetic and fluorescence in situ \nhybridization (FISH) to be optional, \nrather than required.  To accommodate \nsubjects where bone marrow biopsies are \nunfeasible or unsafe to obtain.\nSynopsis: PROCEDURES\nEfficacy Measures\nFor subjects with MM entering the \nextended study with stringent complete \nresponse (sCR), complete response (CR), \nor very good partial response (VGPR), a \nbone marrow biopsy for cytogenetic and \nFISH analyses will only be required\nupon the establishment of disease \nprogression.\nFor subjects with MM entering the \nextended study with stringent complete \nresponse (sCR), complete response (CR), \nor very good partial response (VGPR), a \nbone marrow biopsy for cytogenetic and \nFISH analyses will also be optional upon \nthe establishment of disease progression.\nRevision. To allow bone marrow biopsies \nfor cytogenetic and fluorescence in situ \nhybridization (FISH) to be optional, \nrather than required, upon the \nestablishment of disease progression for \nsubjects with MM. To accommodate \nsubjects where bone marrow biopsies are \nunfeasible or unsafe to obtain.\nSection 6.2.1 Dose \nFrequency and Dose Level \nReductions\nCarfilzomib Dose Levels\n11 mg/m2\n15 mg/m2  \n20 mg/m2\n27 mg/m2\n36 mg/m2*\n45 mg/m2*\n* Dose level for 30-minute infusion\nCarfilzomib Dose Levels\n11 mg/m2\n15 mg/m2\n20 mg/m2\n27 mg/m2\n36 mg/m2*\n45 mg/m2*\n56 mg/m2*\n* Dose level for 30-minute infusion\nAddition. A dose level is added since \nsubjects can escalate up to 56 mg/m2\nbased on dose levels administered in \nPX-171-007.\nSection 6.4.1 Required \nConcomitant Medication\nA proton-pump inhibitor will be used \norally daily to prevent peptic disease.\nDeleted\nRevision. Proton-pump inhibitors are not \na required concomitant medication.\nOnyx Therapeutics, Inc.\nProtocol PX-171-010, Amendment 3\nCarfilzomib for Injection\nPage 58 of 60\nConfidential\nSection No.\nAmendment 2\nAmendment 3\nRationale\nSection 7 Study Tests and \nObservations\nThese data will not be routinely \ncollected.\nThese data will not be routinely recorded \non CRFs.\nClarification. These data may be \ncollected, but will not be routinely \nrecorded on CRFs. \nSection 7.1 Screening \n(Days -30 to -1)\nBone marrow aspirate and/or biopsy \nsample collection for cytogenetic and \nfluorescent in situ hybridization (FISH) \nanalysis (only for MM subjects whose \ndisease status at study entry is PR, MR or \nSD).\nOPTIONAL:  Bone marrow aspirate \nand/or biopsy sample collection for \ncytogenetic and fluorescent in situ \nhybridization (FISH) analysis (only for \nMM subjects whose disease status at \nstudy entry is PR, MR or SD).\nRevision. To allow bone marrow \nbiopsies for cytogenetic and fluorescence \nin situ hybridization (FISH) to be \noptional at Screening, rather than \nrequired, for MM subjects whose disease \nstatus at study entry is PR, MR or SD.\nTo accommodate subjects where bone \nmarrow biopsies are unfeasible or unsafe \nto obtain.\nSection 7.1 Screening \n(Days -30 to -1)\nSection 7.2 \nCycle 1 (Day 1)\nSection 7.3 \nCycle 1 (Days 2, 8, 9, 15, \nand 16)\nSection 7.4\nCycles 2 and Higher \n(Day 1)\nSection 7.5\nCycles 2 and Higher \n(Days 2, 8, 9, 15, and 16)\nSection 7.6\nCycles 3 and Every \n3 Cycles (Day 1)\nSection 7.7 End of Study \nAssessments\nRecord Grade 3 and 4 AEs, including \nSAEs\nRecord Grade 3 and 4 AEs, and all SAEs\nClarification.  All SAEs are to be \nrecorded.\nOnyx Therapeutics, Inc.\nProtocol PX-171-010, Amendment 3\nCarfilzomib for Injection\nPage 59 of 60\nConfidential\nSection No.\nAmendment 2\nAmendment 3\nRationale\nSection 7.2 \nCycle 1 (Day 1)\nSection 7.3 \nCycle 1 (Days 2, 8, 9, 15, \nand 16)\nSection 7.4\nCycles 2 and Higher \n(Day 1)\nSection 7.5\nCycles 2 and Higher \n(Days 2, 8, 9, 15, and 16)\nSection 7.6\nCycles 3 and Every \n3 Cycles (Day 1)\nRecord AE (any Grade) leading to a \nmissed carfilzomib dose, carfilzomib \ndose reduction, or discontinuation.\nRecord AE (any Grade) leading to a \nmissed carfilzomib dose, carfilzomib \ndose reduction, or discontinuation. In the \nevent of a toxicity leading to a dose \nreduction or discontinuation, pertinent \nlaboratory measurements and \nconcomitant medications will be \ncollected and monitored as \nunscheduled visits.\nAddition. To include \ninformation/instructions regarding \ncollection of laboratory measurements \nand concomitant medications in the event \nof toxicity leading to dose reduction or \ndiscontinuation. \nSection 7.7 End of Study \nAssessments\nSection 8 Study \nDiscontinuation\nBone marrow aspirate and/or biopsy for \ncytogenetic and FISH analysis \n(only required for MM subjects whose \nreason for study discontinuation is PD).\nOPTIONAL: Bone marrow aspirate \nand/or biopsy for cytogenetic and FISH \nanalysis (only required for MM subjects \nwhose reason for study discontinuation is \nPD).\nRevision. To allow bone marrow \nbiopsies for cytogenetic and fluorescence \nin situ hybridization (FISH) to be \noptional, rather than required, for MM \nsubjects whose reason for study \ndiscontinuation is PD. To accommodate \nsubjects where bone marrow biopsies are \nunfeasible or unsafe to obtain.\nSection 7.9.1 Cytogenic \nand FISH Studies\nAppendix A Footnote\nA bone marrow biopsy and/or aspirate for \ndetermining percent plasma cell \ninvolvement, including metaphase \ncytogenetic and FISH studies, are \nmandatory for all MM entering with a \nPR, MR, or SD. Samples for cytogenetic \nand FISH analysis will also be required\nfor all MM subjects who discontinue \nstudy due to PD.\nA bone marrow biopsy and/or aspirate for \ndetermining percent plasma cell \ninvolvement, including metaphase \ncytogenetic and FISH studies are \noptional for all MM subjects entering \nwith a PR, MR, or SD. Samples for \ncytogenetic and FISH analysis will also \nbe optional for all MM subjects who \ndiscontinue study due to PD.\nRevision. To allow bone marrow \nbiopsies for cytogenetic and fluorescence \nin situ hybridization (FISH) to be \noptional, rather than required, for MM \nsubjects entering with a PR, MR, or SD \nand for MM subjects who discontinue \nstudy due to PD. To accommodate \nsubjects where bone marrow biopsies are \nunfeasible or unsafe to obtain.\nOnyx Therapeutics, Inc.\nProtocol PX-171-010, Amendment 3\nCarfilzomib for Injection\nPage 60 of 60\nConfidential\nSection No.\nAmendment 2\nAmendment 3\nRationale\nSection 9.3 Adverse Events \nReporting Procedures\nAEs will be collected from the time the \nsubject signs informed consent through\n30 days following the last dose of study \ndrugs.\nAEs will be collected from the time the \nsubject signs informed consent through \n30 days following the last dose of study \ndrugs, or initiation of a new anti-cancer \ntherapy.\nAddition. To include \ninformation/instruction regarding \ncollection of AEs. AEs should not \ncontinue to be recorded /collected if a \nsubject initiates a new anti-cancer \ntherapy.\nAppendix A Footnote \nCBC + Platelet Count and Serum \nChemistry data will not be routinely \ncollected.\nCBC + Platelet Count and Serum \nChemistry data will not be routinely \nrecorded on CRFs.\nClarification. These data may be \ncollected, but will not be routinely \nrecorded on CRFs.\n",
+                        "Sub-sections": []
+                    }
+                ]
+            }
+        ]
+    }
+]

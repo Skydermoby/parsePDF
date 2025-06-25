@@ -1,0 +1,686 @@
+[
+    {
+        "Header Number": "N/A",
+        "Title": "AGLU03707 Statistical Analysis Plan Final: 23 Jan 2012\r  ",
+        "Content": "Myozyme\u00ae (alglucosidase alfa) Proprietary and Confidential 2/39 ",
+        "Sub-sections": [
+            {
+                "Header Number": "N/A",
+                "Title": "TABLE OF CONTENTS",
+                "Content": " Table of Contents.............................................................................................................................2 Abbreviations and Acronyms used in this Document......................................................................6 1 Description of the Protocol......................................................................................................7 1.1 Changes from Analyses Specified in the Protocol......................................................7 1.2 Changes from Analyses Specified in the Previous Version of the SAP.....................7 2 Definitions................................................................................................................................7 2.1 Efficacy.......................................................................................................................7 2.1.1 Primary Endpoint(s)............................................................................................7 2.1.2 Secondary Endpoints...........................................................................................7 2.1.3 Other Efficacy Endpoints....................................................................................8 2.1.3.1 Routine Anti-rhGAA Immunoglobulin G (IgG) Antibody Testing....................8 2.1.3.2 Inhibitory Antibody Testing................................................................................8 2.1.3.3 Echocardiogram (ECHO), Including LVMI .......................................................8 2.1.3.4 Ventilator Use .....................................................................................................8 2.1.3.5 Motor Development and Functional Assessments..............................................8 2.2 Safety ........................................................................................................................10 2.2.1 Adverse Events (AEs).......................................................................................10 2.2.1.1 Infusion-Associated Reactions (IARs)..............................................................10 2.2.2 Vital Signs.........................................................................................................10 2.2.3 Laboratory Assessments....................................................................................10 2.2.4 Other Safety Events of Special Interest ............................................................10 2.2.4.1 12-Lead Electrocardiogram (ECG)...................................................................10 2.2.4.2 Continuous ECG Monitoring by Telemetry......................................................11 2.2.4.3 Lymphocyte Subpopulation Counts..................................................................11 2.2.4.4 Immunoglobulin Panel......................................................................................11 Myozyme\u00ae (alglucosidase alfa) \nProprietary and Confidential \n3/39 \n2.2.4.5 Research Immunophenotyping .........................................................................11 \n2.2.4.6 Functional T-Cell Assay ...................................................................................11 \n2.2.4.7 Anaphylaxis Reactions......................................................................................11 \n2.2.4.8 Testing for Moderate, Severe, or Recurrent Infusion-Associated Reactions....12 \n3 \nData Sets Analyzed (Study Populations)...............................................................................12 \n3.1 \nFull Analysis (FA) Set ..............................................................................................12 \n3.2 \nPer Protocol (PP) Set ................................................................................................13 \n3.3 \nSafety Set ..................................................................................................................13 \n4 \nStatistical Analysis.................................................................................................................13 \n4.1 \nStudy Patients............................................................................................................13 \n4.1.1 \nDisposition of Patients ......................................................................................13 \n4.1.2 \nProtocol Deviations...........................................................................................13 \n4.1.3 \nDemographics, Disease Characteristics, and History .......................................13 \n4.1.3.1 Demographics ...................................................................................................13 \n4.1.3.2 Myozyme and Pompe History...........................................................................14 \n4.1.3.3 Cross-Reacting Immunologic Material (CRIM) Status and Acid \u03b1-glucosidase \n(GAA) Activity .................................................................................................14 \n4.1.3.4 Pompe Medical History ....................................................................................14 \n4.1.3.5 Baseline Ventilator Use ....................................................................................14 \n4.1.3.6 Medical / Surgical History ................................................................................14 \n4.1.4 \nConcomitant Medications / Therapies ..............................................................15 \n4.1.5 \nGenetic Mutation Analysis................................................................................15 \n4.1.6 \nOptional Parental GAA Mutation Analysis ......................................................15 \n4.2 \nEfficacy Analyses .....................................................................................................15 \n4.2.1 \nPrimary Analysis...............................................................................................16 \n4.2.1.1 Anti-rhGAA IgG Antibody Testing..................................................................16 \n4.2.1.2 Inhibitory Antibody Testing..............................................................................16 \nMyozyme\u00ae (alglucosidase alfa) \nProprietary and Confidential \n4/39 \n4.2.1.3 Pompe PEDI......................................................................................................16 \n4.2.1.4 GMFM-88 .........................................................................................................16 \n4.2.1.5 AIMS.................................................................................................................16 \n4.2.1.6 ECHO, Including LVMI ...................................................................................16 \n4.2.1.7 Ventilator Use ...................................................................................................16 \n4.2.2 \nHandling of Dropouts or Missing Data.............................................................17 \n4.2.3 \nSubgroup Analysis ............................................................................................17 \n4.2.4 \nMulticenter Studies ...........................................................................................17 \n4.2.5 \nHypothesis Testing and Significance Level......................................................17 \n4.2.6 \nSensitivity Analyses..........................................................................................17 \n4.2.7 \nSecondary Analyses ..........................................................................................17 \n4.2.8 \nTertiary Analyses ..............................................................................................17 \n4.2.9 \nOther Efficacy Analyses ...................................................................................17 \n4.2.10 \nPharmacokinetic and Pharmacodynamic Analyses...........................................17 \n4.3 \nSafety Analyses.........................................................................................................18 \n4.3.1 \nStudy Duration, Treatment Compliance, and Exposure....................................18 \n4.3.2 \nAdverse Events (AEs).......................................................................................18 \n4.3.2.1 Treatment-Emergent Adverse Events (TEAEs)................................................18 \n4.3.2.2 TEAEs by System Organ Class (SOC) and Preferred Term (PT) ....................19 \n4.3.2.3 TEAEs by Severity and Relationship................................................................19 \n4.3.2.4 Deaths, Other SAEs, and Other Significant Adverse Events............................20 \n4.3.3 \nOther Safety ......................................................................................................20 \n4.3.3.1 Analyses for Laboratory Tests ..........................................................................20 \n4.3.3.2 Vital Signs.........................................................................................................20 \n4.3.3.3 Physical Examinations ......................................................................................21 \n4.3.3.4 Other Safety Parameters of Special Interest......................................................21 \n5 \nReferences..............................................................................................................................22 \nMyozyme\u00ae (alglucosidase alfa) \nProprietary and Confidential \n5/39 \n6 \nAppendices.............................................................................................................................23 \n6.1 \nProtocol Schedule of Assessments............................................................................23 \n6.2 \nChanges from Analyses Specified in the Previous Version of the SAP...................37 \n6.3 \nSample Size, Power, and Randomization .................................................................37 \n6.4 \nTechnical Specifications for Derived Variables .......................................................37 \n6.5 \nAdditional details on Statistical Methods .................................................................39 \n",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "N/A",
+                "Title": "ABBREVIATIONS AND ACRONYMS USED IN THIS DOCUMENT \r",
+                "Content": "Myozyme\u00ae (alglucosidase alfa) Proprietary and Confidential 7/39 ",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "1",
+                "Title": "DESCRIPTION OF THE PROTOCOL",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "1.1",
+                        "Title": "Changes From Analyses Specified in the Protocol",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "1.2",
+                        "Title": "Changes From Analyses Specified in the Previous Version of the SAP",
+                        "Content": "",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "2",
+                "Title": "DEFINITIONS",
+                "Content": " ",
+                "Sub-sections": [
+                    {
+                        "Header Number": "2.1",
+                        "Title": "Efficacy",
+                        "Content": " ",
+                        "Sub-sections": [
+                            {
+                                "Header Number": "2.1.1",
+                                "Title": "Primary Endpoint(s)",
+                                "Content": " Not applicable. ",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "2.1.2",
+                                "Title": "Secondary Endpoints",
+                                "Content": " Not applicable. Myozyme\u00ae (alglucosidase alfa) Proprietary and Confidential 8/39 ",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "2.1.3",
+                                "Title": "Other Efficacy Endpoints",
+                                "Content": " ",
+                                "Sub-sections": [
+                                    {
+                                        "Header Number": "2.1.3.1",
+                                        "Title": "Routine Anti-rhGAA Immunoglobulin G (IgG) Antibody Testing",
+                                        "Content": " Serum samples for anti-rhGAA IgG antibody testing will be obtained prior to each Myozyme infusion at time points indicated in the Protocol Schedule of Assessments shown in 6.1. ",
+                                        "Sub-sections": []
+                                    },
+                                    {
+                                        "Header Number": "2.1.3.2",
+                                        "Title": "Inhibitory Antibody Testing",
+                                        "Content": " In the event a patient becomes anti-rhGAA IgG positive during the course of the study, the presence of inhibitory antibody (enzyme activity and uptake) will be tested every 2 months using the serum samples collected for anti-rhGAA IgG antibody testing. ",
+                                        "Sub-sections": []
+                                    },
+                                    {
+                                        "Header Number": "2.1.3.3",
+                                        "Title": "Echocardiogram (ECHO), Including LVMI",
+                                        "Content": " The primary cardiac outcome parameters (measured and derived) from the echocardiography to be collected include:  LVM, LVM Z-score (LVMZ), LVMI, left ventricular posterior wall thickness, ejection fraction, and shortening fraction.  (See protocol 9.3.3 for details.)  LVMI is an index value created by normalizing LVM by body surface area (BSA), and will be recorded with the other ECHO parameters according to procedures outlined in the SOM and Cardiology Manual.  Z-Scores provide an indicator of the number of standard deviations from the mean in a normal distribution. Values that are greater than 2 may indicate measurements that are outside of a normal range.  The LVMZ and other derived variables will be provided by the central cardiologist.  ",
+                                        "Sub-sections": []
+                                    },
+                                    {
+                                        "Header Number": "2.1.3.4",
+                                        "Title": "Ventilator Use",
+                                        "Content": " A daily ventilator use diary will be completed by patients who at any time during the study require either invasive or non-invasive ventilator support. (See protocol 9.3.4 for details.) ",
+                                        "Sub-sections": []
+                                    },
+                                    {
+                                        "Header Number": "2.1.3.5",
+                                        "Title": "Motor Development and Functional Assessments",
+                                        "Content": " ",
+                                        "Sub-sections": [
+                                            {
+                                                "Header Number": "2.1.3.5.1",
+                                                "Title": "Pompe Pediatric Evaluation of Disability Inventory (Pompe PEDI)",
+                                                "Content": " All patients will be administered the Pompe PEDI.  The Pompe PEDI includes all items from the original PEDI, as well as additional items in the Functional Skills, Mobility, and Self-Care domains to reflect clinically relevant functional skills for children with Pompe disease.  Results Myozyme\u00ae (alglucosidase alfa) Proprietary and Confidential 9/39 are reported as raw score, normative standard score (with standard error), and scaled score (with standard error). ",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "2.1.3.5.2",
+                                                "Title": "Gross Motor Function Measure-88 (GMFM-88)",
+                                                "Content": " The GMFM-88 will be used to evaluate changes in 5 categories of motor function: \u2022 Lying and Rolling; \u2022 Sitting; \u2022 Crawling and Kneeling; \u2022 Standing; \u2022 Walking, Running, and Jumping.  Items on the questionnaire were selected to represent motor functions typically performed by children without motor impairments by 5 years of age.  Each item is scored on a 4-point Likert scale (i.e., 0 = cannot do; 1 = initiates [< 10% of the task]; 2 = partially completes [10 to < 100 % of the task]; 3 = task completion, NT = not tested).  The score for each dimension is expressed as a percentage of the maximum score for that dimension.  The total score is obtained by adding the percentage scores for each dimension and dividing the sum by the total number of dimensions.  Therefore, each dimension contributes equally to the total score. The Gross Motor Ability Estimator (GMAE), though mentioned in the protocol, will not be presented as it is not appropriate to use this scoring method that was validated with patients with cerebral palsy. It is an interval level measure where the subject is placed on an ability continuum from 0-100. The intervals are based on a movement analysis of children with cerebral palsy and we can\u2019t assume that the quality of movement or hierarchy of skill acquisition is similar for Pompe disease. ",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "2.1.3.5.3",
+                                                "Title": "Alberta Infantile Motor Scale (AIMS)",
+                                                "Content": " AIMS measures normal motor development in infants from birth to 18 months of age.  However, unless a child has successfully achieved the maximum total raw score of 58, indicating independent ambulation, the test can still be used to monitor the progress of a child.  AIMS will be administered to all patients at study entry, provided they are at or below the highest level of age-equivalent performance for the test (i.e., independent walking), and the AIMS will continue to be administered to these patients until completion of the study to ascertain whether patients maintain any developmental gains achieved while on Myozyme therapy. Myozyme\u00ae (alglucosidase alfa) Proprietary and Confidential 10/39 ",
+                                                "Sub-sections": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Header Number": "2.2",
+                        "Title": "Safety",
+                        "Content": " ",
+                        "Sub-sections": [
+                            {
+                                "Header Number": "2.2.1",
+                                "Title": "Adverse Events (AEs)",
+                                "Content": " Adverse Events are defined in protocol section 9.6.1.  The severity of AEs will be graded based on NCI/CTCAE, version 3.0, as described in protocol section 9.6.3.   ",
+                                "Sub-sections": [
+                                    {
+                                        "Header Number": "2.2.1.1",
+                                        "Title": "Infusion-Associated Reactions (IARs)",
+                                        "Content": " Infusion-associated reactions are defined as AEs that occurred during either the infusion or the observation period following the infusion (i.e., \u2264 2 hours post-infusion) which were deemed by the investigator to be related (i.e., possibly, probably or definitely) to study drug.  At the discretion of the Investigator, AEs that occurred after completion of the post-infusion observation period that were assessed as related could also be considered IARs.  As part of the safety review for infusion reactions, analyses including all AEs that occurred during or up to 2 hours post-infusion, regardless of relationship, will be performed.  To evaluate delayed onset infusion reactions, all post-infusion reactions occurring from 2 to 48 hours post-infusion, regardless of causality, will be classified by time period, e.g., reactions occurring 2 to 24 hours, 24 to 48 hours, and 2 to 48 hours overall post-infusion, and will then be subject to medical review to determine if the event was an infusion reaction.  For further information, please refer to protocol section 9.6.4. ",
+                                        "Sub-sections": []
+                                    }
+                                ]
+                            },
+                            {
+                                "Header Number": "2.2.2",
+                                "Title": "Vital Signs",
+                                "Content": " Refer to protocol section 9.4.4 for details regarding collection of vital signs in this study. ",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "2.2.3",
+                                "Title": "Laboratory Assessments",
+                                "Content": " Chemistry, urinalysis, and hematology laboratory parameters are described in section 9.4.2 of the protocol. ",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "2.2.4",
+                                "Title": "Other Safety Events of Special Interest",
+                                "Content": " ",
+                                "Sub-sections": [
+                                    {
+                                        "Header Number": "2.2.4.1",
+                                        "Title": "12-Lead Electrocardiogram (ECG)",
+                                        "Content": " The following standard 12-lead ECG parameters will be assessed according to the assessment schedule in Appendix 16.1:  heart rate, rhythm, RR interval, PR interval, QRS complex, QT Myozyme\u00ae (alglucosidase alfa) Proprietary and Confidential 11/39 interval, QTc interval, QRS axis, R voltage V6, S voltage V1, left ventricular hypertrophy criteria, right ventricular hypertrophy criteria, and repolarization changes.  Refer to protocol section 9.4.3 for further details. ",
+                                        "Sub-sections": []
+                                    },
+                                    {
+                                        "Header Number": "2.2.4.2",
+                                        "Title": "Continuous ECG Monitoring by Telemetry",
+                                        "Content": " Continuous ECG monitoring by telemetry will be performed on the days of cyclophosphamide infusions for patients on Regimen A who have cardiomegaly or hypertrophic cardiomyopathy, and on the days of rituximab infusions for all patients on Regimen B.  Refer to protocol section 9.4.5 for further details. ",
+                                        "Sub-sections": []
+                                    },
+                                    {
+                                        "Header Number": "2.2.4.3",
+                                        "Title": "Lymphocyte Subpopulation Counts",
+                                        "Content": " Refer to protocol section 9.4.6 for details regarding collection of blood samples for lymphocyte subpopulation counts in this study. ",
+                                        "Sub-sections": []
+                                    },
+                                    {
+                                        "Header Number": "2.2.4.4",
+                                        "Title": "Immunoglobulin Panel",
+                                        "Content": " Refer to protocol section 9.4.7 for details regarding collection of blood samples for immunoglobulin panel. ",
+                                        "Sub-sections": []
+                                    },
+                                    {
+                                        "Header Number": "2.2.4.5",
+                                        "Title": "Research Immunophenotyping",
+                                        "Content": " Refer to protocol section 9.5.1 for details regarding collection of blood samples for research immunophenotyping. ",
+                                        "Sub-sections": []
+                                    },
+                                    {
+                                        "Header Number": "2.2.4.6",
+                                        "Title": "Functional T-Cell Assay",
+                                        "Content": " Refer to protocol section 9.5.2 for details regarding collection of blood samples for functional t-cell assay. ",
+                                        "Sub-sections": []
+                                    },
+                                    {
+                                        "Header Number": "2.2.4.7",
+                                        "Title": "Anaphylaxis Reactions",
+                                        "Content": " A modified version of the Standardized MedDRA Query (SMQ) version 14.1 will be used as a tool to identify potential anaphylaxis/hypersensitivity reactions (See appendix 6.4).  Patients with adverse event(s) coded to preferred term(s) satisfying the algorithm will be considered to have had potential anaphylaxis reactions.  Other patients may also be considered to have had Myozyme\u00ae (alglucosidase alfa) Proprietary and Confidential 12/39 anaphylaxis reaction based upon medical review within the Genzyme Global Safety Group & Risk Management. ",
+                                        "Sub-sections": []
+                                    },
+                                    {
+                                        "Header Number": "2.2.4.8",
+                                        "Title": "Testing for Moderate, Severe, or Recurrent Infusion-Associated Reactions",
+                                        "Content": " In the event of moderate, severe, life-threatening, or recurrent IAR, additional blood samples will be collected and analyzed by Genzyme according to protocol section 9.5.3.  In addition, at the request of Genzyme, after consultation with the Investigator, a plasma sample for complement activation testing, serum tryptase testing, and/or IgE testing may also be collected for patients with recurrent IARs to Myozyme suggestive of a hypersensitivity reaction. ",
+                                        "Sub-sections": [
+                                            {
+                                                "Header Number": "2.2.4.8.1",
+                                                "Title": "Complement Activation Testing",
+                                                "Content": " Refer to protocol section 9.5.3.1 for further details. ",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "2.2.4.8.2",
+                                                "Title": "Serum Tryptase Testing",
+                                                "Content": "",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "2.2.4.8.3",
+                                                "Title": "Serum Anti-Recombinant Human Acid \u03b1-Glucosidase (Anti-rhGAA) Immunoglobulin E (IgE) Antibody Testing",
+                                                "Content": "",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "2.2.4.8.4",
+                                                "Title": "Skin Testing",
+                                                "Content": " Refer to protocol section 9.5.3.4 for further details. ",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "2.2.4.8.5",
+                                                "Title": "Circulating Immune Complexes",
+                                                "Content": " Refer to protocol section 9.5.3.5 for further details. ",
+                                                "Sub-sections": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Header Number": "3",
+                "Title": "DATA SETS ANALYZED (STUDY POPULATIONS)",
+                "Content": " ",
+                "Sub-sections": [
+                    {
+                        "Header Number": "3.1",
+                        "Title": "Full Analysis (FA) Set",
+                        "Content": " Patients who have signed informed consent, enrolled (i.e. completed all baseline assessments), and received at least one dose of Myozyme\u00ae (alglucosidase alfa) will be included in the full analysis (FA) set. Myozyme\u00ae (alglucosidase alfa) Proprietary and Confidential 13/39 ",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "3.2",
+                        "Title": "Per Protocol (PP) Set",
+                        "Content": " A Per Protocol Set will not be defined for this study due to the small number of patients. ",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "3.3",
+                        "Title": "Safety Set",
+                        "Content": " All patients who received at least one dose of Myozyme will be included in the Safety Set population. ",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "4",
+                "Title": "STATISTICAL ANALYSIS",
+                "Content": " ",
+                "Sub-sections": [
+                    {
+                        "Header Number": "4.1",
+                        "Title": "Study Patients",
+                        "Content": " ",
+                        "Sub-sections": [
+                            {
+                                "Header Number": "4.1.1",
+                                "Title": "Disposition of Patients",
+                                "Content": " A summary table of patient disposition will present the number of patients with signed informed consent, treated, and completed or withdrawn from the study (including death). A corresponding listing will be provided.  A listing of reasons of treatment discontinuation and/or withdrawal from the study and a listing of reasons for patients who failed screening will also be provided. ",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "4.1.2",
+                                "Title": "Protocol Deviations",
+                                "Content": " Protocol deviations will be tabulated in a listing.  Major protocol deviations which may have impact on efficacy and safety conclusions will be discussed. ",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "4.1.3",
+                                "Title": "Demographics, Disease Characteristics, and History",
+                                "Content": " All demographic and baseline characteristics information will be listed using the FA Set.   ",
+                                "Sub-sections": [
+                                    {
+                                        "Header Number": "4.1.3.1",
+                                        "Title": "Demographics",
+                                        "Content": " The following demographic variables will be presented in a listing: \u2022 Gender \u2022 Ethnicity \u2022 Race \u2022 Date of birth \u2022 Age (months) at enrollment \u2022 Age (months) at first study infusion Myozyme\u00ae (alglucosidase alfa) Proprietary and Confidential 14/39 ",
+                                        "Sub-sections": []
+                                    },
+                                    {
+                                        "Header Number": "4.1.3.2",
+                                        "Title": "Myozyme and Pompe History",
+                                        "Content": "",
+                                        "Sub-sections": []
+                                    },
+                                    {
+                                        "Header Number": "4.1.3.3",
+                                        "Title": "Cross-Reacting Immunologic Material (CRIM) Status and Acid (\u03b1-Glucosidase (GAA) Activity",
+                                        "Content": "",
+                                        "Sub-sections": []
+                                    },
+                                    {
+                                        "Header Number": "4.1.3.4",
+                                        "Title": "Pompe Medical History",
+                                        "Content": " Pompe medical history in the following body systems will be presented in listings:   \u2022 Ears, nose, throat \u2022 Respiratory \u2022 Cardiovascular \u2022 Gastrointestinal \u2022 Musculoskeletal ",
+                                        "Sub-sections": []
+                                    },
+                                    {
+                                        "Header Number": "4.1.3.5",
+                                        "Title": "Baseline Ventilator Use",
+                                        "Content": " Baseline ventilator use data will be presented in a listing. ",
+                                        "Sub-sections": []
+                                    },
+                                    {
+                                        "Header Number": "4.1.3.6",
+                                        "Title": "Medical / Surgical History",
+                                        "Content": " Current and non-current medical/surgical history will be presented in a listing. Myozyme\u00ae (alglucosidase alfa) Proprietary and Confidential 15/39 ",
+                                        "Sub-sections": []
+                                    }
+                                ]
+                            },
+                            {
+                                "Header Number": "4.1.4",
+                                "Title": "Concomitant Medications / Therapies",
+                                "Content": " From the time of informed consent through study completion, all medications and therapies (e.g., tube feeds) to treat AEs, for any long-term disease management, given as prophylaxis for this study, or administered as a pretreatment prior to infusion, will be recorded in the eCRFs.  As patients enrolled in this study will have received commercial Myozyme, there will not be separate listings for medications administered prior and/or after receiving first infusion of Myozyme in the study.  The recorded medications will be coded using the World Health Organization (WHO) Drug Q1 2007 or later version.   Tables and listing will show all concomitant medications recorded during the study.  Number and percentage of patients reporting any medication will be presented in the concomitant medication summary table, by WHO-DRUG Anatomical Therapeutic Classification (ATC) fourth level term and generic name.  The table will be first sorted by most prevalent Drug Class (WHO ATC) based on total patients reporting any medication in that Drug Class, and then, by most prevalent Generic Name based on total patients reporting any medication in that Drug Class/Generic Name. ",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "4.1.5",
+                                "Title": "Genetic Mutation Analysis",
+                                "Content": " A listing will be provided. ",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "4.1.6",
+                                "Title": "Optional Parental GAA Mutation Analysis",
+                                "Content": " If any data are collected, a listing of the results will be provided. ",
+                                "Sub-sections": []
+                            }
+                        ]
+                    },
+                    {
+                        "Header Number": "4.2",
+                        "Title": "Efficacy Analyses",
+                        "Content": " All patients who receive Myozyme under this protocol will be presented in analyses. All data will be presented in by-patient listings.  Graphical displays will be presented as appropriate.  Summary statistics will be produced as appropriate and meaningful.  Continuous variables will be summarized using descriptive statistics (number [n], mean, median, standard deviation, minimum, and maximum).  Categorical variables will be summarized using frequencies and percentages. Myozyme\u00ae (alglucosidase alfa) Proprietary and Confidential 16/39 ",
+                        "Sub-sections": [
+                            {
+                                "Header Number": "4.2.1",
+                                "Title": "Primary Analysis",
+                                "Content": " ",
+                                "Sub-sections": [
+                                    {
+                                        "Header Number": "4.2.1.1",
+                                        "Title": "Anti-rhGAA IgG Antibody Testing",
+                                        "Content": " Summary of changes from baseline for Anti-rhGAA IgG antibody titers measured in the study will be presented.  A corresponding by-patient listing will be provided. ",
+                                        "Sub-sections": []
+                                    },
+                                    {
+                                        "Header Number": "4.2.1.2",
+                                        "Title": "Inhibitory Antibody Testing",
+                                        "Content": " Inhibitory antibody formation (activity and uptake) will be presented in a by-patient listing. ",
+                                        "Sub-sections": []
+                                    },
+                                    {
+                                        "Header Number": "4.2.1.3",
+                                        "Title": "Pompe PEDI",
+                                        "Content": " Change from baseline in Pompe PEDI raw, normative standard, and scale scores will be presented in a summary table for the self-care, mobility, and social function domains in both the functional scale and the caregiver scale. ",
+                                        "Sub-sections": []
+                                    },
+                                    {
+                                        "Header Number": "4.2.1.4",
+                                        "Title": "GMFM-88",
+                                        "Content": " Change from baseline in GMFM-88 raw and percent scores will be presented in a summary table by domain and total, for the lying and rolling, sitting, crawling and kneeling, standing, and walking, running & jumping domains. ",
+                                        "Sub-sections": []
+                                    },
+                                    {
+                                        "Header Number": "4.2.1.5",
+                                        "Title": "AIMS",
+                                        "Content": " Change from baseline in AIMS scores (total raw scores, age-equivalent scores, and subscale scores) will be presented in a summary table.  The subscale scores included scores for prone, supine, sitting, and standing positions. ",
+                                        "Sub-sections": []
+                                    },
+                                    {
+                                        "Header Number": "4.2.1.6",
+                                        "Title": "ECHO, Including LVMI",
+                                        "Content": " Data from ECHO will be presented in a listing.  Change from baseline in LVMI will be presented in a summary table. ",
+                                        "Sub-sections": []
+                                    },
+                                    {
+                                        "Header Number": "4.2.1.7",
+                                        "Title": "Ventilator Use",
+                                        "Content": " A listing will present ventilator use start and stop dates, type of ventilation, reason(s) patients were put on ventilator support, reason(s) for stopping ventilator support, and patients\u2019 ventilator use status since last assessment. Myozyme\u00ae (alglucosidase alfa) Proprietary and Confidential 17/39 ",
+                                        "Sub-sections": []
+                                    }
+                                ]
+                            },
+                            {
+                                "Header Number": "4.2.2",
+                                "Title": "Handling of Dropouts or Missing Data",
+                                "Content": " Missing data will not be imputed using statistical methods. ",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "4.2.3",
+                                "Title": "Subgroup Analysis",
+                                "Content": " No subgroup analysis is planned. ",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "4.2.4",
+                                "Title": "Multicenter Studies",
+                                "Content": " Due to the small number of patients, efficacy results will not be tabulated for each center or state / country.  The interaction between center and treatment cannot be explored when the centers have too small numbers of patients to make such analyses meaningful. ",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "4.2.5",
+                                "Title": "Hypothesis Testing and Significance Level",
+                                "Content": " Due to the small sample size, no statistical testing will be conducted. ",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "4.2.6",
+                                "Title": "Sensitivity Analyses",
+                                "Content": " No sensitivity analysis is planned. ",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "4.2.7",
+                                "Title": "Secondary Analyses",
+                                "Content": " Not applicable. ",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "4.2.8",
+                                "Title": "Tertiary Analyses",
+                                "Content": " Not applicable. ",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "4.2.9",
+                                "Title": "Other Efficacy Analyses",
+                                "Content": " Not applicable. ",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "4.2.10",
+                                "Title": "Pharmacokinetic and Pharmacodynamic Analyses",
+                                "Content": " Not applicable. Myozyme\u00ae (alglucosidase alfa) Proprietary and Confidential 18/39 ",
+                                "Sub-sections": []
+                            }
+                        ]
+                    },
+                    {
+                        "Header Number": "4.3",
+                        "Title": "Safety Analyses",
+                        "Content": " All safety data will be provided in patient listings.  AEs will be coded in MedDRA 14.1 version and up and presented by MedDRA SOC and preferred term. No formal hypothesis testing is planned. ",
+                        "Sub-sections": [
+                            {
+                                "Header Number": "4.3.1",
+                                "Title": "Study Duration, Treatment Compliance, and Exposure",
+                                "Content": " Exposure to Myozyme, Cyclophosphamide, Rituximab, Methotrexate, and IVIG will be presented in listings.  Number of Myozyme infusions administered, and duration of Myozyme infusions will be summarized. ",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "4.3.2",
+                                "Title": "Adverse Events (AEs)",
+                                "Content": " Adverse Events (AEs) will be determined as occurring prior to treatment or as on or after first treatment (treatment-emergent) of Myozyme as described in appendix 6.4.  Analyses on Prior Related Adverse Events (PRAE), Pre-Treatment Adverse Events (PTAEs) and Treatment-Emergent Adverse Events (TEAEs) will be tabulated and presented separately.  Study displays are described below; additional details are outlined in appendix 6.4. AEs will be presented by regimen and total and will include the displays described in the following sub-sections. ",
+                                "Sub-sections": [
+                                    {
+                                        "Header Number": "4.3.2.1",
+                                        "Title": "Treatment-Emergent Adverse Events (TEAEs)",
+                                        "Content": " All TEAEs will be presented using summary statistics.  Number of patients will be presented.  Due to the small number of patients enrolled in the study, percentages of patients in each category will not be presented.  Frequency of events will also be presented in a select number of tables.     An overall summary table of TEAE information will be presented that will summarize the number of patients in each regimen and total who: \u2022 Experienced any AE,  \u2022 Discontinued Myozyme due to an AE, \u2022 Discontinued Cyclophosphamide due to an AE, \u2022 Discontinued Methotrexate due to an AE, \u2022 Discontinued Rituximab due to an AE, Myozyme\u00ae (alglucosidase alfa) Proprietary and Confidential 19/39 \u2022 Discontinued IVIG due to an AE, \u2022 Discontinued Plasmapheresis due to an AE, \u2022 Died (CTCAE grade 5),  \u2022 Experienced an AE related to Myozyme, \u2022 Experienced an AE related to Cyclophosphamide, \u2022 Experienced an AE related to Methotrexate, \u2022 Experienced an AE related to Rituximab, \u2022 Experienced an AE related to IVIG, \u2022 Experienced an AE related to Plasmapheresis, \u2022 Experienced a serious AE (including CTCAE grade 4 AEs),  \u2022 Experienced a CTCAE grade 3 AE,  \u2022 Experienced a CTCAE grade 4 AE, or  \u2022 Experienced an AE assessed as an infusion-associated reaction (IAR).  A listing of all TEAEs leading to discontinued Myozyme treatment will also be provided. ",
+                                        "Sub-sections": []
+                                    },
+                                    {
+                                        "Header Number": "4.3.2.2",
+                                        "Title": "TEAEs by System Organ Class (SOC) and Preferred Term (PT)",
+                                        "Content": " The number of TEAEs and the number of patients with events will be presented by SOC and PT for each regimen and total.  Patients are counted once in each SOC and PT.  SOCs and PTs will be listed in descending order of frequency of occurrence. ",
+                                        "Sub-sections": []
+                                    },
+                                    {
+                                        "Header Number": "4.3.2.3",
+                                        "Title": "TEAEs by Severity and Relationship",
+                                        "Content": " Summaries of TEAEs by severity (based on CTCAE grades) and relationship to treatment will also be provided.  If a patient has more than one occurrence of an AE, the most severe occurrence (highest CTCAE grade) of the AE will be used in the severity summary table and the strongest relationship to study treatment will be used in the relationship to treatment summary table.   In addition, summary tables of treatment-emergent SAEs (including CTCAE grade 4 and 5), and related AEs will be presented by SOC and preferred term.  Summary of SAEs by severity and relationship to treatment (Myozyme, Cyclophosphamide, Methotrexate, Rituximab, IVIG, Plasmapheresis) will also be provided.   Detailed listings of patients who experience AEs, SAEs, related AEs, and anaphylaxis/hypersensitivity reactions will be presented.  Detailed listings will include severity Myozyme\u00ae (alglucosidase alfa) Proprietary and Confidential 20/39 (according to CTCAE grades) and relationship to treatment (Myozyme, Cyclophosphamide, Methotrexate, Rituximab, IVIG, Plasmapheresis), as well as action taken regarding study treatment (Myozyme, Cyclophosphamide, Methotrexate, Rituximab, IVIG, Plasmapheresis), other action taken, and patient outcome. ",
+                                        "Sub-sections": []
+                                    },
+                                    {
+                                        "Header Number": "4.3.2.4",
+                                        "Title": "Deaths, Other SAEs, and Other Significant Adverse Events",
+                                        "Content": " ",
+                                        "Sub-sections": [
+                                            {
+                                                "Header Number": "4.3.2.4.1",
+                                                "Title": "Deaths",
+                                                "Content": " A listing of patients who died during the study will be provided. ",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "4.3.2.4.2",
+                                                "Title": "Infusion Associated Reactions (IARs)",
+                                                "Content": " A summary table of treatment-emergent IARs, i.e., IARs occurred on or after treatment of Myozyme, will be presented by SOC and preferred term.  All TEAEs occurring during infusion and up to 48 hours post-infusion, regardless of causality, will be summarized by time period:  during infusion, 0 to 2 hours post-infusion, 2 to 24 hours post-infusion, 24 to 48 hours post-infusion, and 2 to 48 hours overall post-infusion.  A by-patient listing of IARs will be presented. ",
+                                                "Sub-sections": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "Header Number": "4.3.3",
+                                "Title": "Other Safety",
+                                "Content": " ",
+                                "Sub-sections": [
+                                    {
+                                        "Header Number": "4.3.3.1",
+                                        "Title": "Analyses for Laboratory Tests",
+                                        "Content": " Chemistry, urinalysis, and hematology laboratory parameters described in section 9.4.2 of the protocol will be presented in by-patient listings.  Laboratory values that were marked as clinically significant or change from baseline will also be presented.  All laboratory values will be classified as normal, below normal, or above normal based on normal ranges supplied by the central laboratory.  For purposes of analyses, laboratory results based upon conventional units will be used. By-patient figures will be provided for numerical laboratory values over time. ",
+                                        "Sub-sections": []
+                                    },
+                                    {
+                                        "Header Number": "4.3.3.2",
+                                        "Title": "Vital Signs",
+                                        "Content": " A listing of vital signs will be presented by regimen, patient, visit, and measured vital sign values. Myozyme\u00ae (alglucosidase alfa) Proprietary and Confidential 21/39 ",
+                                        "Sub-sections": []
+                                    },
+                                    {
+                                        "Header Number": "4.3.3.3",
+                                        "Title": "Physical Examinations",
+                                        "Content": " Results of physical examinations will be presented in a listing. ",
+                                        "Sub-sections": []
+                                    },
+                                    {
+                                        "Header Number": "4.3.3.4",
+                                        "Title": "Other Safety Parameters of Special Interest",
+                                        "Content": " ",
+                                        "Sub-sections": [
+                                            {
+                                                "Header Number": "4.3.3.4.1",
+                                                "Title": "12-Lead ECG",
+                                                "Content": " ECG data will be presented in a listing. ",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "4.3.3.4.2",
+                                                "Title": "Continuous ECG Monitoring by Telemetry",
+                                                "Content": " Data collected from telemetry will be presented in a listing. ",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "4.3.3.4.3",
+                                                "Title": "Lymphocyte Subpopulation Counts",
+                                                "Content": " Lymphocyte subpopulation counts will be presented in a listing. ",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "4.3.3.4.4",
+                                                "Title": "Immunoglobulin Panel",
+                                                "Content": " Data collected from the immunoglobulin panel will be presented in a listing. ",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "4.3.3.4.5",
+                                                "Title": "Research Immunophenotyping",
+                                                "Content": " Data collected from research immunophenotyping will be presented in a listing. ",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "4.3.3.4.6",
+                                                "Title": "Functional T-Cell Assay",
+                                                "Content": " Data collected from functional T-cell assay, if any, will be presented in a listing. ",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "4.3.3.4.7",
+                                                "Title": "Testing for Moderate, Severe, or Recurrent Infusion-Associated Reactions",
+                                                "Content": " ",
+                                                "Sub-sections": [
+                                                    {
+                                                        "Header Number": "4.3.3.4.7.1",
+                                                        "Title": "Complement Activation Testing",
+                                                        "Content": " If any complement activation testing was performed and results collected, the data will be presented in a listing.  ",
+                                                        "Sub-sections": []
+                                                    },
+                                                    {
+                                                        "Header Number": "4.3.3.4.7.2",
+                                                        "Title": "Serum Tryptase Testing",
+                                                        "Content": " If any serum tryptase testing was performed and results collected, the data will be presented in a listing. Myozyme\u00ae (alglucosidase alfa) Proprietary and Confidential 22/39 ",
+                                                        "Sub-sections": []
+                                                    },
+                                                    {
+                                                        "Header Number": "4.3.3.4.7.3",
+                                                        "Title": "Serum Anti- rhGAA IgE Antibody Testing",
+                                                        "Content": " If any IgE testing was performed and results collected, the data will be presented in a listing. ",
+                                                        "Sub-sections": []
+                                                    },
+                                                    {
+                                                        "Header Number": "4.3.3.4.7.4",
+                                                        "Title": "Skin Testing",
+                                                        "Content": " If any skin testing was performed and results collected, the data will be presented in a listing. ",
+                                                        "Sub-sections": []
+                                                    },
+                                                    {
+                                                        "Header Number": "4.3.3.4.7.5",
+                                                        "Title": "Circulating Immune Complexes",
+                                                        "Content": " If any circulating immune complexes testing was performed and results collected, the data will be presented in a listing. ",
+                                                        "Sub-sections": []
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Header Number": "5",
+                "Title": "REFERENCES",
+                "Content": " Not applicable. Myozyme\u00ae (alglucosidase alfa)  Proprietary and Confidential 23/ 39 ",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "6",
+                "Title": "APPENDICES",
+                "Content": " ",
+                "Sub-sections": [
+                    {
+                        "Header Number": "6.1",
+                        "Title": "Protocol Schedule of Assessments",
+                        "Content": "",
+                        "Sub-sections": [
+                            {
+                                "Header Number": "N/A",
+                                "Title": "Table 6-1 Schedule of Assessments \u2013 Regimen A ITI Treatment Module (Months 1 Through 6)  \r",
+                                "Content": "Myozyme\u00ae (alglucosidase alfa) \n \nProprietary and Confidential \n24/ 39 \nMonth 1 \nMonth 2 \nMonth 3 \nMonth 4 \nMonth 5 \nMonth 6 \nW0 \nW1 \nW2 \nWeeks 3 and 4 \nW5 \nW7 \nW9 \nW11 \nW13 \nW15 \nW17 \nW19 \nW21 \nW23 \n \nBL \nD \n-1 \nD \n0 \nD \n1 \nD \n8 \nD\n14 \nD\n15 \nD\n20 \nD\n22 \nD\n28 \nD\n29 \nD\n42 \nD\n43 \nD\n56 \nD\n57 \nD\n70 \nD \n71 \nD \n84 \nD\n85 \nD\n98 \nD\n99 \nD\n112 \nD\n113 \nD\n126 \nD\n127 \nD\n140 \nD\n141 \nD\n154 \nD\n155 \nPhysical Examination5 \nX \nX X \n \nX X\n \nX \n \nX \n \nX \n \nX \n \nX \n \nX \n \nX \n \nX \n \nX \n \nX \n \nX \n \nResearch \nImmunophenotyping \n \nX \n \n \nX X\n \nX \n \n \n \n \n \n \n \n \n \nX \n \n \n \n \n \n \n \nX \n \n \n \nLymphocyte \nSubpopulation Counts \n \nX \n \n \nX X\n \nX \n \n \n \n \n \n \n \n \n \nX \n \n \n \n \n \n \n \nX \n \n \n \nFunctional T cell \nAssay (ELISPOT) \n \nX \n \n \nX X\n \nX \n \n \n \nX \n \n \n \n \n \nX \n \n \n \n \n \n \n \nX \n \n \n \nImmunoglobulin \nPanel6 \n \nX \n \n \n \n \n \nX \n \n \n \nX \n \nX \n \n \n \nX \n \n \n \nX \n \n \n \nX \n \n \n \nMyozyme\u00ae (alglucosidase alfa) \n \nProprietary and Confidential \n25/ 39 \n \nTable 6-1 \nSchedule of Assessments \u2013 Regimen A ITI Treatment Module (Months 1 through 6) (continued) \nMonth 1 \nMonth 2 \nMonth 3 \nMonth 4 \nMonth 5 \nMonth 6 \nW0 \nW1 \nW2 \nWeeks 3 and 4 \nW5 \nW7 \nW9 \nW11 \nW13 \nW15 \nW17 \nW19 \nW21 \nW23 \n \nBL \nD \n-1 \nD \n0 \nD \n1 \nD \n8 \nD\n14 \nD\n15 \nD\n20 \nD\n22 \nD\n28 \nD\n29 \nD\n42 \nD\n43 \nD\n56 \nD\n57 \nD\n70 \nD \n71 \nD \n84 \nD\n85 \nD\n98 \nD\n99 \nD\n112 \nD\n113 \nD\n126 \nD\n127 \nD\n140 \nD\n141 \nD\n154 \nD\n155 \nCBC with Differential6 X \nX X \n \nX X\n \nX \n \nX \n \nX \n \nX \n \nX \n \nX \n \nX \n \nX \n \nX \n \nX \n \nX \n \nChemistry, CK and \nCK-MB6 \nX \nX X \n \nX X\n \nX \n \nX \n \nX \n \nX \n \nX \n \nX \n \nX \n \nX \n \nX \n \nX \n \nX \n \nUrinalysis6 \nX \nX X \n \nX X\n \nX \n \nX \n \nX \n \nX \n \nX \n \nX \n \nX \n \nX \n \nX \n \nX \n \nX \n \nAnti-rhGAA Antibody \n(IgG) Titers/Inhibitory \nAntibody Monitoring7 \n \nX \n \n \n \nX\n \n \n \nX \n \nX \n \nX \n \n \n \nX \n \n \n \nX \n \n \n \nX \n \n \n \nECG \nX \nX X \n \nX X\n \nX \n \nX \n \n \n \nX \n \n \n \nX \n \n \n \nX \n \n \n \nX \n \n \n \nECHO \nX \n \n \n \n \nX\n \n \n \nX \n \n \n \nX \n \n \n \nX \n \n \n \nX \n \n \n \nX \n \n \n \nVital Sign Monitoring \n \nX X \n \nX X\n \nX \n \nX \n \nX \n \nX \n \nX \n \nX \n \nX \n \nX \n \nX \n \nX \n \nX \n \nTelemetry Monitoring8 \n \n \nX \n \n \n \n \n \n \nX \n \n \n \nX \n \n \n \nX \n \n \n \nX \n \n \n \nX \n \n \n \nCyclophosphamide9 \n \n \nX \n \n \n \n \n \n \nX \n \n \n \nX \n \n \n \nX \n \n \n \nX \n \n \n \nX \n \n \n \nMyozyme Infusion \n \n \nX \n \n \nX\n \n \n \nX \n \nX \n \nX \n \nX \n \nX \n \nX \n \nX \n \nX \n \nX \n \nX \n \nPompe PEDI10 \nX \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nX \n \n \n \n \n \n \n \nX \n \n \n \nMyozyme\u00ae (alglucosidase alfa) \n \nProprietary and Confidential \n26/ 39 \nMonth 1 \nMonth 2 \nMonth 3 \nMonth 4 \nMonth 5 \nMonth 6 \nW0 \nW1 \nW2 \nWeeks 3 and 4 \nW5 \nW7 \nW9 \nW11 \nW13 \nW15 \nW17 \nW19 \nW21 \nW23 \n \nBL \nD \n-1 \nD \n0 \nD \n1 \nD \n8 \nD\n14 \nD\n15 \nD\n20 \nD\n22 \nD\n28 \nD\n29 \nD\n42 \nD\n43 \nD\n56 \nD\n57 \nD\n70 \nD \n71 \nD \n84 \nD\n85 \nD\n98 \nD\n99 \nD\n112 \nD\n113 \nD\n126 \nD\n127 \nD\n140 \nD\n141 \nD\n154 \nD\n155 \nGMFM-8810 \nX \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nX \n \n \n \n \n \n \n \nX \n \n \n \nAIMS10 \nX \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nX \n \n \n \n \n \n \n \nX \n \n \n \nVentilator Use \nAssessment \nContinuous Monitoring \n \nMyozyme\u00ae (alglucosidase alfa) \n \nProprietary and Confidential \n27/ 39 \nTable 6-1 \nSchedule of Assessments \u2013 Regimen A ITI Treatment Module (Months 1 through 6) (continued) \nMonth 1 \nMonth 2 \nMonth 3 \nMonth 4 \nMonth 5 \nMonth 6 \nW0 \nW1 \nW2 \nWeeks 3 and 4 \nW5 \nW7 \nW9 \nW11 \nW13 \nW15 \nW17 \nW19 \nW21 \nW23 \n \nBL \nD \n-1 \nD \n0 \nD \n1 \nD \n8 \nD\n14 \nD\n15 \nD\n20 \nD\n22 \nD\n28 \nD\n29 \nD\n42 \nD\n43 \nD\n56 \nD\n57 \nD\n70 \nD \n71 \nD \n84 \nD\n85 \nD\n98 \nD\n99 \nD\n112 \nD\n113 \nD\n126 \nD\n127 \nD\n140 \nD\n141 \nD\n154 \nD\n155 \nConcomitant \nMedication \nMonitoring11 \nContinuous Monitoring \nConcomitant Therapy \nMonitoring11 \nContinuous Monitoring \nAdverse Event \nMonitoring2 \nContinuous Monitoring \n1 Includes, but is not limited to, confirmation of CRIM status, documentation of GAA enzyme deficiency, and anti-rhGAA titer levels (see Protocol Section 7.1). \n2 At screening/baseline, medical history will include an evaluation of retrospective, related AEs occurring while the patient was receiving Myozyme treatment prior to study entry (Protocol Section 9.6). \n3 Blood sample for patient gene mutation analysis must be obtained at baseline.  Testing performed prior to informed consent is allowed, provided that written results are provided to the site.  If consent \nis provided, samples also will be obtained from the biological parent(s) at baseline. \n4 Pregnancy testing for female patients of childbearing potential will be repeated on Day 0 if this occurs >14 days after the baseline test.  Pregnancy test results must be obtained prior to starting the ITI \nregimen, and patients with positive test results will be excluded (or withdrawn) from the study. \n5 In addition to the scheduled physical examinations, brief, physical assessments should also be performed prior to the administration of any study medications (Myozyme and cyclophosphamide) to \nspecifically ensure that the patient is clinically stable and can tolerate administration of these agents. \n6 Results of the most recent laboratory tests (obtained on the day of the infusion) should be reviewed by Investigators prior to dosing with cyclophosphamide.  Results of the most recent immunoglobulin \npanel should also be reviewed prior to dosing. \n7 If a patient becomes anti-rhGAA (IgG) positive during the course of the study, he/she will also be tested every 2 months for the presence of inhibitory antibodies to Myozyme. \n8 Patients with cardiomegaly or hypertrophic cardiomyopathy will be admitted to the hospital for all cyclophosphamide infusions and will remain in the hospital for a minimum of 24 hours post-infusion. \n9 Patients should be well-hydrated prior to cyclophosphamide administration, but the patients\u2019 cardiac status should be taken into account when determining appropriate amount of hydration. \n10 A visit window of \u00b17 days will be permitted for the Pompe PEDI, GMFM-88, and AIMS.  All remaining study assessments should be conducted at the indicated study visit during the ITI treatment \nmodule.  Eligible CRIM-negative patients will be followed for a minimum of 18 months on treatment or, if a patient is <6 months of age at the time of enrollment, until the patient is 2 years of age. \n11 All concomitant medications and therapies, including those given as prophylaxis or prior to an infusion, will be recorded in the eCRF. \nNote:  It is recommended that the Investigator monitor a patient\u2019s immunoglobulin levels and consider IVIG administration at a dose of 400 mg/kg, regardless of age, if indicated per the individual \nInvestigator\u2019s clinical discretion. \nKey:  AIMS=Alberta Infantile Motor Scale; BL=baseline/screening; CBC=complete blood count; CK=creatine kinase; CK-MB=creatine kinase \u2013 myocardial band; CRIM=cross-reacting immunologic \nmaterial; D=day; ECG= electrocardiogram; ECHO; echocardiogram; ELISPOT=enzyme-linked mmunosorbent spot [assay]; GAA=acid\uf020 \u03b1-glucosidase; GMFM-88=Gross Motor Function Measure-88; \nIgG=immunoglobulin G; IVIG=intravenous immunoglobulin; PEDI=Pediatric Evaluation of Disability Inventory; rhGAA=Recombinant human acid \u03b1-glucosidase; W=week \n \n",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "N/A",
+                                "Title": "Table 6-2 Schedule of Assessments \u2013 Regimen B ITI Treatment Module (Months 1 Through 6)  \r",
+                                "Content": "Myozyme\u00ae (alglucosidase alfa) \n \nProprietary and Confidential \n29/ 39 \nMonth 1 \nMonth 2 \nMonth 3 \nMonth 4 \nMonth 5 \nMonth 6 \nW0 \nW1 \nW2 \nWeeks 3 and 4 \nW5 \nW7 \nW9 \nW11 \nW13 \nW15 \nW17 \nW19 \nW21 \nW23 \n \nBL \nD \n-1 \nD \n0 \nD \n1 \nD \n8 \nD \n14 \nD \n15 \nD \n22 \nD\n28 \nD\n29 \nD\n42 \nD\n43 \nD\n56 \nD\n57 \nD\n70 \nD \n71 \nD \n84 \nD\n85 \nD\n98 \nD\n99 \nD\n112 \nD\n113 \nD\n126 \nD\n127 \nD\n140 \nD\n141 \nD\n154 \nD\n155 \nResearch \nImmunophenotyping \n \nX \n \n \nX \nX \n \nX \n \n \n \n \n \n \n \n \nX \n \n \n \n \n \n \n \nX \n \n \n \nLymphocyte \nSubpopulation Counts \n \nX \n \n \nX \nX \n \nX \n \n \n \n \n \n \n \n \nX \n \n \n \n \n \n \n \nX \n \n \n \nFunctional T cell \nAssay (ELISPOT) \n \nX \n \n \nX \nX \n \nX \n \n \nX \n \n \n \n \n \nX \n \n \n \n \n \n \n \nX \n \n \n \nImmunoglobulin \nPanel6 \n \nX \n \n \n \n \n \nX \n \n \nX \n \nX \n \n \n \nX \n \n \n \nX \n \n \n \nX \n \n \n \n \nMyozyme\u00ae (alglucosidase alfa) \n \nProprietary and Confidential \n30/ 39 \nTable 6-2 \nSchedule of Assessments \u2013 Regimen B ITI Treatment Module (Months 1 through 6) (continued) \nMonth 1 \nMonth 2 \nMonth 3 \nMonth 4 \nMonth 5 \nMonth 6 \nW0 \nW1 \nW2 \nWeeks 3 and 4 \nW5 \nW7 \nW9 \nW11 \nW13 \nW15 \nW17 \nW19 \nW21 \nW23 \n \nBL \nD \n-1 \nD \n0 \nD \n1 \nD \n8 \nD \n14 \nD \n15 \nD \n22 \nD\n28 \nD\n29 \nD\n42 \nD\n43 \nD\n56 \nD\n57 \nD\n70 \nD \n71 \nD \n84 \nD\n85 \nD\n98 \nD\n99 \nD\n112 \nD\n113 \nD\n126 \nD\n127 \nD\n140 \nD\n141 \nD\n154 \nD\n155 \nCBC with Differential6 X X X \n \nX \nX \n \nX \nX \n \nX \n \nX \n \nX \n \nX \n \nX \n \nX \n \nX \n \nX \n \nX \n \nChemistry, CK and \nCK-MB6 \nX X X \n \nX \nX \n \nX \nX \n \nX \n \nX \n \nX \n \nX \n \nX \n \nX \n \nX \n \nX \n \nX \n \nUrinalysis6 \nX X X \n \nX \nX \n \nX \nX \n \nX \n \nX \n \nX \n \nX \n \nX \n \nX \n \nX \n \nX \n \nX \n \nAnti-rhGAA Antibody \n(IgG) Titers/Inhibitory \nAntibody Monitoring7 \n \nX \n \n \n \nX \n \n \nX \n \nX \n \nX \n \n \n \nX \n \n \n \nX \n \n \n \nX \n \n \n \nECG \nX X X X X \nX \n \n \nX \n \n \n \nX \n \n \n \nX \n \n \n \nX \n \n \n \nX \n \n \n \nECHO \nX \n \n \n \n \nX \n \n \nX \n \nX \n \nX \n \n \n \nX \n \n \n \nX \n \n \n \nX \n \n \n \nVital Sign Monitoring \n \nX X X X \nX \nX \nX \nX \nX \nX \nX \nX \nX \nX \nX \nX \nX \nX \nX \nX \nX \nX \nX \nX \nX \nX \nX \nTelemetry Monitoring8 \n \n \n \nX X \n \nX \nX \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nMyozyme Infusion \n \n \nX \n \n \nX \n \n \nX \n \nX \n \nX \n \nX \n \nX \n \nX \n \nX \n \nX \n \nX \n \nX \n \nRituximab9,10,11, \n \n \n \nX X \n \nX \nX \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nMethotrexate12,13 \n \n \n \nX \n \n \nX \n \n \nX \n \nX \n \nX \n \nX \n \nX \n \nX \n \nX \n \nX \n \nX \n \nX \nPompe PEDI14 \nX \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nX \n \n \n \n \n \n \n \nX \n \n \n \nMyozyme\u00ae (alglucosidase alfa) \n \nProprietary and Confidential \n31/ 39 \nMonth 1 \nMonth 2 \nMonth 3 \nMonth 4 \nMonth 5 \nMonth 6 \nW0 \nW1 \nW2 \nWeeks 3 and 4 \nW5 \nW7 \nW9 \nW11 \nW13 \nW15 \nW17 \nW19 \nW21 \nW23 \n \nBL \nD \n-1 \nD \n0 \nD \n1 \nD \n8 \nD \n14 \nD \n15 \nD \n22 \nD\n28 \nD\n29 \nD\n42 \nD\n43 \nD\n56 \nD\n57 \nD\n70 \nD \n71 \nD \n84 \nD\n85 \nD\n98 \nD\n99 \nD\n112 \nD\n113 \nD\n126 \nD\n127 \nD\n140 \nD\n141 \nD\n154 \nD\n155 \nGMFM-8814 \nX \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nX \n \n \n \n \n \n \n \nX \n \n \n \nAIMS14 \nX \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nX \n \n \n \n \n \n \n \nX \n \n \n \nVentilator Use \nAssessment \nContinuous Monitoring \n \nMyozyme\u00ae (alglucosidase alfa) \n \nProprietary and Confidential \n32/ 39 \nTable 6-2 \nSchedule of Assessments \u2013 Regimen B ITI Treatment Module (Months 1 through 6) (continued) \nMonth 1 \nMonth 2 \nMonth 3 \nMonth 4 \nMonth 5 \nMonth 6 \nW0 \nW1 \nW2 \nWeeks 3 and 4 \nW5 \nW7 \nW9 \nW11 \nW13 \nW15 \nW17 \nW19 \nW21 \nW23 \n \nBL \nD \n-1 \nD \n0 \nD \n1 \nD \n8 \nD \n14 \nD \n15 \nD \n22 \nD\n28 \nD\n29 \nD\n42 \nD\n43 \nD\n56 \nD\n57 \nD\n70 \nD \n71 \nD \n84 \nD\n85 \nD\n98 \nD\n99 \nD\n112 \nD\n113 \nD\n126 \nD\n127 \nD\n140 \nD\n141 \nD\n154 \nD\n155 \nConcomitant \nMedication \nMonitoring15 \nContinuous Monitoring \nConcomitant Therapy \nMonitoring15 \nContinuous Monitoring \nAdverse Event \nMonitoring2 \nContinuous Monitoring \n1 Includes, but is not limited to, confirmation of CRIM status, documentation of GAA enzyme deficiency, and anti-rhGAA titer levels (see Protocol Section 7.1) \n2 At screening/baseline, medical history will include an evaluation of retrospective, related Aes occurring while the patient was receiving Myozyme treatment prior to study entry (Protocol Section 9.6)\n3 Blood sample for patient gene mutation analysis must be obtained at baseline.  Testing performed prior to informed consent is allowed, provided that written results are provided to the site.  If consent \nis provided, samples also will be obtained from the biological parent(s) at baseline. \n4 Pregnancy testing for female patients of childbearing potential will be repeated on Day 0 if this occurs >14 days after the baseline test.  Pregnancy test results must be obtained prior to starting the ITI \nregimen, and patients with positive test results will be excluded (or withdrawn) from the study. \n5 In addition to the scheduled physical examinations, brief, physical assessments should also be performed prior to the administration of any study medications (Myozyme, methotrexate, or rituximab) to \nensure that the patient is clinically stable and can tolerate administration of these agents. \n6 Results for the most recent laboratory tests (obtained the preceding day prior to initiating the Myozyme infusion) should be reviewed by Investigators prior to dosing with rituximab and methotrexate.  \nResults of the most recent immunoglobulin panel should also be reviewed prior to dosing. \n7 If a patient becomes anti-rhGAA (IgG) positive during the course of the study, he/she will also be tested every 2 months for the presence of inhibitory antibodies to Myozyme. \n8 Patients with cardiomegaly or hypertrophic cardiomyopathy will be admitted to the hospital for all cyclophosphamide infusions and will remain in the hospital for a minimum of 24 hours post-infusion. \n9 Patients will be admitted to the hospital for all rituximab infusions and will remain in the hospital for a minimum of 24 hours post-infusion.  Telemetry will be performed during all rituximab infusions \nfrom at least 10 minutes prior to the start of the infusion until at least 2 hours post-infusion. \n10 An optional, additional 4-week cycle of rituximab (up to 4 additional doses) may be administered as described in Protocol Section 8.1.  This additional cycle must be completed within the first 6 \nmonths of the study. \n11 Pre-infusion medication may be given as per rituximab treatment guidelines. \n12 Patients should be well-hydrated prior to methotrexate administration, but the patients\u2019 cardiac status should be taken into account when determining appropriate amount of hydration. \n13 Folinic acid supplementation may be given at the discretion of the Investigator beginning 24 hours after the dose of methotrexate. \n14 A visit window of \u00b17 days will be permitted for the Pompe PEDI, GMFM-66, and AIMS.  All remaining study assessments should be conducted at the indicated study visit during the ITI treatment \nmodule.  Eligible CRIM-negative patients will be followed for a minimum of 18 months on treatment or, if a patient is <6 months of age at the time of enrollment, until the patient is 2 years of age. \n15 All concomitant medications and therapies, including those given as prophylaxis or prior to an infusion, will be recorded in the eCRF. \nNote:  It is recommended that the Investigator monitor a patient\u2019s immunoglobulin levels and consider IVIG administration at a dose of 400 mg/kg, regardless of age, if indicated per the individual \nMyozyme\u00ae (alglucosidase alfa) \n \nProprietary and Confidential \n33/ 39 \nInvestigator\u2019s clinical discretion. \nKey:  AIMS=Alberta Infantile Motor Scale; BL=baseline/screening; CBC=complete blood count; CK=creatine kinase; CK-MB=creatine kinase \u2013 myocardial band; CRIM=cross-reacting immunologic \nmaterial; D=day; ECG= electrocardiogram; ECHO; echocardiogram; ELISPOT=enzyme-linked \ufffdmmunosorbent spot [assay]; GAA=acid \uf020\u03b1-glucosidase; GMFM-88=Gross Motor Function Measure-88; \nIgG=immunoglobulin G; IVIG=intravenous immunoglobulin; PEDI=Pediatric Evaluation of Disability Inventory; rhGAA=Recombinant human acid \u03b1-glucosidase; W=week \n \n \n",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "N/A",
+                                "Title": "Table 6-3 Schedule of Assessments \u2013 Follow-Up Module (Months 7 Through 18)\r",
+                                "Content": "Myozyme\u00ae (alglucosidase alfa) \n \nProprietary and Confidential \n \n  35/39 \nMonth 71 \nMonth 81 \nMonth 91 \nMonth 101\nMonth 111\nMonth 121\nMonth 131 Month 141\nMonth 151\nMonth 161\nMonth 171\nMonth 181\nEOS1 \nW25 W27 W29 W31 W33 W35 W37 W39 W41 W43 W45 W47 W49 W51 W53 W55 W57 W59 W61 W63 W65 W67 W69 W71 W732 W75\n \nD168 D182 D196 D210 D224 D238 D252 D266 D280 D294 D308 D322 D336 D350 D364 D378 D392 D406 D420 D434 D448 D462 D476 D490 D504 D518\nECG \nX \n \n \n \n \n \nX \n \n \n \n \n \nX \n \n \n \n \n \nX \n \n \n \n \n \n \nX \nECHO \nX \n \n \n \n \n \nX \n \n \n \n \n \nX \n \n \n \n \n \nX \n \n \n \n \n \n \nX \n \nMyozyme\u00ae (alglucosidase alfa) \n \nProprietary and Confidential \n \n  36/39 \nTable 6-3 \nSchedule of Assessments \u2013 Follow-up Module (Months 7 through 18) (continued) \nMonth 71 \nMonth 81 \nMonth 91 \nMonth 101\nMonth 111\nMonth 121\nMonth 131 Month 141\nMonth 151\nMonth 161\nMonth 171\nMonth 181\nEOS1 \nW25 W27 W29 W31 W33 W35 W37 W39 W41 W43 W45 W47 W49 W51 W53 W55 W57 W59 W61 W63 W65 W67 W69 W71 W732 W75\n \nD168 D182 D196 D210 D224 D238 D252 D266 D280 D294 D308 D322 D336 D350 D364 D378 D392 D406 D420 D434 D448 D462 D476 D490 D504 D518\nPompe PEDI \n \n \n \n \n \n \nX \n \n \n \n \n \nX \n \n \n \n \n \nX \n \n \n \n \n \n \nX \nGMFM-88 \n \n \n \n \n \n \nX \n \n \n \n \n \nX \n \n \n \n \n \nX \n \n \n \n \n \n \nX \nAIMS \n \n \n \n \n \n \nX \n \n \n \n \n \nX \n \n \n \n \n \nX \n \n \n \n \n \n \nX \nVentilator Use Monitoring \nContinuous Monitoring \nConcomitant Medication \nMonitoring \nContinuous Monitoring \nConcomitant Therapy \nMonitoring \nContinuous Monitoring \nAdverse Event Monitoring \nContinuous Monitoring \n1 A visit window of \u00b12 weeks will be permitted for all study assessments during the follow-up module.  For Myozyme infusions, the visit window is \u00b11 week. \n2 Patients who are <2 years of age at their W73 visit should continue in the study until they reach their second (i.e., 2 years of age) birthday.  Therefore, these patients should repeat the Schedule of \nAssessments at W25 and continue following the protocol until they reach this birthday (W75 visit will mimic W25 assessments, W77 visit will mimic W27 assessments, etc.).  At the patient\u2019s second \nbirthday visit, all End-of-Study (EOS) assessments should be performed for study completion.  See Protocol Appendix 14.6. For further details. \n3 In addition to the scheduled physical examinations, brief, physical assessments should also be performed prior to the administration of any study medications (Myozyme) to ensure that the patient is \nclinically stable and can tolerate administration of these agents. \n4 Pregnancy testing will be performed monthly for female patients of childbearing potential, and patients with positive test results will be withdrawn from the study. \n5 If a patient becomes anti-rhGAA (IgG) positive during the course of the study, he/she will also be tested every 2 months for the presence of inhibitory antibodies to Myozyme. \nKey:  AIMS=Alberta Infantile Motor Scale; CBC=complete blood count; CK=creatine kinase; CK-MB=creatine kinase \u2013 myocardial band; D=day; ECG=electrocardiogram; ECHO; echocardiogram; \nELISPOT=enzyme-linked \ufffdmmunosorbent spot [assay]; EOS=End-of-Study; GMFM-88=Gross Motor Function Measure-88; IgG=immunoglobulin G; IVIG=intravenous immunoglobulin; \nPEDI=Pediatric Evaluation and Disability Inventory; rhGAA=Recombinant human acid \u03b1-glucosidase; W=week \n",
+                                "Sub-sections": []
+                            }
+                        ]
+                    },
+                    {
+                        "Header Number": "6.2",
+                        "Title": "Changes From Analyses Specified in the Previous Version of the SAP",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "6.3",
+                        "Title": "Sample Size, Power, and Randomization",
+                        "Content": " Neither statistical sample size calculations nor power calculations were performed for this study.  The sample size was chosen based solely on clinical considerations, as the number of Pompe patients satisfying the inclusion/exclusion criteria is very small.  This is an open label study.  Patients were not randomized; rather, specific criteria (see Section 6.1 of Protocol) were used in determining the regimen the patients should receive.   ",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "6.4",
+                        "Title": "Technical Specifications for Derived Variables",
+                        "Content": " The following derived data will be calculated prior to analysis. Age Age will be presented as the number of years between date of birth and the reference date.  The following ages may be computed, with reference dates indicated: AGE    REFERENCE DATE Age at Enrollment Date of Signing Informed Consent Form Age at First Infusion of Myozyme in the Study Date of First Infusion of Myozyme in the Study  Missing or partial dates will not be imputed. Myozyme\u00ae (alglucosidase alfa) \nProprietary and Confidential \n38/39\nDisease Duration \nDisease duration will be presented as the number of years between date of first study infusion \nand date of first symptom.  Missing dates will not be imputed. \nDefinition of Baseline Values \nThe baseline is defined as the value collected on the scheduled visit prior to or on the day of first \nstudy drug infusion. \nChange from Baseline \nChange from baseline will be calculated as (Observed value at the particular visit \u2013 baseline \nvalue). \nAdverse Events \nThe analysis of Adverse Events is described in detail in section 4.3.2. \nTreatment-emergent AEs (TEAEs) are events with start dates and start times on or after the date \nand time of the first study drug dose.  If the start date of an AE is partially or completely missing \nand the end (stop) date and time of the AE does not indicate that it occurred prior to first dose, \nthen the determination of treatment-emergent status will be based on the following: \n\u2022 If the start year is after the year of the first study drug dose, then the AE is treatment-\nemergent; else, \n\u2022 If the start year is the same as the year of the first study drug dose and  \no the start month is missing, then the AE is treatment emergent; else if \no the start month is present and is the same or after the month of the first study drug \ndose, then the AE is treatment-emergent; else, \n\u2022 If the start date is completely missing, then the AE is treatment-emergent. \nAll other AEs, except prior related AEs (PRAEs), are considered Pre-Treatment Adverse Events \n(PTAEs).   \nPatient percentages are based on the total number of treated patients in the particular regimen or \ntotal. \nRelated AEs are defined as possible, probable or definitely related.  Unrelated AEs are defined as \nunlikely or not related. \n",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "6.5",
+                        "Title": "Additional Details on Statistical Methods",
+                        "Content": "",
+                        "Sub-sections": []
+                    }
+                ]
+            }
+        ]
+    }
+]

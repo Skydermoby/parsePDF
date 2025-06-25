@@ -13,32 +13,19 @@ fileNames = ["NCT00230607_Prot_000", "NCT00295620_Prot_000", "NCT00310388_Prot_0
 
 os.system('cls')
 
+fileNames = os.listdir('Data\\')
+
 debugMode = False
 verboseMode = False
+cycleMode = True
 
 fileName = "NCT00799266_Prot_000"
 
 inputFile = "Data\\" + fileName + ".pdf"
-outputFile = "extractedTXT" + fileName + ".json"
+outputFile = "Results\\extractedTXT" + fileName + ".json"
 
 tableExtractor = pdfplumber.open(inputFile)
-for p in tableExtractor.pages:
-        for t in p.extract_tables():
-            
-            for r in t:
-                print(r)
-print(len(tableExtractor.pages))
-print("pop")
 
-tableFinder = tableExtractor.pages[13].find_tables()
-print(tableFinder[0].bbox())
-
-
-doc = pymupdf.open(inputFile)
-toc = doc.get_toc()
-
-testDict = []
-pointer = testDict
 
 
 def checkHeader(text):
@@ -53,111 +40,131 @@ def checkHeader(text):
 def printError(text):
     print("Something wrong has occured:", text, ". This error took place in:", fileName)
 
-breakerControl = 0
 
-curDict = []
-topDict = curDict
-lastLvl = 1
-if len(toc) != 0:
-    pgCounter = 0
-    for x in toc:
-        curLvl = x[0]
-        curTit = x[1]
-        curPg = int(x[2])
-        if lastLvl < curLvl:
-            newPoint = curDict[-1]["Sub-sections"]
-            curDict = newPoint
-        elif lastLvl > curLvl:
-            curDict = topDict
-            for x in range(curLvl-1):
+
+def extraction(inputFile, outputFile):
+    doc = pymupdf.open(inputFile)
+    toc = doc.get_toc()
+
+    testDict = []
+    pointer = testDict
+    breakerControl = 0
+
+    curDict = []
+    topDict = curDict
+    lastLvl = 1
+    if len(toc) != 0:
+        pgCounter = 0
+        for x in toc:
+            curLvl = x[0]
+            curTit = x[1]
+            curPg = int(x[2])
+            if lastLvl < curLvl:
                 newPoint = curDict[-1]["Sub-sections"]
                 curDict = newPoint
-        curDict.append({})
-        curSplit = curTit.split()
-        curHd = "-1"
-        curName = "-1"
-        if checkHeader(curSplit[0]):
-            curHd = curSplit[0]
-            curSplit.pop(0)
-            curName = " ".join(curSplit)
-        else:
-            curHd = "N/A"
-            curName = curTit
-        if curHd == "-1":
-            printError("Header Number bypassed Checker")
-        curDict[-1]["Header Number"] = curHd
-        curDict[-1]["Title"] = curName
-        
-        
-        nxtPg = -1
-        if pgCounter != len(toc) -1:
-            nxtPg = int(toc[pgCounter + 1][2])
-        else:
-            nxtPg = len(doc)
-        if nxtPg == -1:
-            printError("Next page number captured incorrectly")
-
-        if debugMode:
-            print("fortnite", curPg, nxtPg)
-        
-        firstPage = doc[curPg-1].get_textpage()
-        retFirstPg = firstPage.extractText()
-        retFirstPg = retFirstPg.replace('\n', '')
-        splitVile = retFirstPg.split(curTit)
-        if len(splitVile) != 1 and verboseMode:
-            print("this happened at", pgCounter)
-        splitVile.pop(0)
-        if breakerControl == 0 and debugMode:
-            print("".join(splitVile))
+            elif lastLvl > curLvl:
+                curDict = topDict
+                for x in range(curLvl-1):
+                    newPoint = curDict[-1]["Sub-sections"]
+                    curDict = newPoint
+            curDict.append({})
+            curSplit = curTit.split()
+            curHd = "-1"
+            curName = "-1"
+            if checkHeader(curSplit[0]):
+                curHd = curSplit[0]
+                curSplit.pop(0)
+                curName = " ".join(curSplit)
+            else:
+                curHd = "N/A"
+                curName = curTit
+            if curHd == "-1":
+                printError("Header Number bypassed Checker")
+            curDict[-1]["Header Number"] = curHd
+            curDict[-1]["Title"] = curName
             
-        curContent = []
-        curContent.append("".join(splitVile))
-        for x in range(curPg, nxtPg - 1):
-            curPage = doc[x].get_textpage()
-            results = curPage.search(curTit)
-            curContent.append(curPage.extractText())
-        if pgCounter != len(toc)-1:
-            nextTit = toc[pgCounter+1][1]
-            lastPage = doc[nxtPg-1].get_textpage()
-            retLastPg = lastPage.extractText()
-            retLastPg = retLastPg.replace('\n', '')
-            splitVile = retLastPg.split(nextTit)
-            splitVile.pop(-1)
-            curContent.append("".join(splitVile))
+            
+            nxtPg = -1
+            if pgCounter != len(toc) -1:
+                nxtPg = int(toc[pgCounter + 1][2])
+            else:
+                nxtPg = len(doc)
+            if nxtPg == -1:
+                printError("Next page number captured incorrectly")
 
-        if curPg == nxtPg:
-            if verboseMode:
-                print("this happened aaaaaaaaaaaaat", curTit)
+            if debugMode:
+                print("fortnite", curPg, nxtPg)
+            
             firstPage = doc[curPg-1].get_textpage()
             retFirstPg = firstPage.extractText()
             retFirstPg = retFirstPg.replace('\n', '')
             splitVile = retFirstPg.split(curTit)
+            if len(splitVile) != 1 and verboseMode:
+                print("this happened at", pgCounter)
             splitVile.pop(0)
-            splitVile = "".join(splitVile)
-            splitVile = splitVile.split(nextTit) 
-            splitVile.pop(-1)
-            curContent = ["".join(splitVile)]
-        
-        curCont = "".join(curContent)
+            if breakerControl == 0 and debugMode:
+                print("".join(splitVile))
+                
+            curContent = []
+            curContent.append("".join(splitVile))
+            for x in range(curPg, nxtPg - 1):
+                curPage = doc[x].get_textpage()
+                results = curPage.search(curTit)
+                curContent.append(curPage.extractText())
+            if pgCounter != len(toc)-1:
+                nextTit = toc[pgCounter+1][1]
+                lastPage = doc[nxtPg-1].get_textpage()
+                retLastPg = lastPage.extractText()
+                retLastPg = retLastPg.replace('\n', '')
+                splitVile = retLastPg.split(nextTit)
+                splitVile.pop(-1)
+                curContent.append("".join(splitVile))
 
-        curDict[-1]["Content"] = curCont
+            if curPg == nxtPg:
+                if verboseMode:
+                    print("this happened aaaaaaaaaaaaat", curTit)
+                firstPage = doc[curPg-1].get_textpage()
+                retFirstPg = firstPage.extractText()
+                retFirstPg = retFirstPg.replace('\n', '')
+                splitVile = retFirstPg.split(curTit)
+                splitVile.pop(0)
+                splitVile = "".join(splitVile)
+                splitVile = splitVile.split(nextTit) 
+                splitVile.pop(-1)
+                curContent = ["".join(splitVile)]
+            
+            curCont = "".join(curContent)
 
-        curDict[-1]["Sub-sections"] = []
+            curDict[-1]["Content"] = curCont
 
-        lastLvl = curLvl
-        pgCounter += 1
-        breakerControl =1
+            curDict[-1]["Sub-sections"] = []
+
+            lastLvl = curLvl
+            pgCounter += 1
+            breakerControl =1
+    else:
+        printError("TOC length is 0 :(")
+    if verboseMode:
+        print(topDict)
+
+
+    if os.path.exists(outputFile):
+        os.remove(outputFile)
+
+    with open(outputFile, "a") as f:
+        f.write(json.dumps(topDict, indent=4))
+
+
+
+if cycleMode:
+    for file in fileNames:
+        print("Now running:", file)
+        fileName = file.replace(".pdf", "")
+        inputFile = "Data\\" + fileName + ".pdf"
+        outputFile = "Results\\extractedTXT" + fileName + ".json"
+        extraction(inputFile, outputFile)
 else:
-    printError("TOC length is 0 :(")
-if verboseMode:
-    print(topDict)
-
-
-if os.path.exists(outputFile):
-    os.remove(outputFile)
-
-with open(outputFile, "a") as f:
-    f.write(json.dumps(topDict, indent=4))
+    extraction(inputFile, outputFile)
 #page1 = doc[1].get_textpage()
 
 #print(page1.extractTEXT())

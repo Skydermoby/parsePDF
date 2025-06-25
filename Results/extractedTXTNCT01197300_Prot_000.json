@@ -1,0 +1,722 @@
+[
+    {
+        "Header Number": "N/A",
+        "Title": "A 1-year, multicenter, open-label, extension to CZOL446H2337 to evaluate safety and efficacy of zoledronic acid twice yearly in osteoporotic children treated with glucocorticoids",
+        "Content": " Document type:Amended Protocol VersionEUDRACT number:2010-020399-41Version number:v03 (clean)Development phase:IIIbRelease date:18-May-2016Property of NovartisConfidentialMay not be used, divulged, published, or otherwise disclosedwithout the consent of NovartisClinical Trial Protocol Template Version 3.1 (February 2016)NovartisConfidentialPage 2Amended Clinical Trial Protocol (Version 03) cleanProtocol No. CZOL446H2337E1",
+        "Sub-sections": [
+            {
+                "Header Number": "N/A",
+                "Title": "Table of contents",
+                "Content": " .................................................................................................................2List of tables ........................................................................................................................6List of abbreviations............................................................................................................7Glossary of terms.................................................................................................................9Amendment 3 ....................................................................................................................10Protocol Summary.............................................................................................................131Introduction .......................................................................................................................161.1Background............................................................................................................161.2Purpose ..................................................................................................................172Study objectives.................................................................................................................182.1Primary objective...................................................................................................182.2Secondary objective(s)...........................................................................................18193Investigational plan ...........................................................................................................203.1Study design...........................................................................................................203.2Rationale of study design.......................................................................................213.3Rationale of dose/regimen, duration of treatment .................................................213.4Rationale for choice of comparator .......................................................................223.5Purpose and timing of interim analyses/design adaptations..................................223.6Risks and benefits..................................................................................................224Population..........................................................................................................................254.1Inclusion criteria ....................................................................................................254.2Exclusion criteria...................................................................................................265Treatment...........................................................................................................................275.1Study treatment......................................................................................................275.1.1Investigational and control drugs..........................................................275.1.2Additional treatment..............................................................................275.2Treatment arms......................................................................................................285.3Treatment assignment............................................................................................285.4Treatment blinding.................................................................................................285.5Treating the patient................................................................................................285.5.1Patient numbering .................................................................................285.5.2Dispensing the study drug.....................................................................285.5.3Handling of study and additional treatment..........................................285.5.4Instructions for prescribing and administering study treatment............29Novartis\nConfidential\nPage 3\nAmended Clinical Trial Protocol (Version 03) clean\nProtocol No. CZOL446H2337E1\n5.5.5\nPermitted dose adjustments and interruptions of study treatment ........30\n5.5.6\nRescue medication ................................................................................30\n5.5.7\nConcomitant medication .......................................................................30\n5.5.8\nProhibited medication ...........................................................................31\n5.5.9\nEmergency breaking of assigned treatment code..................................31\n5.6\nStudy completion and discontinuation...................................................................31\n5.6.1\nStudy completion and post-study treatment..........................................31\n5.6.2\nDiscontinuation of study treatment .......................................................31\n5.6.3\nWithdrawal of informed consent...........................................................32\n5.6.4\nLoss to follow-up ..................................................................................33\n5.6.5\nEarly study termination by the sponsor.................................................33\n6\nVisit schedule and assessments .........................................................................................33\n6.1\nInformation to be collected on screening failures..................................................38\n6.2\nPatient demographics/other baseline characteristics .............................................38\n6.3\nTreatment exposure and compliance .....................................................................38\n6.4\nEfficacy..................................................................................................................38\n6.4.1\nVertebral morphometric fractures.........................................................39\n39\n6.4.3\nDXA measurements ..............................................................................40\n6.4.4\nBone marker analysis ............................................................................40\n40\n6.4.6\nBone age and metacarpal cortical width assessment.............................41\n6.4.7\nPain assessment.....................................................................................41\n6.4.8\nAppropriateness of efficacy assessments..............................................41\n6.5\nSafety.....................................................................................................................42\n6.5.1\nPhysical examination ............................................................................42\n6.5.2\nVital signs..............................................................................................42\n6.5.3\n weight .................................................................................42\n6.5.4\nLaboratory evaluations..........................................................................42\n6.5.5\nPregnancy and assessments of fertility .................................................44\n6.5.6\nBone safety monitoring.........................................................................44\n6.5.7\nAppropriateness of safety measurements..............................................44\n45\n45\n46\n6.6.3\nPharmacokinetics ..................................................................................46\n6.6.4\nDNA Sampling......................................................................................46\nNovartis\nConfidential\nPage 4\nAmended Clinical Trial Protocol (Version 03) clean\nProtocol No. CZOL446H2337E1\n6.6.5\nOther biomarkers...................................................................................46\n7\nSafety Monitoring..............................................................................................................46\n7.1\nAdverse Events ......................................................................................................46\n7.2\nSerious adverse event reporting.............................................................................48\n7.2.1\nDefinition of SAE .................................................................................48\n7.2.2\nSAE reporting........................................................................................49\n7.3\nReporting of study treatment errors including misuse/abuse ................................50\n7.4\nPregnancy reporting...............................................................................................50\n8\nData review and database management.............................................................................51\n8.1\nSite monitoring ......................................................................................................51\n8.2\nData collection.......................................................................................................51\n8.3\nDatabase management and quality control............................................................52\n8.4\nData Monitoring Committee..................................................................................52\n8.5\nAdjudication Committee........................................................................................52\n9\nData analysis......................................................................................................................52\n9.1\nAnalysis sets ..........................................................................................................53\n9.2\nPatient demographics and other baseline characteristics.......................................53\n9.3\nTreatments .............................................................................................................54\n9.4\nAnalysis of the primary variable(s) .......................................................................55\n9.4.1\nVariable.................................................................................................55\n9.4.2\nStatistical model, hypothesis, and method of analysis..........................56\n9.4.3\nHandling of missing values/censoring/discontinuations.......................56\n9.4.4\nSensitivity analyses ...............................................................................56\n9.5\nAnalysis of secondary variables ............................................................................56\n9.5.1\nEfficacy variables..................................................................................56\n9.5.2\nSafety variables .....................................................................................59\n9.5.3\nResource utilization...............................................................................59\n59\n60\n9.5.6\nPharmacokinetics ..................................................................................60\n9.5.7\nPharmacogenetics/pharmacogenomics .................................................60\n9.5.8\nBiomarkers............................................................................................61\n9.5.9\nPK/PD ...................................................................................................61\n9.6\nSample size calculation..........................................................................................61\n9.7\nInterim analyses.....................................................................................................61\n10 Ethical considerations........................................................................................................61\nNovartis\nConfidential\nPage 5\nAmended Clinical Trial Protocol (Version 03) clean\nProtocol No. CZOL446H2337E1\n10.1\nRegulatory and ethical compliance........................................................................61\n10.2\nInformed consent procedures.................................................................................61\n10.3\nResponsibilities of the investigator and IRB/IEC..................................................62\n10.4\nPublication of study protocol and results...............................................................62\n10.5\nQuality Control and Quality Assurance.................................................................62\n11 Protocol adherence ............................................................................................................62\n11.1\nProtocol Amendments ...........................................................................................63\n12 References .........................................................................................................................63\n13 Appendix 1: Clinically notable laboratory values and vital signs.....................................66\n14 Appendix 2: Tanner Staging..............................................................................................72\n15 Appendix 3: Faces Pain Scale ...........................................................................................73\n74\n76\n18 Appendix 6: Other subtypes of osteoporosis in children...................................................78\n19 Appendix 7: Amount of blood to-be Drawn......................................................................79\nNovartisConfidentialPage 6Amended Clinical Trial Protocol (Version 03) cleanProtocol No. CZOL446H2337E1",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "N/A",
+                "Title": "List of tables",
+                "Content": "Table 5-1Recommended minimum daily dietary allowances ..............................27Table 5-2Preparation of i.v. zoledronic acid infusion ..........................................30Table 6-1Group 1 Assessment schedule...............................................................34Table 6-2Group 2 Assessment schedule...............................................................36Table 7-1 Guidance for capturing the study treatment errors including misuse/abuse .........................................................................................50Table 13-1Clinical notable criteria for selected laboratory tests............................66NovartisConfidentialPage 7Amended Clinical Trial Protocol (Version 03) cleanProtocol No. CZOL446H2337E1",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "N/A",
+                "Title": "List of abbreviations",
+                "Content": "AE Adverse EventAKI Acute Kidney InjuryALT Alanine AminotransferaseAPAnterior-posteriorAST Aspartate AminotransferaseBMC Bone Mineral ContentBMD Bone Mineral DensityBSAP Bone Specific Alkaline PhosphataseCQACompliance Quality AssuranceCRO Contract Research OrganizationDAR Dose administration recordDMDDuchenne muscular dystrophyDXA Dual Energy X-ray AbsorptiometryeCRF Case Report/Record Form (electronic) EOS End of StudyFASFull Analysis SetFPS-R Faces Pain Scale - revisedGCGlucocorticoidsGCP Good Clinical PracticeGGTGamma-glutamyl transpeptidase GIO Glucocorticoid-induced osteoporosisIB Investigator\u2019s BrochureIBD Inflammatory Bowel DiseaseICH International Conference on Harmonization of Technical Requirements forRegistration of Pharmaceuticals for Human UseIEC Independent Ethics CommitteeIMSIntegrated Medical Safetyi.v. intravenousIRB Institutional Review BoardISCDInternational Society for Clinical DensitometryJRAJuvenile rheumatoid arthritisLS Lumbar SpineMCVMean cell volumeMedDRA Medical Dictionary for Regulatory ActivitiesMCHCMean cell hemoglobin concentrationNTX Cross-linked N-telopeptideOC/RDC Oracle Clinical/Remote Data CaptureOI Osteogenesis ImperfectaONJ Osteonecrosis of the JawP1NPProcollagen type 1 amino-terminal propeptideNovartis\nConfidential\nPage 8\nAmended Clinical Trial Protocol (Version 03) clean\nProtocol No. CZOL446H2337E1\nPMO \nPostmenopausal Osteoporosis\nRBC \nRed Blood Cell\nRDA \nRecommended Daily Allowance\nSAE \nSerious Adverse Event\nSAF\nSafety population\nSLE \nSystemic Lupus Erythematosus\nSUSAR \nSuspected Unexpected Serious Adverse Reactions\nTRAP-5b \nTartrate-resistant Acid Phosphatase Isoform 5b\nTNF \nTumor Necrosis Factor\nTD \nStudy Treatment Discontinuation\nUK \nUnited Kingdom\nWBC \nWhite Blood Cell\nWHO \nWorld Health Organization\nWoC \nWithdrawal of Consent\nNovartisConfidentialPage 9Amended Clinical Trial Protocol (Version 03) cleanProtocol No. CZOL446H2337E1",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "N/A",
+                "Title": "Glossary of terms",
+                "Content": "AssessmentA procedure used to generate data required by the studyEnrollmentPoint/time of patient entry into the study; the point at which informed consent must be obtained (i.e. prior to starting any of the procedures described in the protocol)Investigational drugThe study drug whose properties are being tested in the study; this definition is consistent with US CFR 21 Section 312.3 and is synonymous with \u201cinvestigational new drug.\u201dMedication pack numberA unique identifier on the label of each investigational drug packagePatient IDA unique number assigned to each patient upon signing the informed consentRandomization numberA unique identifier assigned to each randomized patient, corresponding to a specific treatment arm assignmentStudy drugAny single drug or combination of drugs administered to the patient as part of the required study procedures; includes investigational drug(s), placebo/comparator active drug run-ins or background therapyStudy Treatment Discontinuation (TD)When the patient permanently stops taking study treatment prior to the defined study treatment completion date VariableA measured value or assessed response that is determined in specific assessments and used in data analysis to evaluate the drug being tested in the studyWithdrawal of consent (WoC)Withdrawal of consent from the study is defined as when a patient does not want to participate in the study any longer, and does not want any further visits or assessments, and does not want any further study related contact, and does not allow analysis of already obtained biologic materialNovartisConfidentialPage 10Amended Clinical Trial Protocol (Version 03) cleanProtocol No. CZOL446H2337E1",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "N/A",
+                "Title": "Amendment 3",
+                "Content": "Amendment rationale\uf0b7The rationale for this amendment is to reflect the changes in the Core protocol (CZOL446H2337) v05 which has been amended  to provide a Risk Benefit statement (Section 3.6), and allow more countries to apply the contraceptive wording originally provided for UK sites only.\uf0b7The introduction (Section 1) has been revised with more recent references that reflect the increase in knowledge of childhood osteoporosis since the protocol was first proposed.  \uf0b7The investigational plan (Section 3) and statistical sections (Section 9) have been clarified. \uf0b7In addition, the DMC concerns regarding potential for transient symptomatic hypocalcemia after first infusion are addressed by adding additional calcium supplementation at the recommended daily allowance (RDA) for age in Table 5-1 for up to 10 days around time of infusion (in line with Institutional clinical practice guidelines). \uf0b7Table 5-1 has been revised in line with the current minimum RDAs for vitamin D and calcium from the Institute of Medicine. \uf0b7Visit 9 for Group 1 is now defined as up to 10 months after Visit 5 (month 6) of the Core study, to allow patients who are deteriorating at the time of the second infusion during the Core study to enter the Extension study rather than be treated off-label.\uf0b7This amendment includes clarification of the list of eligible medical conditions other than chronic rheumatologic conditions or inflammatory bowel disease or Duchenne muscular dystrophy (DMD) already specified previously. These additional conditions are listed in Appendix 6 and the exclusion criteria for Group 2 have been revised to address these as follows: \uf0b7Due to the inclusion of some of these additional medical conditions, e.g. nephrotic syndrome, the exclusion criterion of renal impairment previously defined as an estimated glomerular filtration rate (GFR) < 35 mL/min/1.73 m2 at screening has been increased to normal renal function defined as < 60 mL/min/1.73 m2 based on the Schwartz formula at Visit 8 (Group 1) or Visit 8A (Group 2). \uf0b7Schwartz formula has been added under Section 6.5.4.2\uf0b7In addition \u2018serious renal disease\u2019 in DMD has been removed as this is included under the GFR exclusion criterion. \uf0b7In DMD patients, chronic muscle breakdown results in elevated aspartate aminotransferase (AST) and alanine aminotransferase (ALT) (frequently higher than 10 fold); hence total bilirubin and gamma-glutamyl transpeptidase (GGT) have been added as additional markers to detect any potential liver toxicity.Novartis\nConfidential\nPage 11\nAmended Clinical Trial Protocol (Version 03) clean\nProtocol No. CZOL446H2337E1\n\uf0b7\nThe exclusion criterion \u2018symptomatic cardiac abnormality\u2019 in DMD has been \nredefined because other conditions or concomitant medications, including \nglucocorticoids can contribute to cardiac disease: Uncontrolled symptoms of \ncardiac failure or arrhythmia. \n\uf0b7\nSerum 25-hydroxy vitamin D concentrations have been revised to the currently \naccepted definition of normal i.e. < 20 ng/mL or < 50 nmol/L at Visit 8A for \nGroup 2. \n\uf0b7\nThe blood volume required (Appendix 7) for the analysis of specialized bone \nmarkers has been reduced from 8.5 mL to 3 mL. \n\uf0b7\nThe local serum creatinine before the second infusion of zoledronic acid has been \nremoved because of the need for normal renal function as an eligibility criterion. Renal \nfunction is reviewed centrally before and 10 days after each infusion.\n\uf0b7\nInconsistencies have been corrected within the protocol and across supporting documents \nespecially with respect to Serious Adverse Event/Adverse Event reporting in Group 2 and \ncentral laboratory analyses. \n\uf0b7\nIn this 12 month study, visit windows have been removed and replaced with a requirement \nto perform the visit as close to the designated day as possible. For Group 2 only, the time \nbetween Visit 8A and Visit 9 should be as close to 28 days as possible, but cannot be \nlonger than 8 weeks. \nThe latest Novartis protocol template has been used to aid the reader in navigating the \nprotocol and more some procedures have been revised in line with our current processes.\nStatus of the study as of 10-May-2016:\nTwelve (12) patients have been enrolled onto this study, all were enrolled into Group 1; the \nproposed changes will have no impact on the interpretation of the data.\nChanges to the protocol\nChanges to specific sections of the protocol are shown by track changes in the track changes \nversion of the protocol using strike through red font for deletions, and red underlined for \ninsertion.\nA copy of this amended protocol will be sent to the Institutional Review Board \n(IRBs)/Independent Ethics Committee (IECs) and Health Authorities.\nThe changes herein affect the Informed Consent. Sites are required to update and submit for \napproval a revised Informed Consent that takes into account the changes described in this \nprotocol amendment.\nSummary of previous amendments:\nAmendment 2\nThe rationale for this amendment (dated 15-Jan-2014) was to reflect the changes in the Core \n(CZOL446H2337) protocol v04 which extended the study population to include subjects with \nNovartis\nConfidential\nPage 12\nAmended Clinical Trial Protocol (Version 03) clean\nProtocol No. CZOL446H2337E1\nunderlying conditions other than chronic inflammatory disorders e.g. Duchenne muscular \ndystrophy (DMD).\n\uf0b7\nInclude (Group 2): patients not eligible to enroll into the Core study because of clinically \nsignificant back pain (significant symptoms) from vertebral fracture and the preexisting \nclinical care at the Investigator\u2019s site is to treat this type of patient with a bisphosphonate. \nTherefore two Baselines are used in the study:\n\uf0b7\nBaseline 1: First visit of the Core for Group 1\n\uf0b7\nBaseline 2: First visit of the Extension for Group 2.\n\uf0b7\nAlign with the Core study changes in the Inclusion/Exclusion criteria:\n\uf0b7\nRelax the LS BMD Z-score inclusion criteria from -1.0 to -0.5 or worse.\n\uf0b7\nModify the exclusion criteria of patients with any prior use of osteoporosis/bone \nmodifying therapy. Bisphosphonates and sodium fluoride will be kept in the exclusion \ncriteria. Calcitonin, calcitriol, SERMS, LHRH agonists, Growth Hormone and \nmedroxyprogesterone will be taken out from the exclusion criteria\n\uf0b7\nModify the exclusion criteria of patients with any prior use of osteoporosis/bone \nmodifying therapy and to allow non-ambulatory patients who require wheelchair \nassistance for mobility to enter the study.\n\uf0b7\nAdd exclusion criteria for history of serious renal disease and symptomatic cardiac \ninvolvement in DMD patients.\n\uf0b7\nAlign with the Core study changes in the assessments by adding the following:\n\uf0b7\nSerum 25-hydroxy vitamin D concentration at Month 12 of the Extension.\n\uf0b7\nEliminated 24-hours and 48-hours post-first dose local serum ionized calcium \nmeasurements.\nAmendment 1\nThis amendment (dated 29-Nov-2012) applied to United Kingdom (UK) sites only, regarding \ncontraception and pregnancy in female patients of child bearing potential.\nNovartisConfidentialPage 13Amended Clinical Trial Protocol (Version 03) cleanProtocol No. CZOL446H2337E1",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "N/A",
+                "Title": "Protocol Summary",
+                "Content": "Protocol numberCZOL446H2337E1TitleA 1-year, multicenter, open-label, extension to CZOL446H2337 to evaluate safety and efficacy of zoledronic acid twice yearly in osteoporotic children treated with glucocorticoidsBrief titleA 12-month observational study of zoledronic acid in children and adolescents with osteoporosis Sponsor and Clinical PhaseNovartis Phase IIIbInvestigation typeDrugStudy typeInterventionalPurpose and rationaleTo evaluate the safety of zoledronic acid plus vitamin D and calcium in osteoporotic children treated with glucocorticoidsPrimary Objective(s) To demonstrate that zoledronic acid given long-term, over an additional 12 months from the Core study (CZOL446H2337), is safe for the treatment of osteoporotic children treated with glucocorticoids (Group 1 only)Secondary ObjectivesGroup 1:1. To evaluate the change from baseline (Visit 1 of the Core study) in LS BMD Z-score at Month 18 and 24 by core treatment group.2. To evaluate the change from baseline 1 (Visit 1 of the Core study) in LS and total body BMC at Month 18 and 24 by core treatment group.3. To evaluate the change from baseline 1(Visit 1 of the Core study) in serum N-terminal propeptide type I collagen (P1NP), cross linked N-telopeptide (NTX), bone specific alkaline phosphatase (BSAP) and tartrate-resistant acid phosphatase isoform 5b (TRAP-5b) at Month 18 and 24 by core treatment group.4. To evaluate the proportion of patients with new clinical vertebral fractures during the 12 month extension period by core treatment group.5. To evaluate the proportion of patients with new morphometric vertebral fracture during the 12 month extension period by core treatment group.6. To evaluate the change from baseline 1 (Visit 1 of the Core study) in pain using the Faces Pain Scale-Revised (FPS-R) at Month 15, 18, 21 and 24 by core treatment group.7. To evaluate the change from baseline 1 (Visit 1 of the Core study) in 2nd metacarpal cortical width at month 24 by core treatment group.8. To evaluate the change from baseline 1(Visit 1 of the Core study) in bone age and 2nd metacarpal cortical width at month 24 by core treatment group.Group 2:1. To evaluate the change from (Extension) baseline 2 (Visit 8A) in LS-BMD Z-score at Month 6 and 12.2. To evaluate the change from (Extension) baseline 2 (Visit 8A) in LS and total body BMC at Month 6 and 12.3. To evaluate the relative change from (Extension) Baseline 2 in serum N-terminal propeptide type I collagen (P1NP), cross linked N-telopeptide (NTX), bone specific alkaline phosphatase (BSAP) and tartrate-resistant acid phosphatase Novartis\nConfidential\nPage 14\nAmended Clinical Trial Protocol (Version 03) clean\nProtocol No. CZOL446H2337E1\nisoform 5b (TRAP-5b) at Month 6 and 12.\n4. To evaluate the proportion of patients with new clinical vertebral fractures during \nthe 12 month period.\n5. To evaluate the proportion of patients with new morphometric vertebral fracture \nduring the 12 month period.\n6. To evaluate the change from (Extension) baseline 2 in pain using the Faces Pain \nScale-Revised (FPS-R) at Month 3, 6, 9 and 12.\n7. To evaluate the change from (Extension) baseline 2 in bone age and 2nd \nmetacarpal cortical width at Month 12.\n8. To demonstrate that zoledronic acid is safe for the treatment of osteoporotic \nchildren (with symptomatic vertebral fracture) treated with glucocorticoids, \nthrough the monitoring of relevant clinical and laboratory safety parameters.\nStudy design\nThis will be an international multi-center, 1-year open-label extension to the \nCZOL446H2337 Core study with a single treatment arm (zoledronic acid); there will \nbe no placebo or active control group. All patients will have received glucocorticoid \ntherapy of any duration within the 12 months preceding screening.\nPopulation\nThe trial population will consist of male and female children and adolescents with a \nconfirmed diagnosis of non-malignant conditions requiring treatment with systemic \nglucocorticoids. All patients who complete the Core study (Group 1) will be eligible.\nThose patients who were found to be eligible for the Core study but not enrolled due \nto clinically significant back pain associated with the fracture (Group 2).\nApproximately 100 patients will be eligible for enrollment into the extension, for both \ngroups. Patient recruitment in Group 2 will stop once enrollment in the Core study is \ncompleted.\nKey Inclusion \ncriteria\nWritten informed consent before any study-related procedure.\nGroup 1:\n1. Children and adolescents, male or female, 6-19 years old, who met the inclusion \ncriteria for entry into the Core study and who took at least one dose of study \ndrug and have completed Visit 8 of the CZOL446H2337 Core study.\n2. Patient must be enrolled into the extension at Visit 9 up to 10 months after Visit 5 \n(month 6) of the Core study.\n3. Patients who followed the regimen of calcium and vitamin D intake as required in \nthe Core study through diet or supplementation.\nGroup 2:\n1. Children and adolescents, male or female, 5 - 17 years old who met the inclusion \ncriteria for entry into the Core study but were not enrolled because of clinically \nsignificant back pain from vertebral fracture and the preexisting clinical care at \nthe Investigator site is to treat this type of patient with a bisphosphonate.\n2. Confirmed diagnosis of non-malignant conditions (including but not limited to \nrheumatic conditions, inflammatory bowel disease, Duchenne muscular \ndystrophy, nephrotic syndrome), treated with systemic glucocorticoids (i.v. or \noral) within the 12 months preceding enrollment in the study (any duration)\n3. LS-BMD Z-score of -0.5 or worse confirmed by the central imaging vendor\n4. Evidence of at least 1 vertebral compression fracture (at least Genant Grade 1 \nvertebral compression or radiographic signs of vertebral compression) \nconfirmed by central reading OR At least one lower OR 2 upper extremity long-\nbone, low-trauma, fracture which occurred sometime within the 2 years or \npreceding enrollment in the study, confirmed by radiological report. (*Low \ntrauma fracture is defined as falling from standing height or less).\nKey Exclusion \n1.\nMajor protocol violation in the Core Study (Group 1 only).\nNovartis\nConfidential\nPage 15\nAmended Clinical Trial Protocol (Version 03) clean\nProtocol No. CZOL446H2337E1\ncriteria\n2.\nPrior use of bisphosphonates (Group 2 only) or sodium fluoride (doses for \nosteoporosis not for dental hygiene).\n3.\nHypocalcemia and hypophosphatemia: any value (age-matched) below the \nnormal range at Visit 8 or 8A.\n4.\nVitamin D deficiency (serum 25-hydroxy vitamin D concentrations of < 20 \nng/mL or < 50 nmol/L) at Visit 8 (Group 1) or Visit 8A (Group 2).\n5.\nRenal impairment defined as an estimated glomerular filtration rate (GFR) \n< 60 mL/min/1.73 m2 at screening based on the Schwartz formula at Visit 8 \nor 8 A; a serum creatinine above the normal range at Visit 9 (Group 1) or \nan increase between Visit 8A and Visit 9 greater than 0.5 mg/dL (44.2 \n\u03bcmol/L) for Group 2.\n6.\nFemale patients of child bearing potential are eligible only if they are not \npregnant/non-lactating. Females of child bearing potential must be \npracticing a medically acceptable form of birth control for greater than 2 \nmonths prior to screening visit and consent to pregnancy tests during the \nstudy.\nStudy \ntreatment\ni.v. zoledronic acid (ZOL446) 5.0 mg/100 mL solution, supplied in a ready-to-infuse \nplastic bottle\nEfficacy \nassessments\nThe efficacy variables will be measured using the following techniques:\n\uf0b7\nvertebral morphometric fractures\n\uf0b7\nDXA measurements\n\uf0b7\nbone marker analysis\n\uf0b7\nbone age and metacarpal cortical width assessment\n\uf0b7\npain assessment\nKey safety \nassessments\nAdverse event monitoring, Physical examinations, Monitoring of laboratory markers \nin blood and urine; and bone safety monitoring.\nData analysis\nData analyses will be performed separately for the two populations (Group 1 [SAF-\n1] and Group 2 [SAF-2]), if not otherwise specified. \nFor the patients in Group 2 (SAF-2); only descriptive statistics will be reported for \nthe single treatment arm.\nKey words\nOsteoporosis, children and adolescents, zoledronic acid, chronic inflammation, \nDuchenne muscular dystrophy, glucocorticoids\n",
+                "Sub-sections": []
+            }
+        ]
+    },
+    {
+        "Header Number": "1",
+        "Title": "Introduction",
+        "Content": "",
+        "Sub-sections": [
+            {
+                "Header Number": "1.1",
+                "Title": "Background",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "1.2",
+                "Title": "Purpose",
+                "Content": "",
+                "Sub-sections": []
+            }
+        ]
+    },
+    {
+        "Header Number": "2",
+        "Title": "Study objectives",
+        "Content": "",
+        "Sub-sections": [
+            {
+                "Header Number": "2.1",
+                "Title": "Primary objective",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "2.2",
+                "Title": "Secondary objective(s)",
+                "Content": "Novartis\nConfidential\nPage 19\nAmended Clinical Trial Protocol (Version 03) clean\nProtocol No. CZOL446H2337E1\n3. To evaluate the relative change from (Extension) baseline 2 in serum N-terminal \npropeptide type I collagen (P1NP), cross linked N-telopeptide (NTX), bone specific \nalkaline phosphatase (BSAP) and tartrate-resistant acid phosphatase isoform 5b (TRAP-\n5b) at Month 6 and 12.\n4. To evaluate the proportion of patients with new clinical vertebral fractures during the 12 \nmonth period.\n5. To evaluate the proportion of patients with new morphometric vertebral fracture during \nthe 12 month period.\n6. To evaluate the change from (Extension) baseline 2 in pain using the Faces Pain Scale-\nRevised (FPS-R) at Month 3, 6, 9 and 12.\n7. To evaluate the change from (Extension) baseline 2 in bone age and 2nd metacarpal \ncortical width at Month 12.\n8. To demonstrate that zoledronic acid is safe for the treatment of osteoporotic children (with \nsymptomatic vertebral fracture) treated with GCs, through the monitoring of relevant \nclinical and laboratory safety parameters.\n",
+                "Sub-sections": []
+            }
+        ]
+    },
+    {
+        "Header Number": "3",
+        "Title": "Investigational plan",
+        "Content": "",
+        "Sub-sections": [
+            {
+                "Header Number": "3.1",
+                "Title": "Study design",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "3.2",
+                "Title": "Rationale of study design",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "3.3",
+                "Title": "Rationale of dose/regimen, duration of treatment",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "3.4",
+                "Title": "Rationale for choice of comparator",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "3.5",
+                "Title": "Purpose and timing of interim analyses/design adaptations",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "3.6",
+                "Title": "Risks and benefits",
+                "Content": "Novartis\nConfidential\nPage 23\nAmended Clinical Trial Protocol (Version 03) clean\nProtocol No. CZOL446H2337E1\nAdditional evidence suggests that bisphosphonates have anti-apoptotic effects on osteoblasts \nand osteocytes which may lead to increased trabecular thickness and thus, may partly explain \nwhy bisphosphonates produce a greater reduction in fracture risk than that expected from \nBMD gains alone (Plotkin 1999).\nThe skeletal toxicity of GC is confirmed in adults and children. Furthermore, BMD is greatly \ninfluenced by sex steroids, and puberty can be delayed in the presence of GC which can also \nresult in short stature which may be offset by the use of bisphosphonates (Glorieux et al 1998). \nRisks\nKnown risks of zoledronic acid\nSince this protocol was first written in 2010, there have been more publications on the \npotential use of bisphosphonates in children with kidney diseases including nephrotic \nsyndrome (Gruppen et al 2013, Sbrocchi et al 2011). \nZoledronic acid is concentrated and excreted via the kidney and, like other bisphosphonates, \nhas the potential to produce renal injury. Thus, care should be taken when administering the \ncompound to patients with renal insufficiency. Although case reports have been published in \nadults regarding the nephrotoxicity of zoledronic acid with an incidence of acute kidney \ninjury (AKI) between 9% and 13%, bisphosphonate-induced AKI in children remains \nundocumented (Patzer 2008). \n\uf0b7\nIn this protocol, patients are excluded if they have an estimated glomerular filtration rate \n(GFR) < 60 ml/min/1.73 m2. In addition patients considered for Group 2 who have \nnephrotic syndrome with osteoporosis, who do not meet this exclusion criterion, have \nbeen stable for 3 months prior to enrollment, and meet the remaining eligibility criteria,\ncan be considered for this study. \nPost-infusion acute phase reactions are more common after the first infusion and can include \npyrexia, muscle and joint pain, \n\uf0b7\nTo reduce the risk of these reactions, children will be instructed to eat and drink as usual, \nNSAIDs or acetaminophen (paracetamol) will be prescribed and an anti-emetic may be \nprovided to reduce the risk of symptomatic hypocalcemia if the child develops nausea or \nstarts to vomit. Further calcium supplements will be provided for up to 10 days at the time \nof infusion and parent/legal guardian instructions provided on the signs to watch for as \nwell as an emergency number, if needed.\nA rare risk in patients who receive bisphosphonates is osteonecrosis of the jaw (ONJ). This \ncondition has been reported in cancer patients whose complex treatment regimens include \nhigher doses and frequencies of bisphosphonates, typically administered with other treatments \nsuch as radiation, chemotherapy and GCs. To date, ONJ has not been reported in the literature \nin children or adolescents who have received bisphosphonates. Based on available evidence, a \ncausal relationship between ONJ and bisphosphonates, including ZOL, has not been \nestablished. \n\uf0b7\nIn this study a lower dose and short duration of zoledronic acid is used than has been \nreported in cases of ONJ in adults, and all children will have an examination of their oral \ncavity during the study and referred to a dentist if necessary.\nNovartis\nConfidential\nPage 24\nAmended Clinical Trial Protocol (Version 03) clean\nProtocol No. CZOL446H2337E1\nPotential risks of zoledronic acid in a pediatric population\nBased on the results from animal studies showing inhibition of bone calcification by first \ngeneration bisphosphonates (Mashiba et al 2000), there are theoretical concerns about \nnegative effects on growth in children. In growing children, each bisphosphonate treatment \ncycle leads to the accumulation of a thin band of mineralized tissue at the interface between \ngrowth plate and metaphysis which is evident as a metaphyseal line on the radiograph (Land \net al 2006a). These lines represent persistent calcified cartilage in the horizontal trabeculae \nwhich later remodels into secondary bone. This interface between weaker bone and stronger \nbisphosphonate-treated bone could represent a site for potential fracture. However, in clinical \ntrials with i.v. bisphosphonates, linear growth in children and adolescents has not been \nobserved to be negatively impacted with no observed increase in fracture. To the contrary, \ncyclical i.v. treatment with pamidronate has been shown to be beneficial in children with \nsevere forms of OI (Glorieux et al 1998). \n\uf0b7\nTo investigate this potential risk, all subjects will have DXA examination at 6 and 12 \nmonths and in the event of clinical worsening or diagnosis of new fracture, an X-ray will \nbe performed.\nAnother concern in children is effects on the reproductive organs. The animal reproduction \nstudies of zoledronic acid are described in [Section 4.3.5 of the Investigator\u2019s Brochure].\nTeratogenicity was observed in the rat, but not the rabbit when treatment during the perinatal \nperiod resulted in delayed parturition likely resulting from the calcium lowering effect of the \ncompound outside of bone, which negatively affects uterine contraction. There were no \neffects reported in males. \n\uf0b7\nConsequently this protocol requires contraception in all girls who are pubertal and may \nbecome pregnant and in some countries additional pregnancy checks will be made.\nThere are potential concerns regarding the i.v. infusion in children. Apart from the potential \nrisks at the infusion site of pain, infection, phlebitis, hematoma and extravasation, the infusion \nmay also cause fluid overload if the rate is too high and this can result in hypertension, heart \nfailure or pulmonary edema. Additional risks of the infusion can include electrolyte imbalance \nand embolism.\n\uf0b7\nThe infusion is administered in a hospital or clinic by staff experienced in administering \ni.v. infusions to children. The infusion line is flushed with saline before and after \nadministration and the infusion given over at least 30 minutes e.g. in a 25 kg child, \n100 mL may be administered over one hour at a rate of 5 mL/minute.\nProtocol procedures: blood draws and radiology\nThe number of blood draws and frequency of hospital visits in this protocol is within the usual \nlimit of clinical practice for children with these serious underlying diseases. The radiation \nexposure is increased over routine clinical practice, but within the limits for children who \nhave suffered a fracture and no greater than the exposure during a transatlantic flight. Repeat \nblood draws and X-rays/DXA will only be requested when absolutely necessary i.e. safety, \nbaseline or end-of-study visits.\nIn summary, the risks to the children and adolescents in this trial will be minimized by \ncompliance with the eligibility criteria and study procedures, particularly adequate hydration \nat the time of the infusion, adherence to a diet rich in calcium and vitamin D, regular renal \n",
+                "Sub-sections": []
+            }
+        ]
+    },
+    {
+        "Header Number": "4",
+        "Title": "Population",
+        "Content": "",
+        "Sub-sections": [
+            {
+                "Header Number": "4.1",
+                "Title": "Inclusion criteria",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "4.2",
+                "Title": "Exclusion criteria",
+                "Content": "",
+                "Sub-sections": []
+            }
+        ]
+    },
+    {
+        "Header Number": "5",
+        "Title": "Treatment",
+        "Content": "",
+        "Sub-sections": [
+            {
+                "Header Number": "5.1",
+                "Title": "Study treatment",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "5.1.1",
+                        "Title": "Investigational and control drugs",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "5.1.2",
+                        "Title": "Additional treatment",
+                        "Content": "",
+                        "Sub-sections": [
+                            {
+                                "Header Number": "N/A",
+                                "Title": "Table 5-1 Recommended minimum daily dietary allowances",
+                                "Content": "",
+                                "Sub-sections": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Header Number": "5.2",
+                "Title": "Treatment arms",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "5.3",
+                "Title": "Treatment assignment",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "5.4",
+                "Title": "Treatment blinding",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "5.5",
+                "Title": "Treating the patient",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "5.5.1",
+                        "Title": "Patient numbering",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "5.5.2",
+                        "Title": "Dispensing the study drug",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "5.5.3",
+                        "Title": "Handling of study and additional treatment",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "5.5.4",
+                        "Title": "Instructions for prescribing and administering study treatment",
+                        "Content": "",
+                        "Sub-sections": [
+                            {
+                                "Header Number": "N/A",
+                                "Title": "Table 5-2 Preparation of i.v. zoledronic acid infusion",
+                                "Content": "",
+                                "Sub-sections": []
+                            }
+                        ]
+                    },
+                    {
+                        "Header Number": "5.5.5",
+                        "Title": "Permitted dose adjustments and interruptions of study treatment",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "5.5.6",
+                        "Title": "Rescue medication",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "5.5.7",
+                        "Title": "Concomitant medication",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "5.5.8",
+                        "Title": "Prohibited medication",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "5.5.9",
+                        "Title": "Emergency breaking of assigned treatment code",
+                        "Content": "",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "5.6",
+                "Title": "Study completion and discontinuation",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "5.6.1",
+                        "Title": "Study completion and post-study treatment",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "5.6.2",
+                        "Title": "Discontinuation of study treatment",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "5.6.3",
+                        "Title": "Withdrawal of informed consent",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "5.6.4",
+                        "Title": "Loss to follow-up",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "5.6.5",
+                        "Title": "Early study termination by the sponsor",
+                        "Content": "",
+                        "Sub-sections": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Header Number": "6",
+        "Title": "Visit schedule and assessments",
+        "Content": "",
+        "Sub-sections": [
+            {
+                "Header Number": "N/A",
+                "Title": "Table 6-1 Group 1 Assessment schedule",
+                "Content": "Novartis\nConfidential\nPage 35\nAmended Clinical Trial Protocol (Version 03) clean\nProtocol No. CZOL446H2337E1\nFinal \nvisit of \nCore \nstudy\nInfusion visit\nTele-\nphone\nInfusion \nvisit\nTele-\nphone\nNotes\nVisit\n8\n8A\n9\n10\n11\n12\n13\n14\n15/EOS and \nTD and/or \nPSW\nVisit 8 is the Core study completion visit.  Visit 8A \nlists the additional assessments which need to be \ncompleted for the Extension study.  Visits 8 and 8A \nassessments must be completed on the same day.  \nVisits 8, 8A, and 9 can occur on the same day\nMonths relative to the Core study \n(after Visit 9 - Baseline of Extension \nstudy)\nup to 10 \nmonths after \nV5 (Core \nstudy)\n10\ndays \nafter \nV9\n15 (3 \nmonths  \nafter V9)\n18 (6 \nmonths \nafter V9)\n10\ndays \nafter \nV12\n21 (9 \nmonths \nafter V9)\n24 (12 \nmonths after \nV9)\nVisit 10 and Visit 13\nSerum creatinine (local lab)\nX\nFor exclusion purposes\nIonized calcium (local lab)\nX\nMeasured pre-dose, (local lab) prior to first infusion  \nof Extension study\nBio-markers (Serum P1NP, NTX, \nBSAP, Trap-5b)\nX\nX\nX\nX\nNot required at Visit 9 if it occurs within 30 days of \nVisit 8\nSerum 25 hydroxy vitamin D\nX\nX\nX\nPregnancy Test\nX\nX\n[X]\nX\nX\nTo be performed for females with childbearing \npotential only\n[Only for sites where additional safeguards are \nrequired:  Supervised urine pregnancy test]\ni.v. drug administration (zoledronic \nacid)\nX\nX\nDispense calcium and vitamin D, if \nrequired\nX\nX\nX\nDXA measurements (lumbar spine, \ntotal body and distal femur)\nX\nX\nX\nX\nNot required if obtained 3 months prior to Visit 9\nX-ray\nX\nX\nLateral thoraco-lumbar spine and postero-anterior \nleft hand/wrist \nStudy completion\nX\nX\nS = Source data, D = Database, TD = study treatment discontinuation,  PSW = premature patient withdrawal\n",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "N/A",
+                "Title": "Table 6-2 Group 2 Assessment schedule",
+                "Content": "Novartis\nConfidential\nPage 37\nAmended Clinical Trial Protocol (Version 03) clean\nProtocol No. CZOL446H2337E1\nScreening \nVisit \nInfusion \nVisit1\nTele-\nphone\nInfusion\nVisit\nTele-\nphone\nNotes\nVisit\n8A\n9\n10\n11\n12\n13\n14\n15/EOS\nand TD \nand/or \nPSW\nScreening period from Visit 8A to Visit 9 should be \nas close to 28 days as possible, but cannot be \nlonger than 8 weeks\nBio-markers (Serum P1NP, NTX, \nBSAP, Trap-5b)\nX\nX\nX\nSerum 25 hydroxy vitamin D\nX\nX\nPregnancy Test\nX\nX\n[X]\nX\nX\nTo be performed for females with childbearing \npotential only\n[Only for sites where additional safeguards are \nrequired:  Supervised urine pregnancy test]\ni.v. drug administration (zoledronic \nacid)\nX\nX\nDispense calcium and vitamin D, if \nrequired\nX\nX\nX\nDXA measurements (lumbar spine, \ntotal body and distal femur\nX\nX\nX\nX-ray\nX\nX\nLateral thoraco-lumbar spine and postero-anterior \nleft hand/wrist \nAdverse events and SAEs (D)\nX\nX\nX\nX\nX\nX\nX\nX\nSAEs only collected between Visit 8A and Visit 9\n(AEs during this time recorded as medical history)\nStudy completion\nX\nS = Source data, D = Database, TD = study treatment discontinuation,  PSW = premature patient withdrawal\n",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "6.1",
+                "Title": "Information to be collected on screening failures",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "6.2",
+                "Title": "Patient demographics/other baseline characteristics",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "6.3",
+                "Title": "Treatment exposure and compliance",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "6.4",
+                "Title": "Efficacy",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "6.4.1",
+                        "Title": "Vertebral morphometric fractures",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "6.4.3",
+                        "Title": "DXA measurements",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "6.4.4",
+                        "Title": "Bone marker analysis",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "6.4.6",
+                        "Title": "Bone age and metacarpal cortical width assessment",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "6.4.7",
+                        "Title": "Pain assessment",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "6.4.8",
+                        "Title": "Appropriateness of efficacy assessments",
+                        "Content": "",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "6.5",
+                "Title": "Safety",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "6.5.1",
+                        "Title": "Physical examination",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "6.5.2",
+                        "Title": "Vital signs",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "6.5.4",
+                        "Title": "Laboratory evaluations",
+                        "Content": "Novartis\nConfidential\nPage 43\nAmended Clinical Trial Protocol (Version 03) clean\nProtocol No. CZOL446H2337E1\nsamples and reporting of results by the central laboratory are provided to investigators in the \nlaboratory manual.\nClinically notable laboratory findings are defined in Appendix 1.\nEMLA cream may be used at all blood draws.  EMLA Cream is a topical anesthetic which \nnumbs the skin and decreases the sensation of pain.  There should be up to three attempts to \nobtain a serum sample from the patient at any blood draw.  \nA central laboratory will collect and evaluate blood and urine samples for hematology, \nbiochemistry and urinalysis at Visit 8A (Group 2 only) and Visits 9, 12 and 15.\nAn additional lab test for renal monitoring will be performed at Visits 9, 10, 12, 13 and 15. \n6.5.4.1\nHematology\nHemoglobin, hematocrit, platelet count, red blood cell count (RBC), mean cell volume \n(MCV), mean cell hemoglobin concentration (MCHC), RBC morphology, white blood cell \ncount (WBC) and differential white blood cell counts.\n6.5.4.2\nClinical chemistry\nNon-fasting specimens will be obtained for glucose, creatinine, serum urea, uric acid, total \nprotein, SGOT (AST), SGPT (ALT), alkaline phosphatase, sodium, potassium, chloride, \nphosphorus, magnesium, albumin, total bilirubin, gamma-glutamyl transpeptidase (GGT) and \ncalcium.\nGlomerular Filtration Rate (GFR) will be calculated using the Schwartz equation at all visits \nwhere serum creatinine will be measured (Visits 8A (Group 2 only) 9, 10, 12, 13 and 15) by \nthe Central Laboratory.\nSchwartz Formula to calculate Glomerular Filtration\nGFR (mL/min/1.73 m2) = k [Height (m)] / Serum Creatinine (mg/dL)\nk = Constant\nk=0.41\nSpecialized (non-fasting) testing for serum 25-hydroxy vitamin D will be performed at \nVisit 8/8A and Visit 15. Additional local laboratory evaluation of serum ionized calcium will \nbe evaluated in the local laboratory at pre-dose (first infusion). If local serum ionized calcium \nat Visit 9 is less than the normal range, the infusion must not be given. The patient may retest \nonce at the investigator\u2019s discretion. If the serum ionized calcium retest is in the normal range, \nthe patient may be dosed.\nAlso, local laboratory evaluation of serum creatinine will be performed at Visit 8A (Group 2 \nonly) and Visit 9 for exclusion purposes.  If local serum creatinine at Visit 9 is less than the \nnormal range, the infusion must not be given.  The patient may retest once at the \ninvestigator\u2019s discretion.  If the serum creatinine retest is in the normal range, the patient may \nbe dosed.\n",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "6.5.5",
+                        "Title": "Pregnancy and assessments of fertility",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "6.5.6",
+                        "Title": "Bone safety monitoring",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "6.5.7",
+                        "Title": "Appropriateness of safety measurements",
+                        "Content": "Novartis\nConfidential\nPage 45\nAmended Clinical Trial Protocol (Version 03) clean\nProtocol No. CZOL446H2337E1\nstudy entry, as a precaution to minimize the risk of developing hypocalcemia with the first \nzoledronic acid administration. In addition, ionized calcium will be monitored locally, before \nthe first infusion to ensure that the patients have normal serum calcium level. Families will be\ncounselled on the importance of a diet rich in calcium and vitamin D, and supplements \nrecommended based at the investigators discretion.\nBone safety is monitored by the central imaging laboratory via DXA at Visits 12 and 15. In \ncase of excessive change in LS-BMD Z-scores compared with the relevant baseline for each \nGroup, the investigator will be alerted.\nPatients may be hospitalized at the discretion of the primary investigator for observation \nfollowing the first study drug infusion. Alternatively, they may be treated in an out-patient \nsetting. Ionized calcium will be monitored pre-dose during this visit. \nThe safety assessments selected are standard for this indication/patient population.\n",
+                        "Sub-sections": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Header Number": "7",
+        "Title": "Safety Monitoring",
+        "Content": "",
+        "Sub-sections": [
+            {
+                "Header Number": "7.1",
+                "Title": "Adverse Events",
+                "Content": "Novartis\nConfidential\nPage 47\nAmended Clinical Trial Protocol (Version 03) clean\nProtocol No. CZOL446H2337E1\nAbnormal laboratory values or test results constitute adverse events only if they fulfill at least \none of the following criteria:\n\uf0b7\nthey induce clinical signs or symptoms, \n\uf0b7\nthey are considered clinically significant, \n\uf0b7\nthey require therapy. \nClinically significant abnormal laboratory values or test results must be identified through a \nreview of values outside of normal ranges/clinically notable ranges, significant changes from \nbaseline or the previous visit, or values which are considered to be non-typical in patient with \nunderlying disease. Investigators have the responsibility for managing the safety of individual \npatients and identifying adverse events. Alert ranges for laboratory and other test \nabnormalities are included in Appendix 1.\nAdverse events must be recorded on the Adverse Events CRF under the signs, symptoms or \ndiagnosis associated with them, accompanied by the following information:\n\uf0b7\nthe severity grade \n\uf0b7\nmild: usually transient in nature and generally not interfering with normal activities\n\uf0b7\nmoderate: sufficiently discomforting to interfere with normal activities\n\uf0b7\nsevere: prevents normal activities. \nThere may be cases where a severe AE that is life-threatening may not necessarily be an SAE \n(e.g. certain laboratory abnormalities in the absence of meeting other seriousness criteria). \n\uf0b7\nits relationship to \n\uf0b7\nstudy treatment (no/yes), or\n\uf0b7\nother treatment (no/yes). or\n\uf0b7\nboth or indistinguishable\n\uf0b7\nits duration (start and end dates) or if the event is ongoing an outcome of not \nrecovered/not resolved must be reported.\n\uf0b7\nwhether it constitutes a serious adverse event (SAE - See Section 7.2 for definition of \nSAE) and which seriousness criteria have been met\n\uf0b7\naction taken regarding investigational treatment.\nAll adverse events must be treated appropriately. Treatment may include one or more of the \nfollowing: \n\uf0b7\nno action taken (e.g. further observation only) \n\uf0b7\ninvestigational treatment dosage temporarily adjusted/interrupted \n\uf0b7\ninvestigational treatment permanently discontinued due to this adverse event\n\uf0b7\nconcomitant medication \n\uf0b7\nnon-drug therapy given \n\uf0b7\npatient hospitalized/patient\u2019s hospitalization prolonged (see Section 7.2 for definition of \nSAE)\n",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "7.2",
+                "Title": "Serious adverse event reporting",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "7.2.1",
+                        "Title": "Definition of SAE",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "7.2.2",
+                        "Title": "SAE reporting",
+                        "Content": "",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "7.3",
+                "Title": "Reporting of study treatment errors including misuse/abuse",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "N/A",
+                        "Title": "Table 7-1  Guidance for capturing the study treatment errors including misuse/abuse",
+                        "Content": "",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "7.4",
+                "Title": "Pregnancy reporting",
+                "Content": "",
+                "Sub-sections": []
+            }
+        ]
+    },
+    {
+        "Header Number": "8",
+        "Title": "Data review and database management",
+        "Content": "",
+        "Sub-sections": [
+            {
+                "Header Number": "8.1",
+                "Title": "Site monitoring",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "8.2",
+                "Title": "Data collection",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "8.3",
+                "Title": "Database management and quality control",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "8.4",
+                "Title": "Data Monitoring Committee",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "8.5",
+                "Title": "Adjudication Committee",
+                "Content": "",
+                "Sub-sections": []
+            }
+        ]
+    },
+    {
+        "Header Number": "9",
+        "Title": "Data analysis",
+        "Content": "",
+        "Sub-sections": [
+            {
+                "Header Number": "9.1",
+                "Title": "Analysis sets",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "9.2",
+                "Title": "Patient demographics and other baseline characteristics",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "9.3",
+                "Title": "Treatments",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "9.4",
+                "Title": "Analysis of the primary variable(s)",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "9.4.1",
+                        "Title": "Variable",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "9.4.2",
+                        "Title": "Statistical model, hypothesis, and method of analysis",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "9.4.3",
+                        "Title": "Handling of missing values/censoring/discontinuations",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "9.4.4",
+                        "Title": "Sensitivity analyses",
+                        "Content": "",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "9.5",
+                "Title": "Analysis of secondary variables",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "9.5.1",
+                        "Title": "Efficacy variables",
+                        "Content": "Novartis\nConfidential\nPage 57\nAmended Clinical Trial Protocol (Version 03) clean\nProtocol No. CZOL446H2337E1\nData from all centers will be combined so that an adequate number of patients are available \nfor analysis. Small centers will be pooled using an algorithm specified before database lock.\n9.5.1.1\nChange in lumbar spine areal BMD Z-score at Months 18 and 24 \nrelative to baseline\nGroup 1: the percentage change in LS-BMD Z-score at Months 18 and 24 relative to both \nbaselines between zoledronic acid and placebo (the Core treatment groups) will be evaluated \nusing an ANCOVA model with treatment, pooled center, underlying condition treated with \nGCs and baseline LS-BMD Z-score as explanatory variables. The 2-sided 95% confidence \nintervals for the difference in least squares means between zoledronic acid and placebo will be \nprovided.\nGroup 2: percentage changes in LS-BMD Z-score at Months 18 and 24 relative to Baseline 2 \n(Visit 8A/9) for zoledronic acid will be evaluated.\n9.5.1.2\nChange in lumbar spine and total body BMC at Months 18 and 24 \nrelative to baseline\nGroup 1: change in BMC at the lumbar spine and total body at Months 18 and 24 relative to \nboth baselines between zoledronic acid and placebo will be evaluated using an ANCOVA \nmodel with treatment, pooled center, underlying condition treated with GCs and baseline \nBMC (Visit 1 of Core study) as explanatory variables. The 2-sided 95% confidence intervals \nfor the difference in least squares means between zoledronic acid and placebo will be \nprovided.\nGroup 2: change from Baseline 2 (Visit 8A/9) in BMC at the lumbar spine and total body at \nMonths 18 and 24 in zoledronic acid group will be presented.  \n9.5.1.3\nRelative change in biochemical markers of bone turnover (Serum NTX, \nTRAP-5b, BSAP and P1NP)\nGroup 1: a transformation of the log ratio of treatment value vs. baseline value (calculated by \ndividing the post-baseline value by the baseline value and then applying the loge \ntransformation) at each visit will be used to normalize the distribution of the biochemical \nmarker parameters. An ANCOVA model with treatment group, pooled center, underlying \ncondition treated with GCs, and loge (baseline value), as explanatory variables will be \nperformed on the transformed data at each post-baseline time point.\nThe 2-sided 95% confidence intervals for the difference in least squares means of transformed \ndata between zoledronic acid and placebo will be provided using the described ANCOVA \nmodel and then back transformed to the original scale.\nGroup 2: summary statistics and relative change from Baseline 2 (Visit 8A/9) of biochemical \nmarkers of bone turnover will be presented.\n9.5.1.4\nIncidence of new clinical vertebral fractures and new morphometric \nvertebral fractures during the 12 month extension period\nGroup 1: The number and percentage of patients with new vertebral fractures and new \nmorphometric vertebral fractures during the 12 month extension period will be presented by\nNovartis\nConfidential\nPage 58\nAmended Clinical Trial Protocol (Version 03) clean\nProtocol No. CZOL446H2337E1\nCore treatment group. Between-treatment differences will be evaluated using Fisher\u2019s exact \ntest. A new morphometric vertebral fractures during the 12 month extension period is defined \nas a morphometric vertebral fracture present at Month 24 X-ray which is not present at the \nextension baseline (Core Visit 8 and Visit 1 X-rays).\nGroup 2: number and percentage of patients with new vertebral fractures and new \nmorphometric vertebral fractures during the 12 month extension period will be presented.\n9.5.1.5\nChange in metacarpal cortical width at Month 24 relative to baseline\nGroup 1: the change in metacarpal cortical width at Month 12 relative to both baselines will \nbe evaluated using an ANCOVA model with treatment, pooled center, underlying condition \ntreated with GCs and baseline bone age as explanatory variables. The 2-sided 95% confidence \nintervals in difference in least squares means between zoledronic acid and placebo will be \nprovided.\nGroup 2: summary statistics will be reported. \n9.5.1.6\nReduction in pain from baseline\nThe reduction in pain from baseline by visit will be evaluated based on whether or not patients \nhave a decrease in their Faces Pain Scale-Revised from baseline.  If pain remains the same or \nworsens from baseline a patient will be classified as \u20180\u2019 and if the pain scale decreased then \nthe patient will be classified as \u20181\u2019.  Whether or not a patent experiences a decrease in pain \nwill be evaluated using a logistic regression model with treatment, pooled center, underlying \ncondition treated with GCs and baseline pain score as explanatory variables.\nRegression analysis will be carried out for Group 1 with respect to both the baselines. \nHowever the number and percentage of patients with classified status of pain with respect to \nbaseline 2 will be reported for Group 2.\n",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "9.5.2",
+                        "Title": "Safety variables",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "9.5.3",
+                        "Title": "Resource utilization",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "9.5.6",
+                        "Title": "Pharmacokinetics",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "9.5.7",
+                        "Title": "Pharmacogenetics/pharmacogenomics",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "9.5.8",
+                        "Title": "Biomarkers",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "9.5.9",
+                        "Title": "PK/PD",
+                        "Content": "",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "9.6",
+                "Title": "Sample size calculation",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "9.7",
+                "Title": "Interim analyses",
+                "Content": "",
+                "Sub-sections": []
+            }
+        ]
+    },
+    {
+        "Header Number": "10",
+        "Title": "Ethical considerations",
+        "Content": "",
+        "Sub-sections": [
+            {
+                "Header Number": "10.1",
+                "Title": "Regulatory and ethical compliance",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "10.2",
+                "Title": "Informed consent procedures",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "10.3",
+                "Title": "Responsibilities of the investigator and IRB/IEC",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "10.4",
+                "Title": "Publication of study protocol and results",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "10.5",
+                "Title": "Quality Control and Quality Assurance",
+                "Content": "",
+                "Sub-sections": []
+            }
+        ]
+    },
+    {
+        "Header Number": "11",
+        "Title": "Protocol adherence",
+        "Content": "",
+        "Sub-sections": [
+            {
+                "Header Number": "11.1",
+                "Title": "Protocol Amendments",
+                "Content": "",
+                "Sub-sections": []
+            }
+        ]
+    },
+    {
+        "Header Number": "12",
+        "Title": "References",
+        "Content": "Novartis\nConfidential\nPage 64\nAmended Clinical Trial Protocol (Version 03) clean\nProtocol No. CZOL446H2337E1\nLevy S, Fayez I, Taguchi N, et al (2009) Pregnancy outcome following in utero exposure to \nbisphosphonates. Bone; 44: 428-430. \nLand C, Rauch F, Glorieux, FH (2006a) Cyclical intravenous pamidronate treatment affects \nmetaphyseal modeling in growing patients with osteogenesis imperfecta. J Bone Miner Res; \n21:374\u2013379.\nLand C, Rauch F, Munns CF, et al (2006b) Vertebral morphometry in children and \nadolescents with osteogenesis imperfect-Effect of intravenous pamidronate treatment. Bone; \n39: 901-906.\nLarson CM and Henderson RC (2000) Bone mineral density and fractures in boys with \nDuchenne muscular dystrophy. J Pediatr Ortho; 20:71-74.\nLeblanc CM, Ma J, Taljaard M, et al (2015) Incident vertebral fractures and risk factors in the \nfirst three years following glucocorticoid initiation among pediatric patients with rheumatic \ndisorders. JBMR; 30(9):1667-1675. \nMashiba T, Hirano T, Turner CH, et al (2000) Suppressed bone turnover by bisphosphonates \nincreases microdamage accumulation and reduces some biomechanical properties in dog rib.\nJBMR; 15(4):613-620.\nMarshall WA and Tanner JM (1969) Variations in the pattern of pubertal changes in girls. \nArch Dis Child; 44:291-303.\nMarshall WA and Tanner JM (1970) Variations in the pattern of pubertal changes in boys. \nArch Dis Child; 45:13-23.\nPatzer L (2008) Nephrotoxicity as a cause of acute kidney injury in children. Pediatr Nephrol;\n23:2159\u20132173.\nPlotkin LI, Weinstein RS, Parfitt AM et al (1999) Prevention of osteocyte and osteoblast \napoptosis by bisphosphonates and calcitonin. J Clin Invest; 104: 1363-1374.\nReid IR, Brown JP, Burckhardt P, et al (2002) Intravenous zoledronic acid in postmenopausal \nwomen with low bone mineral density. N Engl J Med; 346: 653-661.\nRodd C, Lang B, Ramsay T, et al (2012) Incident vertebral fractures among children with \nrheumatic disorders 12 months after glucocorticoid initiation: a national observation study.\nArthritis Care Res (Hoboken); 64: 122-131.\nRoss AC, Manson JE, Abrams SA, et al (2011) The 2011 Report on dietary reference intakes \nfor calcium and vitamin D from the Institute of Medicine: What clinicians need to know. J \nClin Endocrinol Metab; 96(1): 53\u201358.\nSbrocchi AM, Rauch F, Matzinger M et al (2011) Vertebral fractures despite normal spine \nbone mineral density in a boy with nephrotic syndrome. Pediatr Nephrol; 26:139\u2013142.\nNovartis\nConfidential\nPage 65\nAmended Clinical Trial Protocol (Version 03) clean\nProtocol No. CZOL446H2337E1\nWard L, Tricco AC, Phuong P, et al (2007) Bisphosphonate therapy for children and \nadolescents with secondary osteoporosis. Cochrane Database of Systematic Reviews 2007; \nIssue 4, Art No: CD005324.\n",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "13",
+        "Title": "Appendix 1: Clinically notable laboratory values and vital signs",
+        "Content": "",
+        "Sub-sections": [
+            {
+                "Header Number": "N/A",
+                "Title": "Table 13-1 Clinical notable criteria for selected laboratory tests",
+                "Content": "Novartis\nConfidential\nPage 67\nAmended Clinical Trial Protocol (Version 03) clean\nProtocol No. CZOL446H2337E1\nLaboratory \nparameter\nUnits\nAge/gender\nrange\nNormal range\nCriteria for clinically significant \nchange\n15 yrs/female\n(90.0, 131.0)\nIf within the normal range at \nbaseline, a value outside of normal \nrange along with at least a 20 unit \nchange\n16 yrs/female\n(90.0, 132.0)\nIf within the normal range at \nbaseline, a value outside of normal \nrange along with at least a 20 unit \nchange\n17-20 yrs/\nfemale\n(90.0, 132.0)\nIf within the normal range at \nbaseline, a value outside of normal \nrange along with at least a 20 unit \nchange\nDiastolic Blood \nPressure\nmmHg\n< 12 yrs\n(40.0, 85.0)\nIf within the normal range at \nbaseline, a value outside of normal \nrange along with at least a 15 unit \nchange\n12 yrs/male\n(50.0, 83.0)\nIf within the normal range at \nbaseline, a value outside of normal \nrange along with at least a 15 unit \nchange\n13 yrs/male\n(50.0, 84.0)\nIf within the normal range at \nbaseline, a value outside of normal \nrange along with at least a 15 unit \nchange\n14 yrs/male\n(50.0, 85.0)\nIf within the normal range at \nbaseline, a value outside of normal \nrange along with at least a 15 unit \nchange\n15 yrs/male\n(50.0, 86.0)\nIf within the normal range at \nbaseline, a value outside of normal \nrange along with at least a 15 unit \nchange\n16 yrs/male\n(50.0, 87.0)\nIf within the normal range at \nbaseline, a value outside of normal \nrange along with at least a 15 unit \nchange\n17-20 yrs/male\n(50.0, 89.0)\nIf within the normal range at \nbaseline, a value outside of normal \nrange along with at least a 15 unit \nchange\n12 yrs/female\n(50.0, 82.0)\nIf within the normal range at \nbaseline, a value outside of normal \nrange along with at least a 15 unit \nchange\n13 yrs/female\n(50.0, 84.0)\nIf within the normal range at \nbaseline, a value outside of normal \nrange along with at least a 15 unit \nchange\nNovartis\nConfidential\nPage 68\nAmended Clinical Trial Protocol (Version 03) clean\nProtocol No. CZOL446H2337E1\nLaboratory \nparameter\nUnits\nAge/gender\nrange\nNormal range\nCriteria for clinically significant \nchange\n14 yrs/female\n(50.0, 85.0)\nIf within the normal range at \nbaseline, a value outside of normal \nrange along with at least a 15 unit \nchange\n15 yrs/female\n(50.0, 86.0)\nIf within the normal range at \nbaseline, a value outside of normal \nrange along with at least a 15 unit \nchange\n16 yrs/female\n(50.0, 86.0)\nIf within the normal range at \nbaseline, a value outside of normal \nrange along with at least a 15 unit \nchange\n17-20 yrs/\nfemale\n(50.0, 86.0)\nIf within the normal range at \nbaseline, a value outside of normal \nrange along with at least a 15 unit \nchange\nHeart Rate\nbpm\n< 12 yrs\n(70.0, 130.0)\nIf within the normal range at \nbaseline, a value outside of normal \nrange along with at least a 15 unit \nchange\n> 12 yrs\n(50.0, 120.0)\nIf within the normal range at \nbaseline, a value outside of normal \nrange along with at least a 15 unit \nchange\nClinical Chemistry\nBlood Urea \nNitrogen\n(serum urea)\nmg/dL\n< 20 yrs\n(4.0, 24.0)\nOutside the normal range\nCalcium\nmg/dl\n> 2 - 20 yrs\n(8.4, 10.3)\nOutside the normal range\nChloride\nmEq/L\n< 20 yrs\n(94.0, 112.0)\nOutside the normal range\nCreatinine\nmg/dl\n5 - 7 yrs/ \nFemale\n(0.2, 0.5)\nOutside the normal range\n> 7- 10 yrs/ \nFemale\n(0.2, 0.6)\nOutside the normal range\n> 10 - 13 yrs/ \nFemale\n(0.3, 0.7)\nOutside the normal range\n> 13 - 16 yrs/ \nFemale\n(0.4, 0.8)\nOutside the normal range\n> 16 - 20 yrs/ \nFemale\n(0.5, 0.9)\nOutside the normal range\n5 - 7 yrs/ Male\n(0.2, 0.5)\nOutside the normal range\n> 7- 10 yrs/ \nMale\n(0.3, 0.6)\nOutside the normal range\n> 10 - 13 yrs/ \nMale\n(0.3, 0.7)\nOutside the normal range\n> 13 - 16 yrs/ \nMale\n(0.4, 0.8)\nOutside the normal range\nNovartis\nConfidential\nPage 69\nAmended Clinical Trial Protocol (Version 03) clean\nProtocol No. CZOL446H2337E1\nLaboratory \nparameter\nUnits\nAge/gender\nrange\nNormal range\nCriteria for clinically significant \nchange\n> 16 - 20 yrs/ \nMale\n(0.5, 0.9)\nOutside the normal range\nMagnesium\nmg/dl\n5 - 7 yrs/ \nFemale\n(1.7, 2.2)\nClinically significantly low, if < 1.0 \nmg/dL\n> 7- 10 yrs/ \nFemale\n(1.6, 2.2)\nClinically significantly low, if < 1.0 \nmg/dL\n> 10 - 13 yrs/ \nFemale\n(1.6, 2.2)\nClinically significantly low, if < 1.0 \nmg/dL\n> 13 - 16 yrs/ \nFemale\n(1.6, 2.3)\nClinically significantly low, if < 1.0 \nmg/dL\n> 16 - 20 yrs/ \nFemale\n(1.5, 2.2)\nClinically significantly low, if < 1.0 \nmg/dL\n5 - 7 yrs/ Male\n(1.7, 2.4)\nClinically significantly low, if < 1.0 \nmg/dL\n> 7- 10 yrs/ \nMale\n(1.6, 2.2)\nClinically significantly low, if < 1.0 \nmg/dL\n> 10 - 13 yrs/ \nMale\n(1.6, 2.2)\nClinically significantly low, if < 1.0 \nmg/dL\n> 13 - 16 yrs/ \nMale\n(1.6, 2.3)\nClinically significantly low, if < 1.0 \nmg/dL\n> 16 - 20 yrs/ \nMale\n(1.5, 2.2)\nClinically significantly low, if < 1.0 \nmg/dL\nPotassium\nmEq/L\n> 1 - 20 yrs\n(3.4, 5.4)\nOutside the normal range\nPhosphorus\nmg/dl\n     5 - 10 yrs\n(3.2, 6.1)\nOutside the normal range\n> 10 - 15 yrs\n(3.1, 6.0)\nOutside the normal range\n> 15 - 20 yrs\n(2.2, 5.1)\nOutside the normal range\nSodium\nmEq/L\n< 20 yrs\n(132.0, 147.0)\nOutside the normal range\nALT\nU/L\n5- 20 yrs\n( 6 , 200 )\nOutside the normal range\nAST\nU/L\n5- 20 yrs\n(10 , 200 )\nOutside the normal range\nAlkaline \nPhosphatase\nU/L\n5- 20 yrs\n( 51 , 315) \nOutside the normal range\nAlbumin\ng/dL\n5- 20 yrs\n( 2.9 \u2013 4.7 ) \nOutside the normal range\nGGT\nU/L\n5 \u2013 10 yrs/ \nFemale \n(0, 24) \nOutside the normal range\n10 \u2013 18 yrs/ \nFemale\n(0, 33)\nOutside the normal range\n18 \u2013 20 yrs/ \nFemale \n(4, 49)\nOutside the normal range\n5 \u2013 10 yrs/ \nMale \n(0, 24)\nOutside the normal range\n10 \u2013 18 yrs/ \nMale\n(0, 51)\nOutside the normal range\n18 \u2013 20 yrs/ \nMale \n(10, 61)\nOutside the normal range\nTotal bilirubin\n\u00b5mol/L\n5 - 20 yrs \n(3, 21)\nOutside the normal range\nHematology\nNovartis\nConfidential\nPage 70\nAmended Clinical Trial Protocol (Version 03) clean\nProtocol No. CZOL446H2337E1\nLaboratory \nparameter\nUnits\nAge/gender\nrange\nNormal range\nCriteria for clinically significant \nchange\nHemoglobin\ng/dl\n5 - 12 yrs/ \nFemale\n(11.2, 15.5)\nOutside the normal range\n> 12 - 20 yrs/ \nFemale\n(11.6, 16.4)\nOutside the normal range\n5  - 12 yrs/ \nMale\n(11.2, 15.5)\nOutside the normal range\n> 12 - 20 yrs/ \nMale\n(12.7, 18.1)\nOutside the normal range\nHematocrit\n%\n5- 6 yrs/ \nFemale\n(35.0, 44.0)\nOutside the normal range\n> 6 - 12 yrs/ \nFemale\n(34.0, 44.0)\nOutside the normal range\n> 12 - 20 yrs/ \nFemale\n(34.0, 48.0)\nOutside the normal range\n5 - 6 yrs/ Male\n(33.0, 43.0)\nOutside the normal range\n> 6 - 12 yrs/ \nMale\n(34.0, 44.0)\nOutside the normal range\n> 12 - 20 yrs/ \nMale\n(39.0, 54.0)\nOutside the normal range\nRBC\n106/uL\n> 3 - 6 yrs/ \nFemale\n(4.1, 5.2)\nOutside the normal range\n> 6 - 12 yrs/ \nFemale\n(3.7, 6.0)\nOutside the normal range\n> 12 - 20 yrs/ \nFemale\n(4.1, 5.6)\nOutside the normal range\n5- 6 yrs/ Male\n(4.1, 5.3)\nOutside the normal range\n> 6 - 12 yrs/ \nMale\n(3.7, 6.0)\nOutside the normal range\n> 12 - 20 yrs/ \nMale\n(4.5, 6.4)\nOutside the normal range\nWBC\n103/uL\n5- 6 yrs\n(4.00, 12.00)\nOutside the normal range\n> 6 - 12 yrs\n(4.35, 13.65)\nOutside the normal range\n> 12 - 20 yrs\n(4.35, 13.15)\nOutside the normal range\nLymphocytes\n103/uL\n5- 6 yrs/ \nFemale\n(1.50, 8.00)\nOutside the normal range\n> 6 - 12 yrs/ \nFemale\n(1.15, 6.65)\nOutside the normal range\n> 12 - 20 yrs/ \nFemale\n(0.95, 5.25)\nOutside the normal range\n5- 6 yrs/ Male\n(1.50, 8.00)\nOutside the normal range\n> 6 - 12 yrs/ \nMale\n(1.15, 6.65)\nOutside the normal range\n> 12 - 20 yrs/ \nMale\n(0.95, 5.25)\nOutside the normal range\nNeutrophils\n103/uL\n5- 6 yrs/ \nFemale\n(1.00, 9.00)\nOutside the normal range\nNovartis\nConfidential\nPage 71\nAmended Clinical Trial Protocol (Version 03) clean\nProtocol No. CZOL446H2337E1\nLaboratory \nparameter\nUnits\nAge/gender\nrange\nNormal range\nCriteria for clinically significant \nchange\n> 6 - 12 yrs/ \nFemale\n(1.35, 8.15)\nOutside the normal range\n> 12 - 20 yrs/ \nFemale\n(1.65, 8.15)\nOutside the normal range\n5- 6 yrs/ Male\n(1.35, 8.65)\nOutside the normal range\n> 6 - 12 yrs/ \nMale\n(1.35, 8.65)\nOutside the normal range\n> 12 - 20 yrs/ \nMale\n(1.65, 8.15)\nOutside the normal range\nEosinophils\n103/uL\n< 20 yrs\n(0.00, 0.57)\nOutside the normal range\nMCV\nfL\n5 \u2013 6 yrs/ \nFemale \n(74, 89)\nOutside the normal range\n6 \u2013 12 yrs/ \nFemale\n(76, 93)\nOutside the normal range\n12 \u2013 20 yrs/ \nFemale\n(79, 98)\nOutside the normal range\n5 \u2013 6 yrs/ Male \n(74, 89)\nOutside the normal range\n6 \u2013 12 yrs/ \nMale\n(76, 93)\nOutside the normal range\n12 \u2013 20 yrs/ \nMale\n(79, 96)\nOutside the normal range\nMCHC\ng/L\n5 - 20 yrs\n(310, 380)\nOutside the normal range\nRBC Morph\n5 - 20 yrs\nNormal\nOutside the normal range\nUrinalysis\n5 \u2013 20 yrs\nNormal\nOutside the normal range\nLab normal ranges provided by Covance Labs\n",
+                "Sub-sections": []
+            }
+        ]
+    },
+    {
+        "Header Number": "14",
+        "Title": "Appendix 2: Tanner Staging",
+        "Content": "",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "15",
+        "Title": "Appendix 3: Faces Pain Scale",
+        "Content": "Novartis\nConfidential\nPage 74\nAmended Clinical Trial Protocol (Version 03) clean\nProtocol No. CZOL446H2337E1\nNovartis\nConfidential\nPage 75\nAmended Clinical Trial Protocol (Version 03) clean\nProtocol No. CZOL446H2337E1\nNovartis\nConfidential\nPage 76\nAmended Clinical Trial Protocol (Version 03) clean\nProtocol No. CZOL446H2337E1\nNovartis\nConfidential\nPage 77\nAmended Clinical Trial Protocol (Version 03) clean\nProtocol No. CZOL446H2337E1\n",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "18",
+        "Title": "Appendix 6: Other subtypes of osteoporosis in children",
+        "Content": "",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "19",
+        "Title": "Appendix 7: Amount of blood to-be Drawn",
+        "Content": "",
+        "Sub-sections": []
+    }
+]

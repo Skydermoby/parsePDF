@@ -1,0 +1,855 @@
+[
+    {
+        "Header Number": "N/A",
+        "Title": "RM2009/00475/00",
+        "Content": "",
+        "Sub-sections": [
+            {
+                "Header Number": "16.1",
+                "Title": "STUDY INFORMATION",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "16.1.9",
+                        "Title": "Documentation of Statistical Methods",
+                        "Content": "Valeant Pharmaceuticals North America \nStatistical Analysis Plan \nVRX-RET-E22-304 \nVersion 2.0 [Final] \n \n \nValeant Pharmaceuticals North America              \n \n \n \n \n \n \n \n \n \nPAGE X OF X \nProtocol Number: VRX-RET-E22-304  \n \nProgram Path/sas program name  \n \n \n \n \n \n \n \n \n \n \n \nRun Date: \n \n \nFilename: 87272_304_SAP_v2_final \n \npage 148 of 148 \n \n \n \n \n \n \nCONFIDENTIAL\nRM2009/00475/00 \nVRX-RET-E22-304 \n149\n",
+                        "Sub-sections": [
+                            {
+                                "Header Number": "N/A",
+                                "Title": "Statistical Analysis Plan, VRX-RET-E22-304 Retigabine dated 26\rFeb 2007",
+                                "Content": "",
+                                "Sub-sections": [
+                                    {
+                                        "Header Number": "N/A",
+                                        "Title": "Signature Page",
+                                        "Content": "",
+                                        "Sub-sections": []
+                                    },
+                                    {
+                                        "Header Number": "N/A",
+                                        "Title": "Table of Contents",
+                                        "Content": "Valeant Pharmaceuticals North America \nStatistical Analysis Plan \nVRX-RET-E22-304 \nVersion 2.0 [Final] \n \nFilename: 87272_304_SAP_v2_final \n \npage 4 of 148 \n \n \nLIST OF ABBREVIATIONS \n \nAE \nAdverse event \nAED \nAntiepileptic drug \nALT \nAlanine transaminase (SGPT) \nAST \nAspartate transaminase (SGOT) \nAUA \nAmerican Urological Association \nBMI \nBody mass index \nBP \nBlood pressure \nBUN \nBlood urea nitrogen \nCRA \nClinical monitor \nCRF \nCase Report Form \nECG \nElectrocardiogram \nICH \nInternational Conference of Harmonization \nMedDRA\u00ae \nMedical Dictionary for Regulatory Activities \nODS \nOutput Delivery System \nOLE \nOpen-label extension \nPVR \nPost-void Residual \nQTc \nQT correction  \nRBC \nRed blood cell \nSAE \nSerious adverse event \nSAP \nStatistical analysis plan \nSAS\u00ae \nStatistical Analysis Software \nSD \nStandard deviation \nTEAE \nTreatment-emergent adverse event \nTID \nThree time a day \nWBC \nWhite blood cell \nWHO \nWorld Health Organization \nCONFIDENTIAL\nRM2009/00475/00 \nVRX-RET-E22-304 \n5\n",
+                                        "Sub-sections": []
+                                    },
+                                    {
+                                        "Header Number": "1",
+                                        "Title": "Introduction",
+                                        "Content": "",
+                                        "Sub-sections": []
+                                    },
+                                    {
+                                        "Header Number": "2",
+                                        "Title": "Study Objectives",
+                                        "Content": "",
+                                        "Sub-sections": []
+                                    },
+                                    {
+                                        "Header Number": "3",
+                                        "Title": "Investigational Plan",
+                                        "Content": "",
+                                        "Sub-sections": [
+                                            {
+                                                "Header Number": "3.1",
+                                                "Title": "Overall Study Design and Plan",
+                                                "Content": " This is an open-label extension study of the placebo controlled, double-blind Study VRXRET-E22-302. Patients will be treated with 600 - 1200 mg/day of retigabine as an adjunct therapy to their current antiepileptic medications (AEDs) or vagal nerve stimulation as established in Study VRX-RET-E22-302. Following completion of the Transition Phase of the double-blind study (Study VRX-RET-E22-302), treatment in this open-label extension study will be continued until retigabine is approved and commercially available, or until the program is discontinued, followed by a 3-week tapering period and a 30 day post-study period for collection of adverse events.   ",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "3.2",
+                                                "Title": "Efficacy and Safety Variables",
+                                                "Content": " A study flow chart summarizing all study procedures can be found in Table 1.   ",
+                                                "Sub-sections": [
+                                                    {
+                                                        "Header Number": "3.2.1",
+                                                        "Title": "Efficacy Assessments",
+                                                        "Content": " Patients will keep a seizure diary throughout the study. The anticonvulsant efficacy of retigabine will be evaluated by comparison of baseline seizure frequency (obtained during the 8-week baseline period of Study VRX-RET-E22-302) with seizure frequency obtained during retigabine therapy in this open-label extension study (VRX-RET-E22-304).   The primary efficacy variable is the percentage change in the monthly seizure rate from the baseline phase to the open-label treatment phase.  The proportion of responders (patients experiencing \u2265 50% reduction in seizure frequency) from baseline to the open-label treatment phase will be evaluated. CONFIDENTIALRM2009/00475/00 VRX-RET-E22-304 7Valeant Pharmaceuticals North America \nStatistical Analysis Plan \nVRX-RET-E22-304 \nVersion 2.0 [Final] \n \nFilename: 87272_304_SAP_v2_final \n \npage 7 of 148 \n \n \n \nTable 1: Study Flow Chart \n \nStudy Procedures \nBaseline1 \nOpen-Label Extension-First Year2,3 \nOpen-Label Extension-Second \nYear and Onward2,3 \nVisit \n0 \n1 \n1a9 \n2 \n2a9 \n3 \n3a9 \n4 \n4a9 \n54 \n6 \n7 \n84 \n9 \n10 \n114 \nMonth in Study \n0 \n1 \n2 \n3 \n4 \n6 \n8 \n9 \n10 \n12 \n16 \n20 \n24 \n28 \n32 \n36 \nEligibility /ICF \nX \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nPhysical & Neuro Exam \nX \n \n \n \n \n \n \n \n \nX \n \n \nX \n \n \nX \nBrief Neuro Exam \n \nX \n \nX \n \nX \n \nX \n \n \nX \nX \n \nX \nX \n \nVital Signs (BP,HR,&Temp) \n&Wt5 \n \nX \nX \n \nX \n \nX \n \nX \n \nX \nX \nX \nX \nX \nX \nX \n12 Lead ECG \nX \nX \n \nX \n \nX \n \nX \n \nX \n \n \nX \n \n \nX \nBlood Chem and Hematology \nX \nX \n \nX \n \nX \n \nX \n \nX \nX \nX \nX \nX \nX \nX \nHematological Evaluation \n \n \nX \n \nX \n \nX \n \nX \n \n \n \n \n \n \n \nUrinalysis (including Microscopy) \n \nX \nX \n \nX \n \nX \n \nX \n \nX \nX \nX \nX \nX \nX \nX \nAUA Symptom Index7 \nX \nX \n \nX \n \n \n \n \n \nX \n \n \n \n \n \n \nPVR Bladder Ultrasound \nX \nX \n \nX \n \n \n \n \n \nX \n \n \n \n \n \n \nSerum Preg Test6 \nX \n \n \n \n \n \n \n \n \nX \n \n \nX \n \n \nX \nUrine Preg Test6 \nX \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nSeizure Diary Review \nX \nX \n \nX \n \nX \n \nX \n \nX \nX \nX \nX \nX \nX \nX \nAE Evaluation \nX \nX \n \nX \n \nX \n \nX \n \nX \nX \nX \nX \nX \nX \nX \nConcomitant Medication \nX \nX \n \nX \n \nX \n \nX \n \nX \nX \nX \nX \nX \nX \nX \nQOLIE-31-P Qx \nX \n \n \nX \n \nX \n \nX \n \nX \n \n \nX \n \n \nX \nDispense OLE Study Meds8 \nX \nX \n \nX \n \nX \n \nX \n \nX \nX \nX \nX \nX \nX \nX \nCollected Returned OLE Study \nMeds \n \nX \n \nX \n \nX \n \nX \n \nX \nX \nX \nX \nX \nX \nX \n \nCONFIDENTIAL\nRM2009/00475/00 \nVRX-RET-E22-304 \n8\nValeant Pharmaceuticals North America \nStatistical Analysis Plan \nVRX-RET-E22-304 \nVersion 2.0 [Final] \n \nFilename: 87272_304_SAP_v2_final \n \npage 8 of 148 \n \n \nTable 1: Study Flow Chart (continued) \n \n1. Baseline for the open-label extension study corresponds to the assessments performed at the last visit of the Maintenance phase (Visit 9) \nof Study VRX-RET-E22-302 for all patients. The final, baseline eligibility assessment for the open-label extension study, including \nobtaining informed consent and dispensing open-label study medication will be performed at the last visit of the Transition phase (Visit 11) \nof Study VRX-RET-E22-302. \n2. Study Visit 1 will have a window range of \u00b13 days. After Study Visit 1, all remaining study visits will have a window range of 7 days around \nthat visit day to accommodate individual schedules.  Each study month will be defined as 30 calendar days. If a patient visit occurs outside \nthe visit window, the study clinical monitor (CRA) should be notified and the reason for the deviation noted. An attempt should be made to \nensure that the patient returns for subsequent visits on schedule using the last visit of the Transition phase (Visit 11) of Study VRX-RET-\nE22-302, which corresponds to the final, Baseline eligibility visit for the open-label extension study. \n3. This open-label extension study will be continued until retigabine is approved and commercially available, or until the program s \ndiscontinued, followed by a 3-week tapering period and a 30 day post-study period for collection of adverse events. After the first year, the \nstudy visits will occur every 4 months (3 visits per year). After the first year, the assessments for the first 2 study visits of each year (e.g. \nVisits 6, 7, 9 and 10) will be identical, and the assessments for the last study visit of each year (e.g. Visits 8 and 11) will be identical. \n4. All patients who discontinue early from study treatment during the open-label extension study will have their study medication tapered over \na 3-week period, reducing their daily dose by one third per week, and then return for a final visit. Patients who discontinue early during the \nfirst year of the open-label extension study will complete all assessments and evaluations scheduled for Study Visit 5. Patients who \ndiscontinue early during the second year of the open-label extension study will complete all assessments and evaluations scheduled for \nStudy Visit 8. Patients who discontinue early during the third year of the open-label extension study will complete all assessments and \nevaluations scheduled for Study Visit 11. Also, all adverse events should be followed and collected up to until 30 days after administration \nof the last dose of study drug (end of study drug taper-off). \n5. Supine and standing blood pressure, heart rate. \n6. In addition to the scheduled pregnancy tests, a pregnancy test should be performed during the study whenever a woman\u2019s menstrual \nperiod is 5 days late. \n7. The AUA Symptom Index and the PVR bladder ultrasound will only be performed during the first year of the open-label extension study \n(Visits 1, 2, and 5). \n8. Dispensation of study medication is not applicable at the final study visit, if a patient has discontinued early or completed the open-label \nextension study. \n9. Study visits added per FDA comments that the open label extension trial should include more frequent hematological monitoring. These \nare now in-line with the hematological monitoring frequencies per the VRX-RET-E22-302, double-blind trial. \nCONFIDENTIAL\nRM2009/00475/00 \nVRX-RET-E22-304 \n9\nValeant Pharmaceuticals North America Statistical Analysis Plan VRX-RET-E22-304 Version 2.0 [Final]  Filename: 87272_304_SAP_v2_final  page 9 of 148  ",
+                                                        "Sub-sections": []
+                                                    },
+                                                    {
+                                                        "Header Number": "3.2.2",
+                                                        "Title": "Safety Assessments",
+                                                        "Content": " Safety assessments will be evaluated, based on reports of AEs and results of vital signs (supine and standing blood pressure, pulse, and temperature), weight, clinical laboratory evaluations (blood chemistries, hematology and urinalysis including microscopy), a 12-lead ECG, and physical and neurological examinations. Post-void residual (PVR) bladder ultrasounds to assess urinary retention and the American Urological Association (AUA) Symptom Index to assess urinary voiding function will also be performed during the first year of the open-label extension study.  ",
+                                                        "Sub-sections": []
+                                                    },
+                                                    {
+                                                        "Header Number": "3.2.3",
+                                                        "Title": "Quality of Life Assessments",
+                                                        "Content": "",
+                                                        "Sub-sections": []
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "Header Number": "4",
+                                        "Title": "Statistical Methods",
+                                        "Content": "",
+                                        "Sub-sections": [
+                                            {
+                                                "Header Number": "4.1",
+                                                "Title": "Study Patients",
+                                                "Content": " ",
+                                                "Sub-sections": [
+                                                    {
+                                                        "Header Number": "4.1.1",
+                                                        "Title": "Disposition of Patients",
+                                                        "Content": " Patients are free to discontinue their participation in the study at any time and without prejudice to further treatment at their local site. The Investigator must withdraw any patient from the study if that patient requests to be withdrawn. Patients withdrawn from the study will not be replaced, regardless of the reason for withdrawal. The patient\u2019s participation in this study may be discontinued due to the following reasons:  \u2022 Patient experiences an intolerable AE. \u2022 Investigator decides patient has an \u201cunsatisfactory response \u2013 efficacy.\u201d \u2022 Patient becomes pregnant. \u2022 Patient is unwilling or unable to continue the study. \u2022 Patient is non-compliant with study procedures. \u2022 Patient needs medication not allowed in the protocol. \u2022 Any clinically significant change in patient\u2019s medical condition. \u2022 Persistent ALT or aspartate aminotransferase (AST) above 3 times the ULN; will be confirmed by repeating laboratory assessment within 1 week. \u2022 ALT or AST levels are above 5 times the ULN at any time during the study. \u2022 Confirmed QTc prolongation defined as QTc (Bazett\u2019s) >500 msec or an increase in QTc (Bazett\u2019s) of >60 msec from baseline. CONFIDENTIALRM2009/00475/00 VRX-RET-E22-304 10Valeant Pharmaceuticals North America Statistical Analysis Plan VRX-RET-E22-304 Version 2.0 [Final]  Filename: 87272_304_SAP_v2_final  page 10 of 148  \u2022 Investigator decides that withdrawal from the study is in the best interest of the patient. \u2022 Request of the Sponsor. \u2022 Hematological reasons or infections \u2013 for all such patients, the investigator shall report these in an expedited manner, whether or not they are considered serious or unexpected.  A summary of the number and percentage of discontinuations by primary reason will be provided together with descriptive statistics for the time until treatment discontinuation (days).  A by-patient listing of patient withdrawal/study completion details will also be provided.  ",
+                                                        "Sub-sections": []
+                                                    },
+                                                    {
+                                                        "Header Number": "4.1.2",
+                                                        "Title": "Analysis Populations",
+                                                        "Content": " The Safety Population is defined as all patients who successfully completed the transition phase of Study VRX-RET-E22-302 and were enrolled into the long-term study VRX-RET-E22-304.   The Transition phase is the phase of Study VRX-RET-E22-302 during which patients were adjusted to a 300 mg TID dose.   There will be no other population for this study.   ",
+                                                        "Sub-sections": []
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "Header Number": "4.2",
+                                                "Title": "Demographic and Other Baseline Characteristics",
+                                                "Content": " Demographic and baseline characteristics were not collected as part of the VRX-RET-E22-304 case report form (CRF).  For the following summaries of demographic and other baseline characteristics, unless otherwise noted, the last recorded value prior to commencement of study treatment in the VRX-RET-E22-302 study will be used as baseline.    A summary of the following demographic variables will be presented at baseline:  \u2022 age \u2022 sex \u2022 race \u2022 weight \u2022 height \u2022 body mass index (BMI)  \u2022 duration of partial and generalized seizures, separately \u2022 type of onset of partial and generalized seizures, separately CONFIDENTIALRM2009/00475/00 VRX-RET-E22-304 11Valeant Pharmaceuticals North America Statistical Analysis Plan VRX-RET-E22-304 Version 2.0 [Final]  Filename: 87272_304_SAP_v2_final  page 11 of 148  \u2022 Baseline seizure type cohorts \u2022 number of background AEDs  \u2022 number of patients using Vagal Nerve Stimulators \u2022 CGI severity baseline scores  A patient\u2019s age in years will be calculated as the number of completed years between the date of the informed consent for the VRX-RET-E22-302 study and date of birth (i.e. date of informed consent minus date of birth divided by 365.25).  Age, weight and BMI will be summarized using continuous descriptive statistics. The number and percentage of patients in each sex category (male and female), and each race category (Caucasian, African-American, Hispanic, Asian and Other), will be reported using categorical descriptive statistics.  Duration of partial and generalized epilepsy is defined as the difference between Year of Onset recorded in Epilepsy History and year of Visit 1 (screening) for the VRX-RET-E22-302 study. The duration of partial epilepsy will be summarized using continuous descriptive statistics.    By-patient listings of all demographic data and baseline characteristics will also be provided.   ",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "4.3",
+                                                "Title": "General Considerations",
+                                                "Content": " Study day is defined as the number of days relative to Day 0 (i.e., the start of study treatment in the double-blind study VRX-RET-E22-302), computed as (the date \u2013 Day 0 date+1).    Continuous data that are assumed to be normally distributed will be summarized in terms of the mean, standard deviation (SD), median, minimum, maximum and number of observations. Continuous data that are expected to be skewed will be presented in terms of the maximum, upper quartile, median, lower quartile, minimum and number of observations.  The minimum and maximum will be reported to the same number of decimal places as the raw data recorded in the database.  The mean, SD, median, lower quartile and upper quartile will be reported to one more decimal place than the raw data recorded in the database.  In general, the maximum number of decimal places reported shall be four for any summary statistic.  Categorical data will be summarized in terms of the number of patients providing data at the relevant time point (n), frequency counts and percentages.  Percentages will be presented to one decimal place. Percentages will not be presented for zero counts.  Percentages will be calculated using n as the denominator.    CONFIDENTIALRM2009/00475/00 VRX-RET-E22-304 12Valeant Pharmaceuticals North America Statistical Analysis Plan VRX-RET-E22-304 Version 2.0 [Final]  Filename: 87272_304_SAP_v2_final  page 12 of 148  ",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "4.4",
+                                                "Title": "Efficacy Evaluation",
+                                                "Content": " \u201cMonthly total partial seizure\u201d as well as \"monthly total seizure\" rates will be calculated for the entire open-label part of Study VRX-RET-E22-304 and statistically described. \u201cMonthly total partial seizure\u201d rate is defined as the sum of total partial seizures throughout the open-label portion (of Study VRX-RET-E22-304), divided by open-label duration in days, standardized by 28 days (1 month). \u201cMonthly total seizure\u201d rate is defined as the sum of partial and generalized (or unclassified) seizures throughout the open-label duration in days, standardized by 28 days (1 month).  Monthly total partial seizure rates observed during the open-label extension period will be compared to the monthly total seizure rates observed during the Baseline phase of the double-blind study VRX-RET-E22-302. The baseline monthly total seizure rates will only be derived for patients who enter this open-label extension and have a monthly total partial seizure rate during the open-label extension period.  The percent change in monthly total partial seizure rates from the Baseline phase will be classified into <0, [0, 25), [25, 50), [50, 75), [75, 100] with a description of the frequencies.  The responder rate during the open-label study (defined as a reduction in seizure frequency \u226550%) will also be summarized using descriptive statistics.  The monthly total partial seizure rates compared to the baseline monthly total partial seizure rate will be presented cumulatively for each timepoint (months 1, 3, 6, 9, 12, 16, 20, 24, 28, 32 and 36) during the open label extension period and separately for eleven cohorts of patients treated with retigabine for at least 1, 3, 6, 9, 12, 16, 20, 24, 28, 32 and 36 months.   In each cohort, patients will be followed for entire indicated duration of treatment.  For example, patients in the 36-month cohort will also be part of the shorter-duration cohorts.  A similar analysis will be repeated for the responder rate during the open-label study.  A plot of the median percent reduction from baseline in seizure frequency over time by duration of treatment will also be produced.  The number of seizure free days, in percent to the individual duration of the open-label treatment, will be calculated and summarized using descriptive statistics. \u201cPercent seizure free days\u201d is defined as the number of days without any seizures (partial or generalized) divided by open-label duration in days, in percent. This percentage will be classified into [0, 25), [25, 50), [50, 75), [75, 95), [95,100), [=100] and described statistically. The most upper class represents completely seizure free patients, the next class almost seizure free patients.  Additionally, the proportion of subjects who become seizure free for 6 and 12 month rolling intervals will also be determined.  That is, a subject who becomes seizure free for any 6 month period of time will qualify for the 6 month metric.  A subject who becomes seizure free for any 12 month period of time will qualify for both the 6 month and 12 month metric.       CONFIDENTIALRM2009/00475/00 VRX-RET-E22-304 13Valeant Pharmaceuticals North America Statistical Analysis Plan VRX-RET-E22-304 Version 2.0 [Final]  Filename: 87272_304_SAP_v2_final  page 13 of 148    ",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "4.5",
+                                                "Title": "Safety Evaluation",
+                                                "Content": " ",
+                                                "Sub-sections": [
+                                                    {
+                                                        "Header Number": "4.5.1",
+                                                        "Title": "Extent of Exposure",
+                                                        "Content": " Exposure Daily Dose is defined as the mean value of daily dosages of study drug, that is total dosage taken by a patient divided by number of days the patient participated in the study.  The total dosage is defined as sum of the recorded doses in the Study Medication and Dose Change Log for each visit.  The number of days patient participated in this study is defined as the period from the first dose date (Day 0) to the last recorded dose date.   Descriptive statistics of the exposure daily dose of this study will be presented.   Extent of exposure is defined as the total number of days a patient is exposed to study drug.  In calculation, the extent of exposure equals the total number of days from the first dose date (Day 0) to the last recorded dose date.  If a patient is lost to follow-up, but the drug accountability log confirms that the patient has taken study drug, the last visit date of the treatment period will be used for calculation of extent of exposure.  For better description, extent of exposure (in weeks) will also be categorized (\u2264 1, (1-3], (3-6], (6-9], (9-12], (12-16], (16-20], (20-24], (24-28], (28-32], (32-36], >36).  Descriptive statistics for extent of exposure categorized by weeks will additionally be presented.   A by-patient listing of detailed exposure daily dose, dose modifications and extent of exposure to study drug will be provided.  Any extreme values for both the exposure daily dose and the extent of exposure to study medications will be reported in the listings, in case that happens.   ",
+                                                        "Sub-sections": []
+                                                    },
+                                                    {
+                                                        "Header Number": "4.5.2",
+                                                        "Title": "Adverse Events",
+                                                        "Content": " Adverse events (AEs) are monitored from the start of this extension study (informed consent provided by patient at the Baseline visit) until 30 days after administration of the last dose of study drug (end of study drug taper-off).  The AEs will be coded using the most recent Medical Dictionary for Regulatory Activities (MedDRA), Version 9.1. The number and percentage of patients experiencing at least one adverse event will be summarized overall and by body system and preferred term. In any given body system or preferred term patients will only be counted once. Adverse events will further be categorized and summarized by severity and study drug relationship. If the same event for a patient has two different severities, the worst will be taken.  Abnormal laboratory values do not themselves represent adverse events unless they:  - are indicative of a disease or defect, e.g. reduced hematocrit resulting in anemia; CONFIDENTIALRM2009/00475/00 VRX-RET-E22-304 14Valeant Pharmaceuticals North America \nStatistical Analysis Plan \nVRX-RET-E22-304 \nVersion 2.0 [Final] \n \nFilename: 87272_304_SAP_v2_final \n \npage 14 of 148 \n \n- \nnecessitate intervention, e.g., administration of packed red blood cells or other \ntherapies; and \n- \nresult in dose reduction or permanent discontinuation of the drug product. \n \nWorsening of seizure frequency will not be considered an AE but will be captured in the \nefficacy analysis. Those patients who discontinue their treatment prematurely either \nduring the double-blind period or choose not to enter the open-label extension study \nshould be tapered off their study treatment gradually and will be closely monitored by \nscheduled clinic visits for worsening of their seizure frequency during this period.   \n \nAdverse events will be graded for intensity.  An intensity category of mild, moderate, or \nsevere, is defined as \n \nMild \nCausing no limitation of usual activities; the patient may experience \nslight discomfort \nModerate \nCausing some limitation of usual activities; the patient may experience \nannoying discomfort \nSevere \nCausing inability to carry out usual activities; the patient may \nexperience intolerable discomfort or pain. \n \nAdverse events will also be graded, by the investigator, for relationship of the AE to \nstudy drug.  A relationship to study drug category of not related, possible, probable, \ndefinite, is defined as \n \nNot Related No temporal association and other etiologies are likely the cause \nPossible \nTemporal association, but other etiologies are likely the cause. \nHowever, involvement of the study drug cannot be excluded. \nProbable \nTemporal association, other etiologies are possible but unlikely. The \nevent may respond if the study drug is discontinued. \nDefinite \nEstablished temporal association with administration of the study drug \nwith no other probable cause.  The event should resolve when the study \ndrug is discontinued and recur on re-challenge. \n \nThe intensity and relationship assessments to study drug are recorded on the AE CRF \npage. \n \nTreatment-emergent AEs (TEAEs) will be tabulated, i.e., those events which are not \npresent at baseline or worsened in severity following the start of treatment.  Any adverse \nevents starting more than 30 days after the last administration of study drug will not be \ntabulated. \n \nThe onset date of an adverse event will be compared to the date of first dose of study \nmedication in this extension study to determine if the adverse event is treatment emergent \nCONFIDENTIAL\nRM2009/00475/00 \nVRX-RET-E22-304 \n15\nValeant Pharmaceuticals North America \nStatistical Analysis Plan \nVRX-RET-E22-304 \nVersion 2.0 [Final] \n \nFilename: 87272_304_SAP_v2_final \n \npage 15 of 148 \n \nor not.  Adverse events with an onset date on or after the date of first dose of study \nmedication will be classified as treatment emergent. \n \nThe following adverse event summaries will be provided: \n \n\u2022 \nA summary of the number and percentage of patients reporting a treatment emergent \nadverse event by body system, and preferred term \n\u2022 \nA summary of the number and percentage of patients reporting a treatment emergent \nadverse event by maximum intensity, body system and preferred term \n\u2022 \nA summary of the number and percentage of patients reporting a treatment emergent \nadverse event by relationship to study drug, body system and preferred term \n\u2022 \nA summary of the number and percentage of patients reporting a treatment emergent \nadverse event leading to dose modification by  body system and preferred term \n \nFor each patient and each adverse event, the worst severity recorded will be attributed \nand used in the by-severity summaries.  Similarly, the worst causality (most related to \ntreatment) will be attributed and used in the by-causality summaries.  If severity or \ncausality are missing, the worst case will be assumed. \n \n \nThe date the AE started should be well collected in CRF data. However, in the unlikely \ncase that the AE start date is missing, the AE date will imputed be as follows. \n \nScenarios \nDay \nMonth \nYear \nImputed AE Onset Date \n \nmissing \n \n \nIf the month and year of the AE are the \nsame as the month and year of the first \ndose date in the extension, use the day of \nthe first dose date.  \n \nOtherwise use 1 for day.  \n \nmissing \n \nIf year of onset of AE is before the year of \nfirst dose in the extension, use DEC. \n \nIf the year of the AE is the same as the \nyear of the first dose date in the extension \nand the day of the AE is greater or equal \nto the day of the first dose in the \nextension, use the month from the first \ndose date.  If the day of the AE is less \nthan the day of the first dose in the \nextension, use the month of first dose + 1.  \nIf the month of the first dose in the \nCONFIDENTIAL\nRM2009/00475/00 \nVRX-RET-E22-304 \n16\nValeant Pharmaceuticals North America \nStatistical Analysis Plan \nVRX-RET-E22-304 \nVersion 2.0 [Final] \n \nFilename: 87272_304_SAP_v2_final \n \npage 16 of 148 \n \nextension is DEC, then use month of first \ndose. \n \nIf the year of onset of AE is after the year \nof first dose in the extension, use JAN.  \n \n \nmissing\nIf the day and month of the AE is before \nthe day and month of the first dose in the \nextension, assign the missing year as the \nyear of the first dose date + 1.  Otherwise, \nassign the missing year as the year of the \nfirst dose date.  \nmissing \nmissing \n \nIf year of onset of AE is before the year of \nfirst \ndose \nin \nthe \nextension, \nuse \n01/07/yyyy. \n \nIf the year of the AE is the same as the \nyear of the first dose in the extension, use \nthe first dose date.   \n \nIf year of onset of AE is after the year of \nfirst \ndose \nin \nthe \nextension, \nuse \n01/01/yyyy. \n \nmissing \nmissing\nIf the day of the AE is before the day of \nthe first dose in the extension, assign the \nmissing month as the month of the first \ndose date + 1 and the year as the year of \nthe first dose date.  If the month of the \nfirst dose in the extension is DEC, then +1 \nyear and use JAN. \n \nIf the day of the AE is on or after the date \nof the first dose in the extension, assign \nthe missing month and year as the month \nand year of the first dose date. \nmissing \n \nmissing\nIf the month of the AE is the same or after \nthe month of the first dose in the \nextension, then use the day and year from \nfirst dose.   \n \nOtherwise, impute the missing day as 1 \nCONFIDENTIAL\nRM2009/00475/00 \nVRX-RET-E22-304 \n17\nValeant Pharmaceuticals North America Statistical Analysis Plan VRX-RET-E22-304 Version 2.0 [Final]  Filename: 87272_304_SAP_v2_final  page 17 of 148  and assign the year of the first dose + 1.  missing missing missingUse the first dose date in the extension.    A by-patient listing of all adverse events (including non-treatment-emergent events) will be provided.  This listing will be presented by treatment group and will include: centre, patient identifier, age, sex, race, adverse event (body system, preferred term, reported term), date of onset, date of resolution, duration, severity, seriousness, action taken, outcome and causality.      ",
+                                                        "Sub-sections": []
+                                                    },
+                                                    {
+                                                        "Header Number": "4.5.3",
+                                                        "Title": "Deaths, Serious Adverse Events, and Other Significant Adverse Events",
+                                                        "Content": " A serious adverse event (SAE) is any AE occurring at any dose that results in any of the following outcomes: \u2022 Death \u2022 Is a life-threatening experience.  Life-threatening means that the patient was, in the view of the investigator, at immediate risk of death from the event as it occurred \u2022 Requires in-patient hospitalization or prolongation of existing hospitalization.  Hospitalization for elective treatment or a pre-existing condition that did not worsen during the clinical investigation is not considered an AE. \u2022 Results in a persistent or significant disability/incapacity (i.e., a substantial disruption of a person\u2019s ability to conduct normal life functions).  Disability is defined as a substantial disruption in a person\u2019s ability to conduct normal life functions \u2022 Results in a congenital anomaly/birth defect Important medical events that may not result in death, be life threatening, or require hospitalization may be considered SAEs only when they jeopardize the health of the patient or require medical or surgical intervention to prevent one of the outcomes listed in the above definition.  If there is any doubt whether the information constitutes an SAE, the information is treated as an SAE in this study.  The following adverse event summaries will be provided:  \u2022 A summary of the number and percentage of patients reporting a fatal treatment emergent  adverse event by body system, and preferred term  \u2022 A summary of the number and percentage of patients reporting a serious treatment emergent adverse event by body system, and preferred term  \u2022 A summary of the number and percentage of patients reporting a treatment emergent adverse event leading to withdrawal from the study by  body system and preferred term CONFIDENTIALRM2009/00475/00 VRX-RET-E22-304 18Valeant Pharmaceuticals North America Statistical Analysis Plan VRX-RET-E22-304 Version 2.0 [Final]  Filename: 87272_304_SAP_v2_final  page 18 of 148   The following adverse event listings will also be provided:  \u2022 A by-patient listing of all deaths that occurred during the study \u2022 A by-patient listing of all serious adverse events \u2022 A by-patient listing of all adverse events leading to withdrawal   ",
+                                                        "Sub-sections": []
+                                                    },
+                                                    {
+                                                        "Header Number": "4.5.4",
+                                                        "Title": "Clinical Laboratory Evaluation",
+                                                        "Content": " All clinical laboratory assessments are implemented by a central laboratory.    The clinical laboratory data were collected at baseline, Months 1, 3, 6, 9, 12, 16, 20, 24, 28, 32, and 36.  Additional hematological assessments are collected at Months 2, 4, 8 and 10.    The laboratory data include:  1. Hematology: hemoglobin, hematocrit, RBC count, WBC count with differential, and platelet count. 2. Blood chemistries: sodium, potassium, chloride, bicarbonate, glucose, cholesterol, creatinine, calcium, phosphorus, BUN, uric acid, total bilirubin, total protein, AST, ALT, and alkaline phosphatase levels.  3. Routine urinalysis: specific gravity, pH, protein/albumin, glucose/sugar, ketones/acetone, and hemoglobin/blood.  In order to standardize measurements, Bayer multistix 8-SG or equivalent dipsticks will be used.  4. Microscopic urinalysis: RBC, WBC, casts, and crystals/cells.  Descriptive statistics for laboratory results and change from baseline for each visit will be presented separately for hematology, biochemistry and urinalysis parameters. The number of patients with clinically significant liver function tests will also be presented.  A by-patient listing of all laboratory data will also be provided with abnormal values highlighted, and including centre, patient identifier, age, sex, race, weight and visit.   A listing of the central laboratory reference ranges will also be provided.   ",
+                                                        "Sub-sections": []
+                                                    },
+                                                    {
+                                                        "Header Number": "4.5.5",
+                                                        "Title": "Vital Signs, Physical Findings and Other Observations Related to Safety",
+                                                        "Content": " ",
+                                                        "Sub-sections": [
+                                                            {
+                                                                "Header Number": "4.5.5.1",
+                                                                "Title": "Vital Sign Measurements",
+                                                                "Content": "  Vital sign measurements, including supine and standing  measurements of systolic blood pressure (mmHg), diastolic blood pressure (mmHg), pulse (bpm), weight (kg), and oral CONFIDENTIALRM2009/00475/00 VRX-RET-E22-304 19Valeant Pharmaceuticals North America Statistical Analysis Plan VRX-RET-E22-304 Version 2.0 [Final]  Filename: 87272_304_SAP_v2_final  page 19 of 148  temperature (\u00b0C), are collected at each visit during the open-label extension with the exception of the haematological evaluation visits (Months 2, 4, 8 and 10).   Descriptive statistics for vital sign results and change from baseline for each visit will be presented.   The number of patients with orthostatic hypotension will also be presented.  Orthostatic hypotension is defined as either a systolic blood pressure decrease of \u226520 mmHg upon standing or a diastolic blood pressure decrease of \u226510 mmHg upon standing.   A by-patient listing of all vital sign measurements will also be provided.  ",
+                                                                "Sub-sections": []
+                                                            },
+                                                            {
+                                                                "Header Number": "4.5.5.2",
+                                                                "Title": "ECG",
+                                                                "Content": "  The ECG parameters assessment includes heart rate, PR interval, QRS interval, QT interval, and QTc interval.    QT intervals will be corrected using both Bazett\u2019s and Fridericia\u2019s formulas.  For purposes of data analysis, Fridericia\u2019s QT correction will be considered as primary.  The QT interval and QTc interval data will be presented both as analysis of central tendency (e.g. means, medians) and categorical analyses.    Categorical analysis of QT/QTc interval data are based on the number and percentage of patients meeting or exceeding the limit value that is defined in ICH guideline E14 [1], i.e. Absolute QTc interval prolongation if QTc interval >450, >480, or >500 msec and Change from baseline in QTc interval >30 or >60 msec.    A listing of patients meeting or exceeding the highest limit value, i.e. QTc interval >500 msec or change from baseline in QTc interval >60 msec, will be provided. The listing of patients will include the dose of study medications that the patient was taking on the day prior to the ECG reading.   Descriptive statistics for QT/QTc intervals will be first presented in the tables. The number and percentage of patients for the QT/QTc category in ICH guideline E14 will be presented in the tables, and the patients who have significant QT/QTc measures will be provided in the listings.  The means and standard deviations of QT/QTc intervals by week and the patient with significant QT/QTc changes will be also presented in the tables.   A by-patient listing of all ECG data will also be provided.  ",
+                                                                "Sub-sections": []
+                                                            },
+                                                            {
+                                                                "Header Number": "4.5.5.3",
+                                                                "Title": "Physical and Neurological Examination",
+                                                                "Content": "  A complete physical examination and complete neurological examination was performed at baseline and at Months 12, 24, and 36.  Brief neurological examinations were also performed at all other visits during the open-label extension.   CONFIDENTIALRM2009/00475/00 VRX-RET-E22-304 20Valeant Pharmaceuticals North America Statistical Analysis Plan VRX-RET-E22-304 Version 2.0 [Final]  Filename: 87272_304_SAP_v2_final  page 20 of 148   For the 15 items of complete physical exam and 42 items of complete neurological exam, the number and percentage of patients with normal or abnormal results will be presented.  A by-patient listing of physical and neurological examination data will also be provided.  ",
+                                                                "Sub-sections": []
+                                                            },
+                                                            {
+                                                                "Header Number": "4.5.5.4",
+                                                                "Title": "AUA Symptom Index",
+                                                                "Content": "  An AUA Symptoms Index, a 7-item Likert-scored scale describing urinary bladder function, is completed by the investigator at the baseline phase, and at Months 1, 3 and 12.  Descriptive statistics (n, mean, std, median, minimum, maximum) of the AUA symptom index scores in each treatment group will be presented by two table layouts: 1) AUA raw overall scores at baseline, Months 1, 3 and 12, 2) change from baseline to Month 1, 2 and 12.  Besides the descriptive statistics tables, AUA symptom index scores will be categorized by using 3 levels: 0-7 as mild, 8-19 as moderate, and >19 as severe. A shift table of the number (%) of patients in the categories of mild, moderate, and severe will be provided.  A listing of AUA symptom index data will be provided.  ",
+                                                                "Sub-sections": []
+                                                            },
+                                                            {
+                                                                "Header Number": "4.5.5.5",
+                                                                "Title": "Post-void Residual (PVR) Bladder Ultrasound",
+                                                                "Content": "  PVR bladder ultrasound data are collected at baseline, and at Months 1, 3 and 12 to assess the patient\u2019s bladder function.   Descriptive statistics for the PVR bladder ultrasound results and change from baseline at each visit will be presented. The number and percentage of patients with abnormal PVR bladder ultrasound at each visit will also be presented.   In addition, PVR bladder ultrasound scores will be categorized by using 3 levels: >50ml, >100ml and >150ml will also be provided.  A by-patient listing of the PVR Bladder Ultrasound data will also be provided.   ",
+                                                                "Sub-sections": []
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "Header Number": "4.5.6",
+                                                        "Title": "Concomitant Medications",
+                                                        "Content": " Any on-going medications, including prescription and non-prescription as well as vitamins and herbal supplements, and any new medications taken during the study should be recorded on the Concomitant Medication Record form.  The concomitant medications will be coded according to the World Health Organization (WHO) Drug Dictionary.  The number and percentage of concomitant medications will be summarized in tables.    A by-patient listing of all concomitant medications will also be provided.  CONFIDENTIALRM2009/00475/00 VRX-RET-E22-304 21Valeant Pharmaceuticals North America Statistical Analysis Plan VRX-RET-E22-304 Version 2.0 [Final]  Filename: 87272_304_SAP_v2_final  page 21 of 148   ",
+                                                        "Sub-sections": []
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "Header Number": "4.6",
+                                                "Title": "Quality of Life in Epilepsy (QOLIE-31-P)",
+                                                "Content": " The patient-weighted 31-item questionnaire (QOLIE-31-P, version 2.0) was administered in this study, describing health-related quality of life in people with epilepsy.  The QOLIE-31-P form will be completed by the patient at baseline phase and at Months 3, 6, 9, 12, 24, and 36. Subscale and total scores will be calculated and the subscales grouped into two factors: emotional/psychological effects (seizure worry, overall QOL, emotional well-being, energy/fatigue subscales) and medical/social effects (medication effects, work-driving-social limits, cognitive function subscales).  Descriptive statistics of the QOLIE-31-P data will be presented in the tables and listings for \u2022 Overall assessment \u2022 Emotional/Psychological Effects domain \u2022 Medical/Social Effects domain.   ",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "4.7",
+                                                "Title": "Determination of Sample Size",
+                                                "Content": " All participants who have successfully completed the Maintenance and Transition phases of Study VRX-RET-E22-302, for the treatment of partial-onset seizures are eligible (up to approximately 510 patients).   ",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "4.8",
+                                                "Title": "Changes in the Conduct of the Study or Planned Analysis",
+                                                "Content": "",
+                                                "Sub-sections": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "Header Number": "5",
+                                        "Title": "References",
+                                        "Content": "",
+                                        "Sub-sections": []
+                                    },
+                                    {
+                                        "Header Number": "6",
+                                        "Title": "Reporting Output",
+                                        "Content": "Valeant Pharmaceuticals North America \nStatistical Analysis Plan \nVRX-RET-E22-304 \nVersion 2.0 [Final] \n \nFilename: 87272_304_SAP_v2_final \n \npage 22 of 148 \n \nPost-text tables, listings and statistical appendices will be produced as RTF files using \nODS and Courier New font size 9.  Figures will be produced as RTF files using ODS and \nfont=simplex.  For all outputs, the page numbering will be applied to ensure that when \nthe RTF files are combined, the page numbering remains fixed. \n \nCONFIDENTIAL\nRM2009/00475/00 \nVRX-RET-E22-304 \n23\n",
+                                        "Sub-sections": []
+                                    },
+                                    {
+                                        "Header Number": "7",
+                                        "Title": "List of Tables",
+                                        "Content": "Valeant Pharmaceuticals North America \nStatistical Analysis Plan \nVRX-RET-E22-304 \nVersion 2.0 [Final] \n \nFilename: 87272_304_SAP_v2_final \n \npage 24 of 148 \n \nTABLE 10  RESPONDER RATE (>=50% REDUCTION IN MONTHLY TOTAL \nPARTIAL SEIZURE FREQUENCY) \nTABLE 11.1  RESPONDER RATE (>=50% REDUCTION IN MONTHLY TOTAL \nPARTIAL SEIZURE FREQUENCY) FOR PATIENTS TREATED WITH \nRETIGABINE FOR AT LEAST 1 MONTH DURING THE OPEN-LABEL \nEXTENSION \nTABLE 11.2  RESPONDER RATE (>=50% REDUCTION IN MONTHLY TOTAL \nPARTIAL SEIZURE FREQUENCY) FOR PATIENTS TREATED WITH \nRETIGABINE FOR AT LEAST 3 MONTHS DURING THE OPEN-LABEL \nEXTENSION \nTABLE 11.3  RESPONDER RATE (>=50% REDUCTION IN MONTHLY TOTAL \nPARTIAL SEIZURE FREQUENCY) FOR PATIENTS TREATED WITH \nRETIGABINE FOR AT LEAST 6 MONTHS DURING THE OPEN-LABEL \nEXTENSION \nTABLE 11.4  RESPONDER RATE (>=50% REDUCTION IN MONTHLY TOTAL \nPARTIAL SEIZURE FREQUENCY) FOR PATIENTS TREATED WITH \nRETIGABINE FOR AT LEAST 9 MONTHS DURING THE OPEN-LABEL \nEXTENSION \nTABLE 11.5  RESPONDER RATE (>=50% REDUCTION IN MONTHLY TOTAL \nPARTIAL SEIZURE FREQUENCY) FOR PATIENTS TREATED WITH \nRETIGABINE FOR AT LEAST 12 MONTHS DURING THE OPEN-LABEL \nEXTENSION \nTABLE 11.6  RESPONDER RATE (>=50% REDUCTION IN MONTHLY TOTAL \nPARTIAL SEIZURE FREQUENCY) FOR PATIENTS TREATED WITH \nRETIGABINE FOR AT LEAST 16 MONTHS DURING THE OPEN-LABEL \nEXTENSION \nTABLE 11.7  RESPONDER RATE (>=50% REDUCTION IN MONTHLY TOTAL \nPARTIAL SEIZURE FREQUENCY) FOR PATIENTS TREATED WITH \nRETIGABINE FOR AT LEAST 20 MONTHS DURING THE OPEN-LABEL \nEXTENSION \nTABLE 11.8  RESPONDER RATE (>=50% REDUCTION IN MONTHLY TOTAL \nPARTIAL SEIZURE FREQUENCY) FOR PATIENTS TREATED WITH \nRETIGABINE FOR AT LEAST 24 MONTHS DURING THE OPEN-LABEL \nEXTENSION \nTABLE 11.9  RESPONDER RATE (>=50% REDUCTION IN MONTHLY TOTAL \nPARTIAL SEIZURE FREQUENCY) FOR PATIENTS TREATED WITH \nRETIGABINE FOR AT LEAST 28 MONTHS DURING THE OPEN-LABEL \nEXTENSION \nTABLE 11.10  RESPONDER RATE (>=50% REDUCTION IN MONTHLY TOTAL \nPARTIAL SEIZURE FREQUENCY) FOR PATIENTS TREATED WITH \nRETIGABINE FOR AT LEAST 32 MONTHS DURING THE OPEN-LABEL \nEXTENSION \nTABLE 11.11  RESPONDER RATE (>=50% REDUCTION IN MONTHLY TOTAL \nPARTIAL SEIZURE FREQUENCY) FOR PATIENTS TREATED WITH \nRETIGABINE FOR AT LEAST 36 MONTHS DURING THE OPEN-LABEL \nEXTENSION \nCONFIDENTIAL\nRM2009/00475/00 \nVRX-RET-E22-304 \n25\nValeant Pharmaceuticals North America \nStatistical Analysis Plan \nVRX-RET-E22-304 \nVersion 2.0 [Final] \n \nFilename: 87272_304_SAP_v2_final \n \npage 25 of 148 \n \nTABLE 12  PROPORTION OF PATIENTS EXPERIENCING A REDUCTION IN \nMONTHLY TOTAL PARTIAL SEIZURE FREQUENCY \nTABLE 13  PROPORTION OF SEIZURE-FREE DAYS \nTABLE 14  EXTENT OF EXPOSURE TO STUDY MEDICATION \nTABLE 15  NUMBER (%) OF PATIENTS REPORTING TREATMENT-EMERGENT \nADVERSE EVENTS \nTABLE 16  NUMBER (%) OF PATIENTS REPORTING ADVERSE EVENTS BY \nMAXIMUM SEVERITY \nTABLE 17 NUMBER (%) OF PATIENTS REPORTING TREATMENT-EMERGENT \nADVERSE EVENTS AT LEAST POSSIBLY RELATED TO STUDY DRUG \nTABLE 18 NUMBER (%) OF PATIENTS REPORTING TREATMENT-EMERGENT \nADVERSE EVENTS THAT LEAD TO DOSE MODIFICATION/INTERRUPTION \nTABLE 19 NUMBER (%) OF PATIENTS REPORTING FATAL TREATMENT-\nEMERGENT ADVERSE EVENTS \nTABLE 20 NUMBER (%) OF PATIENTS REPORTING SERIOUS TREATMENT-\nEMERGENT ADVERSE EVENTS \nTABLE 21 NUMBER (%) OF PATIENTS REPORTING ADVERSE EVENTS THAT \nCAUSED WITHDRAWAL FROM STUDY \nTABLE 22  OBSERVED MEANS AND STANDARD DEVIATIONS OF \nLABORATORY TEST RESULTS AND CHANGE FROM BASELINE BY \nMONTH - SERUM CHEMISTRY \nTABLE 24 OBSERVED MEANS AND STANDARD DEVIATIONS OF \nLABORATORY TEST RESULTS AND CHANGE FROM BASELINE BY \nMONTH \u2013 HEMATOLOGY \nTABLE 25 OBSERVED MEANS AND STANDARD DEVIATIONS OF \nLABORATORY TEST RESULTS AND CHANGE FROM BASELINE BY \nMONTH \u2013 URINALYSIS \nTABLE 23  NUMBER (%) OF PATIENTS WITH CLINICALLY SIGNIFICANT \nLIVER FUNCTION TEST RESULTS \nTABLE 26  FREQUENCY DISTRIBUTION OF CATEGORICAL LABORATORY \nTEST RESULTS - URINALYSIS \nTABLE 27  SUMMARY STATISTICS OF ELECTROCARDIOGRAM MEASURES \nTABLE 28  NUMBER (%) OF PATIENTS EXAMINING QTC INTERVAL BY \nCATEGORY \nTABLE 29  NUMBER (%) OF PATIENTS EXAMINING QTC INTERVAL CHANGE \nFROM BASELINE BY CATEGORY \nTABLE 30  OBSERVED MEANS AND STANDARD DEVIATIONS OF QTC \nINTERVALS AND CHANGE FROM BASELINE BY MONTH \nTABLE 31  OBSERVED MEANS AND STANDARD DEVIATIONS OF VITAL SIGN \nRESULTS AND CHANGE FROM BASELINE BY MONTH \nTABLE 33  NUMBER (%) OF PATIENTS WITH ABNORMAL RESULTS OF \nPHYSICAL EXAMINATIONS \nTABLE 34  NUMBER (%) OF PATIENTS WITH ABNORMAL RESULTS OF \nNEUROLOGICAL EXAMINATIONS \nTABLE 35  NUMBER (%) OF PATIENTS WITH ABNORMAL AUA SYMPTOM \nINDEX \nCONFIDENTIAL\nRM2009/00475/00 \nVRX-RET-E22-304 \n26\nValeant Pharmaceuticals North America \nStatistical Analysis Plan \nVRX-RET-E22-304 \nVersion 2.0 [Final] \n \nFilename: 87272_304_SAP_v2_final \n \npage 26 of 148 \n \nTABLE 36 DESCRIPTIVE STATISTICS OF RAW OVERALL AUA SCORES \nTABLE 37  NUMBER (%) OF PATIENTS WHO HAD MILD, MODERATE, SEVERE \nAUA SCORES \nTABLE 38  AUA CATEGORY SHIFT FROM BASELINE \nTABLE 39  NUMBER (%) OF PATIENTS WITH ABNORMAL PVR BLADDER \nULTRASOUND \nTABLE 40  DESCRIPTIVE STATISTICS OF PVR BLADDER ULTRASOUND \nTABLE 41 NUMBER (%) OF PATIENTS WITH A CLINICALLY SIGNIFICANT \nPVR BLADDER ULTRASOUND \nTABLE 42  NUMBER (%) OF PATIENTS TAKING CONCOMITANT \nMEDICATIONS \nTABLE 43  OBSERVED MEANS AND STANDARD DEVIATIONS OF QOL IN \nEPILEPSY (QOLIE-31-P) AND CHANGE FROM BASELINE BY MONTH \n \n \n \n \nCONFIDENTIAL\nRM2009/00475/00 \nVRX-RET-E22-304 \n27\n",
+                                        "Sub-sections": []
+                                    },
+                                    {
+                                        "Header Number": "8",
+                                        "Title": "List of Figures",
+                                        "Content": "",
+                                        "Sub-sections": []
+                                    },
+                                    {
+                                        "Header Number": "9",
+                                        "Title": "List of Patient Data Listings",
+                                        "Content": "Valeant Pharmaceuticals North America \nStatistical Analysis Plan \nVRX-RET-E22-304 \nVersion 2.0 [Final] \n \nFilename: 87272_304_SAP_v2_final \n \npage 29 of 148 \n \nLISTING 31  QUALITY OF LIFE IN EPILEPSY SCORES (QOLIE-31-P) \n \nCONFIDENTIAL\nRM2009/00475/00 \nVRX-RET-E22-304 \n30\n",
+                                        "Sub-sections": []
+                                    },
+                                    {
+                                        "Header Number": "10",
+                                        "Title": "Table Shells",
+                                        "Content": "",
+                                        "Sub-sections": [
+                                            {
+                                                "Header Number": "N/A",
+                                                "Title": "Table 1 Number (%) of Patients Who Discontinued Treatment During Therapy Phase by Primary Reason",
+                                                "Content": "",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "N/A",
+                                                "Title": "Table 2 Time Until Treatment Discontinuation (Days) Descriptive Statistics",
+                                                "Content": "",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "N/A",
+                                                "Title": "Table 3 Demographic and Baseline Characteristics",
+                                                "Content": "Valeant Pharmaceuticals North America \nStatistical Analysis Plan \nVRX-RET-E22-304 \nVersion 2.0 [Final] \n \n \nValeant Pharmaceuticals North America              \n \n \n \n \n \n \n \n \n \nPAGE X OF X \nProtocol Number: VRX-RET-E22-304  \n \nProgram Path/sas program name  \n \n \n \n \n \n \n \n \n \n \n \nRun Date: \n \n \nFilename: 87272_304_SAP_v2_final \n \npage 34 of 148 \n \n \n \nTABLE 3  DEMOGRAPHIC AND BASELINE CHARACTERISTICS \nSAFETY POPULATION \n \n \n \n \n \nSTATISTICS \nRETIGABINE \n(N=XXX) \n \n \nBMI \u2013 (KG/M^2) \n \nN \nxxx \nMEAN \nxxx.x \nSTD \nxxx.xx \nMEDIAN \nxxx.x \nMININUM \nxxx \nMAXIMUM \nxxx \n \n \n \nCONFIDENTIAL\nRM2009/00475/00 \nVRX-RET-E22-304 \n35\n",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "N/A",
+                                                "Title": "Table 4 Epilepsy History",
+                                                "Content": "Valeant Pharmaceuticals North America \nStatistical Analysis Plan \nVRX-RET-E22-304 \nVersion 2.0 [Final] \n \n \nValeant Pharmaceuticals North America              \n \n \n \n \n \n \n \n \n \nPAGE X OF X \nProtocol Number: VRX-RET-E22-304  \n \nProgram Path/sas program name  \n \n \n \n \n \n \n \n \n \n \n \nRun Date: \n \n \nFilename: 87272_304_SAP_v2_final \n \npage 36 of 148 \n \n \n \n \n \n \nFOOTNOTES: \nA PATIENT CAN HAVE EPILESPY HISTORY RECORDED FOR EACH TYPE OF EPILEPSY. \nCONFIDENTIAL\nRM2009/00475/00 \nVRX-RET-E22-304 \n37\n",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "N/A",
+                                                "Title": "Table 5 Clinical Global Impression (CGI) \u2013 Severity at Baseline",
+                                                "Content": "",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "N/A",
+                                                "Title": "Table 6 Number of Background AEDs at Baseline N (%)",
+                                                "Content": "",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "N/A",
+                                                "Title": "Table 7 Presence of Partial Seizure by Subtype During Baseline Period",
+                                                "Content": "Valeant Pharmaceuticals North America \nStatistical Analysis Plan \nVRX-RET-E22-304 \nVersion 2.0 [Final] \n \n \nValeant Pharmaceuticals North America              \n \n \n \n \n \n \n \n \n \nPAGE X OF X \nProtocol Number: VRX-RET-E22-304  \n \nProgram Path/sas program name  \n \n \n \n \n \n \n \n \n \n \n \nRun Date: \n \n \nFilename: 87272_304_SAP_v2_final \n \npage 40 of 148 \n \n \n \n \n \nFOOTNOTES: A PATIENT CAN APPEAR IN MULTIPLE CATEGORIES. \nCONFIDENTIAL\nRM2009/00475/00 \nVRX-RET-E22-304 \n41\n",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "N/A",
+                                                "Title": "Table 8 Percentage Change in Monthly Total Partial Seizure Frequency",
+                                                "Content": "Valeant Pharmaceuticals North America \nStatistical Analysis Plan \nVRX-RET-E22-304 \nVersion 2.0 [Final] \n \n \nValeant Pharmaceuticals North America              \n \n \n \n \n \n \n \n \n \nPAGE X OF X \nProtocol Number: VRX-RET-E22-304  \n \nProgram Path/sas program name  \n \n \n \n \n \n \n \n \n \n \n \nRun Date: \n \n \nFilename: 87272_304_SAP_v2_final \n \npage 42 of 148 \n \n \n \nFOOTNOTE: \n[1] BASELINE PHASE IN STUDY VRX-RET-E22-302 \nCONFIDENTIAL\nRM2009/00475/00 \nVRX-RET-E22-304 \n43\n",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "N/A",
+                                                "Title": "Table 9.1 Percentage Change in Monthly Total Partial Seizure Frequency for Patients Treated with Retigabine for at Least 1 Month",
+                                                "Content": "Valeant Pharmaceuticals North America \nStatistical Analysis Plan \nVRX-RET-E22-304 \nVersion 2.0 [Final] \n \n \nValeant Pharmaceuticals North America              \n \n \n \n \n \n \n \n \n \nPAGE X OF X \nProtocol Number: VRX-RET-E22-304  \n \nProgram Path/sas program name  \n \n \n \n \n \n \n \n \n \n \n \nRun Date: \n \n \nFilename: 87272_304_SAP_v2_final \n \npage 44 of 148 \n \n \n \n \nFOOTNOTE: [1] BASELINE PHASE IN STUDY VRX-RET-E22-302 \nCONFIDENTIAL\nRM2009/00475/00 \nVRX-RET-E22-304 \n45\n",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "N/A",
+                                                "Title": "Table 9.2 Percentage Change in Monthly Total Partial Seizure Frequency for Patients Treated with Retigabine for at Least 3 Month",
+                                                "Content": "Valeant Pharmaceuticals North America \nStatistical Analysis Plan \nVRX-RET-E22-304 \nVersion 2.0 [Final] \n \n \nValeant Pharmaceuticals North America              \n \n \n \n \n \n \n \n \n \nPAGE X OF X \nProtocol Number: VRX-RET-E22-304  \n \nProgram Path/sas program name  \n \n \n \n \n \n \n \n \n \n \n \nRun Date: \n \n \nFilename: 87272_304_SAP_v2_final \n \npage 46 of 148 \n \n \n \nFOOTNOTE: [1] BASELINE PHASE IN STUDY VRX-RET-E22-302 \nCONFIDENTIAL\nRM2009/00475/00 \nVRX-RET-E22-304 \n47\n",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "N/A",
+                                                "Title": "Table 9.3 Percentage Change in Monthly Total Partial Seizure Frequency for Patients Treated with Retigabine for at Least 6 Month",
+                                                "Content": "",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "N/A",
+                                                "Title": "Table 9.4 Percentage Change in Monthly Total Partial Seizure Frequency for Patients Treated with Retigabine for at Least 9 Month",
+                                                "Content": "",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "N/A",
+                                                "Title": "Table 9.5 Percentage Change in Monthly Total Partial Seizure Frequency for Patients Treated with Retigabine for at Least 12 Mont",
+                                                "Content": "",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "N/A",
+                                                "Title": "Table 9.6 Percentage Change in Monthly Total Partial Seizure Frequency for Patients Treated with Retigabine for at Least 16 Mont",
+                                                "Content": "",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "N/A",
+                                                "Title": "Table 9.7 Percentage Change in Monthly Total Partial Seizure Frequency for Patients Treated with Retigabine for at Least 20 Mont",
+                                                "Content": "",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "N/A",
+                                                "Title": "Table 9.8 Percentage Change in Monthly Total Partial Seizure Frequency for Patients Treated with Retigabine for at Least 24 Mont",
+                                                "Content": "",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "N/A",
+                                                "Title": "Table 9.9 Percentage Change in Monthly Total Partial Seizure Frequency for Patients Treated with Retigabine for at Least 28 Mont",
+                                                "Content": "",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "N/A",
+                                                "Title": "Table 9.10 Percentage Change in Monthly Total Partial Seizure Frequency for Patients Treated with Retigabine for at Least 32 Mon",
+                                                "Content": "",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "N/A",
+                                                "Title": "Table 9.11 Percentage Change in Monthly Total Partial Seizure Frequency for Patients Treated with Retigabine for at Least 36 Mon",
+                                                "Content": "",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "N/A",
+                                                "Title": "Table 10 Responder Rate (>=50% Reduction in Monthly Total Partial Seizure Frequency)",
+                                                "Content": "",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "N/A",
+                                                "Title": "Table 11.1 Responder Rate (>=50% Reduction in Monthly Total Partial Seizure Frequency) for Patients Treated with Retigabine for ",
+                                                "Content": "",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "N/A",
+                                                "Title": "Table 11.2 Responder Rate (>=50% Reduction in Monthly Total Partial Seizure Frequency) for Patients Treated with Retigabine for ",
+                                                "Content": "",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "N/A",
+                                                "Title": "Table 11.3 Responder Rate (>=50% Reduction in Monthly Total Partial Seizure Frequency) for Patients Treated with Retigabine for ",
+                                                "Content": "",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "N/A",
+                                                "Title": "Table 11.4 Responder Rate (>=50% Reduction in Monthly Total Partial Seizure Frequency) for Patients Treated with Retigabine for ",
+                                                "Content": "",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "N/A",
+                                                "Title": "Table 11.5 Responder Rate (>=50% Reduction in Monthly Total Partial Seizure Frequency) for Patients Treated with Retigabine for ",
+                                                "Content": "",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "N/A",
+                                                "Title": "Table 11.6 Responder Rate (>=50% Reduction in Monthly Total Partial Seizure Frequency) for Patients Treated with Retigabine for ",
+                                                "Content": "",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "N/A",
+                                                "Title": "Table 11.7 Responder Rate (>=50% Reduction in Monthly Total Partial Seizure Frequency) for Patients Treated with Retigabine for ",
+                                                "Content": "",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "N/A",
+                                                "Title": "Table 11.8 Responder Rate (>=50% Reduction in Monthly Total Partial Seizure Frequency) for Patients Treated with Retigabine for ",
+                                                "Content": "",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "N/A",
+                                                "Title": "Table 11.9 Responder Rate (>=50% Reduction in Monthly Total Partial Seizure Frequency) for Patients Treated with Retigabine for ",
+                                                "Content": "",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "N/A",
+                                                "Title": "Table 11.10 Responder Rate (>=50% Reduction in Monthly Total Partial Seizure Frequency) for Patients Treated with Retigabine for",
+                                                "Content": "",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "N/A",
+                                                "Title": "Table 11.11 Responder Rate (>=50% Reduction in Monthly Total Partial Seizure Frequency) for Patients Treated with Retigabine for",
+                                                "Content": "",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "N/A",
+                                                "Title": "Table 12 Proportion of Patients Experiencing a Reduction in Monthly Total Partial Seizure Frequency Table 13 Proportion of Seizu",
+                                                "Content": "",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "N/A",
+                                                "Title": "Table 13 Proportion of Seizure-Free Days",
+                                                "Content": "",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "N/A",
+                                                "Title": "Table 14 Extent of Exposure to Study Medication",
+                                                "Content": "",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "N/A",
+                                                "Title": "Table 15 Number (%) of Patients Reporting Treatment-Emergent Adverse Events",
+                                                "Content": "",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "N/A",
+                                                "Title": "Table 16 Number (%) of Patients Reporting Adverse Events by Maximum Severity",
+                                                "Content": "",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "N/A",
+                                                "Title": "Table 17 Number (%) of Patients Reporting Treatment-Emergent Adverse Events at Least Possibly Related to Study Drug",
+                                                "Content": "",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "N/A",
+                                                "Title": "Table 18 Number (%) of Patients Reporting Treatment-Emergent Adverse Events That Lead to Dose Modification/Interruption",
+                                                "Content": "",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "N/A",
+                                                "Title": "Table 19 Number (%) of Patients Reporting Fatal Treatment-Emergent Adverse Events",
+                                                "Content": "",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "N/A",
+                                                "Title": "Table 20 Number (%) of Patients Reporting Serious Treatment-Emergent Adverse Events",
+                                                "Content": "",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "N/A",
+                                                "Title": "Table 21 Number (%) of Patients Reporting Adverse Events That Caused Withdrawal from Study",
+                                                "Content": "",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "N/A",
+                                                "Title": "Table 22 Observed Means and Standard Deviations of Laboratory Test Results and Change from Baseline by Month \u2013 Serum Chemistry",
+                                                "Content": "",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "N/A",
+                                                "Title": "Table 23 Number (%) of Patients with Clinically Significant Liver Function Test Results",
+                                                "Content": "",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "N/A",
+                                                "Title": "Table 24 Observed Means and Standard Deviations of Laboratory Test Results and Change from Baseline by Month \u2013 Hematology",
+                                                "Content": "",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "N/A",
+                                                "Title": "Table 25 Observed Means and Standard Deviations of Laboratory Test Results and Change from Baseline by Month \u2013 Urinalysis",
+                                                "Content": "",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "N/A",
+                                                "Title": "Table 23 Number (%) of Patients with Clinically Significant Liver Function Test Results",
+                                                "Content": "",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "N/A",
+                                                "Title": "Table 26 Frequency Distribution of Categorical Laboratory Test Results - Urinalysis",
+                                                "Content": "",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "N/A",
+                                                "Title": "Table 27 Summary Statistics of Electrocardiogram Measures",
+                                                "Content": "Valeant Pharmaceuticals North America \nStatistical Analysis Plan \nVRX-RET-E22-304 \nVersion 2.0 [Final] \n \n \nValeant Pharmaceuticals North America              \n \n \n \n \n \n \n \n \n \nPAGE X OF X \nProtocol Number: VRX-RET-E22-304  \n \nProgram Path/sas program name  \n \n \n \n \n \n \n \n \n \n \n \nRun Date: \n \n \nFilename: 87272_304_SAP_v2_final \n \npage 62 of 148 \n \n \nTABLE 27  SUMMARY STATISTICS OF ELECTROCARDIOGRAM MEASURES \nSAFETY POPULATION \n \n \n \nTIMEPOINT \nEVALUATION \u2013 UNIT \nSTATISTIC \nRETIGABINE \n(N=XXX) \n \n \n \nBASELINE AVG (CONTINUED) \nQT INTERVAL \u2013 MS \n \n \nN \nxxx \n \nMEAN \nxxx.x \n \nSTD \nxxx.xx \n \nMEDIAN \nxxx.x \n \nMINIMUM \nxxx \n \nMAXIMUM \nxxx \n \n \n \n \nQTc INTERVAL BAZETT \u2013 MS \n \n \nN \nxxx \n \nMEAN \nxxx.x \n \nSTD \nxxx.xx \n \nMEDIAN \nxxx.x \n \nMINIMUM \nxxx \n \nMAXIMUM \nxxx \n \n \n \n \nQTc INTERVAL FRIDERICIA \u2013 MS \n \n \nN \nxxx \n \nMEAN \nxxx.x \n \nSTD \nxxx.xx \n \nMEDIAN \nxxx.x \n \nMINIMUM \nxxx \n \nMAXIMUM \nxxx \n \n \n \n \n \nREPEAT FOR TIMEPOINTS MONTH 1, MONTH 3, MONTH 6, MONTH 9, MONTH 12, MONTH 24, MONTH 36 \n \n \n \n \n \n \n \nCONFIDENTIAL\nRM2009/00475/00 \nVRX-RET-E22-304 \n63\n",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "N/A",
+                                                "Title": "Table 28 Number (%) of Patients Examining QTc Interval by Category",
+                                                "Content": "",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "N/A",
+                                                "Title": "Table 29 Number (%) of Patients Examining QTc Interval Change from Baseline by Category",
+                                                "Content": "",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "N/A",
+                                                "Title": "Table 30 Observed Means and Standard Deviations of QTc Intervals and Change from Baseline by Month",
+                                                "Content": "",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "N/A",
+                                                "Title": "Table 31 Observed Means and Standard Deviations of Vital Sign Results and Change from Baseline by Month",
+                                                "Content": "",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "N/A",
+                                                "Title": "Table 32 Number (%) of Patients with Orthostatic Hypotension",
+                                                "Content": "Valeant Pharmaceuticals North America \nStatistical Analysis Plan \nVRX-RET-E22-304 \nVersion 2.0 [Final] \n \n \nValeant Pharmaceuticals North America              \n \n \n \n \n \n \n \n \n \nPAGE X OF X \nProtocol Number: VRX-RET-E22-304  \n \nProgram Path/sas program name  \n \n \n \n \n \n \n \n \n \n \n \nRun Date: \n \n \nFilename: 87272_304_SAP_v2_final \n \npage 68 of 148 \n \n \n \nCONFIDENTIAL\nRM2009/00475/00 \nVRX-RET-E22-304 \n69\n",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "N/A",
+                                                "Title": "Table 33 Number (%) of Patients with Abnormal Results of Physical Examinations",
+                                                "Content": "Valeant Pharmaceuticals North America \nStatistical Analysis Plan \nVRX-RET-E22-304 \nVersion 2.0 [Final] \n \n \nValeant Pharmaceuticals North America              \n \n \n \n \n \n \n \n \n \nPAGE X OF X \nProtocol Number: VRX-RET-E22-304  \n \nProgram Path/sas program name  \n \n \n \n \n \n \n \n \n \n \n \nRun Date: \n \n \nFilename: 87272_304_SAP_v2_final \n \npage 70 of 148 \n \n \n \nTABLE 33  NUMBER (%) OF PATIENTS WITH ABNORMAL RESULTS OF PHYSICAL EXAMINATIONS \nSAFETY POPULATION \n \n \nTIMEPOINT \nPHYSICAL \nEXAMINATION \n \n \nRETIGABINE \n (N=XXX) \n \n \n \n \nBASELINE \nLUNGS \nNORMAL \nxx (xx.x%) \n \n \nABNORMAL \nxx (xx.x%) \n \n \n \n \n \nBREAST \nNORMAL \nxx (xx.x%) \n \n \nABNORMAL \nxx (xx.x%) \n \n \n \n \n \nABDOMEN \nNORMAL \nxx (xx.x%) \n \n \nABNORMAL \nxx (xx.x%) \n \n \n \n \n \nGENITALIA \nNORMAL \nxx (xx.x%) \n \n \nABNORMAL \nxx (xx.x%) \n \n \n \n \n \nEXTREMITIES \nNORMAL \nxx (xx.x%) \n \n \nABNORMAL \nxx (xx.x%) \n \n \n \n \n \nOTHER \nNORMAL \nxx (xx.x%) \n \n \nABNORMAL \nxx (xx.x%) \n \n \n \n \n \n \nREPEAT FOR TIMEPOINTS MONTH 12, MONTH 24 AND MONTH 36 \nCONFIDENTIAL\nRM2009/00475/00 \nVRX-RET-E22-304 \n71\n",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "N/A",
+                                                "Title": "Table 34 Number (%) of Patients with Abnormal Results of Neurological Examinations",
+                                                "Content": "Valeant Pharmaceuticals North America \nStatistical Analysis Plan \nVRX-RET-E22-304 \nVersion 2.0 [Final] \n \n \nValeant Pharmaceuticals North America              \n \n \n \n \n \n \n \n \n \nPAGE X OF X \nProtocol Number: VRX-RET-E22-304  \n \nProgram Path/sas program name  \n \n \n \n \n \n \n \n \n \n \n \nRun Date: \n \n \nFilename: 87272_304_SAP_v2_final \n \npage 72 of 148 \n \n \n \nTABLE 34  NUMBER (%) OF PATIENTS WITH ABNORMAL RESULTS OF NEUROLOGICAL EXAMINATIONS \nSAFETY POPULATION \n \n \nTIMEPOINT \n \n \nRETIGABINE \n (N=XXX) \n \n \n \n \nBASELINE \nNEUROLOGICAL EXAMINATION - COMPLETE \n \n \n \nREFLEXES \n \n \n \nBICEPS \nNORMAL \nxx (xx.x%) \n \n \nABNORMAL \nxx (xx.x%) \n \n \n \n \n \nBRACHIORADIALIS \nNORMAL \nxx (xx.x%) \n \n \nABNORMAL \nxx (xx.x%) \n \n \n \n \n \nTRICEPS \nNORMAL \nxx (xx.x%) \n \n \nABNORMAL \nxx (xx.x%) \n \n \n \n \n \nKNEE \nNORMAL \nxx (xx.x%) \n \n \nABNORMAL \nxx (xx.x%) \n \n \n \n \n \nANKLE \nNORMAL \nxx (xx.x%) \n \n \nABNORMAL \nxx (xx.x%) \n \n \n \n \n \nPLANTAR \nNORMAL \nxx (xx.x%) \n \n \nABNORMAL \nxx (xx.x%) \n \n \n \n \n \nSTERNOCLEIDOMASTOID, TRAPEZIUS \nNORMAL \nxx (xx.x%) \n \n \nABNORMAL \nxx (xx.x%) \n \n \n \n \n \nMOTOR SYSTEM \n \n \n \nGENERAL MOVEMENT \nNORMAL \nxx (xx.x%) \n \n \nABNORMAL \nxx (xx.x%) \n \n \n \n \n \nMUSCLE BULK/MASS \nNORMAL \nxx (xx.x%) \n \n \nABNORMAL \nxx (xx.x%) \n \n \n \n \n \nMUSCLE FASCICULATION \nNORMAL \nxx (xx.x%) \n \n \nABNORMAL \nxx (xx.x%) \n \n \n \n \n \n \n \n \n \nCONFIDENTIAL\nRM2009/00475/00 \nVRX-RET-E22-304 \n73\nValeant Pharmaceuticals North America \nStatistical Analysis Plan \nVRX-RET-E22-304 \nVersion 2.0 [Final] \n \n \nValeant Pharmaceuticals North America              \n \n \n \n \n \n \n \n \n \nPAGE X OF X \nProtocol Number: VRX-RET-E22-304  \n \nProgram Path/sas program name  \n \n \n \n \n \n \n \n \n \n \n \nRun Date: \n \n \nFilename: 87272_304_SAP_v2_final \n \npage 73 of 148 \n \n \nTABLE 34  NUMBER (%) OF PATIENTS WITH ABNORMAL RESULTS OF NEUROLOGICAL EXAMINATIONS \nSAFETY POPULATION \n \n \nTIMEPOINT \n \n \nRETIGABINE \n (N=XXX) \n \n \n \n \nBASELINE \nNEUROLOGICAL EXAMINATION - COMPLETE \n \n \n \nMUSCLE STRENGTH \n \n \n \nTRUNK   \nNORMAL \nxx (xx.x%) \n \n \nABNORMAL \nxx (xx.x%) \n \n \n \n \n \nUPPER EXTREMITIES \nNORMAL \nxx (xx.x%) \n \n \nABNORMAL \nxx (xx.x%) \n \n \n \n \n \nLOWER EXTREMITIES   \nNORMAL \nxx (xx.x%) \n \n \nABNORMAL \nxx (xx.x%) \n \n \n \n \n \nMUSCLE TONE \n \n \n \nUPPER EXTREMITIES \nNORMAL \nxx (xx.x%) \n \n \nABNORMAL \nxx (xx.x%) \n \n \n \n \n \nLOWER EXTREMITIES \nNORMAL \nxx (xx.x%) \n \n \nABNORMAL \nxx (xx.x%) \n \n \n \n \n \nCOORDINATION/CEREBELLAR FUNCTION \n \n \n \nGAIT  \nNORMAL \nxx (xx.x%) \n \n \nABNORMAL \nxx (xx.x%) \n \n \n \n \n \nHOPPING                        \nNORMAL \nxx (xx.x%) \n \n \nABNORMAL \nxx (xx.x%) \n \n \n \n \n \nROMBERG                        \nNORMAL \nxx (xx.x%) \n \n \nABNORMAL \nxx (xx.x%) \n \n \n \n \n \nNYSTAGMUS                      \nNORMAL \nxx (xx.x%) \n \n \nABNORMAL \nxx (xx.x%) \n \n \n \n \n \nTREMOR                         \nNORMAL \nxx (xx.x%) \n \n \nABNORMAL \nxx (xx.x%) \n \n \n \n \nCONFIDENTIAL\nRM2009/00475/00 \nVRX-RET-E22-304 \n74\nValeant Pharmaceuticals North America \nStatistical Analysis Plan \nVRX-RET-E22-304 \nVersion 2.0 [Final] \n \n \nValeant Pharmaceuticals North America              \n \n \n \n \n \n \n \n \n \nPAGE X OF X \nProtocol Number: VRX-RET-E22-304  \n \nProgram Path/sas program name  \n \n \n \n \n \n \n \n \n \n \n \nRun Date: \n \n \nFilename: 87272_304_SAP_v2_final \n \npage 74 of 148 \n \n \n \n \nTABLE 34  NUMBER (%) OF PATIENTS WITH ABNORMAL RESULTS OF NEUROLOGICAL EXAMINATIONS \nSAFETY POPULATION \n \n \nTIMEPOINT \n \n \nRETIGABINE \n (N=XXX) \n \n \n \n \nBASELINE \nNEUROLOGICAL EXAMINATION - COMPLETE \n \n \n \nCOORDINATION/CEREBELLAR FUNCTION \n \n \n \nFINGER-NOSE \nNORMAL \nxx (xx.x%) \n \n \nABNORMAL \nxx (xx.x%) \n \n \n \n \n \nHEEL-SHIN \nNORMAL \nxx (xx.x%) \n \n \nABNORMAL \nxx (xx.x%) \n \n \n \n \n \nRAPID RHYTHMIC MOVEMENTS \nNORMAL \nxx (xx.x%) \n \n \nABNORMAL \nxx (xx.x%) \n \n \n \n \n \nSENSATION: UPPER EXTREMITIES \n \n \n \nPAIN/TEMPERATURE   \nNORMAL \nxx (xx.x%) \n \n \nABNORMAL \nxx (xx.x%) \n \n \n \n \n \nLIGHT TOUCH \nNORMAL \nxx (xx.x%) \n \n \nABNORMAL \nxx (xx.x%) \n \n \n \n \n \nPOSITION \nNORMAL \nxx (xx.x%) \n \n \nABNORMAL \nxx (xx.x%) \n \n \n \n \n \nVIBRATION                \nNORMAL \nxx (xx.x%) \n \n \nABNORMAL \nxx (xx.x%) \n \n \n \n \n \nSENSATION: LOWER EXTREMITIES \n \n \n \nPAIN/TEMPERATURE   \nNORMAL \nxx (xx.x%) \n \n \nABNORMAL \nxx (xx.x%) \n \n \n \n \n \nLIGHT TOUCH \nNORMAL \nxx (xx.x%) \n \n \nABNORMAL \nxx (xx.x%) \n \n \n \n \n \n \nCONFIDENTIAL\nRM2009/00475/00 \nVRX-RET-E22-304 \n75\nValeant Pharmaceuticals North America \nStatistical Analysis Plan \nVRX-RET-E22-304 \nVersion 2.0 [Final] \n \n \nValeant Pharmaceuticals North America              \n \n \n \n \n \n \n \n \n \nPAGE X OF X \nProtocol Number: VRX-RET-E22-304  \n \nProgram Path/sas program name  \n \n \n \n \n \n \n \n \n \n \n \nRun Date: \n \n \nFilename: 87272_304_SAP_v2_final \n \npage 75 of 148 \n \n \n \n \nTABLE 34  NUMBER (%) OF PATIENTS WITH ABNORMAL RESULTS OF NEUROLOGICAL EXAMINATIONS \nSAFETY POPULATION \n \n \nTIMEPOINT \n \n \nRETIGABINE \n (N=XXX) \n \n \n \n \nBASELINE \nNEUROLOGICAL EXAMINATION - COMPLETE \n \n \n \nSENSATION: LOWER EXTREMITIES \n \n \n \nPOSITION \nNORMAL \nxx (xx.x%) \n \n \nABNORMAL \nxx (xx.x%) \n \n \n \n \n \nVIBRATION                \nNORMAL \nxx (xx.x%) \n \n \nABNORMAL \nxx (xx.x%) \n \n \n \n \nMONTH 1 \nNEUROLOGICAL EXAMINATION - BRIEF \n \n \n \nGENERAL \n \n \n \nLEVEL OF CONSCIOUSNESS \nNORMAL \nxx (xx.x%) \n \n \nABNORMAL \nxx (xx.x%) \n \n \n \n \n \nMENTAL STATUS \nNORMAL \nxx (xx.x%) \n \n \nABNORMAL \nxx (xx.x%) \n \n \n \n \n \nREFLEXES \n \n \n \nBICEPS \nNORMAL \nxx (xx.x%) \n \n \nABNORMAL \nxx (xx.x%) \n \n \n \n \n \nKNEE \nNORMAL \nxx (xx.x%) \n \n \nABNORMAL \nxx (xx.x%) \n \n \n \n \n \nMOTOR SYSTEM \n \n \n \nGENERAL MOVEMENT \nNORMAL \nxx (xx.x%) \n \n \nABNORMAL \nxx (xx.x%) \n \n \n \n \n \n \n \nCONFIDENTIAL\nRM2009/00475/00 \nVRX-RET-E22-304 \n76\nValeant Pharmaceuticals North America \nStatistical Analysis Plan \nVRX-RET-E22-304 \nVersion 2.0 [Final] \n \n \nValeant Pharmaceuticals North America              \n \n \n \n \n \n \n \n \n \nPAGE X OF X \nProtocol Number: VRX-RET-E22-304  \n \nProgram Path/sas program name  \n \n \n \n \n \n \n \n \n \n \n \nRun Date: \n \n \nFilename: 87272_304_SAP_v2_final \n \npage 76 of 148 \n \n \n \n \nTABLE 34  NUMBER (%) OF PATIENTS WITH ABNORMAL RESULTS OF NEUROLOGICAL EXAMINATIONS \nSAFETY POPULATION \n \n \nTIMEPOINT \n \n \nRETIGABINE \n (N=XXX) \n \n \n \n \nMONTH 1 \nNEUROLOGICAL EXAMINATION - BRIEF \n \n \n \nCOORDINATION/CEREBELLAR FUNCTION \n \n \n \nGAIT  \nNORMAL \nxx (xx.x%) \n \n \nABNORMAL \nxx (xx.x%) \n \n \n \n \n \nHOPPING                        \nNORMAL \nxx (xx.x%) \n \n \nABNORMAL \nxx (xx.x%) \n \n \n \n \n \nROMBERG                        \nNORMAL \nxx (xx.x%) \n \n \nABNORMAL \nxx (xx.x%) \n \n \n \n \n \nNYSTAGMUS                      \nNORMAL \nxx (xx.x%) \n \n \nABNORMAL \nxx (xx.x%) \n \n \n \n \n \nTREMOR                         \nNORMAL \nxx (xx.x%) \n \n \nABNORMAL \nxx (xx.x%) \n \n \n \n \n \nFINGER-NOSE \nNORMAL \nxx (xx.x%) \n \n \nABNORMAL \nxx (xx.x%) \n \n \n \n \n \nHEEL-SHIN \nNORMAL \nxx (xx.x%) \n \n \nABNORMAL \nxx (xx.x%) \n \n \n \n \n \nRAPID RHYTHMIC MOVEMENTS \nNORMAL \nxx (xx.x%) \n \n \n \n \n \n \nREPEAT IN ORDER OF VISITS USING THE PROPER FORMAT OF COMPLETE OR BRIEF DEPENDING UPON VISIT IE. BASELINE (COMPLETE), MONTH 1 (BRIEF), \nMONTH 3 (BRIEF), MONTH 6 (BRIEF), MONTH 9 (BRIEF), MONTH 12 (COMPLETE), MONTH 16 (BRIEF), MONTH 20 (BRIEF), MONTH 24 (COMPLETE), MOTH \n28 (BRIEF), MONTH 32 (BRIEF), MONTH 36 (COMPLETE) \nCONFIDENTIAL\nRM2009/00475/00 \nVRX-RET-E22-304 \n77\n",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "N/A",
+                                                "Title": "Table 35 Number (%) of Patients with Abnormal AUA Symptom Index",
+                                                "Content": "Valeant Pharmaceuticals North America \nStatistical Analysis Plan \nVRX-RET-E22-304 \nVersion 2.0 [Final] \n \n \nValeant Pharmaceuticals North America              \n \n \n \n \n \n \n \n \n \nPAGE X OF X \nProtocol Number: VRX-RET-E22-304  \n \nProgram Path/sas program name  \n \n \n \n \n \n \n \n \n \n \n \nRun Date: \n \n \nFilename: 87272_304_SAP_v2_final \n \npage 78 of 148 \n \n \n \nTABLE 35  NUMBER (%) OF PATIENTS WITH ABNORMAL AUA SYMPTOM INDEX \nSAFETY POPULATION \n \n \nTIMEPOINT \n \nRETIGABINE \n (N=XXX) \n \n \n \nBASELINE \n5. HOW OFTEN HAVE YOU HAD A WEAK URINARY STREAM? \n \n \nNOT AT ALL \nxx (xx.x%) \n \nLESS THAN 1 TIME IN 5 \nxx (xx.x%) \n \nLESS THAN HALF TIME \nxx (xx.x%) \n \nABOUT HALF THE TIME \nxx (xx.x%) \n \nMORE THAN HALF THE TIME \nxx (xx.x%) \n \nALMOST ALWAYS \nxx (xx.x%) \n \n \n \n \n6. HOW OFTEN HAVE YOU HAD TO PUSH OR STRAIN TO BEGIN URINATION? \n \n \nNOT AT ALL \nxx (xx.x%) \n \nLESS THAN 1 TIME IN 5 \nxx (xx.x%) \n \nLESS THAN HALF TIME \nxx (xx.x%) \n \nABOUT HALF THE TIME \nxx (xx.x%) \n \nMORE THAN HALF THE TIME \nxx (xx.x%) \n \nALMOST ALWAYS \nxx (xx.x%) \n \n \n \n \n7. HOW MANY TIMES DID YOU MOST TYPICALLY GET UP TO URINATE FROM THE TIME YOU WENT TO BED UNTIL \nTHE TIME YOU GOT UP? \n \n \nNONE \nxx (xx.x%) \n \n1 TIME   \nxx (xx.x%) \n \n2 TIMES \nxx (xx.x%) \n \n3 TIMES \nxx (xx.x%) \n \n4 TIMES \nxx (xx.x%) \n \n5 TIMES OR MORE \nxx (xx.x%) \n \n \n \n    \n \nREPEAT FOR TIMEPOINTS MONTH 1, MONTH 3 AND MONTH 12 \n \n \n \n \n \nCONFIDENTIAL\nRM2009/00475/00 \nVRX-RET-E22-304 \n79\n",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "N/A",
+                                                "Title": "Table 36 Descriptive Statistics of Raw Overall AUA Scores",
+                                                "Content": "",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "N/A",
+                                                "Title": "Table 37 Number (%) of Patients Who Had Mild, Moderate, Severe AUA Scores",
+                                                "Content": "",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "N/A",
+                                                "Title": "Table 38 AUA Category Shift from Baseline",
+                                                "Content": "",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "N/A",
+                                                "Title": "Table 39 Number (%) of Patients with Abnormal PVR Bladder Ultrasound",
+                                                "Content": "",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "N/A",
+                                                "Title": "Table 40 Descriptive Statistics of PVR Bladder Ultrasound",
+                                                "Content": "",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "N/A",
+                                                "Title": "Table 41 Number (%) of Patients with a Clinically Significant PVR Bladder Ultrasound",
+                                                "Content": "",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "N/A",
+                                                "Title": "Table 42 Number (%) of Patients Taking Concomitant Medications",
+                                                "Content": "",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "N/A",
+                                                "Title": "Table 43 Observed Means and Standard Deviations of QOL in Epilepsy (Qolie-31-P) and Change from Baseline by Month",
+                                                "Content": "",
+                                                "Sub-sections": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "Header Number": "11",
+                                        "Title": "Figure Shells",
+                                        "Content": "",
+                                        "Sub-sections": [
+                                            {
+                                                "Header Number": "N/A",
+                                                "Title": "Figure 1 Median Percent Reduction from Baseline in Seizure Frequency Over Time by Duration of Treatment Exposure",
+                                                "Content": "",
+                                                "Sub-sections": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "Header Number": "12",
+                                        "Title": "Patient Data Listing Shells",
+                                        "Content": "",
+                                        "Sub-sections": [
+                                            {
+                                                "Header Number": "N/A",
+                                                "Title": "Listing 1 Patient Withdrawal/Study Completion",
+                                                "Content": "Valeant Pharmaceuticals North America \nStatistical Analysis Plan \nVRX-RET-E22-304 \nVersion 2.0 [Final] \n \n \nValeant Pharmaceuticals North America              \n \n \n \n \n \n \n \n \n \nPAGE X OF X \nProtocol Number: VRX-RET-E22-304  \n \nProgram Path/sas program name  \n \n \n \n \n \n \n \n \n \n \n \nRun Date: \n \n \nFilename: 87272_304_SAP_v2_final \n \npage 91 of 148 \n \n \n \n \n \n \n \n \n \n \n \nCONFIDENTIAL\nRM2009/00475/00 \nVRX-RET-E22-304 \n92\n",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "N/A",
+                                                "Title": "Listing 2 Inclusion/Exclusion Criteria/Eligibility",
+                                                "Content": "Valeant Pharmaceuticals North America \nStatistical Analysis Plan \nVRX-RET-E22-304 \nVersion 2.0 [Final] \n \n \nValeant Pharmaceuticals North America              \n \n \n \n \n \n \n \n \n \nPAGE X OF X \nProtocol Number: VRX-RET-E22-304  \n \nProgram Path/sas program name  \n \n \n \n \n \n \n \n \n \n \n \nRun Date: \n \n \nFilename: 87272_304_SAP_v2_final \n \npage 93 of 148 \n \n \n \n \n \n \nCONFIDENTIAL\nRM2009/00475/00 \nVRX-RET-E22-304 \n94\n",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "N/A",
+                                                "Title": "Listing 3 Demographics and Baseline Characteristics",
+                                                "Content": "Valeant Pharmaceuticals North America \nStatistical Analysis Plan \nVRX-RET-E22-304 \nVersion 2.0 [Final] \n \n \nValeant Pharmaceuticals North America              \n \n \n \n \n \n \n \n \n \nPAGE X OF X \nProtocol Number: VRX-RET-E22-304  \n \nProgram Path/sas program name  \n \n \n \n \n \n \n \n \n \n \n \nRun Date: \n \n \nFilename: 87272_304_SAP_v2_final \n \npage 95 of 148 \n \n \n \n \nCONFIDENTIAL\nRM2009/00475/00 \nVRX-RET-E22-304 \n96\n",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "N/A",
+                                                "Title": "Listing 4 Study Medication Compliance",
+                                                "Content": "Valeant Pharmaceuticals North America \nStatistical Analysis Plan \nVRX-RET-E22-304 \nVersion 2.0 [Final] \n \n \nValeant Pharmaceuticals North America              \n \n \n \n \n \n \n \n \n \nPAGE X OF X \nProtocol Number: VRX-RET-E22-304  \n \nProgram Path/sas program name  \n \n \n \n \n \n \n \n \n \n \n \nRun Date: \n \n \nFilename: 87272_304_SAP_v2_final \n \npage 97 of 148 \n \n \n \n \n \n \n \n \n \nCONFIDENTIAL\nRM2009/00475/00 \nVRX-RET-E22-304 \n98\n",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "N/A",
+                                                "Title": "Listing 5 Concomitant Medications Excluding Background\rAnti-Epileptic Drugs (AEDs)",
+                                                "Content": "Valeant Pharmaceuticals North America \nStatistical Analysis Plan \nVRX-RET-E22-304 \nVersion 2.0 [Final] \n \n \nValeant Pharmaceuticals North America              \n \n \n \n \n \n \n \n \n \nPAGE X OF X \nProtocol Number: VRX-RET-E22-304  \n \nProgram Path/sas program name  \n \n \n \n \n \n \n \n \n \n \n \nRun Date: \n \n \nFilename: 87272_304_SAP_v2_final \n \npage 99 of 148 \n \n \n \n \n \n \n \n \n \nCONFIDENTIAL\nRM2009/00475/00 \nVRX-RET-E22-304 \n100\n",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "N/A",
+                                                "Title": "Listing 6 Concomitant Treatments Other Than Medication",
+                                                "Content": "Valeant Pharmaceuticals North America \nStatistical Analysis Plan \nVRX-RET-E22-304 \nVersion 2.0 [Final] \n \n \nValeant Pharmaceuticals North America              \n \n \n \n \n \n \n \n \n \nPAGE X OF X \nProtocol Number: VRX-RET-E22-304  \n \nProgram Path/sas program name  \n \n \n \n \n \n \n \n \n \n \n \nRun Date: \n \n \nFilename: 87272_304_SAP_v2_final \n \npage 101 of 148 \n \n \n \n \n \n \n \n \n \n \n \n \nCONFIDENTIAL\nRM2009/00475/00 \nVRX-RET-E22-304 \n102\n",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "N/A",
+                                                "Title": "Listing 7 Partial Seizure Frequency",
+                                                "Content": "Valeant Pharmaceuticals North America \nStatistical Analysis Plan \nVRX-RET-E22-304 \nVersion 2.0 [Final] \n \n \nValeant Pharmaceuticals North America              \n \n \n \n \n \n \n \n \n \nPAGE X OF X \nProtocol Number: VRX-RET-E22-304  \n \nProgram Path/sas program name  \n \n \n \n \n \n \n \n \n \n \n \nRun Date: \n \n \nFilename: 87272_304_SAP_v2_final \n \npage 103 of 148 \n \n \n \n \n \n \nCONFIDENTIAL\nRM2009/00475/00 \nVRX-RET-E22-304 \n104\n",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "N/A",
+                                                "Title": "Listing 8 Generalized or Unclassified Seizure Frequency",
+                                                "Content": "Valeant Pharmaceuticals North America \nStatistical Analysis Plan \nVRX-RET-E22-304 \nVersion 2.0 [Final] \n \n \nValeant Pharmaceuticals North America              \n \n \n \n \n \n \n \n \n \nPAGE X OF X \nProtocol Number: VRX-RET-E22-304  \n \nProgram Path/sas program name  \n \n \n \n \n \n \n \n \n \n \n \nRun Date: \n \n \nFilename: 87272_304_SAP_v2_final \n \npage 105 of 148 \n \n \n \n \n \nCONFIDENTIAL\nRM2009/00475/00 \nVRX-RET-E22-304 \n106\n",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "N/A",
+                                                "Title": "Listing 9 Extent of Exposure to Study Medication",
+                                                "Content": "",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "N/A",
+                                                "Title": "Listing 10 Adverse Events Coding Dictionary Mapping",
+                                                "Content": "Valeant Pharmaceuticals North America \nStatistical Analysis Plan \nVRX-RET-E22-304 \nVersion 2.0 [Final] \n \n \nValeant Pharmaceuticals North America              \n \n \n \n \n \n \n \n \n \nPAGE X OF X \nProtocol Number: VRX-RET-E22-304  \n \nProgram Path/sas program name  \n \n \n \n \n \n \n \n \n \n \n \nRun Date: \n \n \nFilename: 87272_304_SAP_v2_final \n \npage 108 of 148 \n \n \n \n \n \n \n \n \n \nCONFIDENTIAL\nRM2009/00475/00 \nVRX-RET-E22-304 \n109\n",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "N/A",
+                                                "Title": "Listing 11 Adverse Events",
+                                                "Content": "",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "N/A",
+                                                "Title": "Listing 12 Treatment-Emergent Adverse Events",
+                                                "Content": "",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "N/A",
+                                                "Title": "Listing 13 Treatment-Emergent Adverse Events at Least Possibly Related to Study Medication",
+                                                "Content": "",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "N/A",
+                                                "Title": "Listing 14 Treatment-Emergent Adverse Events that Caused Withdrawal from Study",
+                                                "Content": "",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "N/A",
+                                                "Title": "Listing 15 Treatment-Emergent Adverse Events that Lead to Dose Modification/Interruption",
+                                                "Content": "",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "N/A",
+                                                "Title": "Listing 16 Deaths",
+                                                "Content": "",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "N/A",
+                                                "Title": "Listing 17 Serious Treatment-Emergent Adverse Events",
+                                                "Content": "Valeant Pharmaceuticals North America \nStatistical Analysis Plan \nVRX-RET-E22-304 \nVersion 2.0 [Final] \n \n \nValeant Pharmaceuticals North America              \n \n \n \n \n \n \n \n \n \nPAGE X OF X \nProtocol Number: VRX-RET-E22-304  \n \nProgram Path/sas program name  \n \n \n \n \n \n \n \n \n \n \n \nRun Date: \n \n \nFilename: 87272_304_SAP_v2_final \n \npage 110 of 148 \n \n \n \n \n \n \n \n \n \nCONFIDENTIAL\nRM2009/00475/00 \nVRX-RET-E22-304 \n111\n",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "N/A",
+                                                "Title": "Listing 18 Laboratory Reference Ranges",
+                                                "Content": "Valeant Pharmaceuticals North America \nStatistical Analysis Plan \nVRX-RET-E22-304 \nVersion 2.0 [Final] \n \n \nValeant Pharmaceuticals North America              \n \n \n \n \n \n \n \n \n \nPAGE X OF X \nProtocol Number: VRX-RET-E22-304  \n \nProgram Path/sas program name  \n \n \n \n \n \n \n \n \n \n \n \nRun Date: \n \n \nFilename: 87272_304_SAP_v2_final \n \npage 112 of 148 \n \n \n \n \n \nCONFIDENTIAL\nRM2009/00475/00 \nVRX-RET-E22-304 \n113\n",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "N/A",
+                                                "Title": "Listing 19 Hematology Laboratory Test Results",
+                                                "Content": "Valeant Pharmaceuticals North America \nStatistical Analysis Plan \nVRX-RET-E22-304 \nVersion 2.0 [Final] \n \n \nValeant Pharmaceuticals North America              \n \n \n \n \n \n \n \n \n \nPAGE X OF X \nProtocol Number: VRX-RET-E22-304  \n \nProgram Path/sas program name  \n \n \n \n \n \n \n \n \n \n \n \nRun Date: \n \n \nFilename: 87272_304_SAP_v2_final \n \npage 114 of 148 \n \n \n \n \nFOOTNOTES:                                                                                                              \n* INDICATES A REPEAT VISIT.                                                                                              \nH = HIGH.                                                                                                                \nL = LOW.   \nCONFIDENTIAL\nRM2009/00475/00 \nVRX-RET-E22-304 \n115\nValeant Pharmaceuticals North America \nStatistical Analysis Plan \nVRX-RET-E22-304 \nVersion 2.0 [Final] \n \n \nValeant Pharmaceuticals North America              \n \n \n \n \n \n \n \n \n \nPAGE X OF X \nProtocol Number: VRX-RET-E22-304  \n \nProgram Path/sas program name  \n \n \n \n \n \n \n \n \n \n \n \nRun Date: \n \n \nFilename: 87272_304_SAP_v2_final \n \npage 115 of 148 \n \n \n \nLISTING 19  HEMATOLOGY LABORATORY TEST RESULTS \n \n \nPATIENT \nID \nAGE/GENDER/RACE \nVISIT \nCOLLECTION DATE \n(STUDY DAY) \nMONO \n% \nMONO, \nABS, \nX10E3/UL \nEOS \n% \nEOS,  \nABS \nX10E3/UL \nBASO \n% \nBASO, \nABS \nX10E3/UL \nNEUT \n% \nNEUT, \nABS \nX10E3/UL \nMORPHOLOGY \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nCONFIDENTIAL\nRM2009/00475/00 \nVRX-RET-E22-304 \n116\nThis section contained data from each individual patient, rather than in aggregate. They have been excluded to protect patient privacy. Anonymized \ndata from each patient may be made available subject to an approved research proposal. For further information please see the Patient Level Data \nsection of the Sponsor Clinical Study Register. \nValeant Pharmaceuticals North America \nStatistical Analysis Plan \nVRX-RET-E22-304 \nVersion 2.0 [Final] \n \n \nValeant Pharmaceuticals North America              \n \n \n \n \n \n \n \n \n \nPAGE X OF X \nProtocol Number: VRX-RET-E22-304  \n \nProgram Path/sas program name  \n \n \n \n \n \n \n \n \n \n \n \nRun Date: \n \n \nFilename: 87272_304_SAP_v2_final \n \npage 116 of 148 \n \n \n \n \nFOOTNOTES: \n* INDICATES A REPEAT VISIT.                                                                                              \nH = HIGH.                                                                                                                \nL = LOW. \nCONFIDENTIAL\nRM2009/00475/00 \nVRX-RET-E22-304 \n117\n",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "N/A",
+                                                "Title": "Listing 20 Blood Serum Chemistry Laboratory Test Results",
+                                                "Content": "Valeant Pharmaceuticals North America \nStatistical Analysis Plan \nVRX-RET-E22-304 \nVersion 2.0 [Final] \n \n \nValeant Pharmaceuticals North America              \n \n \n \n \n \n \n \n \n \nPAGE X OF X \nProtocol Number: VRX-RET-E22-304  \n \nProgram Path/sas program name  \n \n \n \n \n \n \n \n \n \n \n \nRun Date: \n \n \nFilename: 87272_304_SAP_v2_final \n \npage 118 of 148 \n \n \n \n \nFOOTNOTES: \n* INDICATES A REPEAT VISIT.                                                                                              \nH = HIGH.                                                                                                                \nL = LOW. \nCONFIDENTIAL\nRM2009/00475/00 \nVRX-RET-E22-304 \n119\nValeant Pharmaceuticals North America \nStatistical Analysis Plan \nVRX-RET-E22-304 \nVersion 2.0 [Final] \n \n \nValeant Pharmaceuticals North America              \n \n \n \n \n \n \n \n \n \nPAGE X OF X \nProtocol Number: VRX-RET-E22-304  \n \nProgram Path/sas program name  \n \n \n \n \n \n \n \n \n \n \n \nRun Date: \n \n \nFilename: 87272_304_SAP_v2_final \n \npage 119 of 148 \n \n \n \nLISTING 20  BLOOD SERUM CHEMISTRY LABORATORY TEST RESULTS \n \n \nPATIENT \nID \nAGE/GENDER/RACE \nVISIT \nCOLLECTION DATE \n(STUDY DAY) \nGLUCOSE \nmg/dL \nTOT. \nPROT. \ng/dL \nURIC ACID \nmg/dL \nCA \nmg/dL \nNA \nmEq/L \nK \nmEq/L \nCl \nmEq/L \nBICARBONATE \nmEq/L \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nCONFIDENTIAL\nRM2009/00475/00 \nVRX-RET-E22-304 \n120\nThis section contained data from each individual patient, rather than in aggregate. They have been excluded to protect patient privacy. Anonymized \ndata from each patient may be made available subject to an approved research proposal. For further information please see the Patient Level Data \nsection of the Sponsor Clinical Study Register. \nValeant Pharmaceuticals North America \nStatistical Analysis Plan \nVRX-RET-E22-304 \nVersion 2.0 [Final] \n \n \nValeant Pharmaceuticals North America              \n \n \n \n \n \n \n \n \n \nPAGE X OF X \nProtocol Number: VRX-RET-E22-304  \n \nProgram Path/sas program name  \n \n \n \n \n \n \n \n \n \n \n \nRun Date: \n \n \nFilename: 87272_304_SAP_v2_final \n \npage 120 of 148 \n \n \n \n \nFOOTNOTES: \n* INDICATES A REPEAT VISIT.                                                                                              \nH = HIGH.                                                                                                                \nL = LOW. \nCONFIDENTIAL\nRM2009/00475/00 \nVRX-RET-E22-304 \n121\n",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "N/A",
+                                                "Title": "Listing 21 Urinalysis Laboratory Test Results",
+                                                "Content": "Valeant Pharmaceuticals North America \nStatistical Analysis Plan \nVRX-RET-E22-304 \nVersion 2.0 [Final] \n \n \nValeant Pharmaceuticals North America              \n \n \n \n \n \n \n \n \n \nPAGE X OF X \nProtocol Number: VRX-RET-E22-304  \n \nProgram Path/sas program name  \n \n \n \n \n \n \n \n \n \n \n \nRun Date: \n \n \nFilename: 87272_304_SAP_v2_final \n \npage 122 of 148 \n \n \n \n \nFOOTNOTES: \n* INDICATES A REPEAT VISIT.                                                                                              \nH = HIGH.                                                                                                                \nL = LOW. \nCONFIDENTIAL\nRM2009/00475/00 \nVRX-RET-E22-304 \n123\n",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "N/A",
+                                                "Title": "Listing 22 ECG Diagnosis/Comments Information",
+                                                "Content": "Valeant Pharmaceuticals North America \nStatistical Analysis Plan \nVRX-RET-E22-304 \nVersion 2.0 [Final] \n \n \nValeant Pharmaceuticals North America              \n \n \n \n \n \n \n \n \n \nPAGE X OF X \nProtocol Number: VRX-RET-E22-304  \n \nProgram Path/sas program name  \n \n \n \n \n \n \n \n \n \n \n \nRun Date: \n \n \nFilename: 87272_304_SAP_v2_final \n \npage 124 of 148 \n \n \n \n \n \n \n \n \n \nCONFIDENTIAL\nRM2009/00475/00 \nVRX-RET-E22-304 \n125\n",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "N/A",
+                                                "Title": "Listing 23 ECG Results",
+                                                "Content": "Valeant Pharmaceuticals North America \nStatistical Analysis Plan \nVRX-RET-E22-304 \nVersion 2.0 [Final] \n \n \nValeant Pharmaceuticals North America              \n \n \n \n \n \n \n \n \n \nPAGE X OF X \nProtocol Number: VRX-RET-E22-304  \n \nProgram Path/sas program name  \n \n \n \n \n \n \n \n \n \n \n \nRun Date: \n \n \nFilename: 87272_304_SAP_v2_final \n \npage 126 of 148 \n \n \n \n \n \nFOOTNOTES: \n1 PATIENT HAD AN INTERVAL >500MSEC OR CHANGE FROM BASELINE IN QTC INTERVAL >60MSEC \nCONFIDENTIAL\nRM2009/00475/00 \nVRX-RET-E22-304 \n127\n",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "N/A",
+                                                "Title": "Listing 24 ECGs Not Performed and Their Reason for Not Performing",
+                                                "Content": "Valeant Pharmaceuticals North America \nStatistical Analysis Plan \nVRX-RET-E22-304 \nVersion 2.0 [Final] \n \n \nValeant Pharmaceuticals North America              \n \n \n \n \n \n \n \n \n \nPAGE X OF X \nProtocol Number: VRX-RET-E22-304  \n \nProgram Path/sas program name  \n \n \n \n \n \n \n \n \n \n \n \nRun Date: \n \n \nFilename: 87272_304_SAP_v2_final \n \npage 128 of 148 \n \n \n \n \n \n \n \n \n \nCONFIDENTIAL\nRM2009/00475/00 \nVRX-RET-E22-304 \n129\n",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "N/A",
+                                                "Title": "Listing 25 ECG Results For Patients with QTc Interval >500msec or Change From Baseline in QTc Interval >60msec",
+                                                "Content": "Valeant Pharmaceuticals North America \nStatistical Analysis Plan \nVRX-RET-E22-304 \nVersion 2.0 [Final] \n \n \nValeant Pharmaceuticals North America              \n \n \n \n \n \n \n \n \n \nPAGE X OF X \nProtocol Number: VRX-RET-E22-304  \n \nProgram Path/sas program name  \n \n \n \n \n \n \n \n \n \n \n \nRun Date: \n \n \nFilename: 87272_304_SAP_v2_final \n \npage 130 of 148 \n \n \n \n \n \n \nFOOTNOTES: \n1 PATIENT HAD AN INTERVAL >500MSEC OR CHANGE FROM BASELINE IN QTC INTERVAL >60MSEC \nCONFIDENTIAL\nRM2009/00475/00 \nVRX-RET-E22-304 \n131\n",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "N/A",
+                                                "Title": "Listing 26 Vital Signs",
+                                                "Content": "Valeant Pharmaceuticals North America \nStatistical Analysis Plan \nVRX-RET-E22-304 \nVersion 2.0 [Final] \n \n \nValeant Pharmaceuticals North America              \n \n \n \n \n \n \n \n \n \nPAGE X OF X \nProtocol Number: VRX-RET-E22-304  \n \nProgram Path/sas program name  \n \n \n \n \n \n \n \n \n \n \n \nRun Date: \n \n \nFilename: 87272_304_SAP_v2_final \n \npage 132 of 148 \n \n \n \n \n \n \n \nFOOTNOTE: \n* INDICATES A >=7% INCREASE IN BODY WEIGHT FROM BASELINE \nCONFIDENTIAL\nRM2009/00475/00 \nVRX-RET-E22-304 \n133\n",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "N/A",
+                                                "Title": "Listing 27 Abnormal Physical Examination Results",
+                                                "Content": "Valeant Pharmaceuticals North America \nStatistical Analysis Plan \nVRX-RET-E22-304 \nVersion 2.0 [Final] \n \n \nValeant Pharmaceuticals North America              \n \n \n \n \n \n \n \n \n \nPAGE X OF X \nProtocol Number: VRX-RET-E22-304  \n \nProgram Path/sas program name  \n \n \n \n \n \n \n \n \n \n \n \nRun Date: \n \n \nFilename: 87272_304_SAP_v2_final \n \npage 134 of 148 \n \n \n \n \n \nCONFIDENTIAL\nRM2009/00475/00 \nVRX-RET-E22-304 \n135\n",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "N/A",
+                                                "Title": "Listing 28 Abnormal Neurological Examination Results",
+                                                "Content": "Valeant Pharmaceuticals North America \nStatistical Analysis Plan \nVRX-RET-E22-304 \nVersion 2.0 [Final] \n \n \nValeant Pharmaceuticals North America              \n \n \n \n \n \n \n \n \n \nPAGE X OF X \nProtocol Number: VRX-RET-E22-304  \n \nProgram Path/sas program name  \n \n \n \n \n \n \n \n \n \n \n \nRun Date: \n \n \nFilename: 87272_304_SAP_v2_final \n \npage 136 of 148 \n \n \n \n \n \n \n \nCONFIDENTIAL\nRM2009/00475/00 \nVRX-RET-E22-304 \n137\n",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "N/A",
+                                                "Title": "Listing 29 AUA Symptom Index",
+                                                "Content": "Valeant Pharmaceuticals North America \nStatistical Analysis Plan \nVRX-RET-E22-304 \nVersion 2.0 [Final] \n \n \nValeant Pharmaceuticals North America              \n \n \n \n \n \n \n \n \n \nPAGE X OF X \nProtocol Number: VRX-RET-E22-304  \n \nProgram Path/sas program name  \n \n \n \n \n \n \n \n \n \n \n \nRun Date: \n \n \nFilename: 87272_304_SAP_v2_final \n \npage 138 of 148 \n \n \nQUESTION 2 HOW OFTEN HAVE YOU HAD TO URINATE AGAIN LESS THAN 2 HOURS AFTER YOU FINISHED URINATING? \nQUESTION 3 HOW OFTEN HAVE YOU FOUND YOU STOPPED AND STARTED AGAIN SEVERAL TIMES WHEN YOU URINATED? \nQUESTION 4 HOW OFTEN HAVE YOU FOUND IT DIFFICULT TO POSTPONE URINATION? \nQUESTION 5 HOW OFTEN HAVE YOU HAD A WEAK URINARY STREAM? \nQUESTION 6 HOW OFTEN HAVE YOU HAD TO PUSH OR STRAIN TO BEGIN URINATION? \nQUESTION 7 HOW MANY TIMES DID YOU MOST TYPICALLY GET UP TO URINATE FROM THE TIME YOU WENT TO BED AT NIGHT UNTIL THE TIME YOU GOT UP? \nCONFIDENTIAL\nRM2009/00475/00 \nVRX-RET-E22-304 \n139\n",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "N/A",
+                                                "Title": "Listing 30 PVR Bladder Ultrasound Results",
+                                                "Content": "Valeant Pharmaceuticals North America \nStatistical Analysis Plan \nVRX-RET-E22-304 \nVersion 2.0 [Final] \n \n \nValeant Pharmaceuticals North America              \n \n \n \n \n \n \n \n \n \nPAGE X OF X \nProtocol Number: VRX-RET-E22-304  \n \nProgram Path/sas program name  \n \n \n \n \n \n \n \n \n \n \n \nRun Date: \n \n \nFilename: 87272_304_SAP_v2_final \n \npage 140 of 148 \n \n \n \n \n \n \nCONFIDENTIAL\nRM2009/00475/00 \nVRX-RET-E22-304 \n141\n",
+                                                "Sub-sections": []
+                                            },
+                                            {
+                                                "Header Number": "N/A",
+                                                "Title": "Listing 31 Quality of Life in Epilepsy Scores (QOLIE-31-P)",
+                                                "Content": "Valeant Pharmaceuticals North America \nStatistical Analysis Plan \nVRX-RET-E22-304 \nVersion 2.0 [Final] \n \n \nValeant Pharmaceuticals North America              \n \n \n \n \n \n \n \n \n \nPAGE X OF X \nProtocol Number: VRX-RET-E22-304  \n \nProgram Path/sas program name  \n \n \n \n \n \n \n \n \n \n \n \nRun Date: \n \n \nFilename: 87272_304_SAP_v2_final \n \npage 142 of 148 \n \n \n \n \n \n \n \n \nCONFIDENTIAL\nRM2009/00475/00 \nVRX-RET-E22-304 \n143\nValeant Pharmaceuticals North America \nStatistical Analysis Plan \nVRX-RET-E22-304 \nVersion 2.0 [Final] \n \n \nValeant Pharmaceuticals North America              \n \n \n \n \n \n \n \n \n \nPAGE X OF X \nProtocol Number: VRX-RET-E22-304  \n \nProgram Path/sas program name  \n \n \n \n \n \n \n \n \n \n \n \nRun Date: \n \n \nFilename: 87272_304_SAP_v2_final \n \npage 143 of 148 \n \n \n  \nLISTING 31  QUALITY OF LIFE IN EPILEPSY SCORES (QOLIE-31-P) \n \n \n \n \n \n \n----------------PART D---------------- \n-------PART E------- \n--------------PART F------------- \nPATIENT \nID \nAGE/GENDER/RACE \nVISIT \nDATE OF EXAM \n(STUDY DAY) \nQ19 \nQ20 \nQ21 \nQ22 \nQ23 \nQ24 \nQ25 \nQ26 \nQ27 \nQ28 \nQ29 \nQ30 \nQ31 \nQ32 \nQ33 \nQ34 \nQ35 \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nCONFIDENTIAL\nRM2009/00475/00 \nVRX-RET-E22-304 \n144\nThis section contained data from each individual patient, rather than in aggregate. They have been excluded to protect patient privacy. Anonymized \ndata from each patient may be made available subject to an approved research proposal. For further information please see the Patient Level Data \nsection of the Sponsor Clinical Study Register. \nValeant Pharmaceuticals North America \nStatistical Analysis Plan \nVRX-RET-E22-304 \nVersion 2.0 [Final] \n \n \nValeant Pharmaceuticals North America              \n \n \n \n \n \n \n \n \n \nPAGE X OF X \nProtocol Number: VRX-RET-E22-304  \n \nProgram Path/sas program name  \n \n \n \n \n \n \n \n \n \n \n \nRun Date: \n \n \nFilename: 87272_304_SAP_v2_final \n \npage 144 of 148 \n \n \n \n \n \n \n \nCONFIDENTIAL\nRM2009/00475/00 \nVRX-RET-E22-304 \n145\nValeant Pharmaceuticals North America \nStatistical Analysis Plan \nVRX-RET-E22-304 \nVersion 2.0 [Final] \n \n \nValeant Pharmaceuticals North America              \n \n \n \n \n \n \n \n \n \nPAGE X OF X \nProtocol Number: VRX-RET-E22-304  \n \nProgram Path/sas program name  \n \n \n \n \n \n \n \n \n \n \n \nRun Date: \n \n \nFilename: 87272_304_SAP_v2_final \n \npage 145 of 148 \n \n \n  \nLISTING 31   QUALITY OF LIFE IN EPILEPSY SCORES (QOLIE-31-P) \n \n \n \n \n \n \n---PART G--- \nPART H \n--------------------------PART I-------------------------- \nPATIENT ID \nAGE/GENDER/RACE \nVISIT \nDATE OF EXAM \n(STUDY DAY) \nQ36 \nQ37 \nQ38 \nQ39A \nQ39B \nQ39C \nQ39D \nQ39E \nQ39F \nQ39G \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nCONFIDENTIAL\nRM2009/00475/00 \nVRX-RET-E22-304 \n146\nThis section contained data from each individual patient, rather than in aggregate. They have been excluded to protect patient privacy. Anonymized \ndata from each patient may be made available subject to an approved research proposal. For further information please see the Patient Level Data \nsection of the Sponsor Clinical Study Register. \nValeant Pharmaceuticals North America \nStatistical Analysis Plan \nVRX-RET-E22-304 \nVersion 2.0 [Final] \n \n \nValeant Pharmaceuticals North America              \n \n \n \n \n \n \n \n \n \nPAGE X OF X \nProtocol Number: VRX-RET-E22-304  \n \nProgram Path/sas program name  \n \n \n \n \n \n \n \n \n \n \n \nRun Date: \n \n \nFilename: 87272_304_SAP_v2_final \n \npage 146 of 148 \n \n \n \n \n \n \nCONFIDENTIAL\nRM2009/00475/00 \nVRX-RET-E22-304 \n147\nValeant Pharmaceuticals North America \nStatistical Analysis Plan \nVRX-RET-E22-304 \nVersion 2.0 [Final] \n \n \nValeant Pharmaceuticals North America              \n \n \n \n \n \n \n \n \n \nPAGE X OF X \nProtocol Number: VRX-RET-E22-304  \n \nProgram Path/sas program name  \n \n \n \n \n \n \n \n \n \n \n \nRun Date: \n \n \nFilename: 87272_304_SAP_v2_final \n \npage 147 of 148 \n \n \n \n \nLISTING 31  QUALITY OF LIFE IN EPILEPSY SCORES (QOLIE-31-P) \n \n \n \n \n \n----------------------------------------------SCORING---------------------------------------------- \nPATIENT \nID \nAGE/GENDER/RACE \nVISIT \nDATE OF EXAM \n(STUDY DAY) \nSEIZURE \nWORRY \nSCORE \nOVERALL \nQOL SCORE \nEMOTIONAL \nWELL BEING \nENERGY \nFATIGUE \nSCORE \nCOGNITIVE \nSCORE \nMEDICATION \nEFFECTS SCORE \nSOCIAL \nFUNCTIONING \nSCORE \nOVERALL \nSCORE \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nCONFIDENTIAL\nRM2009/00475/00 \nVRX-RET-E22-304 \n148\nThis section contained data from each individual patient, rather than in aggregate. They have been excluded to protect patient privacy. Anonymized data \nfrom each patient may be made available subject to an approved research proposal. For further information please see the Patient Level Data section of \nthe Sponsor Clinical Study Register. \n",
+                                                "Sub-sections": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

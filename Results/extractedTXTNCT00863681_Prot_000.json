@@ -1,0 +1,414 @@
+[
+    {
+        "Header Number": "N/A",
+        "Title": "Title:",
+        "Content": "Long-term extension, multi-centre, multi-national study to evaluate the safety and tolerability of oral BAY 63-2521 (1 mg, 1.5 mg, 2 mg, or 2.5 mg tid) in patients with symptomatic Pulmonary Arterial Hypertension (PAH). PATENT-2 StudyTest Drug:BAY 63-2521 (INN Riociguat)Sponsor\u2019s Name and Address:Bayer HealthCare AGD-51368 LeverkusenStudy Number/Version/Date:12935 / Version 2.0/ 2008-Sep-11The following Amendments have been incorporated into this Integrated Protocol.AMENDMENT NUMBERVERSION NUMBERDATEAmendment 51.010-June-2009Amendment 61.022-March-2010Amendment 81.015-Feb-2011Amendment 111.013-Dec-2012Integrated Protocol /Study number BAY 63-2521/12935/Page 2 of 75Final Version 1.0/ 13 Dec 2012/AMD 11",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "N/A",
+        "Title": "Table of Contents",
+        "Content": ".......................................................................................................................2Glossary and Abbreviations.......................................................................................................41.INTRODUCTION..............................................................................................................62.STUDY OBJECTIVES ......................................................................................................73.INVESTIGATOR(S) AND OTHER STUDY PARTICIPANTS ......................................74.INVESTIGATIONAL PLAN ............................................................................................84.1Study Design and Plan ................................................................................................84.2Selection of Study Population...................................................................................134.2.1Inclusion Criteria ...............................................................................................134.2.2Exclusion Criteria ..............................................................................................134.3Removal of Patients from Study ...............................................................................144.4Premature Termination of Study/Closure of Centre .................................................154.5Treatments.................................................................................................................164.5.1Treatments to be administered...........................................................................164.5.2Identity of Investigational Product(s) ................................................................164.5.3Method of Assigning Patients to Treatment Groups..........................................174.5.4Selection of Doses in the Study .........................................................................174.5.5Selection and Timing of Dose for Each Patient.................................................174.5.6Blinding..............................................................................................................184.5.7Concomitant Therapy.........................................................................................184.5.8Treatment Compliance.......................................................................................214.6Study Variables .........................................................................................................214.6.1Safety Variables.................................................................................................214.6.2Other Variables ..................................................................................................224.6.3Assessment Periods............................................................................................224.6.4Observations and Measurements .......................................................................304.6.5Drug Concentration Measurements ...................................................................374.7Data Quality ..............................................................................................................384.8Documentation ..........................................................................................................385.ETHICAL AND LEGAL ASPECTS ...............................................................................395.1Ethics Committee (EC) or Institutional Review Board (IRB) ..................................395.2Ethical Conduct of the Study ....................................................................................395.3Regulatory Authority Approvals/Authorizations......................................................405.4Patient Information and Consent...............................................................................405.5Insurance ...................................................................................................................405.6Confidentiality...........................................................................................................406.STATISTICAL METHODS AND DETERMINATION OF SAMPLE SIZE ................416.1Statistical and Analytical Plans.................................................................................416.2Determination of Sample Size...................................................................................427.ADVERSE EVENTS .......................................................................................................437.1Contraindications/Warnings/Precautions/Interactions/Undesirable Effects .............43Integrated Protocol /Study number BAY 63-2521/12935/\nPage 3 of 75\nFinal Version 1.0/ 13 Dec 2012/AMD 11\n7.2\nAdverse Event Monitoring........................................................................................46\n7.3\nAdverse Event Definitions ........................................................................................46\n7.3.1\nAdverse Event....................................................................................................46\n7.3.2\nSerious Adverse Event.......................................................................................47\n7.3.3\nUnexpected Adverse Event................................................................................49\n7.3.4\nRelationship of Adverse Event to Investigational Product................................49\n7.3.5\nSeverity of the Adverse Event ...........................................................................50\n7.3.6\nAdverse Event Documentation ..........................................................................51\n7.4\nReporting of Serious Adverse Events/Pregnancy .....................................................51\n7.5\nReporting of Safety Related Events of Special Interest ............................................52\n8.\nUSE OF DATA AND PUBLICATION...........................................................................52\n9.\nREFERENCES.................................................................................................................53\n10.\nAPPENDICES ..............................................................................................................53\n10.1\nStudy Flow Chart ......................................................................................................54\n10.2\nPharmacokinetic Sampling........................................................................................61\n10.3\nBlood Gas Analysis...................................................................................................61\n10.4\n6 Min Walking Distance (6MWD) Test....................................................................62\n10.5\nBorg CR 10 Scale\u00ae or Modified Borg Dyspnoea Scale............................................64\n10.5.1\nBorg CR 10 scale and test instructions ..............................................................64\n10.5.2\nModified Borg Dyspnoea Scale.........................................................................66\n10.6\nWHO functional class ...............................................................................................67\n10.7\nEQ-5D .......................................................................................................................67\n10.8\nLiving with Pulmonary Hypertension questionnaire (LPH) .....................................72\n10.9\nRole of the Steering Committee (SC) .......................................................................74\n10.10\nRole of the Data Monitoring Committee (DMC) ..................................................74\nIntegrated Protocol /Study number BAY 63-2521/12935/Page 4 of 75Final Version 1.0/ 13 Dec 2012/AMD 11",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "N/A",
+        "Title": "Glossary and Abbreviations",
+        "Content": "6MWD6-minute walking distanceAEadverse event or experienceALTalanine aminotransferase (also known as SGPT, qv)ALPalkaline phosphataseASTaspartate aminotransferase (also known as SGOT, qv)CCWconcalc for WindowscGMPcyclic guanosine monophosphateCHECholinesteraseCKcreatine kinaseCRFcase report formeCRFelectronic case report formCTcomputed tomographyCTEPHchronic thromboembolic pulmonary hypertensionCYP3A4cytochrome P450 isoenzyme 3A4 (etc)dDayECethical committeeECGElectrocardiogramegexempli gratia, for exampleEQ-5DEuroQol questionnairegstandard acceleration due to gravity at the Earth's surface, by definition: g = 9.80665 m/sec2GCPGood Clinical PracticeGGTgamma glutamyl transpeptidaseGLDHglutamate dehydrogenasehHourHHeightHDPEHigh Density PolyethylenHEORHealth Economics, Outcomes and ReimbursementHPLChigh pressure liquid chromatographyieid est, that isIRimmediate releaseINRinternational normalized ratio (prothrombin time expressed in relation to normal value)IRBInstitutional Review BoardivIntravenousIVR / IVRSinteractive voice response systemLPHLiving with Pulmonary Hypertension questionnaireM-1metabolite M-1mgMilligrammmHgmillimeter of mercuryMRRMedical Research ReportNONitric oxideNT-proBNPN-terminal pro-brain natriuretic peptideO2OxygenIntegrated Protocol /Study number BAY 63-2521/12935/\nPage 5 of 75\nFinal Version 1.0/ 13 Dec 2012/AMD 11\nPaCO2\narterial partial pressure of carbon dioxide\nPaO2\narterial partial oxygen pressure\nPEA\nPulmonary endarterectomy\nPDE5\nphosphodiesterase type-5\nPH\npulmonary hypertension\nPK\nPharmacokinetic\nPTT\npartial thromboplastin time\nPvO2\nvenous oxygen pressure\nPVOD\nPulmonary-veno-occlusive disease\nQC\nquality control\nSAE\nserious adverse event\nSaO2\noxygen saturation\nSAS\nStatistical Analysis System\nSBP\nsystolic blood pressure\ntid\nter in die (3 times a day)\nWHO\nWorld Health Organization\nIntegrated Protocol /Study number BAY 63-2521/12935/Page 6 of 75Final Version 1.0/ 13 Dec 2012/AMD 11",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "1.",
+        "Title": "INTRODUCTION",
+        "Content": "Please see INTRODUCTION of the BAY 12394 (PATENT-1) protocol.In addition, the following aspects should be considered with respect to the long-term extension trial:Based on the currently available scientific evidence, a large proportion of Pulmonary Artery Hypertension (PAH) patients cannot be cured. Therefore, it can be assumed that their disease will progress over the years, requiring a long-term medical treatment to maintain their quality of life and to increase their life expectancy.Although the experiences with BAY 63-2521 with respect to the treatment of PAH are limited, in the light of the severity of the underlying disease it is justified to offer all patients who participated in the PATENT-1 trial a long-term treatment with BAY 63-2521 (until commercially available).In this context, it should be highlighted that BAY 63-2521 revealed a positive benefit-risk ratio in the trials conducted in Pulmonary Hypertension (PH) patients to date (trials # 11874 and # 12166), allowing continuation of the development program. Moreover, in a first interim analysis of the extension phase of trial # 12166 (includes 21 patients with a BAY 63-2521 treatment up to one year) the improvements in walking distance observed within the first 12 weeks of treatment were sustained without any significant safety concerns.For further information refer to the Investigator Brochure. The Investigator\u2019s Brochure will be updated at regular intervals during the conduct of the trial. New versions of the Investigator\u2019s Brochure will be made available to the investigators without delayIntegrated Protocol /Study number BAY 63-2521/12935/Page 7 of 75Final Version 1.0/ 13 Dec 2012/AMD 11",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "2.",
+        "Title": "STUDY OBJECTIVES",
+        "Content": "To assess the long-term safety and tolerability of BAY 63-2521 in treatment naive patients and patients pretreated with an Endothelin Receptor Antagonist or a Prostacycline Analogue with symptomatic Pulmonary Arterial Hypertension (PAH).The trial provides patients, who have completed 12 weeks of BAY 63-2521 double blind treatment (PATENT-1 trial, #12934), the option of long-term treatment with BAY 63-2521.Efficacy assessments are included to provide an indication of maintenance of efficacy with long-term treatment.",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "3.",
+        "Title": "INVESTIGATOR(S) AND OTHER STUDY PARTICIPANTS",
+        "Content": "Principal Investigator/Coordinating Investigator of the studyName:Address:The Study Manager and the Medical Expert will appoint the coordinating investigator responsible for signing the MRR.Information regarding additional key personnel involved in the conduct of the study, including names and contact details of participating investigators, monitors, clinical laboratories, technical departments and/or institutions, as well as information on members of additional study committees, will be found in the study files of the sponsor and on site if requested.PPDPPDPPDPPDPPDIntegrated Protocol /Study number BAY 63-2521/12935/Page 8 of 75Final Version 1.0/ 13 Dec 2012/AMD 11",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "4.",
+        "Title": "INVESTIGATIONAL PLAN",
+        "Content": "",
+        "Sub-sections": [
+            {
+                "Header Number": "4.1",
+                "Title": "Study Design and Plan",
+                "Content": "Integrated Protocol /Study number BAY 63-2521/12935/\nPage 9 of 75\nFinal Version 1.0/ 13 Dec 2012/AMD 11\nwhich they have received on the last day of PATENT-1, while patients from the \nPlacebo Arm will start at Visit 1 with a BAY 63-2521 dose of 1.0 mg tid.\nTo allow a blinded individual dose titration, the titration will be performed with the \naid of an IVR-System. At each Titration Visit (with the exception of Visit 1) the \ninvestigator needs to decide, based on the patient\u2019s systolic blood pressure, if the \nstudy medication dose should be modified. The respective decision (increase, \nmaintain or decrease dose) must be entered in the IVR-System that will \nautomatically allocate the right dose in accordance with the respective titration \nscheme. Afterwards, the investigator will be informed by the system, which of the \nblinded medication bottles (blinded with respect to the dose) needs to be handed\nover for the next titration period (starts always with the morning dose).\nIndependently from the patient\u2019s allocation to a specific treatment arm in\nPATENT-1, the investigators will apply the following blood pressure based titration \nrules for their dose decision in PATENT-2:\nThe individual study medication dose of the next titration step will be \ndetermined every 2 weeks according to the peripheral SBP measured at trough \nbefore intake of the morning dose under consideration of the following \nalgorithm (= individual dose titration scheme):\n\uf0b7\nIf trough SBP \uf0b395 mmHg, increase dose (+0.5 mg tid).\n\uf0b7\nIf trough SBP 90 - 94 mmHg, maintain dose.\n\uf0b7\nIf trough SBP <90 mmHg without symptoms of hypotension, reduce dose (-\n0.5 mg tid).\n\uf0b7\nIf any SBP <90 mmHg with clinical symptoms of hypotension such as \ndizziness or presyncope, stop study treatment; restart after 24 hours with \nreduced dose (-0.5 mg tid).\nIntegrated Protocol /Study number BAY 63-2521/12935/\nPage 10 of 75\nFinal Version 1.0/ 13 Dec 2012/AMD 11\nIn general, if the investigator requests an increase or decrease of study medication \ndose via the IVR-System, the subsequent dose modification will not exceed \nplus/minus 0.5 mg study medication.\nAlthough the individual dose titration scheme is solely based on the patient\u2019s \nsystolic blood pressure, investigators are obliged to consider in addition the \npatient\u2019s well being. Therefore, it is allowed in case of study medication side \neffects, to suspend a foreseen up-titration step and to maintain the dose.\nTo request an increase of study medication dose is only possible at the planned \nstudy visits Visit 2, Visit 3 and Visit 4.\nThe Titration Phase ends at day 56 (Visit 5). At this visit the actual dose of the \npatients will be unblinded by the IVR-System.\nPatients from the PATENT-1 Placebo Arm:\nFor patients from the PATENT-1 Placebo Arm the starting dose will be 1 mg \nBAY 63-2521 tid. The individual BAY 63-2521 dose will be titrated every 2 weeks \naccording to the peripheral SBP measured at trough before intake of the next\nmorning dose. At the end of the Titration Phase (Visit 5) patients will have reached \nBAY 63-2521 doses between 0.5 mg tid and 2.5 mg tid.\n2 weeks\n2 weeks\n2 weeks\n2 weeks\n2.0 mg tid\n1.5 mg tid\n1 mg tid\nV2\nV1\nV3\nV4\nV5\nVn\nVn\nVn\nVn\nVn\n0.5 mg tid\n1.5 mg tid\n1.0 mg tid\n2.0 mg tid\n2.5 mg tid\n2.5 mg tid\nIntegrated Protocol /Study number BAY 63-2521/12935/\nPage 11 of 75\nFinal Version 1.0/ 13 Dec 2012/AMD 11\nPatients from the PATENT-1 1.5 mg Dose Arm:\nPatients from the PATENT-1 1.5 mg Dose Arm will enter the extension trial on the \nsame dose which they have received on the last day of PATENT-1 (Visit 6).\n\uf0b7\nIn case that starting dose of PATENT-2 is 1.5 mg tid, the individual optimal \nBAY 63-2521 dose will be determined every 2 weeks according to the \nperipheral SBP measured at trough before intake of the next morning dose. At \nthe end of the Titration Phase (Visit 5) respective patients will have reached \nBAY 63-2521 doses between 0.5 mg tid and 2.5 mg tid.\n\uf0b7\nIn case that starting dose of PATENT-2 is 1.0 mg tid or 0.5 mg tid, the dose\ncannot be further increased until Visit 5. If the investigator requests a dose \nincrease above that level via the IVR-System, the patient will undergo a sham \ntitration. Nevertheless, in case that the investigator requests a dose decrease \n(eg for safety reason), dose modifications are possible (i.e. from 1.0 mg tid to \n0.5 mg tid), but without a subsequent re-increase before Visit 5. Patients who \ndo not tolerate the lowest BAY 63-2521 (0.5 mg tid) must be withdrawn from \nthe trial (see section 4.3)\nPatients from the PATENT-1 Individual Dose Titration Arm:\nPatients from the BAY 63-2521 Individual Dose Titration Arm of the PATENT-1 \nstudy will enter the extension trial on the same dose which they have received on the \nlast day of PATENT-1 (Visit 6). Although the investigator will apply during the \n2 weeks\n2 weeks\n2 weeks\n2 weeks\n1.5 mg tid\nV5\nVn\nVn\nVn\nVn\nVn\n0.5 mg tid\n1.5 mg tid\n1.0 mg tid\n2.0 mg tid\n2.5 mg tid\n2.5 mg tid\nV1\nV2\nV3\n2.0 mg tid\nV4\nIntegrated Protocol /Study number BAY 63-2521/12935/\nPage 12 of 75\nFinal Version 1.0/ 13 Dec 2012/AMD 11\nTitration phase the same titration rules as for the PATENT-1 placebo patients, the \nindividual dose cannot be increased above the dose received at last day of\nPATENT-1. If the investigator requests a dose increase above that level via the IVR-\nSystem, the patient will undergo a sham titration. Nevertheless, in case that the \ninvestigator requests a dose decrease (eg for safety reason), dose modifications are\npossible, but without a subsequent re-increase before Visit 5.\nMain-Study Phase (Duration until BAY 63-2521 receives official approval and \nwill be commercially available):\nFrom Visit 5 on (begin of the Main-Study Phase) investigators are allowed to \nmodify the BAY 63-2521 dose in a dose range between 0.5 mg tid and 2.5 mg tid\naccording to the patient\u2019s need. In contrast to the Titration Phase, patients may be \nup-titrated between regular scheduled visits. In this context, investigators have to \nconsider the patient\u2019s blood pressure (refer to the individual dose titration scheme), \npotential BAY 63-2521 side effects and the progression of the underlying\nPulmonary Hypertension.\nSafety Follow Up Phase (30days)\nFor all patients stopping study treatment at any time a Safety Follow Up Visit 30 \ndays after stop of study medication intake should be performed.\nGeneral Note: Stop of study medication and dose reductions for safety reasons (eg \npatient suffers from severe symptomatic hypotension) are allowed at any point in \ntime during the Titration and the Main-Study Phase. In case of intended dose \nreductions the investigator will contact the IVR-System, which can be done \nindependently from any planned study visit, and request a dose reduction (- 0.5 mg \nstudy medication).\n",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "4.2",
+                "Title": "Selection of Study Population",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "4.2.1",
+                        "Title": "Inclusion Criteria",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "4.2.2",
+                        "Title": "Exclusion Criteria",
+                        "Content": "",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "4.3",
+                "Title": "Removal of Patients from Study",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "4.4",
+                "Title": "Premature Termination of Study/Closure of Centre",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "4.5",
+                "Title": "Treatments",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "4.5.1",
+                        "Title": "Treatments to be administered",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "4.5.2",
+                        "Title": "Identity of Investigational Product(s)",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "4.5.3",
+                        "Title": "Method of Assigning Patients to Treatment Groups",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "4.5.4",
+                        "Title": "Selection of Doses in the Study",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "4.5.5",
+                        "Title": "Selection and Timing of Dose for Each Patient",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "4.5.6",
+                        "Title": "Blinding",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "4.5.7",
+                        "Title": "Concomitant Therapy",
+                        "Content": "Integrated Protocol /Study number BAY 63-2521/12935/\nPage 19 of 75\nFinal Version 1.0/ 13 Dec 2012/AMD 11\nconcomitant treatment is allowed). Patients, who require a concomitant Endothelin \nReceptor Antagonists- / Prostacycline Analogues therapy during the Titration Phase\nneed be withdrawn from the study medication (refer to Section 4.3 \u201cRemoval of \nPatients from Study\u201d).\nPatients pre-treated with an Endothelin Receptor Antagonist or a \nProstacycline Analogue from PATENT-1\nIt is not allowed to modify the concomitant Endothelin Receptor Antagonists- / \nProstacycline Analogues therapy (eg dosage, type of medication) during the \nTitration Phase of the trial (After Visit 5 therapy modifications are allowed). \nPatients who require a modification of their Endothelin Receptor Antagonists- / \nProstacycline Analogues therapy during the Titration Phase need to be withdrawn \nfrom the study medication (refer to Section 4.3\u201cRemoval of Patients from Study\u201d).\nOther concomitant therapy\n\uf0a7\nDue to possible pharmacokinetic interactions between BAY 63-2521 and \nstrong CYP3A4 inhibitors (eg Ketoconazol) concomitant treatment should \nbe applied with caution (eg additional blood pressure monitoring). Such \ndrugs may significantly increase BAY 63-2521 plasma concentrations. In \nthis context, dose reduction of BAY 63-2521 should be considered (eg \u2013 0.5 \nmg tid), in particular if the patient suffers a clinical relevant decrease in \nblood pressure (eg systolic blood pressure <90 mmHg with clinical \nsymptoms). For further information refer to the Investigator Brochure.\n\uf0a7\nAntacids like aluminum hydroxide/magnesium hydroxide (eg Maaloxan \u00ae) \nshould not be taken simultaneously with BAY 63-2521, because a negative \nimpact on the bioavailability of the study drug has been observed (please \nrefer to the Investigator Brochure). To avoid such kind of interaction, \nantacids should be taken 1 hour after intake of BAY 63-2521 at the earliest.\nIntegrated Protocol /Study number BAY 63-2521/12935/\nPage 20 of 75\nFinal Version 1.0/ 13 Dec 2012/AMD 11\n\uf0a7\nPre- and co-treatment with Omeprazole led to a  decrease in BAY 63-2521 \nbioavailability, indicating a lower bioavailability of BAY 63-2521 in neutral \nversus acidic milieu (for further information refer to the Investigator \nBrochure).\n\uf0a7\nPreliminary inspection of trough and peak plasma concentrations of \nBAY 63-2521 and BAY 60-4552 (Main BAY 63-2521 metabolite) in a \ncohort of patients treated with bosentan (n=6) compared to the patients not \ntreated \nwith \nbosentan \n(n=66) \nclearly \nindicate \na \ndecrease \nin \nBAY 63-2521/BAY 60-4552 plasma exposure, most probably due to the \nknown CYP3A4 enzyme-inducing effects of concomitant bosentan. \nHowever, patients treated with bosentan profited in about the same \nmagnitude in the 6 minute walk test as patients in the therapy na\u00efve cohort \ndid (for further information refer to the Investigator Brochure, trial 12166).\n\uf0a7\nParticipation at a supportive physical training program, defined as a \nstructured exercise and rehabilitation program supervised by a physician \nand/or a physiotherapist is not allowed during the Titration Phase of the \nstudy. However, later on during the Main Study Phase participation at \nrespective training program is allowed, but need to be documented in the \nelectronic CRF.\nConcomitant treatment in case of clinical deterioration\nIn case of a clinically relevant deterioration of the patient\u2019s signs or symptoms of \npulmonary hypertension the investigator may consider starting an alternative \ntreatment with Endothelin Receptor Antagonists, and/or Prostacycline Analogues, \nand/or Phosphodiesterase Type-5 Inhibitors or to modify a preexisting Prostacycline\nAnalogues treatment (ie increase of number of daily Iloprost inhalations from 6 to 9, \nor increase of Iloprost dosage from 2.5 to 5.0 microgram per inhalation, or start of an \niv Prostacycline Analogue) at any point in time.\n",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "4.5.8",
+                        "Title": "Treatment Compliance",
+                        "Content": "",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "4.6",
+                "Title": "Study Variables",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "4.6.1",
+                        "Title": "Safety Variables",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "4.6.2",
+                        "Title": "Other Variables",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "4.6.3",
+                        "Title": "Assessment Periods",
+                        "Content": "Integrated Protocol /Study number BAY 63-2521/12935/\nPage 23 of 75\nFinal Version 1.0/ 13 Dec 2012/AMD 11\nOn Visit 1 prior to first administration of PATENT-2 study medication, blood \npressure and heart rate will be measured.\nSubsequently, the patients will be allocated via the IVR-System to their individual \nBAY 63-2521 starting dose. In this context, the IVR-System will consider the \npatient\u2019s treatment arm allocation from the PATENT-1 trial (for further details refer \nto Section 4.1).\nTwo to three hours after the first intake of study medication, blood pressure and \nheart rate measurement will be repeated (for further details about the order of the \nprocedures and the temporal relationship refer to Section 10.1).\nBetween six to eight hours after first study medication intake, the patients should\ntake the second dose of study medication (second measurement cycle). One to zero \nhours before intake of second dose of study medication, blood pressure and heart \nrate will be measured, pharmacokinetic blood samples will be collected and a 12-\nlead electrocardiogram will be recorded. 2-3 hours after intake of second dose of \nstudy medication the blood pressure and heart rate should be measured (for further \ndetails about the order of the procedures and the temporal relationship refer to \nSection 10.1).\nIn addition to the measurements related to the measurement cycles, Adverse Events \nwill be questioned and documented. Adverse events that occur before intake of first \ndose of PATENT-2 medication will be allocated to PATENT-1.\nThe study medication should be taken six to eight hours apart. If during the profile \nvisit the systolic blood pressure falls below 90 mmHg with clinical symptoms of \nhypotension such as dizziness or presyncope, the study medication should be \nreduced by 0.5 mg tid or if deemed necessary interrupted (see section 4.1).\nIf there are no medical objections, the patients will be discharged, after the second \nmeasurement cycle (blood pressure and heart rate are the main hemodynamic safety \nparameters that need to be considered). In this context, study medication for the \nnext two weeks will be dispensed.\nIntegrated Protocol /Study number BAY 63-2521/12935/\nPage 24 of 75\nFinal Version 1.0/ 13 Dec 2012/AMD 11\nIn case of medical objections (e.g. low blood pressure) patients should be \nhospitalized until a stable status is achieved (optional hospital stay).\nDuring out-patient treatment until Visit 5, the patients will document the intake of \nthe study medication on a patient diary which they will receive at Visit 1. The \npatients will return the patient diary to the investigator at each study visit until Visit \n5. The exact time points of the last 3 preceding doses before the ambulatory visit \nwill be documented in the CRF.\nNote: All blood pressure, heart rate measurements and ECGs should be performed \nin supine position at rest (for more details refer to Section 4.6.4).\nVisit 2 at Day 14 / Visit 3 at Day 28 / Visit 4 at Day 42a\nadeviations from the scheduled visits of \u00b12 days are permissible\nPatients will return to hospital for an ambulatory assessment every 2 weeks without \ntaking their morning dose of study medication. Before the dose of the study \nmedication will be adjusted according to the titration scheme (refer to Section 4.1), \nblood pressure and heart rate will be measured, blood samples for clinical \nchemistry, hematology, coagulation parameters, NT-pro BNP will be collected, and \na 12-lead electrocardiogram will be recorded.\nSubsequently, based on the patient\u2019s SBP at trough, an individual decision with \nrespect to a dose modification will be made (for further details refer to Section 4.1). \nThe respective decision will be entered into the IVR-System. Afterwards, under \nconsideration of the IVR-System\u2019s reply, the study medication for the next 2 weeks \nwill be dispensed to the patients.\nTwo to three hours after intake of the morning dose of study medication, blood \npressure and heart rate measurement will be repeated (for further details about the \norder of the procedures and the temporal relationship refer to Section 10.1).\nFour to five hours after the intake of the morning dose of study medication 6MWD \nTest and an evaluation of Borg CR 10 Scale or Modified Borg Dyspnoea Scale (if \nIntegrated Protocol /Study number BAY 63-2521/12935/\nPage 25 of 75\nFinal Version 1.0/ 13 Dec 2012/AMD 11\napplicable) will be performed (for further details about the order of the procedures \nand the temporal relationship refer to Section 10.1).\n.\nIn case that the SBP drops after intake of the morning dose below 90 mmHg with \nclinical symptoms of hypotension such as dizziness or presyncope, the study \nmedication should be reduced by 0.5 mg tid or if deemed necessary interrupted for \nsafety reasons (see section 4.1).\nIn addition to the measurements related to the cycle of measurements, the patient\u2019s \nconcomitant medication will be updated, healthcare resource information will be \ncollected, WHO functional class will be assessed,  smoking status and Events of \nSpecial Interest as well as Adverse Events will be questioned and documented in the \nCRF.\nThe patients will be asked to return all unused study medication and the patient \ndiary from the former visit for a compliance check. \nNote: All blood pressure, heart rate measurements and ECGs should be performed \nin supine position at rest (for more details refer to Section 4.6.4).\nVisit 5 at Day 56a\nadeviations from the scheduled visit of \u00b1 2 days are permissible\nPatients will return to hospital for an ambulatory assessment without taking their \nmorning dose of study medication. Before the dose of the study medication will be \nadjusted according to the titration scheme (refer to Section 4.1), blood pressure and \nheart rate will be measured, blood samples for clinical chemistry, hematology, \ncoagulation parameters, NT-pro BNP, and pharmacokinetics will be collected, and a \n12-lead electrocardiogram will be recorded. In addition, the patients will be asked to \ncomplete the EQ-5D and the LPH questionnaires.\nIntegrated Protocol /Study number BAY 63-2521/12935/\nPage 26 of 75\nFinal Version 1.0/ 13 Dec 2012/AMD 11\nSubsequently, based on the patient\u2019s SBP at trough, an individual decision with \nrespect to dose modifications will be made (for further details refer to Section 4.1). \nThe respective decision will be entered into the IVR-System. Afterwards, under \nconsideration of the IVR-System\u2019s reply, the study medication for the next 4 weeks \nwill be dispensed to the patients (Note: from that point in time on, the dose of the \nstudy medication will be unblinded).\nTwo to three hours after intake of the morning dose of study medication, blood \npressure and heart rate measurement will be repeated (for further details about the \norder of the procedures and the temporal relationship refer to Section 10.1).\nFour to five hours after the intake of the morning dose of study medication 6MWD \nTest and an evaluation of Borg CR 10 Scale or Modified Borg Dyspnoea Scale (if \napplicable) will be performed(for further details about the order of the procedures \nand the temporal relationship refer to Section 10.1).\n.\nIn case that the SBP drops after intake of the morning dose below 90 mmHg with \nclinical symptoms of hypotension such as dizziness or presyncope, the study \nmedication should be reduced by 0.5 mg tid or if deemed necessary interrupted for \nsafety reasons (see section 4.1).\nIn addition to the measurements related to the cycle of measurements, the patient\u2019s \nconcomitant medication will be updated, healthcare resource information will be \ncollected, WHO functional class will be assessed, smoking status and Events of \nSpecial Interest as well as Adverse Events will be questioned and documented in the \nCRF.\nThe patients will be asked to return all unused study medication and the patient \ndiary from the former visit for a compliance check. The exact time points of the last \n3 preceding doses before the ambulatory visit will be documented in the CRF.\nIntegrated Protocol /Study number BAY 63-2521/12935/\nPage 27 of 75\nFinal Version 1.0/ 13 Dec 2012/AMD 11\nNote: All blood pressure, heart rate measurements and ECGs should be performed \nin supine position at rest (for more details refer to Section 4.6.4).\nVisit 6 a (changed with amendment 11)\na deviations from the scheduled visit of \u00b1 2 days are permissible \nPatients will return to hospital for an ambulatory assessment at Visit 6 without \ntaking their morning dose of study medication.\nBefore the patients take the morning dose of the study medication, a physical \nexamination will be done and the patient\u2019s weight recorded, blood pressure and \nheart rate will be measured, blood samples for clinical chemistry, hematology, \ncoagulation parameters, blood gas analysis, NT-pro BNP will be collected, and a \n12-lead electrocardiogram will be recorded. In addition, the patients will be asked to \ncomplete the EQ-5D questionnaire.\nSubsequently, the investigator will make a decision (needs to be entered into the \nIVR-System) with respect to the patient\u2019s BAY 63-2521 dose for the next treatment \nperiod. In this context, the investigator will consider the patient\u2019s blood pressure \n(refer to the individual dose titration scheme Section 4.1), potential BAY 63-2521 \nside effects and the progression of the underlying Pulmonary Hypertension.\nTwo to three hours after intake of the morning dose of study medication, blood \npressure and heart rate measurement will be repeated (for further details about the \norder of the procedures and the temporal relationship refer to Section 10.1).\nFour to five hours after the intake of the morning dose of study medication 6MWD \nTest and an evaluation of Borg CR 10 Scale or Modified Borg Dyspnoea Scale (if \napplicable) will be performed (for further details about the order of the procedures \nand the temporal relationship refer to Section 10.1).\nIn case that the SBP drops after intake of the morning dose below 90 mmHg with \nclinical symptoms of hypotension such as dizziness or presyncope, the study \nIntegrated Protocol /Study number BAY 63-2521/12935/\nPage 28 of 75\nFinal Version 1.0/ 13 Dec 2012/AMD 11\nmedication should be reduced by 0.5 mg tid or if deemed necessary interrupted for \nsafety reasons (see section 4.1).\nIn addition to the measurements related to the cycle of measurements, the patient\u2019s \nconcomitant medication will be updated, healthcare resource information will be \ncollected, WHO functional class will be assessed, smoking status and Events of \nSpecial Interest as well as Adverse Events will be questioned and documented in the \nCRF.\nThe patients will be asked to return all unused study medication.\nFor female patients with child bearing potential a pregnancy test will be performed.\nUnblinded study medication will be dispensed for the next 90 days.\nNote: All blood pressure, heart rate measurements and ECGs should be performed \nin supine position at rest (for more details refer to Section 4.6.4).\nVisit 7 \u2013 Vn (every 90 days)a* (added with amendment 11)\na deviations from the scheduled visit of \u00b1 14 days are permissible \nPatients will return to hospital for an ambulatory assessment without taking their \nmorning dose of study medication.\nBefore the patients take the morning dose of the study medication, a physical \nexamination will be done and the patient\u2019s weight recorded, blood pressure and \nheart rate will be measured.\nSubsequently, the investigator will make a decision (needs to be entered into the \nIVR-System) with respect to the patient\u2019s BAY 63-2521 dose for the next treatment \nperiod. In this context, the investigator will consider the patient\u2019s blood pressure \n(refer to the individual dose titration scheme Section 4.1), potential BAY 63-2521 \nside effects and the progression of the underlying Pulmonary Hypertension.\nIntegrated Protocol /Study number BAY 63-2521/12935/\nPage 29 of 75\nFinal Version 1.0/ 13 Dec 2012/AMD 11\nOne hour after the intake of the morning dose of study medication 6MWD Test will \nbe performed. \nIn case that the SBP drops below 90 mmHg with clinical symptoms of hypotension \nsuch as dizziness or presyncope, the study medication should be reduced by 0.5 mg \ntid or if deemed necessary interrupted for safety reasons (see section 4.1).\nIn addition to the measurements related to the cycle of measurements, the patient\u2019s \nconcomitant medication will be updated, WHO functional class will be assessed and \nEvents of Special Interest as well as Adverse Events will be questioned and \ndocumented in the CRF.\nThe patients will be asked to return all unused study medication.\nFor female patients with child bearing potential a pregnancy test  must be performed \nlocally.\nUnblinded study medication will be dispensed for the next 90 days.\nNote: All blood pressure, heart rate measurements should be performed in supine \nposition at rest (for more details refer to Section 4.6.4).\nTermination Visit\nIn case the decision has been made to stop the study medication prematurely or if \nthe sponsor announces the official end of the study, a Termination Visit should be \nperformed at the respective point in time or as soon as possible after stop of \nmedication. In general, at the Termination Visit the same efficacy and safety \nrelevant measurements should be performed as at Visit n (Exception: no pregnancy \ntest needs to be performed). In particular, every effort should be made to perform \nthe 6MWD Test. Deviations need to be documented in the electronic CRF.\n",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "4.6.4",
+                        "Title": "Observations and Measurements",
+                        "Content": "Integrated Protocol /Study number BAY 63-2521/12935/\nPage 31 of 75\nFinal Version 1.0/ 13 Dec 2012/AMD 11\nClinical chemistry (AST, ALT, ALP, GGT, GLDH, CK, lipase, CHE, creatinine, \nurea, uric acid, total bilirubin, total protein, serum albumin, sodium, potassium, \ncalcium, phosphate)\nNote: Calcium and phosphate will only be analyzed for patients who were included \nunder amendment 8 of study 12934.\nFrequency: At every visit until V6 (except Visit 1)\n\uf0b7\nNT-proBNP\nFrequency: At every visit until V6 with the exception of Visit 1 and Safety Follow \nUp Visit\nChanges from baseline NT-proBNP will be considered as a secondary efficacy \nendpoint in PATENT-1. To ensure the blinding of the treatment regime of \nPATENT-1, the results of the NT-pro BNP determinations at PATENT -2 Visits 2-5 \nwill not be forwarded to the investigators before lock of the PATENT-1 database. In \ncontrast to that the results of the NT-pro BNP determination at PATENT-2, Visit 6 \nwill be forwarded to the investigators.\n\uf0b7\nPregnancy testing\nMethodology: Determination of \u00df- human chorionic gonadotropin in blood serum or \nurine\nFrequency: Will be performed centrally at Visit 6 and locally at least at every Main-\nStudy Phase Visit (V7-Vn) and at Safety Follow Up Visit. Based on country \nspecific regulations further measurements might be performed.\nIn addition to the above mentioned serum \u00df- human chorionic gonadotropin tests, a \nurine test will be performed at Visit 6 of PATENT-1 study if the patient will \nIntegrated Protocol /Study number BAY 63-2521/12935/\nPage 32 of 75\nFinal Version 1.0/ 13 Dec 2012/AMD 11\nparticipate in the extension study. Female patients with childbearing potential can \nbe enrolled into the extension study based on the result of this test.\nBlood gas analysis\nSaO2(%)\nPaO2(mmHg\nPaCO2(mmHg)\nSupplemental oxygen  \u201cyes\u201d or \u201cno\u201d (If the patient receives supplemental oxygen \nthe amount will be recorded in the electronic CRF in liter per minute)\nMethodology: Capillary or arterial blood gas analysis\nFrequency: At V6 \nBlood pressure and heart rate measurement\nBlood pressure and heart rate will be measured after the patient has been at rest for \n10 minutes in a supine position. The same arm is always used for these \nmeasurements.\nMethodology: \nNon \ninvasive \nmeasurement \npreferably \nwith \na \nmercury \nsphygmomanometer or a validated electronic device in accordance with published \nguidelines (eg American Heart Association. Recommendations for Blood Pressure \nMeasurement in Humans and Experimental Animals. Hypertension 2005;45;142-\n161)\nFrequency: At every visit\nPoint in time: For details refer to appendix 10.1\nElectrocardiography\nFor deriving the ECGs the patient should always be in supine position. The ECGs \nshould be derived after a resting period of 15 min. The ECGs for the study will be \nIntegrated Protocol /Study number BAY 63-2521/12935/\nPage 33 of 75\nFinal Version 1.0/ 13 Dec 2012/AMD 11\ntransferred electronically and assessed centrally. In addition, the investigator will \nprint-out the ECGs locally and review the ECGs for potential AEs.\nECG procedures will be described in a separate manual.\nMethodology: 12 lead ECG\nFrequency: Every visit until V6\nPoint in time: For details refer to appendix 10.1\nExercise Testing / 6 Min Walking Distance (6MWD) Test\nThe 6 Min Walking Distance Test will be performed in accordance with the\nAmerican Thoracic Society Guideline. \nMethodology: During the Titration Phase the test has to be performed by a second \nperson who is not involved in the process of study drug titration and is unaware of \nthe immediate reaction of the patient\u2019s blood pressure and heart rate after dosing. \nThis person will enter the test results on a separate work sheet and a different person\n(could be the same person as involved in titration) will enter them into the electronic \nCRF.\nFrequency: At every visit with the exception of Visit 1 and Safety Follow-Up Visit\nPoint in time: For details refer to section 4.6.3and appendix 10.1For further details \nrefer to Section 10.4.\nBorg CR 10 Scale\u00ae or Modified Borg Dyspnoea Scale \nThe Borg CR 10 Scale or Modified Borg Dyspnoea Scale (if patient was enrolled \nbefore 12934 Amendment 4 approval in their country) will be measured together \nwith 6MWD Test. \nMethodology: The test will be explained to the patients before starting the 6MWD \ntest. The patients will be asked to rank their exertion at the end of the 6MWD test.\nDuring the Titration Phase the test has to be performed by a person who is not \ninvolved in the process of study drug titration and is unaware of the immediate \nreaction of the patient\u2019s blood pressure and heart rate after dosing. This person will \nIntegrated Protocol /Study number BAY 63-2521/12935/\nPage 34 of 75\nFinal Version 1.0/ 13 Dec 2012/AMD 11\nenter the test results on a separate work sheet and a different person(could be the \nsame person as involved in titration) will enter them into the electronic CRF.\nIn context with 12934 protocol amendment 4 the \u201cModified Borg Dyspnoea Scale\u201d \nwas replaced by the Borg CR 10 Scale\u00ae. For consistency reason, patients who were \nenrolled before approval of 12934 protocol amendment 4 in their country must use \nthe \u201cModified Borg Dyspnoea Scale\u201d throughout the main and the extension study.\nFrequency: At every visit until V6 with the exception of Visit 1 and Safety Follow\nUp Visit\nPoint in time: Immediately after the 6MWD Test\nFor further details refer to section 4.6.3and Section 10.5.\nDetermination of WHO Functional Class\nThe patient\u2019s functional class will be determined according to the WHO \nclassification.\nMethodology: During the Titration Phase the evaluation has to be performed by a \nsecond physician who is not involved in the process of study drug titration and is \nunaware of the immediate reaction of the patient\u2019s blood pressure and heart rate \nafter dosing. This physician will enter the test results on a separate work sheet and a \ndifferent person(could be the same person as involved in titration) will enter them \ninto the electronic CRF.\nFrequency: At every visit with the exception of Visit 1 and Safety Follow-Up Visit\nFor further details refer to Section 10.6.\nIntegrated Protocol /Study number BAY 63-2521/12935/\nPage 35 of 75\nFinal Version 1.0/ 13 Dec 2012/AMD 11\nEvents of Special Interest\nTime To Clinical Worsening\nThe first occurrence of the following events of special interest need to be \ndocumented in the electronic CRF and will be considered for the calculation of the \ncombined endpoint \u201cTime To Clinical Worsening\u201d:\n\uf0b7\nDeath (all-cause mortality)\n\uf0b7\nHeart/lung transplantation\n\uf0b7\nAtrial septostomy (AS)\n\uf0b7\nHospitalization due to persistent worsening of Pulmonary Hypertensiona,b\n\uf0b7\nStart of new PH specific treatment (Endothelin Receptor Antagonists, \nProstacycline\nAnalogues, \nPhosphodiesterase \nType-5 \nInhibitors) \nor \nmodification of a preexisting Prostacycline Analogues treatment (ie increase of \nnumber of daily Iloprost inhalations from 6 to 9, or increase of Iloprost dosage \nfrom 2.5 to 5.0 microgram per inhalation, or start of an iv Prostacycline\nAnalogue) due to worsening Pulmonary Hypertension.\n\uf0b7\nPersistent decrease of more than 15 % from baseline or more than 30% \ncompared to the last study related measurement in 6MWD due to worsening \npulmonary hypertensionb.\nThe persistence of the decrease has to be confirmed by a second measurement \nperformed after 14 days. In case that the period between first occurrence of the \nevent and the Termination Visit is less than 14 days, the decrease needs to be \nconfirmed at the Termination Visit.\n\uf0b7\nPersistent worsening of functional class due to deterioration of Pulmonary \nHypertensionb:\nIntegrated Protocol /Study number BAY 63-2521/12935/\nPage 36 of 75\nFinal Version 1.0/ 13 Dec 2012/AMD 11\nPatients who deteriorate from class II or III to class IV: The persistence of \nworsening has to be confirmed by a second measurement performed after 14 \ndays. In case that the period between first occurrence of the event and the \nTermination Visit is less than 14 days, the decrease needs to be confirmed at \nthe Termination Visit.\nOther Events of Special Interest\nThe first occurrence of the following event of special interest needs to be \ndocumented in the electronic CRF, but will not be considered for the calculation of \nthe combined end point \u201cTime To Clinical Worsening\u201d:\n\uf0b7\nInitiation of a supplemental long-term oxygen therapy (= oxygen application \nfor more than 30 days at a stretch) or persistent modification of a pre-existing \nsupplemental long term oxygen therapy (ie need for a persistent increase of the \namount of delivered oxygen for more than 30 days) due to worsening \npulmonary hypertension.b\naTransient deteriorations of clinical status requiring hospitalization, treatable by eg short time \napplication of iv diuretics, positive inotropic agents or non-invasive ventilation and allowing patients \ndischarge within 48 hours are not considered as persistent with respect to the event of special interest \ndefinition.\nbIn case of clinical deterioration the investigator has to assess carefully if the deterioration of the \npatient\u2019s condition (eg worsening functional class) is related to the underlying pulmonary \nhypertension or can be explained by an alternative cause (eg transient infection, musculoskeletal \ndisease, surgical or medical intervention other than PH related, exacerbation of a concomitant lung \ndisease, lacking compliance of medication intake). Only persistent clinical deteriorations caused by \nthe underlying pulmonary hypertension will be considered as events of special interest.\nFrequency: At every visit with the exception of Visit 1 and Safety Follow-Up Visit \nthe investigator must check if an event of special interest has occurred in the period \nbetween start and termination of the study drug treatment. With respect to each \nsubcategory (eg \u201chospitalization due to persistent worsening of pulmonary \n",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "4.6.5",
+                        "Title": "Drug Concentration Measurements",
+                        "Content": "",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "4.7",
+                "Title": "Data Quality",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "4.8",
+                "Title": "Documentation",
+                "Content": "Integrated Protocol /Study number BAY 63-2521/12935/Page 39 of 75Final Version 1.0/ 13 Dec 2012/AMD 11",
+                "Sub-sections": []
+            }
+        ]
+    },
+    {
+        "Header Number": "5.",
+        "Title": "ETHICAL AND LEGAL ASPECTS",
+        "Content": "",
+        "Sub-sections": [
+            {
+                "Header Number": "5.1",
+                "Title": "Ethics Committee (EC) or Institutional Review Board (IRB)",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "5.2",
+                "Title": "Ethical Conduct of the Study",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "5.3",
+                "Title": "Regulatory Authority Approvals/Authorizations",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "5.4",
+                "Title": "Patient Information and Consent",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "5.5",
+                "Title": "Insurance",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "5.6",
+                "Title": "Confidentiality",
+                "Content": "Integrated Protocol /Study number BAY 63-2521/12935/Page 41 of 75Final Version 1.0/ 13 Dec 2012/AMD 11may inspect their medical records to verify the information collected, and that all personal information made available for inspection will be handled in strictest confidence and in accordance with local data protection laws.If the results of the study are published, the patient\u2019s identity will remain confidential. The investigator will maintain a list to enable patients\u2019 records to be identified.",
+                "Sub-sections": []
+            }
+        ]
+    },
+    {
+        "Header Number": "6.",
+        "Title": "STATISTICAL METHODS AND DETERMINATION OF SAMPLE SIZE",
+        "Content": "",
+        "Sub-sections": [
+            {
+                "Header Number": "6.1",
+                "Title": "Statistical and Analytical Plans",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "6.2",
+                "Title": "Determination of Sample Size",
+                "Content": "Integrated Protocol /Study number BAY 63-2521/12935/Page 43 of 75Final Version 1.0/ 13 Dec 2012/AMD 11",
+                "Sub-sections": []
+            }
+        ]
+    },
+    {
+        "Header Number": "7.",
+        "Title": "ADVERSE EVENTS",
+        "Content": "",
+        "Sub-sections": [
+            {
+                "Header Number": "7.1",
+                "Title": "Contraindications/Warnings/Precautions/Interactions/Undesirable Effects",
+                "Content": "Integrated Protocol /Study number BAY 63-2521/12935/\nPage 44 of 75\nFinal Version 1.0/ 13 Dec 2012/AMD 11\nPre- and co-treatment with Omeprazole led to a decrease in BAY 63-2521 \nbioavailability, indicating a lower bioavailability of BAY 63-2521 in neutral versus \nacidic milieu (for further information refer to the Investigator Brochure).\nPreliminary inspection of trough and peak plasma concentrations of BAY 63-2521 \nand BAY 60-4552 (Main BAY 63-2521 metabolite) in a cohort of patients treated \nwith bosentan (n=6) compared to the patients not treated with bosentan (n=66) \nclearly indicate a decrease in BAY 63-2521/BAY 60-4552 plasma exposure, most \nprobably due to the known CYP3A4 enzyme-inducing effects of concomitant \nbosentan. However, patients treated with bosentan profited in about the same \nmagnitude in the 6 minute walk test as patients in the therapy na\u00efve cohort did (for \nfurther information refer to the Investigator Brochure, trial 12166).\nThe BAY 63-2521 clearance was increased in smokers compared to non-smokers in \na previous trial in patients with pulmonary hypertension (IMP 12166; see IB for \nmore information). Therefore, patients should report their smoking status to the \ninvestigator.\nDue to the pharmacological mode of action of a guanylate cyclase stimulator, \ntreatment with BAY 63-2521 may unmask existing Pulmonary Veno-Occlusive \ndisease (PVOD), leading to pulmonary congestion and subsequent pulmonary \nedema. Given the severity of the underlying disease this effect may be life-\nthreatening. Clinical symptoms of uncovering of a PVOD may occur weeks to \nmonths after start of treatment with BAY 63-2521. Should signs of pulmonary \nedema occur when BAY 63-2521 is administered, the possibility of associated \nPVOD should be considered and BAY 63-2521\nshould be discontinued \nimmediately.\nThe following undesirable effects of the compound have been observed in clinical \ntrials: decrease in blood pressure (in healthy volunteers mainly diastolic blood \npressure), postural hypotension, dizziness, syncope, increase in heart rate, nasal \ncongestion, feeling hot, headache, dyspepsia, nausea, vomiting, gastritis, flushing, \nand hyperhidrosis (refer to the Investigator Brochure). Most of the undesirable \nIntegrated Protocol /Study number BAY 63-2521/12935/\nPage 45 of 75\nFinal Version 1.0/ 13 Dec 2012/AMD 11\neffects are caused by the vasodilators mode of action of the drug. The effects of the \ncompound on smooth muscles may lead to gastrointestinal symptoms (eg dilation of \nthe esophageal sphincter with heartburn, esophagitis and dysphagia; diarrhea; \nconstipation).\nIn addition, the possibility of hitherto unforeseen side effects and allergic reactions \nto drugs, which can result in severe damage and even death, must always be \nconsidered.\nAny new, relevant information about adverse drug reactions of BAY 63-2521 will \nbe given to the patients (verbally and in writing).\nInadvertent overdosing with total daily BAY 63-2521 doses of 9 mg (13 and \n32 days), 22.5 mg (14 and 15 days), and 25 mg (2 days) was reported for 5 subjects, \nwhich was tolerated without any adverse events (for further information refer to the \nInvestigator Brochure).\nOverdosage following administration of BAY 63-2521 should be treated as \nclinically indicated. There is no known antidote to BAY 63-2521.\nDue to the pharmacological profile of BAY 63-2521, cardiovascular effects as \ndescribed in the Investigator Brochure (Section 5.3.3.3) may be expected in case of \noverdose.\nIf symptoms develop after the investigational drug has been administered, any \ntherapy that becomes necessary has to be guided by the predominant symptoms. \nPatients have to remain under medical supervision until all relevant adverse effects \nhave subsided. If adverse events occur, the investigator has to decide whether or not \nto remove the patient from the trial (refer to Section 4.3). Emergency drugs and \nequipment has to be available to provide any treatment, which may become \nnecessary.\nIn case of overdose, general measures to prevent absorption (eg, gastric lavage, \nactivated charcoal) should to be taken.\n",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "7.2",
+                "Title": "Adverse Event Monitoring",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "7.3",
+                "Title": "Adverse Event Definitions",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "7.3.1",
+                        "Title": "Adverse Event",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "7.3.2",
+                        "Title": "Serious Adverse Event",
+                        "Content": "Integrated Protocol /Study number BAY 63-2521/12935/\nPage 48 of 75\nFinal Version 1.0/ 13 Dec 2012/AMD 11\n\uf0b7\nThe admission is pre-planned (ie, elective or scheduled surgery arranged prior to \nthe start of the study). \nOR\n\uf0b7\nThe admission is not associated with an adverse event (eg, social hospitalization \nfor purposes of respite care).\nHowever it should be noted that invasive treatment during any hospitalization may \nfulfill the criteria of \u2018medically important\u2019 and as such may be reportable as a \nserious adverse event dependant on clinical judgment. In addition where local \nregulatory authorities specifically require a more stringent definition, the local \nregulation takes precedent.\nAny hospitalization required for carrying out a routine right heart catheterization \n(RHC) procedure for conducting diagnostic invasive hemodynamic measurements \nto evaluate a patient\u2019s underlying disease (without taking into account any clinical \nsuspicion or finding with regard to the worsening of the underlying disease) will not \nbe considered as a serious adverse event. In this context, a RHC procedure is \nconsidered as a procedure and not as an adverse event (changed with amendment \n11).\nDisability means a substantial disruption of a person\u2019s ability to conduct normal \nlife\u2019s functions.\nImportant medical event: Any adverse event may be considered serious because it \nmay jeopardize the patient and may require intervention to prevent another serious \ncondition. As guidance for determination of important medical events refer to the \n\u201cWHO Adverse Reaction Terminology \u2013 Critical Terms List. These terms either \nrefer to or might be indicative of a serious disease state. \nSuch reported events warrant special attention because of their possible association \nwith a serious disease state and may lead to more decisive action than reports on \nother terms. \n",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "7.3.3",
+                        "Title": "Unexpected Adverse Event",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "7.3.4",
+                        "Title": "Relationship of Adverse Event to Investigational Product",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "7.3.5",
+                        "Title": "Severity of the Adverse Event",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "7.3.6",
+                        "Title": "Adverse Event Documentation",
+                        "Content": "",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "7.4",
+                "Title": "Reporting of Serious Adverse Events/Pregnancy",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "7.5",
+                "Title": "Reporting of Safety Related Events of Special Interest",
+                "Content": "",
+                "Sub-sections": []
+            }
+        ]
+    },
+    {
+        "Header Number": "8.",
+        "Title": "USE OF DATA AND PUBLICATION",
+        "Content": "All data and results and all intellectual property rights in the data and results derived from the study will be the property of the sponsor, who may utilize the data in various ways, such as for submission to government regulatory authorities or disclosure to other investigators. The investigator, whilst free to utilize data derived from the study for scientific purposes, must discuss any publication with the sponsor prior to release and obtain written consent of the sponsor on the intended publication. The sponsor recognizes the right of the investigator to publish the Integrated Protocol /Study number BAY 63-2521/12935/Page 53 of 75Final Version 1.0/ 13 Dec 2012/AMD 11results upon completion of the study. However, the investigator must send a draft manuscript of the publication or abstract to the sponsor thirty days in advance of submission in order to obtain approval prior to submission of the final version for publication. This will be reviewed promptly and approval will not be withheld unreasonably. In case of a difference of opinion between the sponsor and the investigator(s), the contents of the publication will be discussed in order to find a solution which satisfies both parties.",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "9.",
+        "Title": "REFERENCES",
+        "Content": "",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "10.",
+        "Title": "APPENDICES",
+        "Content": "Integrated Protocol /Study number BAY 63-2521/12935/Page 54 of 75Final Version 1.0/ 13 Dec 2012/AMD 11",
+        "Sub-sections": [
+            {
+                "Header Number": "10.1",
+                "Title": "Study Flow Chart",
+                "Content": "Tabular Schedule of Study ProceduresStudy PhasePATENT-1PATENT-2Treatment Phase (Duration until BAY 63-2521 receives official approval and will be commercially available)Safety- Follow-Up Phase                           (30 days + 5 )Titration Phase (8 weeks)Main-Study PhaseBlinding of study medicationBlinded treatmentBlinded with respect to the BAY 63-2521 doseUnblindedVisitV 6 of PATENT-1V 1 gV 2V 3V 4V 5V6V7- V n(every 90 days)Termination VisitcSafety-Follow Up-Visit Day- 1014\u00b1228\u00b1242\u00b1256\u00b1284\u00b12174\u00b114Vn+14-30 + 5Week-024681224- n--In-patient hospitalization - optionalXaXb-------Informed consentXPatient\u2019s WeightXXXXXConcomitant MedicationXXXXXXXXXCollection of smoking statushXXXXXXPhysical examinationXXXXXBlood pressure, heart rateXXXXXXXXXXIntegrated Protocol /Study number BAY 63-2521/12935/\nPage 55 of 75\nFinal Version 1.0/ 13 Dec 2012/AMD 11\nTabular Schedule of Study Procedures\nStudy Phase\nPATENT-1\nPATENT-2\nTreatment Phase (Duration until BAY 63-2521 receives official approval and will be commercially available)\nSafety- Follow-Up Phase \n                          (30 days + 5 )\nTitration Phase (8 weeks)\nMain-Study Phase\nBlinding of study medication\nBlinded \ntreatment\nBlinded with respect to the BAY 63-2521 dose\nUnblinded\nVisit\nV 6 of \nPATENT-1\nV 1 g\nV 2\nV 3\nV 4\nV 5\nV6\nV7- V n\n(every 90 days)\nTermination \nVisitc\nSafety-Follow \nUp-Visit \nDay\n- 1\n0\n14\u00b12\n28\u00b12\n42\u00b12\n56\u00b12\n84\u00b12\n174\u00b114\nVn+14\n-\n30 + 5\nWeek\n-\n0\n2\n4\n6\n8\n12\n24- n\n-\n-\nBlood gas analysis\nX\nX\nWHO functional classd\nX\nX\nX\nX\nX\nX\nX\nX\n6 MWD Testd\nX\nX\nX\nX\nX\nX\nX\nX\nBorg CR 10 Scaledor Modified \nBorg Scalef\nX\nX\nX\nX\nX\nX\nEQ-5D Questionnaire\nX\nX\nX\nLPH Questionnaire\nX\nX\nUse of healthcare resources\nX\nX\nX\nX\nX\nX\nStandard lab. blood sampling\nX\nX\nX\nX\nX\nX\nIntegrated Protocol /Study number BAY 63-2521/12935/\nPage 56 of 75\nFinal Version 1.0/ 13 Dec 2012/AMD 11\nTabular Schedule of Study Procedures\nStudy Phase\nPATENT-1\nPATENT-2\nTreatment Phase (Duration until BAY 63-2521 receives official approval and will be commercially available)\nSafety- Follow-Up Phase \n                          (30 days + 5 )\nTitration Phase (8 weeks)\nMain-Study Phase\nBlinding of study medication\nBlinded \ntreatment\nBlinded with respect to the BAY 63-2521 dose\nUnblinded\nVisit\nV 6 of \nPATENT-1\nV 1 g\nV 2\nV 3\nV 4\nV 5\nV6\nV7- V n\n(every 90 days)\nTermination \nVisitc\nSafety-Follow \nUp-Visit \nDay\n- 1\n0\n14\u00b12\n28\u00b12\n42\u00b12\n56\u00b12\n84\u00b12\n174\u00b114\nVn+14\n-\n30 + 5\nWeek\n-\n0\n2\n4\n6\n8\n12\n24- n\n-\n-\nNT-pro BNP\nX\nX\nX\nX\nX\nX\nPK blood sampling\nX\nX\nX\n12-lead electrocardiogram\nX\nX\nX\nX\nX\nX\nX\nPregnancy test (if applicable)\nXe\nX\nXi\nXi\nDispense study medication\nX\nX\nX\nX\nX\nX\nX\nDrug accountability\nX\nX\nX\nX\nX\nX\nX\nX\nCollection of patient Diary\nX\nX\nX\nX\nEvent of special interest evaluation\nX\nX\nX\nX\nX\nX\nX\nX\nX\nAdverse event reporting\nXf\nXf\nX\nX\nX\nX\nX\nX\nX\nX\nIntegrated Protocol /Study number BAY 63-2521/12935/\nPage 57 of 75\nFinal Version 1.0/ 13 Dec 2012/AMD 11\nFlowchart updated (last with amendment 11)\nIndexes:\naAccording to hospital routine, patients may be hospitalized for one day after the performance of invasive hemodynamic measurements.\nbPatients will be discharged if there is no medical objection. Blood pressure monitoring and heart rate are the main hemodynamic safety \nparameters that need to be considered.\ncA Termination Visit will only be performed in case of premature stop of study medication or if the sponsor announces the official end of the \nstudy. In such case, generally the same measurements and procedures should be performed as at Main-Study Visits (V7 \u2013 Vn). In particular, \nevery effort should be made to perform the 6MWD Test. Deviations, particularly from the scheduled points in time need to be documented in \nthe electronic CRF.\ndDuring the Titration Phase these test have to be performed by a second person (for WHO functional class assessment a second physician) \nwho is not involved in the process of study drug titration and is unaware of the immediate reaction of the patient\u2019s blood pressure and heart \nrate after dosing. This person will record the test results on a separate work sheet and a different person (could be the same person as involved \nin titration) will enter them into the electronic CRF\nFor consistency reason, patients who were enrolled in trial 12934 before approval of protocol amendment 4 in their country must use the \n\u201cModified Borg Dyspnoea Scale\u201d throughout the main and the extension study   (for further details see section 4.6.4).\neAt Visit 6 of PATENT-1 a urine ( if the patient will participate in the extension study) and a serum pregnancy test should be performed. \nFemale patients with childbearing potential can be enrolled into the extension study based on the results of the urine test\nfAdverse events that occur before intake of first dose of PATENT-2 medication will be allocated to PATENT-1.\ngIt is not permitted to include a patient into the extension study on the same day of V6 of PATENT-1 study (applies even if Visit 6 \ninvestigations were performed at two consecutive days).\nIntegrated Protocol /Study number BAY 63-2521/12935/\nPage 58 of 75\nFinal Version 1.0/ 13 Dec 2012/AMD 11\nhPatients will be asked if their smoking habits has changed since the previous visit and the results will be recorded in the electronic CRF\ni Test to be done locally\nVisit Details\nDay\nDay 0\nVisit 1\nFirst cycle of \nmeasurements c\nFirst study medication \ndose intake\nSecond cycle of \nmeasurements c\nSecond study medication \ndose intake\nOrder of \nprocedures\nStarting point of \nprocedures\nTime interval (h)\n00\n>-01\n<00\n00\n00c\n00\n>02\n<03\n00\n>-01\n<00\n00\n00c\n00\n>02\n<03\nBlood pressure, heart rateb\nX\nX\n12-lead ECGa,b\nX\nPharmacokinetic blood sampleb\nX\nAdministration of BAY 63-2521b\nX\nX\nBlood pressure, heart rateb\nX\nX\nDischarge from ward\nX\naSingle ECG\nbThe point in time when the respective procedures are performed will be documented in the case report form.\ncThe respective single daily doses of study medication should be taken 6-8 hours apart.\nIntegrated Protocol /Study number BAY 63-2521/12935/\nPage 59 of 75\nFinal Version 1.0/ 13 Dec 2012/AMD 11\nAmbulatory Visits \nVisit 2 \u2013 Visit 5\nCycle of measurements\nOrder of \nprocedures\nStarting point of \nprocedures\nTime interval (h)\n00\n>-01\n<00\n00\n00\n00\n>02\n<03\n00\n>04\n<05\nBlood pressure, heart ratec\nX\n12-lead ECGa,c\nX\nPharmacokinetic blood samplec, d\nX\nAdministration of BAY 63-2521c\nX\nBlood pressure, heart ratec\nX\n6 MWD testb,c\nX\nBorg CR 10 Scale(or Modified Borg \nDyspnoea Scale)b,c\nX\naSingle ECG\nbDuring the Titration Phase these test have to be performed by a second person who is not involved in the process of study drug titration and is \nunaware of the immediate reaction of the patient\u2019s blood pressure and heart rate after dosing. This person will record the test results on a \nseparate work sheet and a different person (could be the same person as involved in titration) will enter them into the electronic CRF.\ncThe point in time when the respective procedures are performed will be documented in the case report form.\ndPharmacokinetic blood sample will only be collected at Visit 5\nIntegrated Protocol /Study number BAY 63-2521/12935/\nPage 60 of 75\nFinal Version 1.0/ 13 Dec 2012/AMD 11\nAmbulatory visits V6\nCycle of measurements\nOrder of \nprocedures\nStarting point of \nprocedures\nTime interval (h)\n00\n>-01\n<00\n00\n00\n00\n>02\n<03\n00\n>04\n<05\nBlood pressure, heart rate b\nX\n12-lead ECG a, b\nX\nAdministration of BAY 63-2521 b\nX\nBlood pressure, heart rate b\nX\n6 MWD test b\nX\nBorg CR 10 Scale (or Modified Borg \nDyspnoea Scale) b\nX\na Single ECG (updated with amendment 11)\nb The point in time when the respective procedures are performed will be documented in the case report form.\na The point in time when the respective procedures are performed will be documented in the case report form\n(updated with amendment 11).\nAmbulatory visits V7 \u2013 Vn, Termination Visit\nCycle of \nmeasurements\nOrder of \nprocedures\nStarting point of \nprocedures\nTime interval (h)\n00\n>-01\n<00\n00\n00\n00\n>00\n<01\nBlood pressure, heart ratea\nX\nAdministration of BAY 63-2521a\nX\n6 MWD testa\nX\n",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "10.2",
+                "Title": "Pharmacokinetic Sampling",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "10.3",
+                "Title": "Blood Gas Analysis",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "10.4",
+                "Title": "6 Min Walking Distance (6MWD) Test",
+                "Content": "Integrated Protocol /Study number BAY 63-2521/12935/\nPage 63 of 75\nFinal Version 1.0/ 13 Dec 2012/AMD 11\nA \u201cwarm-up\u201d period before the test should not be performed. The \npatients should sit at rest in a chair, located near the starting position, for \nat least 10 minutes before the test starts.\nInvestigators should not walk with the patients. Moreover, only \nstandardized phrases for encouragement must be used during the test. To \nallow reproducibility, standardized phrases should be used every minute \naccording to the following pattern:\n\uf0b7\nAfter the first minute, tell the patient the following (in even tones): \n\u201cYou are doing well. You have 5 minutes to go.\u201d\n\uf0b7\nWhen the timer shows 4 minutes remaining, tell the patient the \nfollowing: \u201cKeep up the good work. You have 4 minutes to go.\u201d\n\uf0b7\nWhen the timer shows 3 minutes remaining, tell the patient the \nfollowing: \u201cYou are doing well. You are halfway done.\u201d\n\uf0b7\nWhen the timer shows 2 minutes remaining, tell the patient the \nfollowing: \u201cKeep up the good work. You have only 2 minutes left.\u201d\n\uf0b7\nWhen the timer shows only 1 minute remaining, tell the patient: \n\u201cYou are doing well. You have only 1 minute to go.\u201d\nTo reduce the variability of the 6MWD Tests, it is of utmost importance \nthat the eligibility-test, the baseline-test and all following tests are \nperformed under the same conditions (truncated with amendment 11):\n\uf0b7\nPatients, who used walking aids already at the eligibility-test \nand the baseline-test (eg cane, walker), need to use the same \nwalking aids at every subsequent 6MWD Test.\nFor quality reasons, the inhalation of supplemental oxygen and the use \nof walking aids during the 6MWD Tests must be documented in the \nCRF.\nIn case that a patient has never performed a 6MWD Test, a \nfamiliarization test should be performed during the Pre-Treatment Phase. \nTo avoid any interactions, it is not permitted to perform the \nfamiliarization test on the same day as the eligibility 6MWD Test.\nIntegrated Protocol /Study number BAY 63-2521/12935/Page 64 of 75Final Version 1.0/ 13 Dec 2012/AMD 11",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "10.5",
+                "Title": "Borg CR 10 Scale\u00ae or Modified Borg Dyspnoea Scale",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "10.5.1",
+                        "Title": "Borg CR 10 scale and test instructions",
+                        "Content": "Integrated Protocol /Study number BAY 63-2521/12935/\nPage 65 of 75\nFinal Version 1.0/ 13 Dec 2012/AMD 11\n \n \n \n \n \n \n \n \nCCI\nCCI\n",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "10.5.2",
+                        "Title": "Modified Borg Dyspnoea Scale",
+                        "Content": "",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "10.6",
+                "Title": "WHO functional class",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "10.7",
+                "Title": "EQ-5D",
+                "Content": "Integrated Protocol /Study number BAY 63-2521/12935/\nPage 68 of 75\nFinal Version 1.0/ 13 Dec 2012/AMD 11\nbe completed by the patient (questionnaires will be provided in local \nlanguage). However, if the patient has problems completing the \nquestionnaire, an attempt should be made to explain the questions in a \nneutral and unpersuasive manner.\nAfter the patient has filled in the questionnaire, the questionnaire is \ntransferred to the study personnel, who will enter the content into the \nelectronic CRF.\nIntegrated Protocol /Study number BAY 63-2521/12935/\nPage 69 of 75\nFinal Version 1.0/ 13 Dec 2012/AMD 11\nCCI\nIntegrated Protocol /Study number BAY 63-2521/12935/\nPage 70 of 75\nFinal Version 1.0/ 13 Dec 2012/AMD 11\nCCI\nIntegrated Protocol /Study number BAY 63-2521/12935/\nPage 71 of 75\nFinal Version 1.0/ 13 Dec 2012/AMD 11\nCCI\n",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "10.8",
+                "Title": "Living with Pulmonary Hypertension questionnaire (LPH)",
+                "Content": "Integrated Protocol /Study number BAY 63-2521/12935/\nPage 73 of 75\nFinal Version 1.0/ 13 Dec 2012/AMD 11\nCCI\n",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "10.9",
+                "Title": "Role of the Steering Committee (SC)",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "10.10",
+                "Title": "Role of the Data Monitoring Committee (DMC)",
+                "Content": "",
+                "Sub-sections": []
+            }
+        ]
+    }
+]

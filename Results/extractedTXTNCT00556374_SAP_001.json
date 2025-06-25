@@ -1,0 +1,603 @@
+[
+    {
+        "Header Number": "N/A",
+        "Title": "Statistical Analysis Plan 20050209: A Randomized, Double-Blind, Placebo-Controlled, Multi-Center Phase 3 Study to Determine the Treatment Effect of Denosumab in Subjects with Non-Metastatic Breast Cancer Receiving Aromatase Inhibitor Therapy",
+        "Content": "",
+        "Sub-sections": [
+            {
+                "Header Number": "N/A",
+                "Title": "TITLE PAGE",
+                "Content": "Statistical Analysis PlanVersion No.: 6.0Product: DenosumabDate: December 10, 2019Protocol Number 20050209 / ABCSG 182",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "N/A",
+                "Title": "TABLE OF CONTENTS",
+                "Content": "PAGETITLE PAGE........................................................................................................................11LIST OF ABBREVIATIONS / ACRONYMS ..........................................................................52LIST OF STUDY TERMS.....................................................................................................831.INTRODUCTION......................................................................................................1142.STUDY DETAILS .....................................................................................................1252.1Objectives .......................................................................................................1262.1.1 Primary ..................................................................................................1272.1.2 Secondary..............................................................................................1282.1.3 Exploratory.............................................................................................1292.2Hypotheses .....................................................................................................13102.2.1 Clinical Efficacy Hypothesis:...................................................................13112.2.2 Clinical Safety Hypothesis:.....................................................................13122.3Overall Study Design.......................................................................................13132.4Number of Subjects and Sample Size Calculation...........................................15142.4.1 Primary Endpoint....................................................................................15152.4.2 Percent Change in Lumbar Spine BMD at Month 12 ..............................16162.5End of Treatment.............................................................................................16172.6Long-Term Follow-Up......................................................................................16182.7End of Open-label Treatment ..........................................................................17192.8End of Study....................................................................................................17202.9Study Termination ...........................................................................................17213.DATA SCREENING AND ACCEPTANCE ................................................................17223.1General Principles...........................................................................................17233.2Handling of Missing and Incomplete Data........................................................18243.2.1 Early Withdrawal from Study and Lost-to-follow-up ................................18253.2.2 Missed Visit or Non-evaluability of a Specific Clinical Measurement 26at its Planned Clinical Visit .....................................................................18273.2.3 Dates .....................................................................................................18283.3Potential Outliers.............................................................................................19293.4Distributional Characteristics ...........................................................................20303.5Validation and Configuration Management......................................................20314.ANALYSIS SET........................................................................................................20324.1Definition of Analysis Sets...............................................................................20334.1.1 Full Analysis Set (FAS) ..........................................................................21344.1.2 OLP Denosumab (Dmab) Analysis Set ..................................................21354.1.3 BMD Analysis Set ..................................................................................21364.1.4 Vertebral Fracture Analysis Set..............................................................2137Statistical Analysis Plan\nVersion No.: 6.0\nProduct: Denosumab\nDate: December 10, 2019\nProtocol Number 20050209 / ABCSG 18\n3\n4.1.5 Per-Protocol (PP) Population .................................................................22\n1\n4.1.6 Safety Analysis Set (SAF)......................................................................22\n2\n4.1.7 OLP Denosumab (Dmab) Safety Analysis Set .......................................23\n3\n4.2\nSubgroups.......................................................................................................23\n4\n5.\nPRIMARY, SECONDARY, SAFETY AND EXPLORATORY ENDPOINTS................24\n5\n5.1\nPrimary Endpoint.............................................................................................24\n6\n5.2\nSecondary Endpoints ......................................................................................24\n7\n5.3\nSafety Endpoints .............................................................................................25\n8\n5.4\nExploratory Endpoints .....................................................................................25\n9\n5.5\nDerived Endpoints...........................................................................................26\n10\n6.\nPLANNED METHODS OF ANALYSIS......................................................................28\n11\n6.1\nGeneral Approach / Considerations.................................................................28\n12\n6.2\nHandling of Incorrect Stratification...................................................................30\n13\n6.3\nAnalysis Windows ...........................................................................................30\n14\n6.3.1 Study Month...........................................................................................30\n15\n6.3.2 Incidence Endpoints...............................................................................30\n16\n6.3.3 Analysis at Specified Times....................................................................31\n17\n6.4\nAnalysis of Key Study Endpoints.....................................................................32\n18\n6.4.1 Efficacy Analysis ....................................................................................32\n19\n6.4.2 Safety Analyses .....................................................................................37\n20\n6.4.3 Exploratory Analyses..............................................................................39\n21\n6.4.4 Treatment Discontinuation and Lost-to-Follow-Up..................................41\n22\n6.4.5 Subgroup Analysis .................................................................................42\n23\n6.4.6 Covariates..............................................................................................42\n24\n6.4.7 SAS Code Fragments ............................................................................43\n25\n7.\nFURTHER TABULAR SUMMARIES AND LISTINGS ...............................................45\n26\n8.\nINTERIM ANALYSES AND EARLY STOPPING GUIDELINES ................................46\n27\n9.\nDFS ANALYSIS RECOMMENDED BY DMC............................................................47\n28\n10.\nDFS ANALYSIS 2018...............................................................................................48\n29\n11.\nZA SUBSTUDY ........................................................................................................48\n30\n11.1.1\nExploratory Objectives .......................................................................48\n31\n11.1.2\nZA Substudy design...........................................................................48\n32\n11.1.3\nNumber of Subjects and Sample Size Calculation..............................49\n33\n11.1.4\nEstimated ZA Substudy Duration .......................................................50\n34\n11.1.5\nEnd of ZA Substudy ...........................................................................50\n35\n11.1.6\nStudy Termination..............................................................................50\n36\n11.1.7\nExploratory Endpoints........................................................................50\n37\n11.1.8\nAnalysis Sets .....................................................................................51\n38\n11.1.9\nSubgroups .........................................................................................51\n39\n11.1.10\nTimepoint of Analysis.......................................................................52\n40\n11.1.11\nHandling of Missing and Incomplete Data ........................................52\n41\nStatistical Analysis Plan\nVersion No.: 6.0\nProduct: Denosumab\nDate: December 10, 2019\nProtocol Number 20050209 / ABCSG 18\n4\n11.1.12\nAnalysis Windows ............................................................................53\n1\n11.1.13\nAnalysis Methods.............................................................................54\n2\n12.\nAMENDMENTS TO THE STATISTICAL ANALYSIS PLAN ......................................55\n3\n13.\nCHANGES FROM THE PROTOCOL PLANNED ANALYSES ..................................56\n4\n14.\nLIST OF PLANNED TABLES AND FIGURES...........................................................58\n5\n15.\nREFERENCES.........................................................................................................64\n6\n7\n8\n9\nStatistical Analysis PlanVersion No.: 6.0Product: DenosumabDate: December 10, 2019Protocol Number 20050209 / ABCSG 185",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "N/A",
+                "Title": "LIST OF ABBREVIATIONS / ACRONYMS",
+                "Content": "12Abbreviation/Acronym DefinitionABCSG Austrian Breast and Colorectal Cancer Study GroupAE Adverse eventAI Aromatase inhibitorAIT Aromatase inhibitor therapyALT Alanine aminotransferaseANCOVAAnalysis of covarianceAST Aspartate aminotransferaseATAC Arimidex, Tamoxifen Alone or in Combination trialAUC Area under the serum concentration-time curveBIG Breast International GroupBMD Bone mineral densityBMFSBone metastases-free survivalCI Confidence intervalCDMClinical data managementCRF Case report formCTCAE Common terminology criteria for adverse eventsCTXC-terminal telopeptideDFSDisease free survivalDmabDenosumabDMC Data monitoring committeeDMPData management planStatistical Analysis Plan\nVersion No.: 6.0\nProduct: Denosumab\nDate: December 10, 2019\nProtocol Number 20050209 / ABCSG 18\n6\nAbbreviation/Acronym \nDefinition\nDXA \nDual X-Ray Absorptiometry\nECOG \nEastern Cooperative Oncology Group\nEOOLT\nEnd of open-label treatment\nEOS \nEnd of study\nEOT\nEnd of treatment\nER \nEstrogen receptor\nFAS \nFull Analysis Set\nFDA \nFood and Drug Administration\nFSH\nFollicle-stimulating hormone\nGCP \nGood Clinical Practice\nHER-2\nHuman Epidermal growth factor Receptor 2\nHIV \nHuman immunodeficiency virus\nICF \nInformed consent form\nICH \nInternational conference on harmonization\nIEC \nIndependent ethics committee\nIP \nInvestigational product\nIRB \nInstitutional review board\nIV \nIntravenous\nIVRS \nInteractive voice response system\nLTFU\nLong-term follow-up\nMedDRA \nMedical Dictionary for Regulatory Activities\nOL\nOpen-label\nOLP\nOpen-label phase\nStatistical Analysis Plan\nVersion No.: 6.0\nProduct: Denosumab\nDate: December 10, 2019\nProtocol Number 20050209 / ABCSG 18\n7\nAbbreviation/Acronym \nDefinition\nOPG \nOsteoprotegerin\nORR \nObjective response rate\nOS\nOverall survival\nPADCD\nprimary analysis data cut-off date\nPgR\nProgesterone receptor\nPIN \nPersonal identification number\nPP \nPer protocol\nQ6M \nEvery 6 months\nQ12M \nEvery 12 months\nRANKL \nReceptor activator for nuclear factor kappa B ligand\nRPSFTM\nRank-preserving structural failure time model\nSAE \nSerious adverse event\nSAS\nStatistical Analysis System\nSERM \nSelective Estrogen Receptor Modulator\nSC \nSubcutaneous\nSD\nStandard deviation\nSOC\nStandard of care\nSOP\nStandard Operating Procedure\nTTP \nTime to progression\nULN \nUpper limit of normal per laboratory reference range\nuNTX \nUrinary N-telopeptide\nZA\nZoledronic acid\n1\nStatistical Analysis PlanVersion No.: 6.0Product: DenosumabDate: December 10, 2019Protocol Number 20050209 / ABCSG 188",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "N/A",
+                "Title": "LIST OF STUDY TERMS",
+                "Content": "12Study Term DefinitionDate of randomizationDate subject is randomized; enrollment dateDay 1 in double-blind phase and Open-Label Phase (OLP)First day investigational product is administeredDay 1 in Zoledronic Acid (ZA) substudyDefined as 8 months (\uf0b14 weeks) after the last OLP denosumab doseFor treatment arm: first day ZA is administeredFor control arm (SOC treatment): SOC day 1 visitEnd of Open-Label Treatment (EOOLT)Last administration of open-label phase denosumab for each subjectEOOLT VisitSubjects will complete an EOOLT visit 30 to 45 days after the last dose of open-label denosumab either by clinic visit or telephone contactEnd of study (EOS)The date when the last subject completes the last scheduled long-term follow-up visitEOS visitA subject\u2019s last formal visit or last formal contact or an unscheduled study visit in case of early withdrawal from studyEnd of ZA substudyThe date when the last subject participating in the ZA substudy completes the last formal visit or an unscheduled study visit in case of early withdrawal from the ZA substudyEnd of ZA substudy visitA subject\u2019s last formal substudy visit or contact or an unscheduled substudy visit in case of early withdrawal from substudyEnd of Treatment (EOT) in double-blind phaseLast administration of double-blind investigational product for each subject EOT visit in double-blind phaseThe visit at which the subject receives the last dose of double-blind IP; for all subjects, whose last regular study visit within 6 months(+ 45 days time window) prior to the PADCD was a yearly visit (eg, months 12, 24, etc) and radiological assessments were performed, Statistical Analysis Plan\nVersion No.: 6.0\nProduct: Denosumab\nDate: December 10, 2019\nProtocol Number 20050209 / ABCSG 18\n9\nthis visit will be considered an EOT visit. Those subjects, for whom \nthe radiological assessments were not performed, will need to \nattend the next scheduled 6 months visit, when radiological \nassessments (vertebral x-rays, DXA) will take place and an antibody \nsample will be taken. For these subjects this visit will be considered \nas EOT visit.  For those whose last regular study visit within 6 \nmonths (+ 45 day time window) prior to the PADCD was a 6 months \nvisit (eg, month 6, 18, etc), the next regularly scheduled yearly study \nvisit (eg, Q12M) within 6 months after PADCD will be considered an \nEOT visit\nFractures\nClinical fracture \nClinically evident fracture with associated symptoms\nClinical Vertebral \nFracture\nClinical vertebral fracture when there is \u2265 1 grade increase from a \nprevious grade of 0 in any vertebra between T4 and L4 at any visit \n(scheduled or unscheduled) and the subject reported signs and/or \nsymptoms indicative of a fracture.  Only fractures with low trauma \nseverity will be included.\nLow Trauma \nSeverity\nAssessed by the investigator and collected on the Clinical Fracture \nSummary CRF for each clinical fracture event and includes\n- Fall from standing height or less\n- Falls on stairs, steps or curbs\n- Fall from the height of a stool, chair, first rung on a ladder or \nequivalent (about 0.5 metres)\n- Minimal trauma other than a fall\n- Moderate trauma other than a fall\n- Unknown (including missing)\nAll asymptomatic vertebral fractures are considered of low trauma \nseverity.\nHigh Trauma \nSeverity or \npathologic\nAssessed by the investigator and collected on the Clinical Fracture \nSummary CRF for each clinical fracture event and includes\n- Fall from higher than the height of a stool, chair, first rung on a \nladder or equivalent (> 0.5 metres)\n- Severe trauma other than a fall\n- Pathologic fractures\nMorphometric \nfracture\nA fracture in the vertebral column that is not clinically evident and \nthat is asymptomatic\nNew Vertebral \nFor the study a new vertebral fracture is defined as a fracture in a \nStatistical Analysis Plan\nVersion No.: 6.0\nProduct: Denosumab\nDate: December 10, 2019\nProtocol Number 20050209 / ABCSG 18\n10\nFracture\npreviously undeformed vertebrae. New vertebral fractures will be \nclassified as either clinical or morphometric depending on whether \nor not in the investigator\u2019s opinion the symptom locality can be \nlinked to the fracture.\nPrevalent \nVertebral \nFracture\nPrevalent vertebral fractures will be assessed and recorded at \nbaseline.\nWorsening \nVertebral \nFracture\nWorsening is defined as an increase in fracture severity of at least 1 \ngrade on the semiquantitative scale.\nNew or \nWorsening \nVertebral \nFracture  \nThis is the combination of new vertebral fractures and worsening \nvertebral fractures.\nFinal analysis\nAnalysis performed after long-term follow up, and OLP,\napproximately 66 months after PADCD, after review of the results of \nthe interim analysis\nInterim analysis\nAnalysis for futility for the secondary endpoint DFS to be performed \nafter PADCD by an independent statistician.\nDFS analysis\nAnalysis recommended by the DMC for the secondary endpoint \nDFS to be performed around 18 months after PADCD.\nLong-Term Follow-\nUp (LTFU) visit\nAll Q12M visits that are attended after EOT visit\nPre-selected (major) \ncenter\nCenters were pre-selected (considered major) if they used the \nHologic DXA device at site initiation\nPrimary analysis\nAnalysis after Primary Analysis Data Cut-off Date (PADCD)\nPrimary Analysis \nData Cut-off Date \n(PADCD)\nThe date when approximately 247 subjects have experienced their \nfirst clinical fracture and all subjects have either withdrawn or had \nthe opportunity to receive at least 2 doses of IP.\nScreening period \nBegins with signed informed consent and ends on day \ninvestigational product is administered\n1\n",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "1.",
+                "Title": "INTRODUCTION",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "2.",
+                "Title": "STUDY DETAILS",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "2.1",
+                        "Title": "Objectives",
+                        "Content": "",
+                        "Sub-sections": [
+                            {
+                                "Header Number": "2.1.1",
+                                "Title": "Primary",
+                                "Content": "",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "2.1.2",
+                                "Title": "Secondary",
+                                "Content": "",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "2.1.3",
+                                "Title": "Exploratory",
+                                "Content": "",
+                                "Sub-sections": []
+                            }
+                        ]
+                    },
+                    {
+                        "Header Number": "2.2",
+                        "Title": "Hypotheses",
+                        "Content": "",
+                        "Sub-sections": [
+                            {
+                                "Header Number": "2.2.1",
+                                "Title": "Clinical Efficacy Hypothesis:",
+                                "Content": "",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "2.2.2",
+                                "Title": "Clinical Safety Hypothesis:",
+                                "Content": "",
+                                "Sub-sections": []
+                            }
+                        ]
+                    },
+                    {
+                        "Header Number": "2.3",
+                        "Title": "Overall Study Design",
+                        "Content": "Statistical Analysis Plan\nVersion No.: 6.0\nProduct: Denosumab\nDate: December 10, 2019\nProtocol Number 20050209 / ABCSG 18\n14\n\uf0b7\nType of hospital (pre-selected [major] center or other center), \n1\n\uf0b7\nPrior AI usage (Yes or No)\n2\n\uf0b7\nTotal lumbar spine BMD score at baseline (T-score < \u20131.0 or T-score \u2265 -1.0).\n3\nSubjects will be recruited over an estimated period of 82 months, and remain on \n4\ninvestigational product (IP) until the required number of events (where an event is defined as \n5\nfirst clinical fracture) is reached and all subjects had the opportunity to receive a minimum of \n6\nat least 2 doses of IP, whichever occurs later. \n7\nThe primary analysis data cut-off date (PADCD) is defined as the time at which the required \n8\nnumber of events is reached and all subjects have had the opportunity to receive at least \n9\n2 doses of IP.  The actual timing of the primary analysis will depend on the subject enrollment \n10\nrate, drop-out rate and the rate at which first clinical fractures are observed. When the \n11\nPADCD is reached, all subjects will discontinue IP. \n12\nFollowing the study PADCD, subjects will be followed for DFS, BMFS and OS every 12 \n13\nmonths (Q12M) by clinic visits or telephone contacts starting from their EOT visit until a \n14\nmaximum of either 18 or 66 months after the PADCD, depending on an interim DFS analysis \n15\nafter PADCD (see Section 8). Based on the Data Monitoring Committee (DMC)\n16\nrecommendation, given that interim futility analysis of DFS did not indicate futility, it was \n17\ndecided to follow subjects until a maximum of approximately 66 months after PADCD. \n18\nAdditionally, a time-driven analysis for efficacy of the secondary endpoint DFS recommended \n19\nby the DMC will take place approximately 18 months after PADCD, prior to any unblinding of \n20\nsubjects at the investigator/subject level.\n21\nDue to the statistically significant treatment effect in the primary endpoint and fracture-related \n22\nsecondary endpoints between the denosumab arm and the placebo arm, which were \n23\ndemonstrated at the primary analysis (Gnant et al.; Lancet 2015), willing and eligible subjects \n24\nrandomized to placebo during the double-blind phase may participate in an open-label phase \n25\n(OLP) and receive denosumab 60 mg Q6M for up to 36 months (maximum of 7 doses), as \n26\nrecommended by the DMC. Subjects who do not fulfil the eligibility criteria or do not consent \n27\nwill complete LTFU assessments only.\n28\n",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "2.4",
+                        "Title": "Number of Subjects and Sample Size Calculation",
+                        "Content": "",
+                        "Sub-sections": [
+                            {
+                                "Header Number": "2.4.1",
+                                "Title": "Primary Endpoint",
+                                "Content": "",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "2.4.2",
+                                "Title": "Percent Change in Lumbar Spine BMD at Month 12",
+                                "Content": "",
+                                "Sub-sections": []
+                            }
+                        ]
+                    },
+                    {
+                        "Header Number": "2.5",
+                        "Title": "End of Treatment",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "2.6",
+                        "Title": "Long-Term Follow-Up",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "2.7",
+                        "Title": "End of Open-label Treatment",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "2.8",
+                        "Title": "End of Study",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "2.9",
+                        "Title": "Study Termination",
+                        "Content": "",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "3.",
+                "Title": "DATA SCREENING AND ACCEPTANCE",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "3.1",
+                        "Title": "General Principles",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "3.2",
+                        "Title": "Handling of Missing and Incomplete Data",
+                        "Content": "",
+                        "Sub-sections": [
+                            {
+                                "Header Number": "3.2.1",
+                                "Title": "Early Withdrawal from Study and Lost-to-follow-up",
+                                "Content": "",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "3.2.2",
+                                "Title": "Missed Visit or Non-evaluability of a Specific Clinical Measurement at its Planned Clinical Visit",
+                                "Content": "",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "3.2.3",
+                                "Title": "Dates",
+                                "Content": "",
+                                "Sub-sections": []
+                            }
+                        ]
+                    },
+                    {
+                        "Header Number": "3.3",
+                        "Title": "Potential Outliers",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "3.4",
+                        "Title": "Distributional Characteristics",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "3.5",
+                        "Title": "Validation and Configuration Management",
+                        "Content": "",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "4.",
+                "Title": "ANALYSIS SET",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "4.1",
+                        "Title": "Definition of Analysis Sets",
+                        "Content": "",
+                        "Sub-sections": [
+                            {
+                                "Header Number": "4.1.1",
+                                "Title": "Full Analysis Set (FAS)",
+                                "Content": "",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "4.1.2",
+                                "Title": "OLP Denosumab (Dmab) Analysis Set",
+                                "Content": "",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "4.1.3",
+                                "Title": "BMD Analysis Set",
+                                "Content": "",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "4.1.4",
+                                "Title": "Vertebral Fracture Analysis Set",
+                                "Content": "",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "4.1.5",
+                                "Title": "Per-Protocol (PP) Population",
+                                "Content": "",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "4.1.6",
+                                "Title": "Safety Analysis Set (SAF)",
+                                "Content": "",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "4.1.7",
+                                "Title": "OLP Denosumab (Dmab) Safety Analysis Set",
+                                "Content": "",
+                                "Sub-sections": []
+                            }
+                        ]
+                    },
+                    {
+                        "Header Number": "4.2",
+                        "Title": "Subgroups",
+                        "Content": "",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "5.",
+                "Title": "PRIMARY, SECONDARY, SAFETY AND EXPLORATORY ENDPOINTS",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "5.1",
+                        "Title": "Primary Endpoint",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "5.2",
+                        "Title": "Secondary Endpoints",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "5.3",
+                        "Title": "Safety Endpoints",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "5.4",
+                        "Title": "Exploratory Endpoints",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "5.5",
+                        "Title": "Derived Endpoints",
+                        "Content": "Statistical Analysis Plan\nVersion No.: 6.0\nProduct: Denosumab\nDate: December 10, 2019\nProtocol Number 20050209 / ABCSG 18\n27\nTime to Event for Efficacy\n1\nTime interval (days) from the randomization date to the date of occurrence of the event or \n2\ncensorship during the given period:\n3\nTime interval = (date of occurrence of the event or censorship \u2013\n4\nrandomization date) +1\n5\nBMFS Time\n6\nTime interval (days) from the randomization date to the date of first occurrence of bone \n7\nmetastasis or death from any cause, whichever comes first.  Subjects last known to be alive,\n8\nwho have not experienced bone metastasis, are censored at their last assessment (i.e., bone \n9\nscan) date, or at the end of LTFU whichever comes first. Subjects who had their first \n10\noccurrence of bone metastasis before randomization will be censored at their randomization \n11\ndate.\n12\nDFS Time\n13\nTime interval (days) from the randomization date to the date of first evidence of local or\n14\ndistant metastases, contra-lateral breast cancer, secondary carcinoma, or death from any \n15\ncause (whichever comes first).  Subjects last known to be alive, who have not experienced \n16\nrecurrence of disease, are censored at their last contact date (including date of scheduled \n17\nand unscheduled, clinic and telephone visits, of early study termination and of deaths), or at \n18\nthe end of LTFU/PADCD (for the futility analysis)/interim data cut-off date (for the additional \n19\nDFS analyses), whichever comes first. Subjects who had first disease recurrence before \n20\nrandomization will be censored at their randomization date.\n21\nOS Time\n22\nTime interval (days) from the randomization date to the date of death from any cause.  \n23\nSubjects last known to be alive are censored at their last contact date, or at the end of LTFU, \n24\nwhichever comes first.\n25\nTreatment Emergent Adverse Events\n26\nAll AEs occurring on or after the first dose of IP through 30 days after the last dose of IP\n27\n(EOT) will be considered treatment emergent AEs. The following steps will be applied when \n28\nAE onset date is partial or missing:\n29\n",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "6.",
+                "Title": "PLANNED METHODS OF ANALYSIS",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "6.1",
+                        "Title": "General Approach / Considerations",
+                        "Content": "Statistical Analysis Plan\nVersion No.: 6.0\nProduct: Denosumab\nDate: December 10, 2019\nProtocol Number 20050209 / ABCSG 18\n29\n will be evaluated in a final exploratory analysis \nat this time point. BMD data, as well as data on \n, collected during \n2\nLTFU, will be summarized descriptively. Data collected during the ZA substudy will not be \n3\nused for the final analysis. Data from patients included to the ZA substudy will be censored at\n4\nthe EOT Visit (OLP) or the EOS Visit (LTFU and OLP), whichever occurs later. \n5\nThe primary and secondary null hypotheses will be tested using the hierarchical analysis \n6\nstrategy and the Hochberg procedure (Westfall et al, 1999) to control the overall significance \n7\nlevel of 0.05.\n8\nThe primary null hypothesis will be tested first at a significance level of 0.05.  If the primary \n9\nnull hypothesis is rejected, the secondary null hypotheses will be tested in a stepwise fashion \n10\nover 6 steps, in the order A to F as detailed below, at a significance level of 0.05. In case any \n11\none of the hypotheses is not rejected at a previous step, all subsequent endpoints will be \n12\nanalyzed in a descriptive manner only. Some steps involve single null hypothesis and some \n13\ninvolve multiple null hypotheses (ie, BMD endpoint A).  If there are multiple null hypotheses, \n14\nthe Hochberg procedure will be used to control for multiplicity and the testing will proceed to \n15\nthe next step only if all null hypotheses are rejected.  The hierarchical analysis strategy will \n16\ninvolve the secondary null hypotheses for the following endpoints in the order specified:\n17\nFracture-related secondary endpoints:\n18\nA.\nPercent change in total lumbar spine, total hip and femoral neck BMD from baseline to \n19\nMonth 36 in subjects with evaluable DXA using the same Hologic device (using the \n20\nHochberg procedure controlling for multiplicity)\n21\nB.\nSubject incidence of new vertebral fractures (morphometric vertebral fractures \n22\nidentified from study x-rays and clinical vertebral fractures confirmed by x-ray) at \n23\nMonth 36\n24\nC.\nSubject incidence of a new or worsening of pre-existing vertebral fractures \n25\n(morphometric vertebral fractures identified from on study x-rays and clinical vertebral \n26\nfractures confirmed by x-rays) at Month 36\n27\nDisease outcome-related secondary endpoints:\n28\nD.\nDFS is defined as any evidence of disease recurrence or death from any cause\n29\n",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "6.2",
+                        "Title": "Handling of Incorrect Stratification",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "6.3",
+                        "Title": "Analysis Windows",
+                        "Content": "",
+                        "Sub-sections": [
+                            {
+                                "Header Number": "6.3.1",
+                                "Title": "Study Month",
+                                "Content": "",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "6.3.2",
+                                "Title": "Incidence Endpoints",
+                                "Content": "",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "6.3.3",
+                                "Title": "Analysis at Specified Times",
+                                "Content": "",
+                                "Sub-sections": []
+                            }
+                        ]
+                    },
+                    {
+                        "Header Number": "6.4",
+                        "Title": "Analysis of Key Study Endpoints",
+                        "Content": "",
+                        "Sub-sections": [
+                            {
+                                "Header Number": "6.4.1",
+                                "Title": "Efficacy Analysis",
+                                "Content": "",
+                                "Sub-sections": [
+                                    {
+                                        "Header Number": "6.4.1.1",
+                                        "Title": "Primary Endpoint",
+                                        "Content": "Statistical Analysis Plan\nVersion No.: 6.0\nProduct: Denosumab\nDate: December 10, 2019\nProtocol Number 20050209 / ABCSG 18\n33\ntime-to-event. If there is evidence of a departure from the adjusted model assumptions the \n1\nreason will be explored and reported.\n2\nFurther sensitivity analyses based on different subgroups will be performed using the main \n3\nanalysis method as described in the first paragraph of Section 6.4.1.1. \n4\n\uf0b7\nThe first sensitivity analysis will consider the subjects who withdraw from the trial due to a \n5\n>10% loss of BMD in the total hip or lumbar spine over any 1-year period as having had a \n6\nclinical fracture at the time of withdrawal. This will assess if study monitoring has resulted \n7\nin informative censoring of subjects within the trial.\n8\n\uf0b7\nA second sensitivity analysis will be conducted on the PP population to assess the effect \n9\nof non-protocol compliant subjects. \n10\n\uf0b7\nThe main analysis will consider all available subject data regardless of the subject\u2019s time \n11\nsince last treatment with study drug. A third sensitivity analysis will consider the influence \n12\nof subject experience subsequent to discontinuation from study treatment. This will be \n13\nassessed by including time varying covariates to the Cox model: A binary time dependent \n14\ncovariate is used to assess the effect of treatment discontinuation. This time dependent \n15\ncovariate has a value of zero during treatment application and it changes to one if the \n16\npatient discontinues study treatment for any reason (except in case of study termination)\n17\nprior to PADCD. \n18\nIf any of the sensitivity analyses cause conflicting results to the main analysis then similar \n19\nsensitivity analyses will be conducted for the secondary endpoints related to BMD and \n20\nfractures.\n21\nThe final exploratory analysis of clinical fractures will use the main analysis method as \n22\ndescribed in the first paragraph of Section 6.4.1.1.\n23\nAdditionally, two sensitivity analyses will be performed to account for treatment cross-over \n24\nassociated with the OLP: \n25\nFirst, a rank-preserving structural failure time model (RPSFTM) (Robins and Tsiatis, 1991) to \n26\ncorrect the treatment effect estimate for bias introduced by cross-over from placebo to OLP \n27\nDmab will be conducted. The RPSFTM provides a randomization-based estimate of \n28\ntreatment effect assuming a multiplicative effect of treatment on time to event. The approach \n29\nalso allows reconstruction of the placebo time to event curve as if all patients initially \n30\n",
+                                        "Sub-sections": []
+                                    },
+                                    {
+                                        "Header Number": "6.4.1.2",
+                                        "Title": "Secondary Endpoints",
+                                        "Content": "Statistical Analysis Plan\nVersion No.: 6.0\nProduct: Denosumab\nDate: December 10, 2019\nProtocol Number 20050209 / ABCSG 18\n35\nSummary statistics will include the observed and estimated percent changes, 95% \n1\nconfidence interval (CI), differences with 95% CI between the percent changes in the two \n2\ngroups at Month 36.  Model fit will be assessed by residual analysis and other diagnostic \n3\nstatistics. In case of heteroscedasticity, appropriate transformations will be performed to \n4\nassess sensitivity to this violation of the model assumption.\n5\nAdditional investigatory analyses of covariates will be conducted.\n6\n7\nIncidence of new vertebral fractures at Month 36\n8\nThe presence or absence of a new vertebral fracture (morphometric vertebral fractures \n9\nidentified from on study x-rays and clinical vertebral fractures confirmed by x-rays) will be \n10\nnoted at 36 months (over a 36 month evaluation period) and classified according to Genant \n11\nsemi-quantitative grades. \n12\nThere are 2 situations where Genant semi-quantitative grades can be missing:  either a spine \n13\nradiograph is not taken or individual vertebrae on a radiograph are not evaluable.  Because a \n14\nvertebral fracture can only get worse or at best remain at the same severity over time, the \n15\nGenant semi-quantitative grade for a vertebra can only increase or remain the same.  This \n16\nrationale will be used for handling missing data as follows and these imputations steps will be \n17\ndone before any analysis: \n18\nIf the Genant semi-quantitative grade on a given vertebra is 0 (ie, no fracture) at a later \n19\nvisit, it is reasonable to impute a grade of 0 for the same vertebra at previous visit(s) \n20\nincluding baseline.  \n21\nIf the Genant semi-quantitative grade on a given vertebra is > 0 at a later visit, any \n22\nmissing value for the same vertebra from previous visits will remain missing because \n23\nit cannot be certain when the vertebral fracture occurred., i.e., the value > 0 is \n24\napplicable at the time of first occurrence  \n25\nNote that baseline grades cannot be carried forward to impute missing post baseline values.\n26\nThe independent assessment of vertebral fractures classified according to the Genant semi-\n27\nquantitative grading conducted by the Central Review Committee (CRC) will be used for the \n28\nmain analysis.  If two CRC assessments are available, the second reviewer\u2019s assessment will \n29\nbe used.\n30\nStatistical Analysis Plan\nVersion No.: 6.0\nProduct: Denosumab\nDate: December 10, 2019\nProtocol Number 20050209 / ABCSG 18\n36\nThe main analysis of this endpoint will use logistic regression models including treatment \n1\ngroups as the independent variable and stratified by the randomization stratification factors. \n2\nAdditional investigatory analyses of covariates may be conducted. \n3\nSummary statistics will include the crude incidences at Month 36 and EOS, 95% CI, \n4\ndifferences between incidences in the two groups and 95% CI.  Hosmer-Lemeshow tests will \n5\nbe calculated to assess the goodness-of-fit of the models.  Deviance and Pearson residuals \n6\nand the diagonal elements of the hat matrix will be checked to detect outliers and influential \n7\nobservations. Deviations from the model assumptions will result in further sensitivity \n8\nanalyses.\n9\n10\nIncidence of new or worsening vertebral fractures at Month 36\n11\nThe analysis described above will be repeated considering new or worsening vertebral \n12\nfractures.  \n13\n14\nDisease-free survival \n15\nMain and\nanalyses (DFS as defined in section 5.5) employ the same \n16\nmethods as the primary endpoint. Additional investigatory analyses of covariates (see section \n17\n6.4.6) may be conducted.\n \n18\n \nAn additional sensitivity analysis will be performed censoring subjects who received any\n21\nbisphosphonates or commercial available denosumab prior to EOT (with EOT reason \n22\n\u2018requirements for alternative therapies\u2019). Subjects who took an alternative therapy, and have \n23\nnot yet had a DFS event, will be censored at the time of EOT.\n24\n25\n",
+                                        "Sub-sections": []
+                                    }
+                                ]
+                            },
+                            {
+                                "Header Number": "6.4.2",
+                                "Title": "Safety Analyses",
+                                "Content": "",
+                                "Sub-sections": [
+                                    {
+                                        "Header Number": "6.4.2.1",
+                                        "Title": "Adverse Events",
+                                        "Content": "",
+                                        "Sub-sections": []
+                                    },
+                                    {
+                                        "Header Number": "6.4.2.2",
+                                        "Title": "Clinical Laboratory Assessments",
+                                        "Content": "",
+                                        "Sub-sections": []
+                                    },
+                                    {
+                                        "Header Number": "6.4.2.3",
+                                        "Title": "Anti-denosumab Antibodies",
+                                        "Content": "",
+                                        "Sub-sections": []
+                                    },
+                                    {
+                                        "Header Number": "6.4.2.4",
+                                        "Title": "Concomitant Medication",
+                                        "Content": "",
+                                        "Sub-sections": []
+                                    }
+                                ]
+                            },
+                            {
+                                "Header Number": "6.4.3",
+                                "Title": "Exploratory Analyses",
+                                "Content": "Statistical Analysis Plan\nVersion No.: 6.0\nProduct: Denosumab\nDate: December 10, 2019\nProtocol Number 20050209 / ABCSG 18\n40\n",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "6.4.4",
+                                "Title": "Treatment Discontinuation and Lost-to-Follow-Up",
+                                "Content": "",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "6.4.5",
+                                "Title": "Subgroup Analysis",
+                                "Content": "",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "6.4.6",
+                                "Title": "Covariates",
+                                "Content": "",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "6.4.7",
+                                "Title": "SAS Code Fragments",
+                                "Content": "Statistical Analysis Plan\nVersion No.: 6.0\nProduct: Denosumab\nDate: December 10, 2019\nProtocol Number 20050209 / ABCSG 18\n44\n",
+                                "Sub-sections": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Header Number": "7.",
+                "Title": "FURTHER TABULAR SUMMARIES AND LISTINGS",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "8.",
+                "Title": "INTERIM ANALYSES AND EARLY STOPPING GUIDELINES",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "9.",
+                "Title": "DFS ANALYSIS RECOMMENDED BY DMC",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "10.",
+                "Title": "DFS ANALYSIS 2018",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "11.",
+                "Title": "ZA SUBSTUDY",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "11.1.1",
+                        "Title": "Exploratory Objectives",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "11.1.2",
+                        "Title": "ZA Substudy design",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "11.1.3",
+                        "Title": "Number of Subjects and Sample Size Calculation",
+                        "Content": "",
+                        "Sub-sections": [
+                            {
+                                "Header Number": "N/A",
+                                "Title": "Table 1. Sample Sizes",
+                                "Content": "",
+                                "Sub-sections": []
+                            }
+                        ]
+                    },
+                    {
+                        "Header Number": "11.1.4",
+                        "Title": "Estimated ZA Substudy Duration",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "11.1.5",
+                        "Title": "End of ZA Substudy",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "11.1.6",
+                        "Title": "Study Termination",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "11.1.7",
+                        "Title": "Exploratory Endpoints",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "11.1.8",
+                        "Title": "Analysis Sets",
+                        "Content": "",
+                        "Sub-sections": [
+                            {
+                                "Header Number": "11.1.8.1",
+                                "Title": "ZA Analysis Set",
+                                "Content": "",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "11.1.8.2",
+                                "Title": "ZA Safety Analysis Set",
+                                "Content": "",
+                                "Sub-sections": []
+                            }
+                        ]
+                    },
+                    {
+                        "Header Number": "11.1.9",
+                        "Title": "Subgroups",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "11.1.10",
+                        "Title": "Timepoint of Analysis",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "11.1.11",
+                        "Title": "Handling of Missing and Incomplete Data",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "11.1.12",
+                        "Title": "Analysis Windows",
+                        "Content": "",
+                        "Sub-sections": [
+                            {
+                                "Header Number": "11.1.12.1",
+                                "Title": "Study Month",
+                                "Content": "3Study Month will be defined as:4CEIL(date of event \u2013 date of ZA substudy Day 1*))/30.44)5* If ZA Substudy Day 1 is missing, the randomization date will be used instead6",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "11.1.12.2",
+                                "Title": "Incidence Endpoints",
+                                "Content": "7Incidence between periods of time will use the formula in Section 11.1.12.1 to derive month 8from ZA substudy Day 1 to event between Months 1 and 6, between Months 1 and 12 and 9between Months 1 and 18.  10",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "11.1.12.3",
+                                "Title": "Analysis at Specified Times",
+                                "Content": "11All tests and procedures will aim to be performed within the specified windows according to 12the definitions given in the tables below. To allow for variations in scheduling the following 13visit windows will be used to assign evaluations to a most appropriate nominal visit for 14analysis and summarization.15In order to get as many data points as possible for summarization, there will be no gaps 16between visit windows. If more than one assessment is available within a window, the 17assessment closest to the target day at each nominal visit (Month 6, Month 12, \u2026) will be 18used. If ZA substudy Day 1 is missing, the randomization date will be used instead. BMD, 19CTX and Osteocalcin measurements recorded within 45 days after Day 1 are acceptable as 20baselines. In case of several candidates, the closest value to Day 1 will be selected.21Nominal Visit WindowTarget DayDefinition (ZA substudy Day)Baseline1Last evaluation prior to or on ZA substudy Day 1Month 6 183ZA substudy Day 2 to 274Month 12365ZA substudy Day 275 to 456Month 18547ZA substudy Day 457 to 63422",
+                                "Sub-sections": []
+                            }
+                        ]
+                    },
+                    {
+                        "Header Number": "11.1.13",
+                        "Title": "Analysis Methods",
+                        "Content": "",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "12.",
+                "Title": "AMENDMENTS TO THE STATISTICAL ANALYSIS PLAN",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "13.",
+                "Title": "CHANGES FROM THE PROTOCOL PLANNED ANALYSES",
+                "Content": "Statistical Analysis Plan\nVersion No.: 6.0\nProduct: Denosumab\nDate: December 10, 2019\nProtocol Number 20050209 / ABCSG 18\n57\nRevised with:\n1\n\uf0b7\nObjective: \n \n2\n \n3\n4\nBackground:\n5\nSites were pre-selected at initiation if they used a Hologic DXA device. The original BMD \n6\nrelated endpoints were to be subset on this stratum in order to limit variability across and \n7\nwithin subjects. During the blinded review of the data it has become apparent that during the \n8\ncourse of the study sites have changed their DXA devices and subjects may switch between \n9\nDXA machines during the duration of the study. Therefore the stratification factor does not \n10\nreflect the actual DXA machine type used. Consequently, the analyses of this endpoint will be \n11\nbased on the machine type reported on the subject\u2019s eCRF. Subjects will be included in the \n12\nmain BMD analyses if the same Hologic DXA device was used (see Section 4.1.3, BMD \n13\nanalysis set).\n14\nAn additional section regarding an analysis of DFS at 18 months after PADCD was included \n15\nin Version 4 of the SAP (15 September 2015) based on a recommendation of the DMC and \n16\ndecision of the Study Steering Committee and the Study Sponsor.\n17\nVersion 5 of this SAP includes the following changes to the statistical analyses planned to be \n18\nconducted within the amended clinical study protocol for ABCSG study 18 (Protocol Number: \n19\n20050209, Superseding Amendment 4, Date: 22 February 2016):\n20\nBased on recommendation from the Study Steering Committee, due to concerns of a \n21\npotential dilution effect caused by treatment crossover, an additional, exploratory \n \n22\nanalysis will be conducted early 2018, including the main DFS analysis, as well as all above \n23\nmentioned sensitivity analyses.\n24\n25\n",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "14.",
+                "Title": "LIST OF PLANNED TABLES AND FIGURES",
+                "Content": "Statistical Analysis Plan\nVersion No.: 6.0\nProduct: Denosumab\nDate: December 10, 2019\nProtocol Number 20050209 / ABCSG 18\n59\nc) Crude incidences of new vertebral fractures at 36 months with 95 % confidence \n1\nintervals for each treatment group and their difference with corresponding 95 % \n2\nconfidence interval (Vertebral fracture analysis set)\n3\nd) Crude incidences of new or worsening vertebral fractures at 36 months with 95 % \n4\nconfidence intervals for each treatment group and their difference with \n5\ncorresponding 95 % confidence interval (Vertebral fracture analysis set)\n6\n5. Secondary Endpoint for FAS (unless otherwise specified) - modelling:\n7\na) Results of logistic regressions modelling the incidence of new vertebral fractures \n8\n(odds-ratios and 95 % confidence intervals) with treatment group as covariate \n9\nstratified by randomization stratification factors at 36 months (Vertebral fracture \n10\nanalysis set)\n11\nb) Results of logistic regressions modelling the incidence of new vertebral fractures \n12\nwith treatment group as covariate and other covariates found significant (odds-\n13\nratios and 95 % confidence intervals) at 36 months (Vertebral fracture analysis \n14\nset)\n15\nc) Results of logistic regressions modelling the incidence of new or worsening \n16\nvertebral fractures (odds-ratios and 95 % confidence intervals) with treatment \n17\ngroup as covariate stratified by randomization stratification factors at 36 months \n18\n(Vertebral fracture analysis set)\n19\nd) Results of logistic regressions modelling the incidence of new or worsening \n20\nvertebral fractures with treatment group as covariate and other covariates found \n21\nsignificant (odds-ratios and 95 % confidence intervals) at 36 months, respectively\n22\n(Vertebral fracture analysis set)\n23\ne) Result of Cox regression analysis after around 18 months after PADCD for DFS; \n24\nthe model includes treatment as covariate and is stratified by the randomization \n25\nstratification factors, description of the model by with hazard ratios and 95 % \n26\nconfidence intervals (IDMC recommended analysis)\n27\nf)\nResult of Cox regression analysis for DFS analysis 2018; the model includes \n28\ntreatment as covariate and is stratified by the randomization stratification factors, \n29\ndescription of the model by with hazard ratios and 95 % confidence intervals \n30\n(Steering Committee recommended analysis)\n31\ng) Result of RPSFTM using Cox regression analysis for DFS analysis 2018; the \n32\nmodel includes treatment groups as covariate stratified by randomization \n33\nstratification factors using FAS, description with hazard ratios (95% CI) and \n34\nacceleration factor (95% CI) (Steering Committee recommended analysis)\n35\nh) Result of Cox regression analysis after long-term-follow-up for a) DFS, b) BMFS\n36\nand c) OS; the model includes treatment as covariate and is stratified by the \n37\nrandomization stratification factors, description of the model by with hazard ratios \n38\nand 95 % confidence intervals (final analysis)\n39\ni)\nResult of RPSFTM using Cox regression analysis for a) DFS, b) BMFS and c) OS; \n40\nthe model includes treatment groups as covariate stratified by randomization \n41\nstratification factors using FAS, description with hazard ratios (95% CI) and \n42\nacceleration factor (95% CI) (final analysis)\n43\n6. Adverse Events for SAF: \n44\nStatistical Analysis Plan\nVersion No.: 6.0\nProduct: Denosumab\nDate: December 10, 2019\nProtocol Number 20050209 / ABCSG 18\n60\na) Subject incidence rates of treatment emergent adverse events reported during \n1\ntreatment period are tabulated by system organ class and preferred term and split\n2\nby treatment and age categories and by treatment and race (White/Caucasian and \n3\nothers)\n4\nb) Investigational product related adverse events split by treatment and age \n5\ncategories and by treatment and race\n6\nc) Serious adverse events split by treatment and age categories and by treatment \n7\nand race\n8\nd) Common Terminology Criteria for Adverse Events (CTCAE) grade 3, 4, or 5 \n9\nadverse events split by treatment and age categories and by treatment and race\n10\ne) Adverse events leading to investigational product discontinuation split by \n11\ntreatment and age categories and by treatment and race\n12\nf)\nAdverse events leading to study withdrawal split by treatment and age categories \n13\nand by treatment and race\n14\ng) Investigational product related serious adverse events split by treatment and age \n15\ncategories and by treatment and race\n16\nh) Fatal adverse events split by treatment and age categories and by treatment and \n17\nrace\n18\ni)\nNarratives for death and serious adverse events \n19\n7. Clinical Laboratory Assessments for SAF:\n20\na) Summary of recorded values by minimum, maximum, median, mean and standard \n21\ndeviation for each nominal visit window (semi-annually) \n22\nb) Summary of change from baseline by minimum, maximum, median, mean and \n23\nstandard deviation for each nominal visit window (semi-annually) \n24\nc) Tables of shifts of toxicity grades (CTCAE: <3, 3, 4 , 5) for baseline and \u201cworst\u201d \n25\non-study values. For a selected subset both minimum and maximum are reported\n26\n8. Anti-denosumab Antibodies: incidence and percentages of subjects who develop binding \n27\nand neutralizing anti denosumab antibodies split by treatment group and visit (SAF)\n28\n9. Exploratory Analyses for FAS (unless otherwise specified) \u2013 description:\n29\nStatistical Analysis Plan\nVersion No.: 6.0\nProduct: Denosumab\nDate: December 10, 2019\nProtocol Number 20050209 / ABCSG 18\n61\n11. Subgroup Analysis for FAS - modelling:\n29\na) Result of Cox regression analysis with treatment groups as covariate separately \n30\nfor each sub-group combination of a) major academic site, b) Prior AI usage and \n31\nc) Total lumbar spine BMD score at baseline (Tscore <-1.0 or \uf0b3-1.0); description \n32\nof model results with hazard ratios and 95 % confidence intervals\n33\nb) Results of three Cox regression analyses with treatment and a subgroup variable \n34\n(a) major academic site, b) Prior AI usage and c) total lumbar spine BMD score at \n35\nbaseline (Tscore <-1.0 or \uf0b3-1.0)) as covariates; interaction between treatment and \n36\ncorresponding subgroup variable is also included; description of model results \n37\nwith hazard ratios and 95 % confidence intervals\n38\n12. Further tabular summaries and listings for SAF unless otherwise specified\n39\na) Demographic data of patients (age and race), stratification criteria (type of \n40\nhospital, prior AI usage and total lumbar spine BMD score at baseline (Tscore <-\n41\n1.0 or \uf0b3-1.0)) and baseline and breast cancer history (T-stage, pN-stage, Grading, \n42\nStatistical Analysis Plan\nVersion No.: 6.0\nProduct: Denosumab\nDate: December 10, 2019\nProtocol Number 20050209 / ABCSG 18\n62\nprimary tumor, ER and PgR expression) split by randomized treatment groups\n1\n(FAS)\n2\nb) Withdrawal information (subject disposition status, reason for withdrawal and \n3\nmean time under observation per patient from randomization to lost-to-follow up \n4\ndate or end-of-study visit) summarized by randomized treatment groups\n5\nc) Exposure / follow-up information (number of doses) summarized by randomized \n6\ntreatment group\n7\nd) Any data collected relating to important protocol violations\n8\ne) Accesses to individual subject treatment assignments (unblinding)\n9\nf)\nListing of Manufacturing Lot Numbers \n10\ng) Listing of Unique Manufacturing Lot Numbers \n11\nh) Listing of Laboratory Reference Ranges \n12\ni)\nListing adverse events considered not treatment emergent\n13\n14\nList of Tables for ZA substudy: \n15\n1. Exploratory Endpoints for ZA analysis set - description: \n16\n2. Exploratory Endpoints for ZA analysis set- modelling:\n22\nStatistical Analysis Plan\nVersion No.: 6.0\nProduct: Denosumab\nDate: December 10, 2019\nProtocol Number 20050209 / ABCSG 18\n63\n29\nList of Figures:\n30\n1. Kaplan-Meier estimates for each treatment group for primary outcome\n31\n2. Kaplan-Meier estimates for each treatment group where censoring is the interesting \n32\noutcome\n33\n3. Kaplan-Meier estimates for each treatment group where treatment discontinuation is the \n34\ninteresting outcome\n35\n4. Scatter plots to identify outliers in any of the continuous variables \u2013 including sensitivity \n36\nanalyses\n37\n5. Description of interactions\n38\n39\n",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "15.",
+                "Title": "REFERENCES",
+                "Content": "",
+                "Sub-sections": []
+            }
+        ]
+    }
+]

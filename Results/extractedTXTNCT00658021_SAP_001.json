@@ -1,0 +1,540 @@
+[
+    {
+        "Header Number": "N/A",
+        "Title": "TITLE PAGE",
+        "Content": "2TITLE PAGE........................................................................................................................1",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "N/A",
+        "Title": "TABLE OF CONTENTS",
+        "Content": "TITLE PAGE........................................................................................................................1......................................................................................................2LIST OF ABBREVIATIONS................................................................................................5AMENDMENT HISTORY...................................................................................................7STUDY DETAILS..............................................................................................81.1Study objectives..................................................................................................81.1.1Primary objective................................................................................................81.1.2Secondary objectives...........................................................................................81.1.3Exploratory objectives ........................................................................................91.2Study design .......................................................................................................91.3Number of patients............................................................................................11ANALYSIS SETS ............................................................................................122.1Definition of analysis sets .................................................................................122.1.1All Patients analysis set.....................................................................................122.1.2Intent-to-Treat  analysis set ...............................................................................122.1.3Full analysis set.................................................................................................122.1.4Evaluable analysis set .......................................................................................132.1.5Safety analysis set.............................................................................................132.1.6Safety follow-up analysis set.............................................................................132.1.7Pharmacokinetic (PK) analysis set ....................................................................132.2Violations and deviations..................................................................................13PRIMARY AND SECONDARY VARIABLES ...............................................143.1Primary efficacy variable ..................................................................................143.2Secondary efficacy variables.............................................................................143.3Exploratory efficacy variables...........................................................................153.4Safety variables.................................................................................................153.5Exploratory safety variables..............................................................................163.6Definition of study variables .............................................................................163.6.1Study baseline...................................................................................................163.6.2End of study treatment measurement.................................................................163.6.3Change and percent change from baseline.........................................................163.6.4Rescue therapy..................................................................................................173.6.5Early discontinuation visit.................................................................................173.6.6Study periods....................................................................................................18ANALYSIS METHODS...................................................................................184.1General principles.............................................................................................184.1.1Statistical notations and presentations ...............................................................184.1.2Hypothesis testing significance level.................................................................194.1.3Handling of missing data...................................................................................193\n4.1.3.1\nMissing efficacy data ........................................................................................19\n4.1.3.2\nMissing baseline and demographic data ............................................................20\n4.1.3.3\nMissing safety data ...........................................................................................20\n4.1.3.4\nPremature discontinuation.................................................................................20\n4.1.4\nHandling of data post rescue medication ...........................................................20\n4.1.5\nStatistical modelling..........................................................................................21\n4.2\nAnalysis methods..............................................................................................21\n4.2.1\nStudy disposition and baseline demographics....................................................21\n4.2.1.1\nPatient disposition.............................................................................................21\n4.2.1.2\nDemographics and baseline characteristics........................................................22\n4.2.1.3\nMedical/surgical history....................................................................................26\n4.2.1.4\nPrior and concomitant medications....................................................................26\n4.2.2\nTreatment compliance.......................................................................................27\n4.2.3\nExposure...........................................................................................................27\n4.2.4\nEfficacy analysis...............................................................................................28\n4.2.4.1\nEstimands .........................................................................................................28\n4.2.4.2\nAnalysis of primary variable .............................................................................31\n4.2.4.3\nSensitivity and supplementary analyses for primary endpoint............................32\n4.2.4.4\nAnalysis of secondary variables ........................................................................34\n4.2.4.5\nAnalysis of exploratory efficacy variables.........................................................38\n4.2.5\nSafety analyses .................................................................................................39\n4.2.5.1\nAdverse events..................................................................................................39\n4.2.5.2\nHypoglycemic episodes ....................................................................................40\n4.2.5.3\nAntibodies to exenatide.....................................................................................41\n4.2.5.4\nLaboratory data (including CEA and calcitonin concentrations) ........................41\n4.2.5.5\nVital signs.........................................................................................................42\n4.2.5.6\nECG..................................................................................................................43\n4.2.5.7\nHeight...............................................................................................................43\n4.2.5.8\nTanner pubertal assessment...............................................................................43\n4.2.6\nPharmacokinetic analyses .................................................................................43\n4.3\nConventions......................................................................................................43\n4.3.1\nVisit assignments for efficacy variables ............................................................44\n4.3.2\nVisit assignment for safety variables .................................................................45\n4.3.3\nRules for safety observations.............................................................................47\n4.3.3.1\nMultiple safety assessments ..............................................................................47\n4.3.3.2\nAdverse events at patient level..........................................................................47\n4.3.3.3\nAdverse event at event level..............................................................................48\nINTERIM ANALYSES ....................................................................................49\nCHANGES OF ANALYSIS FROM PROTOCOL ............................................49\nREFERENCES .................................................................................................50\nAPPENDIX ......................................................................................................51\nAppendix 1\nStudy schedule \u2013 treatment period .................................................................51\nAppendix 2\nStudy schedule \u2013 long-term safety follow-up period ......................................53\nAppendix 3\nPartial date conventions for AEs....................................................................54\n4\nAppendix 4\nPartial date conventions for CMs...................................................................55\nAppendix 5\nPreferred terms for potentially immune-related AEs ......................................57\nAppendix 6\nCriteria for potentially clinically significant laboratory tests ..........................59\nAppendix 7\nCriteria for potentially significant vital signs .................................................60\nLIST OF TABLES\nTable 1 Important Protocol Deviations................................................................................14\nTable 2 Demographics and baseline characteristics .............................................................22\nTable 3 Estimand framework...............................................................................................28\nTable 4 Dummy variables ...................................................................................................34\nTable 5 Visit Windows: FSG, FSI, HOMA-B and HOMA-S...............................................44\nTable 6 Visit Windows: Failure to maintain glycemic control .............................................44\nTable 7 Visit Windows: Antibodies to exenatide and vital signs..........................................45\nTable 8 Visit Windows: Body weight, height, BMI and Tanner pubertal assessment ...........46\nTable 9 Visit Windows: Laboratory data, ECG, waist circumference and hip circumference46\nTable 10 Visit windows: Hypoglycemic episodes................................................................47\nLIST OF FIGURES\nFigure 1 Study Design.........................................................................................................11\n5",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "N/A",
+        "Title": "LIST OF ABBREVIATIONS",
+        "Content": "Abbreviation or special termExplanationAEAdverse eventsANCOVAAnalysis of covarianceANOVAAnalysis of varianceALTAlanine aminotransferaseASTAspartate aminotransferaseATCAnatomical Therapeutic ChemicalBMIBody mass indexCCTConcomitant TherapyCDECertified diabetes educatorCEACarcinoembryonic antigenCFBLChange from baselineCKD-EPIChronic Kidney Disease Epidemiology CollaborationCMHCochran-Mantel-HaenszelCRFCase report formCSPClinical study protocolCSRClinical study reportCTMSClinical trial management systemCVCoefficient of variationDAEAE Leading to Treatment DiscontinuationDBLDatabase lockDMCData Monitoring CommitteeDRMData Review MeetingEBIDExenatide twice dailyECGElectrocardiogramEDEarly discontinuationeGFREstimated glomerular filtration rateFASFull analysis setFSGFasting serum glucoseFSIFasting serum insulinGCVGeometric coefficient of variationGSDGeometric standard deviationHbA1cGlycated hemoglobin A1cHOMA-BHomeostasis model assessments \u2013 beta-cell functions6\nAbbreviation or special \nterm\nExplanation\nHOMA-S\nHomeostasis model assessments \u2013 insulin sensitivity\nICH\nInternational Conference on Harmonisation\nITT\nIntent-to-Treat\nLLN\nLower limit of normal range\nLMP\nLifestyle modification program\nMAR\nMissing at random\nMedDRA\nMedical Dictionary for Regulatory Activities\nMI\nMultiple imputation\nMMRM\nMixed model repeated measures\nMNAR\nMissing not at random\nOAM\nOral anti-diabetic medication\nOC\nObserved case\nPBO\nPlacebo\nPD\nProtocol deviations\nPK\nPharmacokinetic\nPT\nPreferred term\nQD\nOnce daily\nQW\nOnce weekly\nRD\nRegistered dietitian\nSAP\nStatistical Analysis Plan\nSD\nStandard deviation\nSI\nStandard International (Unit)\nSMBG\nSelf-monitored blood glucose\nSOC\nSystem organ class\nSU\nSulfonylurea\nTEAE\nTreatment emergent adverse events\nULN\nUpper limit of normal range\nWHODD\nWorld Health Organization Drug Dictionary\n7",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "N/A",
+        "Title": "AMENDMENT HISTORY",
+        "Content": "DateBrief description of change22th April 2020Due to change of company for the analysis of this study from Amylin Pharmaceuticals, LLC to IQVIA, the Statistical Analysis Plan has been fully rewritten from Version 1.0.Rewritten to be consistent with Study D5551C00002 where appropriate.Summaries and analysis of long-term safety follow-up period included.Due to power considerations, efficacy analysis comparisons will be between both exenatide treatment arms combined versus placebo. Updated to allow for possibility of analysis of treatment period data and safety follow-up period data separatelyImportant Protocol Deviation #1 has been amended to consider screening time, rather than enrolment.Baseline definition and end of study treatment measurement have been updated.Columns for the EBID treatment groups have been swapped.Updated to only consider informed consent, and not assent.Race and Region has been updated.Ethnic group has been deleted.Country has been sorted in alphabetical order.Medications will be presented for ITT and safety follow-up analysis set.MI definition has been extended and additional table for primary analysis has been added.Post-treatment AE definition has been updated to account for the overlap between TEAEs and previous post-treatment AE definition.Shift from baseline to the worst value for lab parameters has been deleted.Total bilirubin upper limit updated.PK and antibodies data will only be listed.",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "1",
+        "Title": "STUDY DETAILS",
+        "Content": "",
+        "Sub-sections": [
+            {
+                "Header Number": "1.1",
+                "Title": "Study objectives",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "1.1.1",
+                        "Title": "Primary objective",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "1.1.2",
+                        "Title": "Secondary objectives",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "1.1.3",
+                        "Title": "Exploratory objectives",
+                        "Content": "",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "1.2",
+                "Title": "Study design",
+                "Content": "10\nwithin 60 minutes before morning and evening meals (or the 2 main meals of the day, \napproximately 6 hours or more apart) for 28 weeks. \nAll patients will be expected to participate in a simplified lifestyle modification program (LMP) \nthroughout this study.  The simplified lifestyle modification program will include both dietary \neducation and physical activity components.  At the clinic visits, the patients will meet with a \nregistered dietitian (RD) or certified diabetes educator (CDE) who will review the patient\u2019s \ndietary history and physical activity record.  The LMP will be reinforced at each visit.\nPatients who have discontinued the study due to loss of glycemic control will be offered \nalternative antidiabetic therapy at the discretion of the investigator.\nIn response to a request from the European Medicines Agency Pediatric Committee, patients will \nbe observed in a long-term safety follow-up period following discontinuation of study drug \nadministration. Patients will return to the clinic every 6 months for evaluation of safety \nmeasures. Patients will be followed for up to 3 years after the completion of the treatment period, \nor until the difference between 2 consecutive height measurements at 6-month intervals is less \nthan 5mm (whichever occurs first). Patients who have achieved the final height requirement of a \nchange of less than 5mm between Visit 3 (Week 0) and Visit 11 (Week 28/Early \nDiscontinuation) of the treatment period will be excluded from the safety-follow up period. \nPatients who do not have height assessments at study-site visits over a 6-month interval prior to \ndiscontinuation of study medication will enter the safety follow-up period. \n",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "1.3",
+                "Title": "Number of patients",
+                "Content": "",
+                "Sub-sections": []
+            }
+        ]
+    },
+    {
+        "Header Number": "2",
+        "Title": "ANALYSIS SETS",
+        "Content": "",
+        "Sub-sections": [
+            {
+                "Header Number": "2.1",
+                "Title": "Definition of analysis sets",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "2.1.1",
+                        "Title": "All Patients analysis set",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "2.1.2",
+                        "Title": "Intent-to-Treat analysis set",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "2.1.3",
+                        "Title": "Full analysis set",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "2.1.4",
+                        "Title": "Evaluable analysis set",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "2.1.5",
+                        "Title": "Safety analysis set",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "2.1.6",
+                        "Title": "Safety follow-up analysis set",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "2.1.7",
+                        "Title": "Pharmacokinetic (PK) analysis set",
+                        "Content": "",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "2.2",
+                "Title": "Violations and deviations",
+                "Content": "",
+                "Sub-sections": []
+            }
+        ]
+    },
+    {
+        "Header Number": "3",
+        "Title": "PRIMARY AND SECONDARY VARIABLES",
+        "Content": "",
+        "Sub-sections": [
+            {
+                "Header Number": "3.1",
+                "Title": "Primary efficacy variable",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "3.2",
+                "Title": "Secondary efficacy variables",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "3.3",
+                "Title": "Exploratory efficacy variables",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "3.4",
+                "Title": "Safety variables",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "3.5",
+                "Title": "Exploratory safety variables",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "3.6",
+                "Title": "Definition of study variables",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "3.6.1",
+                        "Title": "Study baseline",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "3.6.2",
+                        "Title": "End of study treatment measurement",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "3.6.3",
+                        "Title": "Change and percent change from baseline",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "3.6.4",
+                        "Title": "Rescue therapy",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "3.6.5",
+                        "Title": "Early discontinuation visit",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "3.6.6",
+                        "Title": "Study periods",
+                        "Content": "",
+                        "Sub-sections": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Header Number": "4",
+        "Title": "ANALYSIS METHODS",
+        "Content": "",
+        "Sub-sections": [
+            {
+                "Header Number": "4.1",
+                "Title": "General principles",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "4.1.1",
+                        "Title": "Statistical notations and presentations",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "4.1.2",
+                        "Title": "Hypothesis testing significance level",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "4.1.3",
+                        "Title": "Handling of missing data",
+                        "Content": "",
+                        "Sub-sections": [
+                            {
+                                "Header Number": "4.1.3.1",
+                                "Title": "Missing efficacy data",
+                                "Content": "",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "4.1.3.2",
+                                "Title": "Missing baseline and demographic data",
+                                "Content": "",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "4.1.3.3",
+                                "Title": "Missing safety data",
+                                "Content": "",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "4.1.3.4",
+                                "Title": "Premature discontinuation",
+                                "Content": "",
+                                "Sub-sections": []
+                            }
+                        ]
+                    },
+                    {
+                        "Header Number": "4.1.4",
+                        "Title": "Handling of data post rescue medication",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "4.1.5",
+                        "Title": "Statistical modelling",
+                        "Content": "",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "4.2",
+                "Title": "Analysis methods",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "4.2.1",
+                        "Title": "Study disposition and baseline demographics",
+                        "Content": "",
+                        "Sub-sections": [
+                            {
+                                "Header Number": "4.2.1.1",
+                                "Title": "Patient disposition",
+                                "Content": "",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "4.2.1.2",
+                                "Title": "Demographics and baseline characteristics",
+                                "Content": "23\nDemographic and baseline characteristics\nCategories\nRegion\nAfrica\nAsia\nEurope\nLatin America\nUSA\nCountry\nBrazil\nIndia\nMexico \nRepublic of Korea\nRussia\nSouth Africa\nUSA \nHeight (cm), (continuous)\nWeight (kg), (continuous)\nBody Mass Index (BMI) (kg/m2), \n(continuous)\nHeight population percentile group \n(categorical)\n<3\n3 to <85\n85 to <97\n\u226597\nWeight population percentile group \n(categorical)\n<3\n3 to <85\n85 to <97\n\u226597\nBMI population percentile group (categorical)\n<3\n24\nDemographic and baseline characteristics\nCategories\n3 to <85\n85 to <97\n\u226597\nWaist Circumference (cm), (continuous)\nHip Circumference (cm), (continuous)\nBaseline HbA1c %, (continuous)\nHbA1c stratum\n\u22648.0%\n>8.0%\nBackground Diabetes therapy\nNa\u00efve\nMetformin\nSU\nMetformin + SU\nDuration of Diabetes (years), (continuous)\nDuration of Diabetes (years), (categorical)\n<1\n\u22651 to \u22645\n>5\nBaseline FPG (fasting serum glucose), \nmg/dL, (continuous)\nBaseline FPG (fasting serum glucose), \nmmol/L, (continuous)\nECG\nAbnormal\n    Clinically significant\n    Not clinically significant\nNormal\nBaseline eGFR (mL/min/1.732) (continuous) \n(Bedside Schwartz equation)\n25\nDemographic and baseline characteristics\nCategories\nBaseline eGFR (mL/min/1.732)\n(Bedside Schwartz equation)\n\u2265125\n<125\nBaseline eGFR (mL/min/1.732) (continuous)\n(CKD-Epi equation)\nBaseline Tanner Stage (repeat for each of \nPubic hair-female, breast-female, pubic hair-\nmale, genitals-male, overall) \nStage 1\nStage 2\nStage 3\nStage 4\nStage 5\nPatient\u2019s age (years) and ECG will be taken from the Case Report Form (CRF) at screening.\nIf a patient switches to a different site during the study, the patient will be summarized at the site \nhe/she originally enrolled in, regardless of when the patient switched sites.\nRegion will be categorized as following:\nAfrica - South Africa\nEurope - Russia\nAsia - India, Republic of Korea\nLatin America - Brazil, Mexico\nUSA - USA.\nBMI will be calculated as the ratio of patient\u2019s weight (in kilograms) to the square of the patient\u2019s \nheight (in meters): BMI = kg/m\u00b2. The Investigator-calculated BMI will not be summarized or \nlisted. Height is collected in cm and will be converted to meters before calculating BMI by dividing \nby 100. \nPercentile of body weight, height and BMI percentile will be determined based on the \nstandardized growth chart for boys and girls. \nValues and percentiles will be listed for height, body weight and BMI.\nDuration of diabetes (years) will be calculated using the screening visit date and the date of \ndiabetes diagnosis (see below).\n",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "4.2.1.3",
+                                "Title": "Medical/surgical history",
+                                "Content": "",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "4.2.1.4",
+                                "Title": "Prior and concomitant medications",
+                                "Content": "",
+                                "Sub-sections": []
+                            }
+                        ]
+                    },
+                    {
+                        "Header Number": "4.2.2",
+                        "Title": "Treatment compliance",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "4.2.3",
+                        "Title": "Exposure",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "4.2.4",
+                        "Title": "Efficacy analysis",
+                        "Content": "",
+                        "Sub-sections": [
+                            {
+                                "Header Number": "4.2.4.1",
+                                "Title": "Estimands",
+                                "Content": "29\nAttributes\nEstimand\nPopulation\nVariable\nIntercurrent event (IE) \nstrategy\nPopulation-\nlevel summary\nSensitivity to \nsupplementary \nof primary\nEvaluable\nChange in \nHbA1c from \nbaseline to \nWeek 28\nRescue and IP \ndiscontinuation: Data \nafter event included. \nTreatment policy \napproach\nWithdrawal from study \nprior to Week 28: \nHypothetical approach \nusing MI pattern mixture \nmodelling\nLeast squares \nmean difference \nin CFBL at \nWeek 28 \nbetween Total \nEBID and PBO\nSecondary 1\nEvaluable\nProportions of \npatients having \nHbA1c goals of \n<7%, \u22646.5%, \nand <6.5% at \nWeek 28\nAll IEs: Data after event \nexcluded. Composite \napproach used, with \npatients with missing \ndata at endpoint treated \nas non-responders\nDifference in \nproportion of \nresponders at \nWeek 28 \nbetween Total \nEBID and PBO\nSensitivity to \nsecondary 1\nEvaluable\nProportions of \npatients having \nHbA1c goals of \n<7%, \u22646.5%, \nand <6.5% at \nWeek 28 \nAll IEs: Data after event \nexcluded. Hypothetical \napproach using MI \npattern mixture \nmodelling\nDifference in \nproportion of \nresponders at \nWeek 28 \nbetween Total \nEBID and PBO\nSecondary 2\nEvaluable\nChange in \nHbA1c from \nbaseline to \nWeek 28 and \neach \nintermediate \nvisit \nAll IEs: Data after event \nexcluded. Hypothetical \napproach due to missing \nat random (MAR) \nassumption of MMRM \nanalysis\nLeast squares \nmean difference \nin CFBL at \nWeek 28 and \neach \nintermediate \nvisit between \nTotal EBID and \nPBO\n30\nAttributes\nEstimand\nPopulation\nVariable\nIntercurrent event (IE) \nstrategy\nPopulation-\nlevel summary\nSensitivity to \nsecondary 2\nEvaluable\nChange in \nHbA1c from \nbaseline to \nWeek 28 and \neach \nintermediate \nvisit\nAll IEs: Data after event \nexcluded. Hypothetical \napproach using multiple \nimputation (MI) pattern \nmixture modelling\nLeast squares \nmean difference \nin CFBL at \nWeek 28 and \neach \nintermediate \nvisit between \nTotal EBID and \nPBO\nContinuous \nsecondary and \nexploratory \nefficacy \nendpoints \nmeasured post-\nbaseline at a \nsingle endpoint\nFull \nanalysis set \nChange in XX* \nfrom baseline to \nWeek 28\nAll IEs: Data after event \nexcluded. Hypothetical \napproach due to missing \nat random (MAR) using \nMI ANCOVA analysis\nLeast squares \nmean difference \nin CFBL at \nWeek 28 \nbetween Total \nEBID and PBO\nOther \ncontinuous \nsecondary and \nexploratory \nefficacy \nendpoints \nFull \nanalysis set\nChange in \nHbA1c from \nbaseline to \nWeek 28 and \neach \nintermediate \nvisit \nAll IEs: Data after event \nexcluded. Hypothetical \napproach due to missing \nat random (MAR) \nassumption of MMRM \nanalysis.\nLeast squares \nmean difference \nin CFBL at \nWeek 28 and \neach \nintermediate \nvisit between \nTotal EBID and \nPBO\nExploratory\nSafety\nChange in \neGFR from \nbaseline to \nWeek 28 by \nbaseline eGFR \ncategory\nAll IEs: Data after event \nexcluded. Hypothetical \napproach due to MAR \nassumption of MMRM \nanalysis.\nLeast squares \nmean difference \nin CFBL at \nWeek 28 \nbetween Total \nEBID and PBO\nSensitivity to \nexploratory\nSafety\nChange in \neGFR from \nbaseline to \nWeek 28 by \nbaseline eGFR \ncategory \nRescue and IP \ndiscontinuation: Data \nafter event included. \nTreatment policy \napproach. \nLeast squares \nmean difference \nin CFBL at \nWeek 28 \nbetween Total \nEBID and PBO\n",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "4.2.4.2",
+                                "Title": "Analysis of primary variable",
+                                "Content": "",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "4.2.4.3",
+                                "Title": "Sensitivity and supplementary analyses for primary endpoint",
+                                "Content": "33\ndefined by the time of withdrawal combined with the treatment group. The time of withdrawal is \nused in the definition of the pattern to allow the estimate to take account of the improvement \nover time that tends to be observed in all patients. By the end of the study earlier withdrawals are \nlikely to have improved somewhat more from their last observation, than late withdrawals. \nSpecifically, for patients who drop out after visit t, the change from baseline at visit t + n will be \nassumed to be the mean for visit t plus the difference in the means of the PBO group at visits t \nand t + n, given the study data. Then, the overall estimate of treatment effect is obtained by \naveraging the estimates across the dropout patterns, according to the proportions of dropouts \noccurring at each visit. Note that in this analysis, PBO missing observations are imputed \nassuming MAR and follow the pattern of observed PBO observations, and missings for the Total \nEBID group are assumed MNAR.\nIn summary, the pattern mixture models will be implemented by multiple imputation via the \nfollowing steps; \nStep 1: Non-monotone missing data (usually relatively infrequent) will be imputed using the \nMCMC option of SAS PROC MI with treatment, baseline HbA1c, background diabetes \ntherapy strata (drug na\u00efve, metformin only, SU only, and metformin +SU) and value of the \nendpoint at each visit. This will create a monotone missing pattern in the dataset within each \ntreatment group. This step will create 1000 imputed datasets. \nStep 2: The values for each pattern will be imputed via the chained equation method, using SAS \nPROC MI option MONOTONE REG (). The MNAR imputation is achieved by using only \nappropriate study data for each pattern. For example, to impute for time t if the EBID missing data \nhas the trajectory of PBO, include only PBO observations up to and including time t, plus only \nobservations from patients in the EBID group that have observations up to but not beyond time t-\n1. First, all missings for the first post-baseline visit are imputed, then missings for the next visit \nare imputed using observed data plus the missings just imputed; and so on to the final visit. The \ncovariates used in the model will be baseline HbA1c, background diabetes therapy strata (drug \nna\u00efve, metformin only, SU only, and metformin +SU) and HbA1c measured at time t-1.\nStep 3: The imputed data from Step 1 and Step 2, along with observed data will be analyzed \nusing an MMRM model for the outcome of change from baseline  with treatment, baseline \nHbA1c, background diabetes therapy strata (drug na\u00efve, metformin only, SU only, and \nmetformin +SU), week of visit, baseline HbA1c-by-week interaction and treatment-by-week \ninteraction as the fixed effects. The variance - covariance structure to be used for this \nmodelling will be unstructured (UN). The estimates from multiple imputed datasets will be \ncombined using Rubin\u2019s combination rules for statistical inference (Rubin, 1987) using PROC \nMI ANALYZE.\nThe seed used will be 88281 for both steps 1 and 2.\nAt Step 1, if a categorical covariate has more than 2 levels, then dummy coding has to be \nperformed to present it as either 0/1 or 1/2. If categorical variable has X categories (X>2) then \nwe would create X-1 dummy variables, using the rule described in the table below.\n",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "4.2.4.4",
+                                "Title": "Analysis of secondary variables",
+                                "Content": "35\nProportions of patients achieving HbA1c goals\nProportions of patients having HbA1c goals of <7%, \u22646.5%, and <6.5% at Week 28 will be \ncompared between treatments (Total EBID vs. PBO) using the Evaluable analysis set via the \nCMH procedure, in which screening HbA1c strata and background diabetes therapy strata will \nserve as the stratification factors. \nA bar chart of the percentage of patients achieving HbA1c goals of <7%, \u22646.5%, and <6.5% by \ntreatment group will be provided along with p-values.\nThe number and percentage of patients having HbA1c goals of <7%, \u22646.5%, and <6.5% will be \nsummarized by visit and treatment group for the Evaluable analysis set. \nAny Evaluable patient without HbA1c value at the endpoint will be considered as not achieving \nHbA1c goal at endpoint. The denominator will be the total number of Evaluable patients in the \ntreatment group, and the numerator will be the number of patients achieving HbA1c <7%, \n\u22646.5%, and <6.5%. \nAs a sensitivity analysis, also in the Evaluable analysis set, the probabilities of patients reaching \nHbA1c targets of <7%, \u22646.5%, and <6.5% will be analyzed to Week 28 using the CMH \nprocedure, with missing data imputed using MI pattern mixture model imputation. HbA1c and \nbackground diabetes therapy strata will serve as the stratification factors. The imputed HbA1c \ndata for the sensitivity analysis of the primary endpoint will be used for this analysis.\nSimilar outputs (bar chart including p-values and summary of the numbers and percentage of \npatients having HbA1c goals by visit and treatment group) will be produced for the Evaluable \nanalysis set for this sensitivity analysis.   \nChange in body weight, FSG and FSI from baseline Visit 3 (Week 0)\nThe same MMRM approach (as used for the primary analysis) will be used to analyze the change \nin body weight from baseline Visit 3 (Week 0) to Week 28, and each intermediate visit. Baseline \nbody weight will replace baseline HbA1c and screening HbA1c strata will be included in these \nmodels.\nSince only baseline and endpoint FSG and FSI measurements are collected, these endpoints will \nbe analyzed by multiple imputation based on the assumption that missing data are MAR via the \nfollowing steps:\nStep 1: Non-monotone missing data (expected to be infrequent) will be imputed using the \nMCMC option of SAS PROC MI with treatment, baseline FSG/FSI, screening HbA1c strata \n(\uf0a38% and >8%) and background diabetes therapy strata (drug na\u00efve, metformin only, SU only, \nand metformin +SU) and value of the endpoint at each visit. This will create a monotone \nmissing pattern in the dataset within each treatment group. This step will create 1000 imputed \ndatasets. \nStep 2: After a monotone missing pattern is created for the data, PROC MI using MONOTONE \nREGRESSION will be used to impute missing post-baseline values. The covariates used in the \nmodel will be treatment, baseline FSG/FSI, screening HbA1c strata (\uf0a38% and >8%) and \nbackground diabetes therapy strata (drug na\u00efve, metformin only, SU only, and metformin +SU) \nand value of the endpoint at each visit. This is MAR imputation.\n36\nStep 3: The imputed data from Step 1 and Step 2, along with observed data will be analyzed \nusing separate ANCOVA models for each imputed dataset with change from baseline in \nFSG/FSI as the dependent variable and  treatment, baseline FSG/FSI, screening HbA1c strata \n(\uf0a38% and >8%) and background diabetes therapy strata (drug na\u00efve, metformin only, SU only, \nand metformin +SU) as fixed effects. Parameter estimates (LS means and standard errors) and \nvariance/covariance matrix will be obtained for each of the multiple imputed datasets. \nStep4: The estimates from multiple imputed datasets will be combined using Rubin\u2019s \ncombination rules for statistical inference (Rubin, 1987) using PROC MI ANALYZE.\nThe seed used will be 88281 for both steps 1 and 2.  The number of imputed datasets may be \nreduced depending on the extent of missing data.\nThe residuals from the ANCOVA model will be plotted against the quartiles from standard \nNormal distribution for each of the imputed datasets. A Kolmogorov\u2013Smirnov normality test \nwill be conducted for the residuals. If deviation from normality is noted in the ANCOVA model \nor imputation diagnostics including trace and autocorrelation plots indicate issues with the \nmultiple imputation then alternative approaches will be discussed e.g. analysis of variance \n(ANOVA), number of imputed datasets etc. \nActual values and change from baseline will be summarized using descriptive statistics by visit \nand treatment group for the Full analysis set. OC summaries will be provided where appropriate. \nBody weight, FSG and FSI measures will be listed.\nChange in SMBG measurements from baseline Visit 3 (Week 0) \nIn both the seven days prior to Visit 3 (Week 0) and the seven days prior to Visit 11 (Week 28), \npatients will be asked to perform 4-point SMBG profiles (pre- and 2-hour post-prandial \nmeasurements at the 2 main meals of the day) on 3 separate days. SMBG profiles will be \nsummarized as follows.\nOnly complete pairs of pre-prandial and post-prandial SMBG concentrations will be used. If \nmeasurements are taken for more than 2 main meals of the day, then the latest 2 meals of the day \nwill be used that have both a pre-prandial and post-prandial measurement. If measurements were \ntaken on more than 3 separate days in a period, then the latest 3 days of measurements that have \nboth a pre-prandial and post-prandial measurement prior to the visit will be used. If data are \nmissing for a meal, then the remaining available data will be used.  Thus, summary measures \nwill be calculated provided the patient had a least one complete pair of measurements in the \nperiod.\nMean SMBG will be calculated as the mean of SMBG concentrations (pre- and post-prandial) \nover the 2 main meals over 3 separate days, where complete pairs of both pre-prandial and post-\nprandial measurements for a given meal are present. Mean SMBG at baseline Visit 3 (Week 0) \nand Visit 11 (Week 28) as well as the change in overall daily mean from baseline Visit 3 (Week \n0) to Visit 11 (Week 28) will be summarized using descriptive statistics by treatment group for \nthe Full analysis set.\nPost-prandial excursions will be calculated as the difference between the pre-prandial and post-\nprandial blood glucose concentrations (post-prandial \u2013 pre-prandial) and averaged (mean) over \nthe 2 main meals over the 3 separate days in each period. Mean post-prandial excursions at \n37\nbaseline Visit 3 (Week 0) and Visit 11 (Week 28) as well as the change from baseline values will \nbe summarized using descriptive statistics by treatment group. \nThe mean pre-prandial (post-prandial) SMBG concentration will be defined as the average \n(mean) measurement over the 2 main meals over 3 separate days in each period.  Mean pre-\nprandial (post-prandial) SMBG concentrations at baseline Visit 3 (Week 0) and Visit 11 (Week \n28) as well as the change from baseline values will be summarized using descriptive statistics by \ntreatment group.\nThe same multiple imputation ANCOVA approach (as used for the analysis of FSG and FSI) \nwill be used to analyze change from baseline Visit 3 (Week 0) to Visit 11 (Week 28) for each of \nthe 4 SMBG summary measures (overall, pre-prandial, post-prandial, post-prandial excursions). \nChange in beta-cell function (HOMA-B) and insulin sensitivity (HOMA-S) from baseline \nVisit 3 (Week 0) to Visit 11 (Week 28)\nThe effects of the study medications on HOMA will be examined. The pancreatic beta-cell \nfunction (HOMA-B) and peripheral and hepatic insulin sensitivity (HOMA-S) will be computed \nfrom a computerized HOMA model, the HOMA Calculator (Matthews et al 1985). The HOMA \nCalculator, developed by Diabetes Trials Unit at the Oxford Center for Diabetes, Endocrinology, \nand Metabolism, is a computer algorithm that takes account of variations in hepatic and \nperipheral glucose resistance, increases in the insulin secretion curve for plasma glucose \nconcentrations above 10 mmol/L (180 mg/dL), and the contribution of circulating proinsulin \n(e.g., C-peptide) to estimate the steady state beta-cell function and insulin sensitivity, as \npercentages of a normal reference population. The model assumes %HOMA-B and %HOMA-S \nvalues of 100% in normal young adults as a recalibration. \nHOMA parameters will be log transformed (natural logarithmic transformation). The observed \nvalues and change from baseline for these parameters will be summarized by visit using \ndescriptive statistics (n, geometric mean, geometric coefficient of variation: GCV%, geometric \nstandard deviation factor: GSD, arithmetic mean, standard deviation, coefficient of variation: \nCV%, median, minimum and maximum value) for the Full analysis set. \nThe same multiple imputation ANCOVA approach (as used for the analysis of FSG and FSI) \nwill be used to analyze change from baseline Visit 3 (Week 0) to Visit 11 (Week 28) for HOMA-\nB and HOMA-S.\nAll HOMA parameters will be analyzed on a logarithmic scale (natural logarithmic \ntransformation), and then back-transformed to the original scale for result presentation using the \nfollowing formulae:\nGeometric Mean= exp(mean(log (X)))\nSE of Geometric Mean = Geometric Mean* SE of Mean (log (X))\nLS means will be back-transformed in the same way.\nSeparate tables of back-transformed and non-transformed results will be provided.\nHomeostasis results will be listed.\nProportions of patients discontinuing the study due to failure to maintain glycemic control \nat Visit 11 (Week 28), and at each intermediate visit\n",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "4.2.4.5",
+                                "Title": "Analysis of exploratory efficacy variables",
+                                "Content": "",
+                                "Sub-sections": []
+                            }
+                        ]
+                    },
+                    {
+                        "Header Number": "4.2.5",
+                        "Title": "Safety analyses",
+                        "Content": "",
+                        "Sub-sections": [
+                            {
+                                "Header Number": "4.2.5.1",
+                                "Title": "Adverse events",
+                                "Content": "",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "4.2.5.2",
+                                "Title": "Hypoglycemic episodes",
+                                "Content": "",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "4.2.5.3",
+                                "Title": "Antibodies to exenatide",
+                                "Content": "",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "4.2.5.4",
+                                "Title": "Laboratory data (including CEA and calcitonin concentrations)",
+                                "Content": "",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "4.2.5.5",
+                                "Title": "Vital signs",
+                                "Content": "",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "4.2.5.6",
+                                "Title": "ECG",
+                                "Content": "",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "4.2.5.7",
+                                "Title": "Height",
+                                "Content": "",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "4.2.5.8",
+                                "Title": "Tanner pubertal assessment",
+                                "Content": "",
+                                "Sub-sections": []
+                            }
+                        ]
+                    },
+                    {
+                        "Header Number": "4.2.6",
+                        "Title": "Pharmacokinetic analyses",
+                        "Content": "",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "4.3",
+                "Title": "Conventions",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "4.3.1",
+                        "Title": "Visit assignments for efficacy variables",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "4.3.2",
+                        "Title": "Visit assignment for safety variables",
+                        "Content": "46\nTable 8 Visit Windows: Body weight, height, BMI and Tanner pubertal assessment\nVisit\nWeek\nPeriod\nTarget Day\nDay range\n3\n0\nTP\n1\nBaseline\n5\n4\nTP\n29\n2-56\n7\n12\nTP\n85\n57-112\n9\n20\nTP\n141\n113-168\n11\n28\nTP\n197\n169-last day of TP\n801\n+26\nSFU\n+183\nlast day of TP+1-273\n802\n+52\nSFU\n+365\n274-454\n803\n+78\nSFU\n+546\n455-636\n804\n+104\nSFU\n+729\n637-820\n805\n+130\nSFU\n+911\n821-l001\n806/ED\n+156\nSFU\n+1093\n1002-last day of SFU\nTP: Treatment period. SFU: Safety follow-up period (+ denotes relative to Visit 11/ED)\nTable 9 Visit Windows: Laboratory data, ECG, waist circumference and hip \ncircumference\nVisit\nWeek\nPeriod\nTarget Day\nDay range\n3\n0\nTP\n1\nBaseline\n11\n28\nTP\n197\n2-last day of TP\n801\n+26\nSFU\n+183\nlast day of TP+1-273\n802\n+52\nSFU\n+365\n274-454\n803\n+78\nSFU\n+546\n455-636\n804\n+104\nSFU\n+729\n637-820\n805\n+130\nSFU\n+911\n821-l001\n806/ED\n+156\nSFU\n+1093\n1002-last day of SFU\nTP: Treatment period. SFU: Safety follow-up period (+ denotes relative to Visit 11/ED). Only \nCEA and calcitonin measured during SFU\n",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "4.3.3",
+                        "Title": "Rules for safety observations",
+                        "Content": "",
+                        "Sub-sections": [
+                            {
+                                "Header Number": "4.3.3.1",
+                                "Title": "Multiple safety assessments",
+                                "Content": "",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "4.3.3.2",
+                                "Title": "Adverse events at patient level",
+                                "Content": "",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "4.3.3.3",
+                                "Title": "Adverse event at event level",
+                                "Content": "",
+                                "Sub-sections": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Header Number": "5",
+        "Title": "INTERIM ANALYSES",
+        "Content": "",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "6",
+        "Title": "CHANGES OF ANALYSIS FROM PROTOCOL",
+        "Content": "",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "7",
+        "Title": "REFERENCES",
+        "Content": "",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "8",
+        "Title": "APPENDIX",
+        "Content": "",
+        "Sub-sections": [
+            {
+                "Header Number": "N/A",
+                "Title": "Appendix 1 Study schedule \u2013 treatment period",
+                "Content": "Statistical Analysis Plan \nAstraZeneca\nH8O-MC-GWBQ - 2.0\n52\n",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "N/A",
+                "Title": "Appendix 2 Study schedule \u2013 long-term safety follow-up period",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "N/A",
+                "Title": "Appendix 3 Partial date conventions for AEs",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "N/A",
+                "Title": "Appendix 4 Partial date conventions for CMs",
+                "Content": "Statistical Analysis Plan \nAstraZeneca\nH8O-MC-GWBQ - 2.0\n56\nSTART \nDATE\nSTOP \nDATE\nAction\nMissing\nImpute start date as earliest possible date (ie, first day of month \nif day unknown or 1st January if day and month are unknown), \nthen:\nIf stop date is missing could never be assumed a pre-treatment \nmedication\nFollow the same algorithm above for a known start date and \nmissing stop date.\nMissing\nKnown\nIf stop date < study med start date, assign as pre-treatment\nIf stop date \u2265 study med start date, assign as prior concomitant\nPartial\nImpute stop date as latest possible date (ie, last day of month if \nday unknown or 31st December if day and month are unknown), \nthen:\nFollow the same algorithm above for a missing start date and \nknown stop date.\nMissing\nAssign as prior concomitant\n",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "N/A",
+                "Title": "Appendix 5 Preferred terms for potentially immune-related AEs",
+                "Content": "Statistical Analysis Plan \nAstraZeneca\nH8O-MC-GWBQ - 2.0\n58\nDermatitis allergic\nLip oedema\nToxic skin eruption\nDiffuse cutaneous \nmastocytosis\nLip swelling\nTracheal obstruction\nDrug eruption\nLocal swelling\nTracheal oedema\nDrug hypersensitivity\nLocalised oedema\nType I hypersensitivity\nDrug reaction with \neosinophilia \nand systemic symptoms\nMechanical urticaria\nType II hypersensitivity\nEncephalopathy allergic\nNasal oedema\nType III immune complex \nmediated reaction\nEosinophilia\nNephritis allergic\nType IV hypersensitivity \nreaction\nEosinophilic oesophagitis\nOculorespiratory syndrome\nUrticaria\nEpiglottic oedema\nOedema mouth\nUrticaria cholinergic\nErythema multiforme\nOedema mucosal\nUrticaria chronic\nErythema nodosum\nOesophageal oedema\nUrticaria contact\nEye oedema\nOrbital oedema\nUrticaria papular\nEye swelling\nOropharyngeal swelling\nUrticaria physical\nEyelid oedema\nPalatal oedema\nUrticaria pigmentosa\nFace oedema\nPeriarthritis\nUrticaria pressure\nGastrointestinal oedema\nPeriorbital oedema\nUrticaria thermal\nGingival oedema\nPharyngeal oedema\nUrticaria vesiculosa\nGingival swelling\nPhotosensitivity allergic \nreaction\nUrticaria vibratory\nHaemorrhagic urticaria\nPhotosensitivity reaction\nVisceral oedema\nHereditary angioedema\nPruritus\nWheezing\nHypersensitivity\nPruritus allergic\nIdiopathic urticaria\nPruritus generalised\n",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "N/A",
+                "Title": "Appendix 6 Criteria for potentially clinically significant laboratory tests",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "N/A",
+                "Title": "Appendix 7 Criteria for potentially significant vital signs",
+                "Content": "Statistical Analysis Plan \nAstraZeneca\nH8O-MC-GWBQ - 2.0\n61\nMarked abnormality criteria\nVital signs variables\nUnits\nLow\nHigh\nHeart Rate\n  Baseline - Value\nmmHg\n>10\n",
+                "Sub-sections": []
+            }
+        ]
+    }
+]

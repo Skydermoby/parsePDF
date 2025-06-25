@@ -1,0 +1,343 @@
+[
+    {
+        "Header Number": "N/A",
+        "Title": "TABLE OF CONTENTS",
+        "Content": "LIST OF TABLES.....................................................................................................................3LIST OF FIGURES ...................................................................................................................3APPENDICES ...........................................................................................................................31. VERSION HISTORY............................................................................................................42. INTRODUCTION .................................................................................................................42.1. Study Objectives .......................................................................................................42.2. Study Design .............................................................................................................53. ENDPOINTS AND BASELINE VARIABLES: DEFINATIONS AND CONVENTIONS ..................................................................................................................63.1. PD Endpoint(s)..........................................................................................................63.1.1. Primary PD Endpoints..................................................................................63.1.2. Secondary PD endpoints...............................................................................63.2. Efficacy Endpoint(s) .................................................................................................73.3. Baseline Variables.....................................................................................................73.3.1. Stratification and Randomization .................................................................73.3.2. Covariates .....................................................................................................73.4. Safety Endpoints .......................................................................................................73.4.1. Adverse Events.............................................................................................83.4.2. Laboratory Data............................................................................................84. ANALYSIS SETS .................................................................................................................84.1. PD Analysis Set.........................................................................................................84.2. Safety Analysis Set....................................................................................................84.3. Protocol Deviations...................................................................................................85. GENERAL METHODOLOGY AND CONVENTIONS......................................................85.1. Hypotheses and Decision Rules ................................................................................95.2. General Methods .......................................................................................................95.2.1. Analyses for Binary Endpoints.....................................................................95.2.2. Analyses for Continuous Data......................................................................95.2.3. Analyses for Categorical Data......................................................................95.2.4. Analyses for Time to Event Data..................................................................95.3. Methods to Manage Missing Data ............................................................................96. ANALYSES AND SUMMARIES ........................................................................................9A6301094 Statistical Analysis PlanPage 36.1. Endpoint(s)................................................................................................................96.1.1. PD Endpoints................................................................................................96.1.1.1. Primary PD Endpoint ................................................................106.1.1.2. Secondary PD Endpoints...........................................................106.1.2. Efficacy Endpoints......................................................................................106.1.2.1. Efficacy Analysis ......................................................................106.2. Baseline and Other Summaries and Analyses.........................................................116.2.1. Demography and Baseline Summaries.......................................................116.2.2. Study Conduct and Subject Disposition .....................................................116.2.3. Study Treatment Exposure .........................................................................116.2.4. Concomitant Medications and Non-Drug Treatments................................126.3. Safety Endpoint Summaries and Analyses..............................................................126.3.1. Safety analysis ............................................................................................126.3.2. Adverse Events...........................................................................................126.3.3. Laboratory Data..........................................................................................136.3.4. Vital Signs and Physical Examination........................................................137. INTERIM ANALYSES.......................................................................................................138. REFERENCES ....................................................................................................................139. APPENDICES .....................................................................................................................14",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "N/A",
+        "Title": "LIST OF TABLES",
+        "Content": "Table 1.Summary of Major Changes in SAP Amendments................................................4LIST OF FIGURESFigure 1.Schematic Trial Design...........................................................................................5APPENDICESAppendix 1. STATISTICAL METHODOLOGY DETAILS..................................................14Appendix 1.1. Time to Event...................................................................................................14",
+        "Sub-sections": [
+            {
+                "Header Number": "N/A",
+                "Title": "Table\u00a01. Summary of Major Changes in SAP Amendments",
+                "Content": "A6301094 Statistical Analysis PlanPage 36.1. Endpoint(s)................................................................................................................96.1.1. PD Endpoints................................................................................................96.1.1.1. Primary PD Endpoint ................................................................106.1.1.2. Secondary PD Endpoints...........................................................106.1.2. Efficacy Endpoints......................................................................................106.1.2.1. Efficacy Analysis ......................................................................106.2. Baseline and Other Summaries and Analyses.........................................................116.2.1. Demography and Baseline Summaries.......................................................116.2.2. Study Conduct and Subject Disposition .....................................................116.2.3. Study Treatment Exposure .........................................................................116.2.4. Concomitant Medications and Non-Drug Treatments................................126.3. Safety Endpoint Summaries and Analyses..............................................................126.3.1. Safety analysis ............................................................................................126.3.2. Adverse Events...........................................................................................126.3.3. Laboratory Data..........................................................................................136.3.4. Vital Signs and Physical Examination........................................................137. INTERIM ANALYSES.......................................................................................................138. REFERENCES ....................................................................................................................139. APPENDICES .....................................................................................................................14LIST OF TABLESTable 1.Summary of Major Changes in SAP Amendments................................................4",
+                "Sub-sections": []
+            }
+        ]
+    },
+    {
+        "Header Number": "N/A",
+        "Title": "LIST OF FIGURES",
+        "Content": "Figure 1.Schematic Trial Design...........................................................................................5APPENDICESAppendix 1. STATISTICAL METHODOLOGY DETAILS..................................................14Appendix 1.1. Time to Event...................................................................................................14A6301094 Statistical Analysis Plan\nPage 4\n1. VERSION HISTORY\nTable 1.\nSummary of Major Changes in SAP Amendments\nSAP \nVersion\nChange\nRationale\n1\nNot Applicable\nNot Applicable\n2\nAdministrative \nChanges due to \nprotocol amendments\nTransition of study to Pfizer Inc from Eisai; Updating of \nSafety Section per Pfizer safety reporting processes and \nprocedures, and other relevant sections per Pfizer Inc \nprocesses and procedures\nInclude protocol modifications endorsed by FDA in a \nType C Meeting conducted on 05 November 2015, \nincluding updating age cohort groups, inclusion of all \npatients with VTE and removal of the central imaging \nreader and Adjudication Committee\n2. INTRODUCTION\nThis protocol implements a post approval clinical commitment between Pfizer Inc., and the\nFood and Drug Administration (FDA) relating to the dalteparin sNDA 20-287/S-035, \u201cfor the\nextended treatment of symptomatic venous thromboembolism [VTE (proximal deep vein\nthrombosis [DVT] and/or pulmonary embolism [PE])] to reduce recurrent VTE in\nsubjects with cancer\u201d. This phase II pharmacodynamic (PD) study is intended to provide\ninformation to guide the conditions under which dalteparin may be used for the treatment of\nacute and secondary prophylaxis of VTE in children. The PD profiles for treatment doses of \ndalteparin using anti-Xa levels will also be assessed in a population PD analysis \nmethodology.\n2.1. Study Objectives\nThe primary objective of this study is to:\n\uf0b7\nTo determine the PD profiles for treatment doses of dalteparin in pediatric\nsubjects of different ages with venous thromboembolism (VTE), and with or without \ncancer, using anti-Xa (Xa) levels and a population PD analysis methodology.\n\uf0b7\nTo determine the median dose (IU/kg) required to achieve therapeutic anti-Xa levels\n(0.5-1.0 IU/mL) based on subject age and weight.\n",
+        "Sub-sections": [
+            {
+                "Header Number": "N/A",
+                "Title": "Figure\u00a01. Schematic Trial Design",
+                "Content": "A6301094 Statistical Analysis PlanPage 4",
+                "Sub-sections": []
+            }
+        ]
+    },
+    {
+        "Header Number": "1.",
+        "Title": "VERSION HISTORY",
+        "Content": "Table 1.Summary of Major Changes in SAP AmendmentsSAP VersionChangeRationale1Not ApplicableNot Applicable2Administrative Changes due to protocol amendmentsTransition of study to Pfizer Inc from Eisai; Updating of Safety Section per Pfizer safety reporting processes and procedures, and other relevant sections per Pfizer Inc processes and proceduresInclude protocol modifications endorsed by FDA in a Type C Meeting conducted on 05 November 2015, including updating age cohort groups, inclusion of all patients with VTE and removal of the central imaging reader and Adjudication Committee",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "2.",
+        "Title": "INTRODUCTION",
+        "Content": "This protocol implements a post approval clinical commitment between Pfizer Inc., and theFood and Drug Administration (FDA) relating to the dalteparin sNDA 20-287/S-035, \u201cfor theextended treatment of symptomatic venous thromboembolism [VTE (proximal deep veinthrombosis [DVT] and/or pulmonary embolism [PE])] to reduce recurrent VTE insubjects with cancer\u201d. This phase II pharmacodynamic (PD) study is intended to provideinformation to guide the conditions under which dalteparin may be used for the treatment ofacute and secondary prophylaxis of VTE in children. The PD profiles for treatment doses of dalteparin using anti-Xa levels will also be assessed in a population PD analysis methodology.",
+        "Sub-sections": [
+            {
+                "Header Number": "2.1.",
+                "Title": "Study Objectives",
+                "Content": "The primary objective of this study is to:\uf0b7To determine the PD profiles for treatment doses of dalteparin in pediatricsubjects of different ages with venous thromboembolism (VTE), and with or without cancer, using anti-Xa (Xa) levels and a population PD analysis methodology.\uf0b7To determine the median dose (IU/kg) required to achieve therapeutic anti-Xa levels(0.5-1.0 IU/mL) based on subject age and weight.A6301094 Statistical Analysis PlanPage 5Secondary objectives will be:\uf0b7To assess the proportion of subjects with major bleeding events during dalteparin treatment.\uf0b7To assess the proportion of subjects with minor bleeding events during dalteparin treatment.\uf0b7To explore the proportion of subjects with objectively documented new orprogressive symptomatic VTE during dalteparin treatment.\uf0b7To explore the relationships of recurrent VTE and major bleeding events with anti-Xalevels if data permits.\uf0b7To assess proportion of subjects achieving an anti-Xa therapeutic range of 0.5 to 1.0IU/mL during the Dose Adjustment Phase.\uf0b7To explore the proportions of subjects with progression, regression, resolution or nochange in the qualifying VTE during dalteparin treatment.\uf0b7To describe the overall safety profile of dalteparin in pediatric subjects of differentages with VTE.",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "2.2.",
+                "Title": "Study Design",
+                "Content": "The study is a 3 month prospective, multicenter, open-label cohort study in North Americaand Europe to determine twice daily dosing recommendations of dalteparin as a functionof age in order to achieve anti-Xa levels of 0.5 to 1.0 IU/mL at 4 hour postdose inchildren with or without various cancers and requiring anticoagulation for the treatmentand secondary prophylaxis of VTE. The study is divided into 3 phases (Figure 1): 1) DoseAdjustment Phase of up to 7 days; 2) PD Phase; and 3) Follow-up Phase, to complete up to90 days of treatment.Figure 1.Schematic Trial DesignVisit 1           Visit 2               Visit3                   Visit4                    Visit 5, 6 &7/EOT/ETScreening           Baseline               Dose adjustment              PD Phase         Follow-up(Day-3 to 1)(Day 1)         (Day 1 up to 7)       (Day 2 or 3 to 14)        (Days 30, 60 &90/ET)Subjects will be enrolled into one of the following five age groups (cohorts):newborn (0-<8 weeks), infants (>=8weeks - <2 years), preschool (>=2 years - <8 years), school (>= 8 years - < 12 years), and teen (>= 12 years - < 19 years).The target enrollment is a total of 50 subjects who have completed the PD Phase.A6301094 Statistical Analysis PlanPage 6All age groups will receive dalteparin twice daily. The initial dose for each age group are: 125 IU/kg for 0 to <8 weeks, 150 IU/kg for >=8 weeks to < 2 years, 125 IU/kg for >=2 weeks to < 8 years and >=8 years to < 12 years, and 100 IU/kg for >=12 years to <19 years.The Dose Adjustment Phase will begin following the first dose and continue for up to7 days. During the Dose Adjustment Phase, doses are adjusted according to anti-Xa levels. The first anti-Xa level may be taken 4 hours \u00b11 hour after the first, second or third dose per institutional standard. Subsequent anti-Xa levels will be drawn at 4 hours \u00b11 hourpostdose. Doses will be adjusted in increments or decrements of 25 IU/kg in order to achievetarget anti-Xa levels (0.5-1.0 IU/mL).Subjects completing the Dose Adjustment Phase will enter into the PD Phase and continue on the final twice daily dosing (Q12h \u00b11 hour) regimen from the Dose Adjustment Phase. The PD Phase will last for up to 7 days in order to complete two PD samples. After subjectssuccessfully complete the PD Phase, they will enter the Follow-up Phase.During this phase, subjects will continue receiving twice daily dalteparin q12h (\u00b11 hour) andwill be followed according to the visit schedule. The maximum duration is 90 days after first dose of dalteparin.",
+                "Sub-sections": []
+            }
+        ]
+    },
+    {
+        "Header Number": "3.",
+        "Title": "ENDPOINTS AND BASELINE VARIABLES: DEFINATIONS AND CONVENTIONS",
+        "Content": "",
+        "Sub-sections": [
+            {
+                "Header Number": "3.1.",
+                "Title": "PD Endpoint(s)",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "3.1.1.",
+                        "Title": "Primary PD Endpoints",
+                        "Content": "\uf0b7Anti-Xa activity versus time profile following dalteparin treatment in pediatric subjects of different ages with VTE.Note: This is beyond the scope of the SAP and it will be detailed in a separated population modeling analysis plan (PMAP-EQDD-A630c-DP4-560).\uf0b7Median dose required per age group to achieve an anti-Xa level of 0.5 to 1.0 IU/mL during the dose adjustment phase.",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "3.1.2.",
+                        "Title": "Secondary PD endpoints",
+                        "Content": "\uf0b7Proportion of children achieving an anti-Xa therapeutic range of 0.5 to 1.0 IU/mLduring the Dose Adjustment Phase.\uf0b7Proportion of subjects who remain within therapeutic range during the follow up phase (Visit 5, Visit 6 and Visit 7).\uf0b7The percentage of anti-Xa levels measured 4 hours post dose \uf0b11 hour that are outside the target range will be calculated during the follow up phase of study (Visit 5, Visit 6 and Visit 7).A6301094 Statistical Analysis PlanPage 7\uf0b7The maintenance dose, time to achieve the target range, and number of dose adjustment during dose adjustment phase.",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "3.2.",
+                "Title": "Efficacy Endpoint(s)",
+                "Content": "All efficacy endpoints are secondary endpoints.\uf0b7Proportion of subjects with objectively documented new or progressivesymptomatic VTE during dalteparin treatment.\uf0b7Relationship between objectively documented new or progressive symptomatic VTE and the anti-Xa level during dalteparin treatment if data permits.\uf0b7The proportions of subjects with progression, regression, resolution or no change in the qualifying VTE during dalteparin treatment.\uf0b7Time to first episode of symptomatic recurrent VTE during dalteparin treatment.",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "3.3.",
+                "Title": "Baseline Variables",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "3.3.1.",
+                        "Title": "Stratification and Randomization",
+                        "Content": "Enrolled subjects who achieve the target therapeutic anti-Xa level in Dose Adjustment Phasewill advance to the PD phase. These subjects will be centrally randomized (at baseline) to two different blood sampling scheme (1-3 h & 5-8 h or 3-5 h & 8-12 h) for the PD phase with a ratio of 1:1 and the randomization will be blocked and stratified by age group.  ",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "3.3.2.",
+                        "Title": "Covariates",
+                        "Content": "As an objective of the study is to examine safety and efficacy within different age groups, subjects will be presented split into the age categories: 0-<8 weeks, >=8weeks - <2 years, >=2 years - <8 years, >= 8 years - < 12 years, and >= 12 years - < 19 years.",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "3.4.",
+                "Title": "Safety Endpoints",
+                "Content": "All safety endpoints are secondary endpoints.\uf0b7Proportion of subjects with major bleeding events during dalteparin treatment.\uf0b7Relationship between major bleeding event and the Anti-Xa level during dalteparin treatment if data permits.\uf0b7Proportion of subjects with minor bleeding events during dalteparin treatment.\uf0b7Time to first major bleeding events during dalteparin treatment.Safety will also be assessed by adverse event reports, physical examination, laboratory test results, and vital signs in the safety population. Both all-causality and treatment related adverse events will be assessed.  The latest Pfizer Data Standard (PDS) will be used for reporting. A6301094 Statistical Analysis PlanPage 8",
+                "Sub-sections": [
+                    {
+                        "Header Number": "3.4.1.",
+                        "Title": "Adverse Events",
+                        "Content": "An adverse event is considered treatment emergent if:\uf0b7the event occurs for the first time during the effective duration of treatment and was not seen prior to the start of treatment, or\uf0b7the event was seen prior to the start of treatment but increased in severity during treatment.The effective duration of treatment is determined by the lag time (30 days).  Any event occurring within the lag time, whether this occurs during a break in treatment or at the end of treatment, is attributed to the previous treatment period.   ",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "3.4.2.",
+                        "Title": "Laboratory Data",
+                        "Content": "To determinate if there are any clinically significant laboratory abnormalities, the hematological and clinical biochemistry and other safety tests will be assessed against the criteria specified in the Pfizer reporting standards. This assessment will take into account whether each subject\u2019s baseline test results are within or outside the laboratory reference range for the particular laboratory parameter.",
+                        "Sub-sections": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Header Number": "4.",
+        "Title": "ANALYSIS SETS",
+        "Content": "The main subject populations to be used for the analysis are a pharmacodynamics (PD) population and a safety population.The PD population will be the analysis population for efficacy.",
+        "Sub-sections": [
+            {
+                "Header Number": "4.1.",
+                "Title": "PD Analysis Set",
+                "Content": "The PD analysis set (PD population) will include all subjects who receive at least one dose of study drug and achieve therapeutic range of anti-Xa during dose adjustment phase. ",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "4.2.",
+                "Title": "Safety Analysis Set",
+                "Content": "The safety analysis set (safety population) will include all the subjects who receive at least one dose of study drug.",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "4.3.",
+                "Title": "Protocol Deviations",
+                "Content": "Protocol deviations relevant to the PD population and the safety population will be summarized.",
+                "Sub-sections": []
+            }
+        ]
+    },
+    {
+        "Header Number": "5.",
+        "Title": "GENERAL METHODOLOGY AND CONVENTIONS",
+        "Content": "The final primary analysis will be performed at database release after last subject last visit. A6301094 Statistical Analysis PlanPage 9",
+        "Sub-sections": [
+            {
+                "Header Number": "5.1.",
+                "Title": "Hypotheses and Decision Rules",
+                "Content": "Because of the descriptive nature of this study, there will be no statistical hypotheses tested and decisions rules. Two-sided 95% confidence interval (CI) will be provided to aid decision making.  ",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "5.2.",
+                "Title": "General Methods",
+                "Content": " The following sub-sections contain the descriptions of the methods that will be used in the analysis of the various endpoints in this study.  The choice of analysis method will be dependent on the endpoint of interest (eg, whether the endpoint is a primary or secondary, orwhether the endpoint is efficacy or safety).  The analysis methods to be used for each endpoint will be covered in the following section.  ",
+                "Sub-sections": [
+                    {
+                        "Header Number": "5.2.1.",
+                        "Title": "Analyses for Binary Endpoints",
+                        "Content": "Response rates (eg, proportion of subjects with objectively documented new or progressive symptomatic VTE) will be presented with exact 95% confidence intervals for binomial proportion, using the Clopper-Pearson method (Collett 1991).",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "5.2.2.",
+                        "Title": "Analyses for Continuous Data",
+                        "Content": "Continuous data are variables that are continuous or considered continuous for the purpose of analysis, the following descriptive statistics will be provided at each visit (including the baseline, when applicable): N, mean, median, standard deviation (SD), minimum and maximum.",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "5.2.3.",
+                        "Title": "Analyses for Categorical Data",
+                        "Content": "Categorical data will be presented with frequency and percentage.",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "5.2.4.",
+                        "Title": "Analyses for Time to Event Data",
+                        "Content": "Time-to-event endpoints will be summarized using the Kaplan-Meier method and estimated survival curves will be displayed graphically when appropriate.  Kaplan-Meier graphs will describe the number of patients at risk over time. In addition, the Cox Proportional Hazard Regression model will be employed to assess the hazard ratio of the event with prognostic factors. ",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "5.3.",
+                "Title": "Methods to Manage Missing Data",
+                "Content": "For efficacy endpoints, missing data will not be imputed.",
+                "Sub-sections": []
+            }
+        ]
+    },
+    {
+        "Header Number": "6.",
+        "Title": "ANALYSES AND SUMMARIES",
+        "Content": "All statistical analyses will be performed using SAS\u00ae (Version 9.1 or higher), and statistical tests will be assessed at the two-sided 0.05 level of significance.",
+        "Sub-sections": [
+            {
+                "Header Number": "6.1.",
+                "Title": "Endpoint(s)",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "6.1.1.",
+                        "Title": "PD Endpoints",
+                        "Content": "Unless otherwise noted, all PD endpoints will be analyzed within the PD population.A6301094 Statistical Analysis PlanPage 10",
+                        "Sub-sections": [
+                            {
+                                "Header Number": "6.1.1.1.",
+                                "Title": "Primary PD Endpoint",
+                                "Content": "\uf0b7Anti -Xa activity versus time profile following dalteparin treatment in pediatric subjects of different ages with VTE (detailed in a separated population modelinganalysis plan [PMAP-EQDD-A630c-DP4-560]).\uf0b7Median dose required to achieve an anti-Xa level of 0.5 to 1.0 IU/mL during the dose adjustment phase.The median dose will be presented overall and by each age group for patients who achieved an anti-Xa level of 0.5 to 1.0 IU/mL during the dose adjustment phase.",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "6.1.1.2.",
+                                "Title": "Secondary PD Endpoints",
+                                "Content": "\uf0b7Proportion of subjects achieving an anti-Xa therapeutic range of 0.5 to 1.0 IU/mL during the Dose Adjustment Phase.The count and proportion will be summarized overall and by each age group within the safety population, along with the two-sided exact 95% CI.\uf0b7Proportion of subjects who remain within therapeutic range at each visit during the follow up phase (Visit 5, Visit 6 and Visit 7).The count and proportion will be summarized overall and by each age group, along with the two-sided exact 95% CI.\uf0b7The percentage of anti-Xa levels measured 4 hours post dose \uf0b11 hour that are outsidethe target range will be calculated at each visit during the follow up phase of study(Visit 5, Visit 6 and Visit 7).The count and percentage will be summarized overall and by each age group, along with the two-sided exact 95% CI.\uf0b7The maintenance dose, time to achieve the target range, and number of dose adjustment during dose adjustment phase.The maintenance dose, time to achieve the target range, and number of doseadjustments will be summarized overall and by each age group.",
+                                "Sub-sections": []
+                            }
+                        ]
+                    },
+                    {
+                        "Header Number": "6.1.2.",
+                        "Title": "Efficacy Endpoints",
+                        "Content": " All efficacy endpoints will be analyzed within the PD population.",
+                        "Sub-sections": [
+                            {
+                                "Header Number": "6.1.2.1.",
+                                "Title": "Efficacy Analysis",
+                                "Content": "\uf0b7Proportion of subjects with objectively documented new or progressive symptomatic VTE during dalteparin treatment.The count and proportion will be summarized overall and by each age group, along with the two-sided exact 95% CI.A6301094 Statistical Analysis PlanPage 11\uf0b7Relationship between objective documented new or progressive symptomatic VTE assessed by investigators and the anti-Xa level during dalteparin treatment.Logistic regression for new/progressive VTE assessed by investigators on anti-Xa level at end of dose adjustment and other prognostic factors (eg, age, baseline tumor status), will be performed. For each of the covariates, the odds ratio, and the corresponding 95% CI, will be displayed. Subjects who experience at least one new or progressive VTE while on study will be counted as Yes.\uf0b7Time to event (first episode of recurrent VTE) during dalteparin treatment.The time to event (first recurrent VTE) will be described by using the Kaplan-Meiermethod. In addition, the Cox Proportional Hazard Regression model will be employed to assess the hazard ratio of the event with prognostic factors.See Appendix 1 for a general description of censoring of time-to-event variables.\uf0b7Proportions of subjects with progression, regression, resolution and no change in the qualifying VTE (in comparison with the assessment at study entry) during dalteparin treatment.The count and proportion will be summarized overall and by each age group, along with the two-sided exact 95% CI.",
+                                "Sub-sections": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Header Number": "6.2.",
+                "Title": "Baseline and Other Summaries and Analyses",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "6.2.1.",
+                        "Title": "Demography and Baseline Summaries",
+                        "Content": "The demographic characteristics will be summarized, overall and by each age group, within the safety population and the PD population. This will include age, gender, race, height, and baseline weight.All baseline disease characteristics will be summarized overall and by each age group based within the safety population and the PD population. This will include diagnosis of cancer, previous history of VTE, risk factors for VTE and qualifying episodes of VTE.",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "6.2.2.",
+                        "Title": "Study Conduct and Subject Disposition",
+                        "Content": "Study conduct and subject disposition will be summarized within the safety population. The number of subjects screened, randomized, treated, completing and discontinuing from the study, as well as the number of subjects in each analysis set will be summarized overall and by each age group.  For subjects who did not complete the study, the reasons for withdrawal from the study will be presented.",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "6.2.3.",
+                        "Title": "Study Treatment Exposure",
+                        "Content": "Duration of treatment will be summarized, overall and by each age group, within the safety population and the PD population.A6301094 Statistical Analysis PlanPage 12",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "6.2.4.",
+                        "Title": "Concomitant Medications and Non-Drug Treatments",
+                        "Content": "All concomitant medications as well as non-drug treatments will be summarized overall andby each age group within the safety population.",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "6.3.",
+                "Title": "Safety Endpoint Summaries and Analyses",
+                "Content": "The safety summaries below will be performed within the safety population.",
+                "Sub-sections": [
+                    {
+                        "Header Number": "6.3.1.",
+                        "Title": "Safety analysis",
+                        "Content": "\uf0b7Proportion of subjects with major bleeding assessed by investigators during dalteparin treatment.The count and proportion will be summarized overall and by each age group, along with the two-sided exact 95% CI.\uf0b7Relationship between major bleeding event and the Anti-Xa level during dalteparin treatment.Logistic regression for major bleeding event assessed by investigators on anti-Xa level observed at the end of dose adjustment and other prognostic factors (eg, age, gender), will be performed. For each of the covariates, the odds ratio, and the corresponding 95% CI, will be displayed. Subjects who experience at least one major bleeding event while on study will be counted as Yes.\uf0b7Proportion of subjects with minor bleeding events during dalteparin treatment.The count and proportion will be summarized overall and by each age group, along with the two-sided exact 95% CI.\uf0b7Time to first major bleeding event during dalteparin treatment.The time to first major bleeding event assess by investigators will be described by using the Kaplan-Meier method. In addition, the Cox Proportional Hazard Regression model will be employed to assess the hazard ratio of the event with prognostic factors.See Appendix 1.1 for a general description of censoring of time-to-event variables.",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "6.3.2.",
+                        "Title": "Adverse Events",
+                        "Content": "All adverse events will be coded using the most current version of the MedDRA dictionaryavailable at the time of database lock. Frequencies of adverse events will be presented by system organ class, preferred term, and severity level.\uf0b7All causality treatment emergent adverse events will be summarized overall and by each age group.A6301094 Statistical Analysis PlanPage 13\uf0b7Treatment related treatment emergent adverse events will be summarized overall and by each age group. \uf0b7Adverse events and serious adverse events will be listed by subjects for all age groups.\uf0b7Adverse events leading to discontinuation or temporary dose reduction will be presented.Adverse events will be reported in accordance with the Pfizer Data Standards for safety reporting. ",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "6.3.3.",
+                        "Title": "Laboratory Data",
+                        "Content": "Descriptive statistics will be summarized overall and by each age group as well as median change from baseline for laboratory parameters. All laboratory data will be reported in accordance with Pfizer Data Standards for safety reporting.",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "6.3.4.",
+                        "Title": "Vital Signs and Physical Examination",
+                        "Content": "All vital sign and physical exam data will be reported in accordance with the Pfizer Data Standards for safety reporting.",
+                        "Sub-sections": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Header Number": "7.",
+        "Title": "INTERIM ANALYSES",
+        "Content": "In August 2014, analyses for an interim report were performed by the previous study sponsor, Eisai Inc. on the data available at that time. The corresponding interim report was submitted to the FDA for review by Eisai Inc. These analyses did not contain any provisions for early stopping of the study.",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "8.",
+        "Title": "REFERENCES",
+        "Content": " 1.Collett, D. (1991), Modelling Binary Data, London: Chapman & Hall.A6301094 Statistical Analysis PlanPage 14",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "9.",
+        "Title": "APPENDICES",
+        "Content": "",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "N/A",
+        "Title": "Appendix\u00a01. STATISTICAL METHODOLOGY DETAILS",
+        "Content": "",
+        "Sub-sections": [
+            {
+                "Header Number": "N/A",
+                "Title": "Appendix\u00a01.1. Time to Event",
+                "Content": "",
+                "Sub-sections": []
+            }
+        ]
+    }
+]

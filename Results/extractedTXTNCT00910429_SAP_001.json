@@ -1,0 +1,143 @@
+[
+    {
+        "Header Number": "N/A",
+        "Title": "Title page",
+        "Content": "",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "N/A",
+        "Title": "Long-term extension, multi-center, multi-national study to evaluate the safety and tolerability of oral BAY\u00a063 2521 (1 mg, 1.5 mg, 2 mg, or 2.5 mg TID) in patients with Chronic Thromboembolic Pulmonary Hypertension (CTEPH), CHEST-2 study",
+        "Content": "Statistical Analysis PlanProtocol No.: BAY 63-2521 / 11349Page: 2 of 11Reference Number: RD-OI-0119Supplement Version: 8",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "N/A",
+        "Title": "Table of Contents",
+        "Content": "Title page................................................................................................................................... 1Abbreviations............................................................................................................................ 31.Introduction....................................................................................................................... 32.Study Objectives................................................................................................................ 43.Study Design ...................................................................................................................... 44.General Statistical Considerations .................................................................................. 54.1General Principles............................................................................................................ 54.2Handling of Dropouts ...................................................................................................... 54.3Handling of Missing Data................................................................................................ 54.4Interim Analyses and Data Monitoring ........................................................................... 64.5Data Rules........................................................................................................................ 64.6Blind Review ................................................................................................................... 65.Analysis Sets ...................................................................................................................... 65.1Assignment of analysis sets ............................................................................................. 66.Statistical Methodology .................................................................................................... 66.1Population characteristics ................................................................................................ 76.2Efficacy............................................................................................................................ 86.3Pharmacokinetics/pharmacodynamics........................................................................... 106.4Safety ............................................................................................................................. 107.Document history and changes in the planned statistical analysis............................. 118.References ........................................................................................................................ 11Statistical Analysis PlanProtocol No.: BAY 63-2521 / 11349Page: 3 of 11Reference Number: RD-OI-0119Supplement Version: 8",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "N/A",
+        "Title": "Abbreviations",
+        "Content": "",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "1.",
+        "Title": "Introduction",
+        "Content": "",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "2.",
+        "Title": "Study Objectives",
+        "Content": "",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "3.",
+        "Title": "Study Design",
+        "Content": "",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "4.",
+        "Title": "General Statistical Considerations",
+        "Content": "",
+        "Sub-sections": [
+            {
+                "Header Number": "4.1",
+                "Title": "General Principles",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "4.2",
+                "Title": "Handling of Dropouts",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "4.3",
+                "Title": "Handling of Missing Data",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "4.4",
+                "Title": "Interim Analyses and Data Monitoring",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "4.5",
+                "Title": "Data Rules",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "4.6",
+                "Title": "Blind Review",
+                "Content": "",
+                "Sub-sections": []
+            }
+        ]
+    },
+    {
+        "Header Number": "5.",
+        "Title": "Analysis Sets",
+        "Content": "",
+        "Sub-sections": [
+            {
+                "Header Number": "5.1",
+                "Title": "Assignment of analysis sets",
+                "Content": "",
+                "Sub-sections": []
+            }
+        ]
+    },
+    {
+        "Header Number": "6.",
+        "Title": "Statistical Methodology",
+        "Content": "",
+        "Sub-sections": [
+            {
+                "Header Number": "6.1",
+                "Title": "Population characteristics",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "6.2",
+                "Title": "Efficacy",
+                "Content": "Statistical Analysis Plan\nProtocol No.: BAY 63-2521 / 11349\nPage: 9 of 11\nReference Number: RD-OI-0119\nSupplement Version: 8\n2) heart/lung transplantation\n3) Pulmonary Endarterectomy (PEA)\n4) hospitalization due to persistent worsening of pulmonary hypertension\n5) start of new PH-specific treatment\n6) persistent decrease in 6MWD\n7) persistent worsening of functional class\nas defined in the protocol section 4.6.4.\nThe occurrence of the event of clinical worsening during the long-term extension will be \nsummarized using categorical methods, but as an additional summary, the time to event will \nalso be described. In determining whether an event is considered to be an event of clinical \nworsening the same rules as in study 11348 will be applied.  \nChange in the Borg CR 10 Scale\u00ae will be summarized using frequency counts.  \nThe exploratory efficacy variables described in the Supplementary SAP of study 11348 will \nbe summarized descriptively. This includes the subscales of the EQ5D and LPH and the \nadditional haemodynamic variables. Also the sensitivity analysis of clinical worsening and the \ncategorical analyses described in the Supplementary SAP of study 11348 will be performed.\nThe primary and secondary efficacy variables, except PVR, will be summarized descriptively \nfor the following subgroups:\n\uf02d\nWHO FC I/II at baseline\n\uf02d\nWHO FC III/IV at baseline\n\uf02d\n< 320m 6MWD at baseline\n\uf02d\n\u2265320m 6MWD at baseline\n\uf02d\n< 380m 6MWD at baseline\n\uf02d\n\u2265 380m 6MWD at baseline\n\uf02d\nregion\n\uf02d\nmales\n\uf02d\nfemales\n\uf02d\nage < 65 years\n\uf02d\nage \u2265 65 years\n\uf02d\nrace\n\uf02d\npostoperative\n\uf02d\ninoperable \n",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "6.3",
+                "Title": "Pharmacokinetics/pharmacodynamics",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "6.4",
+                "Title": "Safety",
+                "Content": "",
+                "Sub-sections": []
+            }
+        ]
+    },
+    {
+        "Header Number": "7.",
+        "Title": "Document history and changes in the planned statistical analysis",
+        "Content": "",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "8.",
+        "Title": "References",
+        "Content": "",
+        "Sub-sections": []
+    }
+]

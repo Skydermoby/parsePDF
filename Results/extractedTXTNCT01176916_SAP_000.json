@@ -1,0 +1,281 @@
+[
+    {
+        "Header Number": "N/A",
+        "Title": "TABLE OF CONTENTS",
+        "Content": "APPENDICES ...........................................................................................................................31. AMENDMENTS FROM PREVIOUS VERSION(S) ...........................................................42. INTRODUCTION .................................................................................................................62.1. Study Design .............................................................................................................62.2. Study Objectives .......................................................................................................63. INTERIM ANALYSES, FINAL ANALYSES AND UNBLINDING..................................74. HYPOTHESES AND DECISION RULES...........................................................................74.1. Statistical Hypotheses ...............................................................................................74.2. Statistical Decision Rules..........................................................................................75. ANALYSIS SETS .................................................................................................................75.1. Full Analysis Set .......................................................................................................75.2. \u2018PER PROTOCOL\u2019 Analysis Set..............................................................................75.3. Safety Analysis Set....................................................................................................75.4. Other Analysis Sets ...................................................................................................75.5. Treatment Misallocations..........................................................................................75.6. Protocol Deviations...................................................................................................76. ENDPOINTS AND COVARIATES .....................................................................................86.1. Primary Efficacy Endpoint........................................................................................86.2. SECONDARY EFFICACY Endpoints.....................................................................86.3. Safety Endpoints .......................................................................................................86.4. Other Endpoints.........................................................................................................96.5. PK Endpoints.............................................................................................................96.6. PD Endpoints.............................................................................................................96.7. Outcomes Research (OR) Endpoints.........................................................................96.8. Covariates..................................................................................................................97. HANDLING OF MISSING VALUES ..................................................................................98. STATISTICAL METHODOLOGY AND STATISTICAL ANALYSES ............................98.1. Statistical Methods ....................................................................................................98.1.1. Analyses for Continuous Data......................................................................98.1.2. Analyses for Categorical Data......................................................................98.1.3. Time to Event Data.......................................................................................9Protocol A5991093\nStatistical Analysis Plan\nStatistical Analysis Plan\nFinal\nPage 3 of 18\n8.2. Statistical Analyses .................................................................................................10\n8.2.1. Efficacy Analyses .......................................................................................10\n8.2.2. Safety Analyses ..........................................................................................11\n9. REFERENCES ....................................................................................................................12\n10. APPENDICES ...................................................................................................................13\nAPPENDICES\nAppendix 1. DATA DERIVATION DETAILS ......................................................................13\nAppendix 1.1. Derivation of Local, Distant and Locoregional................................................13\nAppendix 1.2. Derivation of Appearance of 2nd Primary or Contralateral Breast Cancer.......15\nAppendix 1.3. Derivation of HER2 Status...............................................................................16\nAppendix 2. SAS PROGRAMMING DETAILS ....................................................................18\nAppendix 2.1. Programming Confidence Bands for KM Survival Curve...............................18\nAppendix 2.2. Programming Confidence Intervals for KM Median Time to Event...............18\n18\n \n18\nCCI\nCCI\nProtocol A5991093Statistical Analysis PlanStatistical Analysis PlanFinalPage 4 of 18",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "1.",
+        "Title": "AMENDMENTS FROM PREVIOUS VERSION(S)",
+        "Content": " Version 1.2 is amended from version 1.1 based on protocol amendment 3 dated 20 Mar 2015. Please see the below table for the detailed amendments from previous versions. Revision HistoryVersionDateAuthor(s)Summary of Changes/Comments1.0Jul 8, 2011Original SAP1.1Nov 5,2013Update citation of protocol amendment 1 to protocol amendment 2; Details:Section 2Add targeted data cut-off date for final analysis.Section 3V1.0: \u201cThe first is to occur when approximately 50% of subjects completed their 1st year of follow up. The second is to occur when approximately 50% of subjects completed the study drug treatment or withdrawal from the study.\u201d V1.1: \u201cThe first interim analysis data cut-off date is Dec 31, 2013. The second interim analysis data cut-off date is Dec 31, 2015.\u201dSection 5.3Revised definition of the safety analysis set from \u201call enrolled patients\u201d to \u201call enrolled patients who take at least one dose of the study drug\u201dSection 8.1.3Add method of Hall and Wellner.Section 8.2.1Add method of Brookmeyer and Crowley.Delete duplicated sentence.Section 8.2.2Delete \u201chistory of disease\u201d as it duplicates medical history.Section 10.2Add programming details for calculating confidence intervals for median time to event.1.2Jun 21, 2015Update citation of protocol amendment 2 to amendment 3;Details:Section 3Updated time for interim analyses.V1.1: \u201cThe second interim analysis data cut-off date is Dec 31, 2015.\u201dV1.2: \u201cThe second interim analysis is to occur when the study enrolled 550 subjects.\u201dSection 8.2.2Common Technology Criteria for Adverse Events Version 4.0 was changed to 3.0 to be consistent with the protocol amendment 3.Appendix 1.3Derivation of HER2 status changed.V1.1:\u201d HER2 status positive or negative is defined below:PPDPPDPPDProtocol A5991093\nStatistical Analysis Plan\nStatistical Analysis Plan\nFinal\nPage 5 of 18\nVersion\nDate\nAuthor(s)\nSummary of Changes/Comments\n\uf0b7\nHER2 positive if HER2 IHC status = 3+, HER2 FISH \nstatus = positive or HER2 CISH status = positive or \nHER2 mutation = positive.\n\uf0b7\nHER2 positive if HER2 IHC status = 2+ or unknown \nor undone, HER2 FISH status = positive or \nHER2 CISH status = positive or HER2 mutation = \npositive.\n\uf0b7\nHER2 negative if HER2 IHC status = 2+ or unknown \nor undone, HER2 FISH status = negative or \nHER2 CISH status = negative or HER2 mutation = \nnegative.\n\uf0b7\nHER2 negative if HER2 IHC status = 0 or 1+, \nHER2 FISH status = negative or HER2 CISH status = \nnegative or HER2 mutation = negative.\u201d\nV1.2: \u201cHER2 status positive or negative is defined below, \nnote that the results from HER2 FISH, CISH and mutation \nshould be the same.\n\uf0b7\nIf HER2 FISH status = positive or HER2 CISH status \n= positive or HER2 mutation = positive, then HER2 \nis positive.\n\uf0b7\nIf HER2 FISH status = negative or HER2 CISH\nstatus = negative or HER2 mutation = negative, then \nHER2 is negative.\n\uf0b7\nIf HER2 FISH, HER2 CISH and HER2 mutation are \nall undone or unknown, then\n\uf0b7\nIf HER2 IHC status = 3+, HER2 is positive.\n\uf0b7\nIf HER2 IHC status = 0 or 1+, HER2 is negative.\n\uf0b7\nIf HER2 IHC status = 2+ or unknown or undone, \nHER2 is unknown.\u201d\nAppendix 2.2: sample SAS code added.\nAppendix 2.3 and 2.4 was added for programming cox model \nfor HER2 Status and programming Cox model for multiple \nfactors with stepwise selection.\nProtocol A5991093Statistical Analysis PlanStatistical Analysis PlanFinalPage 6 of 18",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "2.",
+        "Title": "INTRODUCTION",
+        "Content": "Note: in this document any text copied directly from the protocol is italicised.Aromasin\u00ae (Exemestane) is an irreversible, steroidal aromatase inhibitor, structurally related to the natural substrate androstenedione. In post-menopausal women, oestrogens are produced primarily from the conversion of androgens into oestrogens through the aromatase enzyme in peripheral tissues. Oestrogen deprivation through aromatase inhibition is an effective and selective treatment for hormone dependent breast cancer in postmenopausal women. In the year 2002, Aromasin\u00ae (Exemestane) was approved in China for the treatment of advanced breast cancer in women with natural or induced postmenopausal status whose disease has progressed following tamoxifen therapy.Aromasin\u00ae (Exemestane) was approved in China for adjuvant treatment of postmenopausalwomen with estrogen receptor (ER) positive early invasive breast cancer who have received2-3 years of tamoxifen & are switched to Aromasin\u00ae for completion of a total of 5 consecutive years of adjuvant hormonal therapy by State Food and Drug Administration(CFDA) with clinical trial waive in May. 2008. The approval was granted in view of thesignificant efficacy and tolerant safety from the Intergroup Exemestane Study (IES), whichwas a phase III randomized controlled trial conducted primarily in Caucasian patients.While Aromasin\u00ae has been used in China for adjuvant therapy of breast cancer since then,there is currently lack of systematic collection and analysis for the efficacy and safety data ofAromasin\u00ae adjuvant setting in Chinese population. The Aromasin\u00ae Non-Interventional Study is being proposed to collect data systematically and to assess the efficacy and safety ofAromasin\u00ae adjuvant setting in Chinese population. Generation of such information isexpected to provide evidence for Chinese physicians to manage clinical practice ofAromasin\u00ae adjuvant setting. The safety document will be used in this study is the Aromasin\u00ae Local Product Document approved by CFDA.",
+        "Sub-sections": [
+            {
+                "Header Number": "2.1.",
+                "Title": "Study Design",
+                "Content": "This is a multicenter, non-interventional, and prospective clinical study. The study willcollect and analyze the efficacy and safety data from consecutive 550 eligible patients fromstudy beginning to Dec. 31, 2016. If the 550 patient\u2019s recruitment has completed beforeDec.31, 2016, the recruiting will stop.",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "2.2.",
+                "Title": "Study Objectives",
+                "Content": " To generate the efficacy and safety data from patients with early invasive breast cancertreated with Aromasin\u00ae in the adjuvant setting in China.Primary objective: Efficacy of the treatment with Aromasin\u00ae in postmenopausal women with estrogen receptor positive early invasive breast cancer who have received adjuvantTamoxifen therapy for up to 2-3 years.Secondary objective: Safety of the treatment with Aromasin\u00ae in women withpostmenopausal estrogen receptor positive early invasive breast cancer who have receivedadjuvant Tamoxifen therapy for up to 2-3 years.Protocol A5991093Statistical Analysis PlanStatistical Analysis PlanFinalPage 7 of 18",
+                "Sub-sections": []
+            }
+        ]
+    },
+    {
+        "Header Number": "3.",
+        "Title": "INTERIM ANALYSES, FINAL ANALYSES AND UNBLINDING",
+        "Content": " Up to 2 early analyses of the data will be performed. The first interim analysis data cut-offdate is Dec 31, 2013. The second interim analysis is to occur when the study enrolled 550 subjects. The final analysis will be done at the end of treatment.",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "4.",
+        "Title": "HYPOTHESES AND DECISION RULES",
+        "Content": "",
+        "Sub-sections": [
+            {
+                "Header Number": "4.1.",
+                "Title": "Statistical Hypotheses",
+                "Content": "This study is non-comparative and no inferential statistical analyses are planned.  Analyses will consist of descriptive statistics and corresponding 95% 2-sided confidence intervals when appropriate. ",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "4.2.",
+                "Title": "Statistical Decision Rules",
+                "Content": "There are no statistical decision rules.",
+                "Sub-sections": []
+            }
+        ]
+    },
+    {
+        "Header Number": "5.",
+        "Title": "ANALYSIS SETS",
+        "Content": "",
+        "Sub-sections": [
+            {
+                "Header Number": "5.1.",
+                "Title": "Full Analysis Set",
+                "Content": "The Full Analysis Set (FAS) will be defined as all patients who receive at least one dose of Aromasin\u00ae during the observation period.  All efficacy analyses will be performed using the FAS.  ",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "5.2.",
+                "Title": "\u2018PER PROTOCOL\u2019 Analysis Set",
+                "Content": " Not applicable.",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "5.3.",
+                "Title": "Safety Analysis Set",
+                "Content": "The safety population will be defined as all enrolled patients who take at least one dose of the study drug; all summaries of safety will be reported within the safety. ",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "5.4.",
+                "Title": "Other Analysis Sets",
+                "Content": "Not applicable.",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "5.5.",
+                "Title": "Treatment Misallocations",
+                "Content": " Not applicable.",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "5.6.",
+                "Title": "Protocol Deviations",
+                "Content": "Not applicable.Protocol A5991093Statistical Analysis PlanStatistical Analysis PlanFinalPage 8 of 18",
+                "Sub-sections": []
+            }
+        ]
+    },
+    {
+        "Header Number": "6.",
+        "Title": "ENDPOINTS AND COVARIATES",
+        "Content": "",
+        "Sub-sections": [
+            {
+                "Header Number": "6.1.",
+                "Title": "Primary Efficacy Endpoint",
+                "Content": "The primary efficacy endpoint is time-to-recurrence, where recurrence is defined as the earliest occurrence of any of the following:\uf0b7Locoregional/distant recurrence of the primary breast cancer.\uf0b7Appearance of 2nd primary or contralateral breast cancer.\uf0b7Death due to any cause.Locoregional recurrence is defined as any recurrence in the ipsilateral breast, chest wall or axillary lymph nodes.",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "6.2.",
+                "Title": "SECONDARY EFFICACY Endpoints",
+                "Content": "Locoregional/distant recurrence, appearance of 2nd primary or contralateral breast cancer, and death will also be summarized as follows:\uf0b7Time to each event.\uf0b7The proportion of subjects experiencing each event.\uf0b7The incidence rate (per annum) is defined as a ratio of the number of events and the total exposure time (in years) to Aromasin\u00ae therapy.",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "6.3.",
+                "Title": "Safety Endpoints",
+                "Content": "Safety endpoints include:\uf0b7Adverse events of particular interest are as follows:\uf0b7Gynaecological: Bleeding ,discharge, uterine dilatation and curettage;\uf0b7Cardiac: myocardial infarction, hypertension;\uf0b7Venous thromboembolic events;\uf0b7Musculoskeletal: Joint stiffness, arthralgia, muscle cramps, fractures;\uf0b7Menopausal symptoms: Hot flushes, anxiety, depression, headaches.\uf0b7Changes in laboratory parameters, including lipids.\uf0b7Changes in bone mineral density.\uf0b7Vital signs.Protocol A5991093Statistical Analysis PlanStatistical Analysis PlanFinalPage 9 of 18\uf0b7Reasons for discontinuation of Aromasin\u00ae therapy.\uf0b7Duration of Aromasin\u00ae therapy.",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "6.4.",
+                "Title": "Other Endpoints",
+                "Content": " Not applicable.",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "6.5.",
+                "Title": "PK Endpoints",
+                "Content": " Not applicable.",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "6.6.",
+                "Title": "PD Endpoints",
+                "Content": " Not applicable.",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "6.7.",
+                "Title": "Outcomes Research (OR) Endpoints",
+                "Content": "None.",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "6.8.",
+                "Title": "Covariates",
+                "Content": " The following subgroup is of interest:\uf0b7HER2 status (binary: positive, negative).",
+                "Sub-sections": []
+            }
+        ]
+    },
+    {
+        "Header Number": "7.",
+        "Title": "HANDLING OF MISSING VALUES",
+        "Content": "Censoring for time-to-recurrence is defined in Section 8.2.  Subjects with missing value for a given efficacy variable will not contribute to the analysis of that variable. ",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "8.",
+        "Title": "STATISTICAL METHODOLOGY AND STATISTICAL ANALYSES",
+        "Content": "",
+        "Sub-sections": [
+            {
+                "Header Number": "8.1.",
+                "Title": "Statistical Methods",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "8.1.1.",
+                        "Title": "Analyses for Continuous Data",
+                        "Content": "Continuous variables will be presented using summary statistics: number of observations, arithmetic mean, standard deviation, standard error, minimum, maximum, and median values.  Additional 2-sided 95% confidence intervals based on Student\u2019s t-distribution will also be presented where specified.",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "8.1.2.",
+                        "Title": "Analyses for Categorical Data",
+                        "Content": "For dichotomous variables (proportions, incidences and HER2 status), the number and percent of subjects will be presented.  A two-sided 95% confidence interval (Wilson score interval) will be presented for the percent. ",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "8.1.3.",
+                        "Title": "Time to Event Data",
+                        "Content": "Time-to-recurrence will be summarized using the Kaplan-Meier (KM) estimates of the survival function and presented graphically. KM plots will display months as the unit of time (365.25/12 days per month).  If estimable, the median time to event (based on the KM Protocol A5991093Statistical Analysis PlanStatistical Analysis PlanFinalPage 10 of 18estimate) and its associated 2-sided 95% confidence interval (method of Brookmeyer and Crowley 1982) will also be presented.  95% confidence bands for the survival distribution (method of Hall and Wellner, 1980) will be computed.  In addition, a Cox regression model will also be fit for the purpose of comparing subgroup of HER2 status level, and hazard ratioestimated along with corresponding 2-sided 95% confidence interval.",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "8.2.",
+                "Title": "Statistical Analyses",
+                "Content": " ",
+                "Sub-sections": [
+                    {
+                        "Header Number": "8.2.1.",
+                        "Title": "Efficacy Analyses",
+                        "Content": "All summaries of efficacy parameters will be reported within the FAS population.  Analyses will be primarily descriptive in nature, and therefore no statistical sample size estimation was performed. Primary analysis The primary analysis is time-to-recurrence, where recurrence is defined as the earliest occurrence any of the following:\uf0b7Locoregional/distant recurrence of the primary breast cancer.\uf0b7Appearance of 2nd primary or contralateral breast cancer.\uf0b7Death due to any cause.Time-to-recurrence is calculated as the time from date of enrollment to first objective documentation of the recurrence defined above.  In the analysis of time to recurrence, subjects lost to follow-up and subjects who are still being followed at the time of analysis with no documented event will be censored at the last date the subject was known to be event-free.  The Kaplan Meier non-parametric estimate will be used to summarize the survival distribution and median for time-to-event.  95% confidence interval for median time to event (method of Brookmeyer and Crowley 1982) and 95% confidence bands for the survival distribution (method of Hall and Wellner, 1980) will be computed.Secondary analysesLocoregional/distant recurrence, appearance of 2nd primary or contralateral breast cancer, and death will also be summarized as follows:\uf0b7Time to each event will be summarized similarly as the primary analyses for time-to-recurrence (See Section 8.1.3). \uf0b7Summary statistics for the proportion of subjects experiencing each event.\uf0b7Summary statistics for the incidence rate (per annum), defined as a ratio of the number of events and the total exposure time (in years) to Aromasin\u00ae therapy.Protocol A5991093Statistical Analysis PlanStatistical Analysis PlanFinalPage 11 of 18      ",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "8.2.2.",
+                        "Title": "Safety Analyses",
+                        "Content": "All summaries will use the safety analysis set.Adverse events which will be graded according to grades of severity specified in the Common Technology Criteria for Adverse Events Version 3.0 (CTCAE v3.0).  Pfizer data standards (PDS) will be used to summarize all safety data. Patient baseline characteristics (demography, breast cancer history, medical history, primary diagnosis, lab data, treatment history related to primary diagnosis, history of hormonal therapy received before Aromasin, location of primary diagnosis, histopathological classification and grade, TNM stage) will also be summarized according to PDS.  Vital signs, ECOG status, laboratory data and physical examination will be summarized by visit using observed data as well as each patient\u2019s last available value.CCIProtocol A5991093Statistical Analysis PlanStatistical Analysis PlanFinalPage 12 of 18",
+                        "Sub-sections": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Header Number": "9.",
+        "Title": "REFERENCES",
+        "Content": " 1.Brookmeyer R, Crowley JJ. A confidence interval for the median survival time. Biometrics 1982; 38:29-41.2.Hall, W. J. and Wellner, J. A. (1980), \u201cConfidence Bands for a Survival Curve for Censored Data,\u201d Biometrika 69. Protocol A5991093Statistical Analysis PlanStatistical Analysis PlanFinalPage 13 of 18",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "10.",
+        "Title": "APPENDICES",
+        "Content": "",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "N/A",
+        "Title": "Appendix\u00a01. DATA DERIVATION DETAILS",
+        "Content": "",
+        "Sub-sections": [
+            {
+                "Header Number": "N/A",
+                "Title": "Appendix\u00a01.1. Derivation of Local, Distant and Locoregional",
+                "Content": "Protocol A5991093\nStatistical Analysis Plan\nStatistical Analysis Plan\nFinal\nPage 14 of 18\nThe following types of cancer recurrence will be derived from the Cancer Event Assessment \nCRF:\n\uf0b7\nLocal: \"Recurrent Disease\" is checked on the CRF and \u201cDisease Site\u201d is marked \"Breast\".\n\uf0b7\nDistant: \"Recurrent Disease\" is checked on the CRF and \u201cDisease Site\u201d is marked \nsomething other than breast (brain, lung, bone, lymph node, liver, other).\n\uf0b7\nTime to Locoregional recurrence: Time from inclusion into the study to the date of the\nfirst documentation of locoregional recurrence.  Specifically, time to Locoregional\nrecurrence is (date of inclusion into the study) \u2013 (first date of documented locoregional\nrecurrence) +1.\nLocoregional recurrence is defined as any recurrence in the ipsilateral breast, chest wall or \naxillary lymph nodes.\n",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "N/A",
+                "Title": "Appendix\u00a01.2. Derivation of Appearance of 2nd Primary or Contralateral Breast Cancer",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "N/A",
+                "Title": "Appendix\u00a01.3. Derivation of HER2\u00a0Status",
+                "Content": "Protocol A5991093\nStatistical Analysis Plan\nStatistical Analysis Plan\nFinal\nPage 17 of 18\n\uf0b7\nIf HER2 FISH, HER2 CISH and HER2 mutation are all undone or unknown, then\n\uf0b7\nIf HER2 IHC status = 3+, HER2 is positive.\n\uf0b7\nIf HER2 IHC status = 0 or 1+, HER2 is negative.\n\uf0b7\nIf HER2 IHC status = 2+ or unknown or undone, HER2 is unknown.\n",
+                "Sub-sections": []
+            }
+        ]
+    },
+    {
+        "Header Number": "N/A",
+        "Title": "Appendix\u00a02. SAS PROGRAMMING DETAILS",
+        "Content": "",
+        "Sub-sections": [
+            {
+                "Header Number": "N/A",
+                "Title": "Appendix\u00a02.1. Programming Confidence Bands for KM Survival Curve",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "N/A",
+                "Title": "Appendix\u00a02.2. Programming Confidence Intervals for KM Median Time to Event",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "N/A",
+                "Title": "Appendix\u00a02.3. Programming Cox Proportional Hazards Model for HER2 Status",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "N/A",
+                "Title": "Appendix\u00a02.4. Programming Cox Proportional Hazards Model for Multiple Factors with Stepwise Selection",
+                "Content": "",
+                "Sub-sections": []
+            }
+        ]
+    }
+]

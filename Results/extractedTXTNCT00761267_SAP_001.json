@@ -1,0 +1,451 @@
+[
+    {
+        "Header Number": "N/A",
+        "Title": "TABLE OF CONTENTS",
+        "Content": "APPENDICES ...........................................................................................................................41. AMENDMENTS FROM PREVIOUS VERSION(S) ...........................................................52. INTRODUCTION .................................................................................................................52.1. Study Design .............................................................................................................52.1.1. Study Drug and Dosing ................................................................................72.1.2. Sample Size ..................................................................................................72.2. Study Objectives .......................................................................................................73. INTERIM ANALYSES, FINAL ANALYSES AND UNBLINDING..................................83.1. Interim Analyses .......................................................................................................83.2. Final Analysis............................................................................................................84. HYPOTHESES AND DECISION RULES...........................................................................84.1. Statistical Hypotheses ...............................................................................................84.2. Statistical Decision Rules..........................................................................................95. ANALYSIS SETS .................................................................................................................95.1. Modified Intent-To-Treat Analysis Set.....................................................................95.2. Safety Analysis Set....................................................................................................95.3. Other Analysis Sets ...................................................................................................95.3.1. Per-Protocol Analysis Set.............................................................................95.3.2. Pk Analysis Set...........................................................................................105.3.3. Safety ANALYSIS SET .............................................................................105.4. Treatment Misallocations........................................................................................105.5. Protocol Deviations.................................................................................................105.5.1. Deviations Assessed Prior To Treatment Administration ..........................105.5.2. Deviations Assessed Post-Treatment Administration ................................116. ENDPOINTS AND COVARIATES ...................................................................................116.1. Efficacy Endpoint(s) ...............................................................................................116.1.1. Global Response at the End of IV Treatment (EOIVT) .............................116.1.1.1. Global Response Determination at EOIVT...............................116.1.1.2. Investigator Determination of Clinical and Microbiologic Response at EOIVT...........................................................................126.1.2. Global Response at the End of all Treatment (EOT)..................................136.1.3. Global Response at the 2 and 6 Week Follow-Up Visits ...........................13090177e18f1c6d30\\Approved\\Approved On: 09-Aug-2018 13:03 (GMT)Protocol <A8851008> (A885), PF-03910960\nStatistical Analysis Plan\nPage 3\n6.1.4. Concomitant Antifungal Therapy...............................................................14\n6.1.5. Rate of Response Based on Clinical Cure and Microbiological \nSuccess at EOIVT, EOT, 2 and 6 Week Follow-Up Visits .............................15\n6.1.5.1. Rate of Relapse at the 2 and 6 Week Follow-Up Visits............15\n6.1.5.2. Rate of New Infection at the 2 and 6 Week Follow-Up \nVisits..................................................................................................15\n6.1.5.3. All-Cause Mortality During Study Therapy and \nFollow-Up Visits ...............................................................................15\n6.1.5.4. Time to Death............................................................................15\n6.2. Safety Endpoints .....................................................................................................15\n6.2.1. Adverse events............................................................................................16\n6.2.2. Laboratory Tests .........................................................................................16\n6.2.3. Physical Examination and vital signs .........................................................16\n6.2.4. Fundoscopic Examination ..........................................................................16\n6.3. OTHER Endpoints ..................................................................................................16\n6.4. Covariates................................................................................................................16\n7. HANDLING OF MISSING VALUES ................................................................................17\n8. STATISTICAL METHODOLOGY AND STATISTICAL ANALYSES ..........................17\n8.1. Statistical METHODS.............................................................................................17\n8.1.1. Analyses for Binary Data............................................................................17\n8.1.2. Analyses for Time-to-Death Data...............................................................17\n8.2. Statistical Analyses .................................................................................................18\n8.2.1. Primary Analysis ........................................................................................18\n8.2.2. Secondary Analyses....................................................................................18\n8.2.3. Analyses for PK-PD Data...........................................................................19\n8.2.4. Safety Analyses ..........................................................................................19\n8.2.4.1. Treatment and Disposition of Subjects .....................................20\n8.2.4.2. Demographic Data and Medical History...................................20\n8.2.4.3. Primary Diagnosis and Site of Infection ...................................20\n8.2.4.4. Discontinuation(s) .....................................................................20\n8.2.4.5. Adverse Events..........................................................................20\n8.2.4.6. Laboratory Data.........................................................................21\n8.2.4.7. Concomitant Medications .........................................................22\n090177e18f1c6d30\\Approved\\Approved On: 09-Aug-2018 13:03 (GMT)\nProtocol <A8851008> (A885), PF-03910960\nStatistical Analysis Plan\nPage 4\n8.2.4.8. Treatment Duration ...................................................................22\n8.2.4.9. Physical Examination and Vital Signs ......................................22\n8.2.4.10. Fundoscopic Examinations .....................................................22\n8.2.4.11. Use of Other Anti-Fungal Therapy .........................................22\n8.2.4.12. Screening and Other Special Purpose Data.............................22\n8.2.5. Summary of Efficacy Analyses ..................................................................24\n9. REFERENCES ....................................................................................................................26\n10. APPENDICES ...................................................................................................................27\nAPPENDICES\nAppendix 1. DATA DERIVATION DETAILS ......................................................................27\nAppendix 1.1. Definition and Use of Visit Windows in Reporting.........................................27\nAppendix 2. Tables, Listings and Figures for Interim Analysis..............................................28\n090177e18f1c6d30\\Approved\\Approved On: 09-Aug-2018 13:03 (GMT)\nProtocol <A8851008> (A885), PF-03910960Statistical Analysis PlanPage 5",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "1.",
+        "Title": "AMENDMENTS FROM PREVIOUS VERSION(S)",
+        "Content": " This SAP is an amendment of version 1.0.  The analysis of the global response endpoint has been clarified.  Other minor changes have been made to bring the SAP in agreement with Protocol Amendment 3.This SAP is an amendment of version 2.0. The changes have been made to bring the SAP in agreement with protocol Amendment 4.  The primary changes for Protocol Amendment 4 allow enrolment of subjects with Candida endocarditis and Candida osteomyelitis.This SAP is an amendment of version 3.0. The changes have been made to tighten up the definition of the global response endpoint.This SAP is an amendment of version 4.0. The changes have been made to conduct additional analysis with subjects who completed study treatment.This SAP is an amendment of version 5.0. This amendment reflects the changes that were made in protocol amendments 8 and 9, which include expansion of enrolment criteria to include infants (aged 1 month - < 2 years) who do not have microbiologically confirmed Candida but who are at high risk of candidiasis, analysis of pharmacokinetic parameters of polysorbate 80, and addition of an interim analysis.",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "2.",
+        "Title": "INTRODUCTION",
+        "Content": "Anidulafungin is a member of the echinocandin class of antifungals and exhibits fungicidal activity against Candida species. In the United States, anidulafungin is approved for the treatment of candidaemia and other forms of Candida infections (intra-abdominal abscess and peritonitis). In Canada and Europe, anidulafungin carries a similar indication and is approved for the treatment of invasive candidiasis/candidemia in adult non-neutropenic patients. To date, there are no clinical studies evaluating anidulafungin in paediatric subjects with invasive Candida infection. This study will assess the pharmacokinetics, safety and efficacy of anidulafungin in subjects 1 month to <18 years of age with invasive candidiasis, including candidemia (ICC). Exposure-response relationships of anidulafungin and polysorbate 80 will also be assessed in a population pharmacokinetic-pharmacodynamic (PK-PD) analysis.",
+        "Sub-sections": [
+            {
+                "Header Number": "2.1.",
+                "Title": "Study Design",
+                "Content": "This prospective, open-label, non-comparative study will assess the safety and efficacy ofanidulafungin when used to treat children between the ages of 1 month and <18 years with invasive candidiasis, including candidemia (ICC).To participate in this study, at the time of enrolment subjects must have either a confirmed diagnosis of ICC (based on the growth of Candida sp. from a culture obtained from a normally sterile site within 96 hours prior to enrollment), or mycological evidence highly suggestive of Candida sp. (eg, the growth of yeast in culture and/or the direct microscopic visualization of yeast, hyphae or pseudohyphae from a sample obtained from a normally sterile site within 96 hours prior to enrolment).  Subjects may enroll and initiate study 090177e18f1c6d30\\Approved\\Approved On: 09-Aug-2018 13:03 (GMT)Protocol <A8851008> (A885), PF-03910960\nStatistical Analysis Plan\nPage 6\ntreatment prior to culture confirmation of Candida sp. If culture confirmation is not \nobtained, subjects may remain in the study and receive study treatment at the discretion of \nthe investigator. Should the investigator choose to withdraw the subject from study \ntreatment, the subject will be required to return for the 2-week and 6-week follow-up visits.\nIn order to accelerate the availability of PK and safety data in the lowest age group (1 month \nto < 2 years), the study population is broadened only in this age group to include children at \nrisk for invasive candidiasis. Thus, eligibility criteria have been modified in Amendment 9 \nto additionally allow enrollment of infants (aged 1 month - < 2 years) who do not have \nmicrobiologically confirmed Candida but who are at high risk of candidiasis, and for whom \nthe investigator considers antifungal therapy with at least 5 days of IV anidulafungin to be \nappropriate.\nAll subjects meeting screening criteria will receive IV anidulafungin.  On Day 1, subject is to \nreceive a loading dose of 3.0 mg/kg (not to exceed 200 mg).  Subject is then to receive a \ndaily maintenance dose of 1.5 mg/kg (not to exceed 100 mg) from Day 2 onwards.  Subjects \nwill receive treatment (either solely anidulafungin, or anidulafungin followed by oral \nfluconazole) for a minimum duration of 14 days from the time of the last negative culture \n(defined as the second of two consecutive negative cultures, separated by at least 24 hours, \nfollowing the last positive culture) and improvement of clinical signs and symptom of \ncandidemia or invasive candidiasis.  \nSubjects without microbiologically confirmed Candida infection will be treated with \nIV anidulafungin at the discretion of the investigator to a maximum of 35 days.  Subjects \nmay be switched to oral fluconazole (6-12 mg/kg/day, maximum 800 mg/day) after at least \n5 days of IV anidulafungin treatment.  \nIn subjects with Candida endocarditis and Candida osteomyelitis who require continued \ntreatment beyond the maximum total treatment duration (49 days), this treatment will be \nconsidered outside the context of this clinical trial and study drug will not be supplied by the \nSponsor.  For the purpose of study treatment evaluation, Day 35 (for subjects who require \ncontinued IV treatment) or Day 49 (for subjects who required continued oral therapy) will be \nconsidered the last day of study drug treatment.  These subjects are also required to return for \nthe 2-week and 6-week follow-up visit following the last dose of study drug.\nAt selected investigator sites, anidulafungin pharmacokinetics will be assessed in the first \n6 subjects between 1 month to <2 years of age to confirm whether or not the recommended \ndosing regimen contained within the protocol for this age group is appropriate.  \nEfficacy will be based on a determination of global response (combination of clinical and \nmicrobiological response) of success, failure or indeterminate at the EOIVT, EOT, 2-week \nFU and 6-week FU visits. Rates of relapse (recurrence) and/or new infection will be assessed \nat the FU visits. Safety will be evaluated through assessment of adverse events and \nmonitoring of clinical laboratory tests (hematology and serum chemistry), temperature, and \nphysical examination results. All subjects will be followed for safety through the 6-week FU \nvisit.\n090177e18f1c6d30\\Approved\\Approved On: 09-Aug-2018 13:03 (GMT)\nProtocol <A8851008> (A885), PF-03910960Statistical Analysis PlanPage 7",
+                "Sub-sections": [
+                    {
+                        "Header Number": "2.1.1.",
+                        "Title": "Study Drug and Dosing",
+                        "Content": "This is a one arm study. All subjects meeting screening criteria will receive IV anidulafungin. On Day 1, subject is to receive a loading dose of 3.0 mg/kg (not to exceed 200 mg).  Subject is then to receive a daily maintenance dose of 1.5 mg/kg (not to exceed 100 mg) from Day 2 onwards. Subjects will be stratified by age (1 month - <2 years, 2 - <5 years, and 5 - <18 years). Subjects may be switched to oral fluconazole (6-12 mg/kg/day, maximum 800 mg/day) after at least 5 days of IV treatment, provided that the pre-specified criteria are met.",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "2.1.2.",
+                        "Title": "Sample Size",
+                        "Content": "The planned enrolment is approximately 60 evaluable subjects (those subjects who have received at least one dose of anidulafungin and have confirmed Candida infection).",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "2.2.",
+                "Title": "Study Objectives",
+                "Content": " Primary ObjectiveObjective 1: To assess the safety and tolerability of anidulafungin when used to treat children with invasive candidiasis, including candidemia.This assessment will be based on the reports of adverse events throughout the study, laboratory tests, and physical examination results.Secondary ObjectivesObjective 1: To assess the efficacy of anidulafungin, as measured by global response, at the following time points: EOIVT, end of treatment (EOT), 2-week follow-up (FU) visit and 6-week FU visit.This assessment will be based on assessment of the clinical and microbiological responsescategorized as one of the possible outcomes: success, failure, or indeterminate.  The objective will be accomplished by presenting frequencies and percentages of global success for each time point overall and by age category (1 month - <2 years, 2 - <5 years, and 5 - <18 years). Objective 2: To explore pharmacokinetic parameters of anidulafungin in children aged 1 month to <2 years following IV infusion of anidulafungin (AUC24 and Cmax).This pharmacokinetic objective will be addressed in a separate analysis plan.Objective 3: To explore pharmacokinetic parameters of polysorbate 80 following IV infusion of anidulafungin (area under curve over dosing interval (AUC24) and peak concentration (Cmax).This pharmacokinetic/pharmacodynamic (PK-PD) objective will be addressed in a separate analysis plan.090177e18f1c6d30\\Approved\\Approved On: 09-Aug-2018 13:03 (GMT)Protocol <A8851008> (A885), PF-03910960Statistical Analysis PlanPage 8Objective 4: To explore the exposure-response (safety and efficacy endpoints) relationship of anidulafungin using a nonlinear mixed effects approach as appropriate, including exploring the association between PK-PD index (eg, AUC/MIC) and efficacy endpoints.This pharmacokinetic/pharmacodynamic (PK-PD) objective will be addressed in a separate analysis plan.Objective 5: To assess rates of relapse (recurrence) at the Week 2 and Week 6 FU visits.The objective will be accomplished by presenting the frequencies and percentages of relapse(recurrence) for each follow up visit overall and by age category (1 month - <2 years, 2 - <5 years, and 5 - <18 years).Objective 6: To assess rates of new infection at the Week 2 and Week 6 FU visits.The objective will be accomplished by presenting the frequencies and percentages of emerging infection for each follow up visit overall and by age category (1 month - <2 years, 2 - <5 years, and 5 - <18 years).Objective 7: To assess all-cause mortality during study therapy and FU visits.The objective will be accomplished by presenting the proportion of deaths due to all causes for each time point overall and by age category (1 month - <2 years, 2 - <5 years, and 5 - <18 years) at EOIVT, EOT and 2 week and 6 week follow-up visits.  The mortality rates will also be described using the Kaplan-Meier methods of summarizing survival.",
+                "Sub-sections": []
+            }
+        ]
+    },
+    {
+        "Header Number": "3.",
+        "Title": "INTERIM ANALYSES, FINAL ANALYSES AND UNBLINDING",
+        "Content": " ",
+        "Sub-sections": [
+            {
+                "Header Number": "3.1.",
+                "Title": "Interim Analyses",
+                "Content": "Subjects will be stratified by age (1 month - <2 years, 2 - <5 years, and 5 - <18 years), allowing 20 \u00b1 2 in each stratum. An interim analysis to assess safety, PK and efficacy will be performed after approximately 20 \u00b1 2 for age cohorts 2 to <5 years and 5 to < 18 years groups have completed the study.The details of the dissemination plan (Tables, Listings and Figures) for subpopulation (age cohorts 2 to <5 years and 5 to <18 years) documented in Appendix 2.",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "3.2.",
+                "Title": "Final Analysis",
+                "Content": "Final analysis will be conducted after the database is released.  ",
+                "Sub-sections": []
+            }
+        ]
+    },
+    {
+        "Header Number": "4.",
+        "Title": "HYPOTHESES AND DECISION RULES",
+        "Content": "",
+        "Sub-sections": [
+            {
+                "Header Number": "4.1.",
+                "Title": "Statistical Hypotheses",
+                "Content": "As this is a descriptive study, no hypothesis testing will be performed.090177e18f1c6d30\\Approved\\Approved On: 09-Aug-2018 13:03 (GMT)Protocol <A8851008> (A885), PF-03910960Statistical Analysis PlanPage 9",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "4.2.",
+                "Title": "Statistical Decision Rules",
+                "Content": "All analyses will be considered descriptive; therefore, no statistical tests of hypotheses will be performed.  ",
+                "Sub-sections": []
+            }
+        ]
+    },
+    {
+        "Header Number": "5.",
+        "Title": "ANALYSIS SETS",
+        "Content": "",
+        "Sub-sections": [
+            {
+                "Header Number": "5.1.",
+                "Title": "Modified Intent To Treat Analysis Set",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "5.2.",
+                "Title": "Safety Analysis Set",
+                "Content": "This set consists of randomized subjects receive at least one dose of study medication.  Subjects will be analyzed according to treatment received, ie, as treated.",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "5.3.",
+                "Title": "Other Analysis Sets",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "5.3.1.",
+                        "Title": "Per Protocol Analysis Set",
+                        "Content": "Protocol <A8851008> (A885), PF-03910960Statistical Analysis PlanPage 10\uf0b7Have not taken more than 1 day of protocol prohibited antifungal therapy concomitant with study therapy, unless declared a clinical and or microbiologicfailure;\uf0b7Have reached the 6 weeks Follow up visit unless the subject died or withdrew consent prior to 6 week follow up;And also exclude those subjects with protocol violations that could have an impact on the efficacy endpoints (See Section 5.3.2).  ",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "5.3.2.",
+                        "Title": "Pk Analysis Set",
+                        "Content": "The first 6 subjects aged between 1 month to <2 years will constitute the PK sub-study population.  Their data will be combined with all other subjects\u2019 safety data for the analyses using the safety population.  In addition, demography, medical history, adverse events and efficacy (in those subjects who received anidulafungin as monotherapy for treatment purposes) will be summarized for these 6 subjects alone, and patient profiles will be generated for each of these subjects to allow examination of all their data. They will be presented as a separate group within the listings.",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "5.3.3.",
+                        "Title": "Safety ANALYSIS SET",
+                        "Content": "This set consists of all subjects who have received at least one dose of study medication.  ",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "5.4.",
+                "Title": "Treatment Misallocations",
+                "Content": " Not Applicable.",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "5.5.",
+                "Title": "Protocol Deviations",
+                "Content": "The following sections describe any protocol deviations that relate to the statistical analyses.  It is possible that unexpected deviations will arise, becoming known only after the study has been active for a long period of time; hence more deviations may be added. A full list of protocol deviations for the study report will be compiled prior to database closure. As of this writing, the protocol deviations can all be found in Section 5.5.1 and Section 5.5.2 below. Only protocol deviations that are thought to affect the primary efficacy endpoint will be considered.",
+                "Sub-sections": [
+                    {
+                        "Header Number": "5.5.1.",
+                        "Title": "Deviations Assessed Prior To Treatment Administration",
+                        "Content": "At screening, the investigator will assess subjects against the inclusion and exclusion criteria as set out in Sections 4.1 and 4.2 of the protocol.  Granted exceptions to the inclusion or exclusion criteria are not expected to occur. Any subject who enters the study when the inclusion or exclusion criteria would have prevented entry will be considered to have had a protocol deviation.090177e18f1c6d30\\Approved\\Approved On: 09-Aug-2018 13:03 (GMT)",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "5.5.2.",
+                        "Title": "Deviations Assessed Post Treatment Administration",
+                        "Content": "",
+                        "Sub-sections": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Header Number": "6.",
+        "Title": "ENDPOINTS AND COVARIATES",
+        "Content": "This section defines endpoints and covariates only. Statistical analysis details are found in Section 8. ",
+        "Sub-sections": [
+            {
+                "Header Number": "6.1.",
+                "Title": "Efficacy Endpoint(s)",
+                "Content": "The efficacy endpoints are all secondary endpoints. ",
+                "Sub-sections": [
+                    {
+                        "Header Number": "6.1.1.",
+                        "Title": "Global Response at the End of IV Treatment (EOIVT)",
+                        "Content": "",
+                        "Sub-sections": [
+                            {
+                                "Header Number": "6.1.1.1.",
+                                "Title": "Global Response Determination at EOIVT",
+                                "Content": "Global response at EOIVT is based on assessment of clinical and microbiological response provided by the investigator at this time point, and will be programmatically determined as follows:Success: A patient will be categorized as having successful response if there is a clinical response of cure or improvement and microbiological eradication or presumed eradication.Failure: A patient will be categorized as having an unsuccessful response if there is a clinical response of failure and/or unsuccessful microbiological response (persistence or new infection at FU or relapse at FU).Indeterminate: A patient will be categorized as indeterminate if there is a clinical response of indeterminate and /or microbiological response of indeterminate and neither clinical response is a failure nor unsuccessful microbiological response (persistence or new infection or relapse).A global response determination of failure at EOIVT will be carried forward programmatically to all subsequent visits.  090177e18f1c6d30\\Approved\\Approved On: 09-Aug-2018 13:03 (GMT)Protocol <A8851008> (A885), PF-03910960Statistical Analysis PlanPage 12",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "6.1.1.2.",
+                                "Title": "Investigator Determination of Clinical and Microbiologic Response at EOIVT",
+                                "Content": "As described in Section 6.1.1.1, global response will be derived programmatically based on the investigator\u2019s assessment of clinical and microbiologic response.Definitions of clinical and microbiologic response, which investigators are asked to follow, are listed below:Clinical ResponseCure: Resolution of sign and symptoms attributed to Candida infection; no additional systemic or oral antifungal treatment required to complete the course of therapy.Improvement: Significant, but incomplete resolution of signs and symptoms of the Candida infection; no additional systemic or oral antifungal treatment required to complete the course of therapy.Important Notes:\uf0b7Initiating or resuming oral antifungal therapy following EOT for prophylactic purposes is permitted, and does not reflect a requirement for additional systemic antifungal therapy for treatment purposes, and therefore does not constitute treatment failure.  (Note: It must be clear in the project database that administration of additional antifungal therapy is for prophylactic purposes, otherwise it will deemed as being administered for treatment of continued infection, in which case study drug treatment will be considered clinical failure.) \uf0b7Administration of non-absorbable antifungal agent is not considered systemic antifungal treatment in the context of this study.Failure: No significant improvement in signs and symptoms, or death due to the Candida infection. Subjects must have received at least 3 doses of study medication to be classified as a failure.Indeterminate: Evaluation cannot be made due to withdrawal from the study prior to assessment of cure or failure. Subjects who receive fewer than 3 doses of study medication will be assigned as a clinical efficacy response of indeterminate.Microbiological ResponseEradication or presumed eradication: Baseline pathogen not isolated from original site culture(s), or culture data are not available for a subject with successful clinical outcome.090177e18f1c6d30\\Approved\\Approved On: 09-Aug-2018 13:03 (GMT)Protocol <A8851008> (A885), PF-03910960Statistical Analysis PlanPage 13Persistence (documented or presumed): Any baseline Candida sp. is present in repeat cultures, or culture data are not available for subject with a clinical outcome of failure.Indeterminate:Culture data are not available for a subject with a clinical outcome of indeterminate.",
+                                "Sub-sections": []
+                            }
+                        ]
+                    },
+                    {
+                        "Header Number": "6.1.2.",
+                        "Title": "Global Response at the End of all Treatment (EOT)",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "6.1.3.",
+                        "Title": "Global Response at the 2 and 6 Week Follow Up Visits",
+                        "Content": "Protocol <A8851008> (A885), PF-03910960Statistical Analysis PlanPage 14Failure: No significant improvement in signs and symptoms, or death due to the Candida infection. Subjects must have received at least 3 doses of study medication to be classified as a failure.Indeterminate: Evaluation cannot be made to withdrawal from the study prior to assessment of cure or failure. Subjects who receive fewer than 3 doses of study medication will be assigned as a clinical efficacy response of indeterminate.Microbiological ResponseEradication or presumed eradication: Baseline pathogen not isolated from original site culture(s), or culture data are not available for a subject with successful clinical outcom.Persistence (documented or presumed): Any baseline Candida sp. is present in repeat cultures, or culture data are not available for subject with a clinical outcome offailure.Indeterminate:Culture data are not available for a subject with a clinical outcome of indeterminate.Relapse (recurrence): Any baseline Candida sp. isolated following eradication (documented or presumed); or culture data are not available for a subject with a clinical response of failure after a previous response of success; prophylactic treatment with oral antifungal agents is not sufficient to document a relapse.New Infection: Subject presenting with clinical failure with the emergence of new Candida sp. at the original site of infection or at a distant site of infection;A global response determination of failure at the 2 Week Follow Up will be carried forward programmatically to all subsequent visits.  ",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "6.1.4.",
+                        "Title": "Concomitant Antifungal Therapy",
+                        "Content": "Global response at EOIVT, EOT, 2 and 6 Week Follow up will be set to failure following the use of a concomitant medication with activity for any baseline Candida spp., based on the following algorithm for handling the global response,\uf0b7If a subject takes two or more days of antifungal medications (as identified by the clinical team) after the start of study mediation until the end of treatment for any reason, they are imputed to failure for all visits that occur after the antifungal medication was taken.\uf0b7If a subject takes one day of antifungal medication after the start of study medication until the end of treatment for the reason \u201clack of efficacy\u201d they are similarly imputed to failure for all visits that occur after the antifungal medication was taken. The clinical team will determine whether the antifungal medication has been used for \u201clack of efficacy\u201d.090177e18f1c6d30\\Approved\\Approved On: 09-Aug-2018 13:03 (GMT)",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "6.1.5.",
+                        "Title": "Rate of Response Based on Clinical Cure and Microbiological Success at EOIVT, EOT, 2 and 6 Week Follow Up Visits",
+                        "Content": "",
+                        "Sub-sections": [
+                            {
+                                "Header Number": "6.1.5.1.",
+                                "Title": "Rate of Relapse at the 2 and 6 Week Follow Up Visits",
+                                "Content": "",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "6.1.5.2.",
+                                "Title": "Rate of New Infection at the 2 and 6 Week Follow Up Visits",
+                                "Content": "",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "6.1.5.3.",
+                                "Title": "All Cause Mortality During Study Therapy and Follow Up Visits",
+                                "Content": "",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "6.1.5.4.",
+                                "Title": "Time to Death",
+                                "Content": "For this analysis, time to death will be measured from the first dose of study medication in days.  For subjects who died, time to death is defined as:T = date of death \u2013 first treatment date + 1where date of death will be recorded on the End of Study page and/or Infection Notice of Death page.  These observations will be regarded as events for the purposes of time to event analyses.Subjects who are not known to have died, will be censored at their last known survival date taken as the latest date in the database. Time to death is defined as:T = latest date in the database \u2013 first treatment date + 1where the latest date is expected to be the date of the End of Study visit. ",
+                                "Sub-sections": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Header Number": "6.2.",
+                "Title": "Safety Endpoints",
+                "Content": "The safety assessment is the primary endpoint of the study.  The following safety assessments will be performed:090177e18f1c6d30\\Approved\\Approved On: 09-Aug-2018 13:03 (GMT)Protocol <A8851008> (A885), PF-03910960Statistical Analysis PlanPage 16",
+                "Sub-sections": [
+                    {
+                        "Header Number": "6.2.1.",
+                        "Title": "Adverse events",
+                        "Content": "Any events occurring following start of treatment or increasing in severity will be counted as treatment emergent. For the standard required analysis, events that occur in a non-treatment period (up to 30 days after last dose of study drug) will be counted as treatment emergent and attributed to the previous treatment taken.",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "6.2.2.",
+                        "Title": "Laboratory Tests",
+                        "Content": "Hematology and blood chemistry will be performed by the local laboratory at all visitsaccording to the protocol.  To determine if there are any clinically significant laboratory abnormalities, the hematological and clinical biochemistry safety tests will be assessed against the criteria specified in the sponsor reporting standards.  The assessment will take into account whether each subject\u2019s baseline test result is within or outside the laboratory reference range for the particular laboratory parameter.",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "6.2.3.",
+                        "Title": "Physical Examination and vital signs",
+                        "Content": "\uf0b7A complete physical examination (including vital signs) at Screening;\uf0b7A targeted physical examination on Days 3, 7, 10, 11-34 (every 3 days), EOIVT, EOT, Week 2 FU visit, and Week 6 FU visit.  The number of subjects whose physical examination significantly changed from the previous physical examination will be assessed for each visit.\uf0b7Vital signs (including temperature) at Screening, daily through EOT, Week 2 FU visit, and Week 6 FU visit.",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "6.2.4.",
+                        "Title": "Fundoscopic Examination",
+                        "Content": "The fundoscopic examination assessment results are reported as normal/abnormal or present/absent at Screening for each eye and at EOIVT, EOT, Week 2 FU visit, and Week 6 FU visit if the Screening fundoscopic examination is positive for endophthalmitis.  The Screening visit data will be summarized for all subjects.  ",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "6.3.",
+                "Title": "OTHER Endpoints",
+                "Content": " There are no other endpoints planned for this study.",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "6.4.",
+                "Title": "Covariates",
+                "Content": " As this is a descriptive study, there are no covariates needed for this study.  As an objective of the study is to examine safety and efficacy within the different age groups, a number of the variables will be presented split into the age categories: 1 month - <2 years, 2 years - <5 years and 5 - <18 years.090177e18f1c6d30\\Approved\\Approved On: 09-Aug-2018 13:03 (GMT)Protocol <A8851008> (A885), PF-03910960Statistical Analysis PlanPage 17Global response rates for each of the different Candida species will also be reported.Site of infection is of interest to see whether there are different response rates dependent on the site of infection. Global response rates will be presented for each of the three categorizations for rate of response:i.Blood only;ii. Blood and other sterile site;iii. Sterile site (other than blood) only.Dependent on numbers of subjects, global response may also be presented by different underlying diseases.\uf0b7neutropenic status ( <500 neutrophils vs \u2265500 neutrophils.)\uf0b7allogeneic BMT vs not allogeneic BMT",
+                "Sub-sections": []
+            }
+        ]
+    },
+    {
+        "Header Number": "7.",
+        "Title": "HANDLING OF MISSING VALUES",
+        "Content": "For global response, missing values are treated as failures.  Sensitivity analyses will also be performed in which subjects with missing values for global response are excluded from the analysis.For the analysis of safety endpoints, the sponsor data standard rules for imputation will be applied.  ",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "8.",
+        "Title": "STATISTICAL METHODOLOGY AND STATISTICAL ANALYSES",
+        "Content": "",
+        "Sub-sections": [
+            {
+                "Header Number": "8.1.",
+                "Title": "Statistical METHODS",
+                "Content": " ",
+                "Sub-sections": [
+                    {
+                        "Header Number": "8.1.1.",
+                        "Title": "Analyses for Binary Data",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "8.1.2.",
+                        "Title": "Analyses for Time to Death Data",
+                        "Content": "Protocol <A8851008> (A885), PF-03910960Statistical Analysis PlanPage 18",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "8.2.",
+                "Title": "Statistical Analyses",
+                "Content": " Efficacy analyses will be performed on the MITT population for all analyses, with additional supportive analyses being performed using the PP populations where stated. Visit windows will be used (see Appendix 1.1). The observation occurring closest to the planned visit day (non-missing) will be summarized. In the instance that 2 observations are equidistant, the latest observation will be used.",
+                "Sub-sections": [
+                    {
+                        "Header Number": "8.2.1.",
+                        "Title": "Primary Analysis",
+                        "Content": "The primary analysis is to examine safety and tolerability of anidulafungin. The set of subjects for this evaluation will be the Safety population. The following parameters will be summarized: rates of discontinuation, adverse events, visual tests, physical examination, ECG findings (if applicable), and laboratory abnormalities. The analysis methods aredescribed in Section 8.2.4. ",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "8.2.2.",
+                        "Title": "Secondary Analyses",
+                        "Content": "Global ResponseFor each age category, analysis of global response rate at EOIVT, EOT, 2 weeks FU, and 6 weeks FU will be produced for the MITT analysis set. The summary will include the number of observations and estimated rates overall and for each age category.  This analysis will also be performed for each Candida species, combining across the age groups.In order to investigate the robustness of the results, a sensitivity analysis will be carried out. This analysis will investigate the effect of \u2018indeterminate\u2019 and \u2018missing\u2019 global response on the analysis by excluding these subjects from the analysis of global response.Analysis of global response success rate only for those subjects who completed study treatment at EOIVT, EOT, 2 week follow-up and 6 week follow-up visits will be produced for the MITT population.A summary of Global Response, Clinical Response and Microbiological response will be produced for the MITT population.  For Clinical Response, this will give a count of the number of subjects in each of the categories \u2018Cure\u2019, \u2018Improvement\u2019, \u2018Failure\u2019, \u2018Indeterminate\u2019, and \u2018Missing\u2019. For Microbiological response, this will give a count of the number of subjects in each of the categories \u2018Eradication\u2019, \u2018Presumed Eradication\u2019, \u2018Persistence\u2019, \u2018Indeterminate\u2019, and \u2018Missing\u2019. This will be presented overall, for each age category and for each Candida species.Rate of Relapse (Recurrence)For each age category, the number of included patients, number of patients who relapsed, and the percent relapsed will be calculated. The denominator for the rate is the number of subjects in that population at baseline. This analysis will be done in the MITT analysis setfor the Week 2 and Week 6 FU visits.090177e18f1c6d30\\Approved\\Approved On: 09-Aug-2018 13:03 (GMT)",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "8.2.3.",
+                        "Title": "Analyses for PK PD Data",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "8.2.4.",
+                        "Title": "Safety Analyses",
+                        "Content": "No formal statistical analyses are planned for safety data.  The safety and other endpoints detailed in Section 6.2 will be listed and summarized in accordance with sponsor reporting standards, where the resulting data presentations will consist of subjects from the safety analysis set. Additionally, demography, medical history and adverse events will be presented separately for the MITT population.090177e18f1c6d30\\Approved\\Approved On: 09-Aug-2018 13:03 (GMT)Protocol <A8851008> (A885), PF-03910960Statistical Analysis PlanPage 20",
+                        "Sub-sections": [
+                            {
+                                "Header Number": "8.2.4.1.",
+                                "Title": "Treatment and Disposition of Subjects",
+                                "Content": "Subject disposition and the number of subjects analyzed for efficacy, and safety (adverse events and laboratory data) will be presented by age category.  Frequency counts will be supplied for subject discontinuation(s) by age category. Data will be reported in accordance with the sponsor reporting standards.",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "8.2.4.2.",
+                                "Title": "Demographic Data and Medical History",
+                                "Content": "Frequencies for demographic data will be provided for age, race, height, and weight.  Each will be summarized by sex at birth and \u2018All Subjects\u2019 for each age category separately and overall in accordance with the sponsor reporting standards.The subjects in the PK population analysis set will have an additional table summarizing their demography.Medical history will be summarized overall and by each age category.",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "8.2.4.3.",
+                                "Title": "Primary Diagnosis and Site of Infection",
+                                "Content": "Primary diagnosis will be summarized for each treatment group, and will also be cross tabulated with the site of infection. The sites of infection will be collapsed into 3 categories for summarization purposes:i.Blood only;ii. Blood and other sterile site;iii. Sterile site (other than blood) only.",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "8.2.4.4.",
+                                "Title": "Discontinuation(s)",
+                                "Content": "Frequency of subject discontinuations, temporary discontinuations or dose reductions due to adverse events will be detailed and summarized by age category.Data will be reported in accordance with the sponsor reporting standards.",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "8.2.4.5.",
+                                "Title": "Adverse Events",
+                                "Content": "All adverse events will be coded using the MedDRA dictionary. Frequencies of adverse events will be presented by system organ class, preferred term, age category, and severity level.  All causality treatment emergent adverse events will be presented using two different treatment groupings. Firstly they will be presented for the one group where all adverse events are counted from start of study to end of follow-up period. This will provide an overall assessment of all adverse events in the study. 090177e18f1c6d30\\Approved\\Approved On: 09-Aug-2018 13:03 (GMT)Protocol <A8851008> (A885), PF-03910960Statistical Analysis PlanPage 21Secondly they will be split into time periods within the study: \uf0b7Those that occurred from start of study to end of treatment by anidulafungin, including up to end of follow-up period if no other antifungal was administered;\uf0b7Those adverse events that started after treatment with another antifungal up until the end of the follow-up period.This will provide guidance as to which adverse events occurred during treatment with anidulafungin, as opposed to those that occurred during other therapies.Treatment related treatment emergent adverse events will be presented in two ways: \uf0b7Firstly, for those that are considered to be caused by anidulafungin, providing a summary of treatment related adverse events;\uf0b7Secondly, for those that are caused by anidulafungin and/or fluconazole, providing a summary of adverse events for the anidulafungin plus fluconazole treatment regimen.  All causality treatment emergent adverse events and treatment related adverse events will also be summarized for the 6 subjects in the PK sub-study analysis set.Adverse events and serious adverse events will be listed by subject for all age categories.Adverse events leading to discontinuation or temporary dose reduction will be presented (Discontinuation(s) Section).Adverse events will be reported in accordance with the sponsor reporting standards.Additional tables summarizing adverse events that are considered to be potentially indicative of an infusion related reaction which occur during the anidulafungin infusion or within 60 minutes following completion of the anidulafungin infusion will be presented.  The adverse event terms of interest are:Rash, pruritus, chest tightness, vasodilation, flushing, hyperhydrosis, angioneurotic edema, erythema, urticaria, shortness of breath, cough, feeling hot, sweating, diaphoresis, facial swelling plus possible other similar terms to be determined at the end of study.  There will beone table for all causality and another for anidulafungin treatment related.For subjects with infusion reactions or potential infusion related adverse events who also received anesthetic at the same time, the adverse event will be listed along with the anesthetic administered with the relevant start and stop times.",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "8.2.4.6.",
+                                "Title": "Laboratory Data",
+                                "Content": "Descriptive statistics will be summarized by age category for each baseline measurement as well as for median changes from baseline at each post dose measurement time for laboratoryparameters. A listing of laboratory data values and changes from baseline will be provided by age category, subject, test and time.090177e18f1c6d30\\Approved\\Approved On: 09-Aug-2018 13:03 (GMT)Protocol <A8851008> (A885), PF-03910960Statistical Analysis PlanPage 22For each age category, a summary table will present the frequency of subjects with post dose laboratory test abnormalities. All post dose visits will be counted.  Listings of values of potential clinical concern will be provided by both subject and by test.All presentations of laboratory test data will be in accordance with the sponsor reporting standards.",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "8.2.4.7.",
+                                "Title": "Concomitant Medications",
+                                "Content": "All concomitant medication(s) as well as non-drug treatment(s) will be provided in the listings.",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "8.2.4.8.",
+                                "Title": "Treatment Duration",
+                                "Content": "Duration of treatment will be summarized and split by age category and IV treatment vs. oraltreatment as well as total duration.  Additionally for subjects whose blood culture became negative during the course of the study, treatment duration will be summarized for the number of days of treatment until the last positive blood culture and the numbers of days of treatment from then until EOT.  The number of days of treatment for subjects whose blood cultures remained positive up until EOT will be summarized.All dosing information will be listed.",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "8.2.4.9.",
+                                "Title": "Physical Examination and Vital Signs",
+                                "Content": "All physical examination and vital sign data will be provided in the listings.",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "8.2.4.10.",
+                                "Title": "Fundoscopic Examinations",
+                                "Content": "",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "8.2.4.11.",
+                                "Title": "Use of Other Anti Fungal Therapy",
+                                "Content": "",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "8.2.4.12.",
+                                "Title": "Screening and Other Special Purpose Data",
+                                "Content": "The intravenous catheter details will be listed.  Microbiology and histopathology results will be listed.Signs and symptoms of ICC will be assessed at Screening, Day 10, EOIVT, EOT, Week 2 FU visit, and Week 6 FU visit and listed.090177e18f1c6d30\\Approved\\Approved On: 09-Aug-2018 13:03 (GMT)Protocol <A8851008> (A885), PF-03910960\nStatistical Analysis Plan\nPage 23\nAll Electrocardiogram data will be listed.\nUrine or serum pregnancy testing will be performed in all females of child-bearing potential \nat Screening, EOT (defined as the end of IV anidulafungin if subject is not switched to oral \nfluconazole, or the end of the oral fluconazole if subject is switched from IV anidulafungin to \noral fluconazole) and follow-up visit.\n090177e18f1c6d30\\Approved\\Approved On: 09-Aug-2018 13:03 (GMT)\nProtocol <A8851008> (A885), PF-03910960Statistical Analysis PlanPage 24",
+                                "Sub-sections": []
+                            }
+                        ]
+                    },
+                    {
+                        "Header Number": "8.2.5.",
+                        "Title": "Summary of Efficacy Analyses",
+                        "Content": " EndpointAnalysis SetStatistical MethodModel/ Covariates/ StrataMissing DataInterpretationRate of global response at EOIVTMITTDescriptive onlyAge categoriesFailureSecondary AnalysisRate of global response at EOIVTMITTDescriptive onlyAge categoriesMissing and indeterminate excludedSensitivityRate of global response at EOIVTMITTDescriptive onlyCandida speciesFailureSecondary AnalysisRate of global response at EOIVTMITTDescriptive onlySite of infectionFailureSecondary AnalysisRate of global response at EOTMITTDescriptive onlyAge categoriesFailureSecondary AnalysisRate of global response at EOTMITTDescriptive onlyCandida speciesFailureSecondary AnalysisRate of global response at EOTMITTDescriptive onlySite of infectionFailureSecondary AnalysisRate of global response at Week 2 FUMITTDescriptive onlyAge categoriesFailureSecondary AnalysisRate of global response at Week 2 FUMITTDescriptive onlyCandida speciesFailureSecondary AnalysisRate of global response at Week 2 FUMITTDescriptive onlySite of infectionFailureSecondary AnalysisRate of global response at Week 6 FUMITTDescriptive onlyAge categoriesFailureSecondary AnalysisRate of global response at Week 6 FUMITTDescriptive onlyCandida speciesFailureSecondary AnalysisRate of global response at Week 2 FUMITTDescriptive onlySite of infectionFailureSecondary AnalysisRate of relapse at Week 2 FUMITTDescriptive onlyAge categoriesNot ApplicableSecondary AnalysisRate of relapse at Week 2 FUMITTDescriptive onlyCandida speciesNot ApplicableSecondary Analysis090177e18f1c6d30\\Approved\\Approved On: 09-Aug-2018 13:03 (GMT)Protocol <A8851008> (A885), PF-03910960\nStatistical Analysis Plan\nPage 25\nRate of relapse at Week 6 FU \nMITT\nDescriptive only\nAge categories\nNot Applicable\nSecondary \nAnalysis \nRate of relapse at Week 6 FU\nMITT\nDescriptive only\nCandida species\nNot Applicable\nSecondary \nAnalysis\nRate of new infection at Week 2 FU\nMITT\nDescriptive only\nAge categories\nNot Applicable\nSecondary\nAnalysis \nRate of new infection at Week 2 FU\nMITT\nDescriptive only\nCandida species\nNot Applicable\nSecondary \nAnalysis\nRate of new infection at Week 6 FU \nMITT\nDescriptive only\nAge categories\nNot Applicable\nSecondary \nAnalysis \nRate of new infection at Week 6 FU\nMITT\nDescriptive only\nCandida species\nNot Applicable\nSecondary \nAnalysis\nAll-cause mortality rate at EOIVT\nMITT\nDescriptive only\nAge categories\nDeath\nSecondary \nAnalysis\nAll-cause mortality rate at EOIVT\nMITT\nDescriptive only\nCandida species\nDeath\nSecondary \nAnalysis\nAll-cause mortality rate at EOT\nMITT\nDescriptive only\nAge categories\nDeath\nSecondary \nAnalysis\nAll-cause mortality rate at EOT\nMITT\nDescriptive only\nCandida species\nDeath\nSecondary \nAnalysis\nAll-cause mortality rate at Week 2 FU\nMITT\nDescriptive only\nAge categories\nDeath\nSecondary \nAnalysis\nAll-cause mortality rate at Week 2 FU\nMITT\nDescriptive only\nCandida species\nDeath\nSecondary \nAnalysis\nAll-cause mortality rate at Week 6 FU\nMITT\nDescriptive only\nAge categories\nDeath\nSecondary \nAnalysis\nAll-cause mortality rate at Week 6 FU\nMITT\nDescriptive only\nCandida species\nDeath\nSecondary \nAnalysis\nTime to death (all cause mortality)\nMITT\nKaplan-Meier\nAge categories\nCensored\nSecondary \nAnalysis\n090177e18f1c6d30\\Approved\\Approved On: 09-Aug-2018 13:03 (GMT)\nProtocol <A8851008> (A885), PF-03910960Statistical Analysis PlanPage 26",
+                        "Sub-sections": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Header Number": "9.",
+        "Title": "REFERENCES",
+        "Content": "1.Pappas, PG et al. Nosocomial bloodstream infections in United States hospitals: a three-year analysis. Clin Infect Dis 1999; 29:239-244.2.Rodr\u00edguez-Nunez et al. Incidence and mortality of proven invasive Candida infections in paediatric intensive care patients. Infect Control Hosp Epidemiol 2001; 22:477-8.3.Collett, D. (1991), Modelling Binary Data, London: Chapman & Hall. 090177e18f1c6d30\\Approved\\Approved On: 09-Aug-2018 13:03 (GMT)Protocol <A8851008> (A885), PF-03910960Statistical Analysis PlanPage 27",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "10.",
+        "Title": "APPENDICES",
+        "Content": "",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "N/A",
+        "Title": "Appendix\u00a01. DATA DERIVATION DETAILS",
+        "Content": "",
+        "Sub-sections": [
+            {
+                "Header Number": "N/A",
+                "Title": "Appendix\u00a01.1. Definition and Use of Visit Windows in Reporting",
+                "Content": "",
+                "Sub-sections": []
+            }
+        ]
+    },
+    {
+        "Header Number": "N/A",
+        "Title": "Appendix\u00a02. Tables, Listings and Figures for Interim Analysis",
+        "Content": "Protocol <A8851008> (A885), PF-03910960\nStatistical Analysis Plan\nPage 29\nSummary of Microbiological Response by Candida species by Age Group- MITT \nPopulation\nSummary of Global Response According to Neutrophil Status at Baseline (ANC <=500 \nand > 500) - MITT Population\nSummary of All Cause Mortality - Safety Population\nSummary of All Cause Mortality - MITT Population\nAnalysis of time to death (All Causality) - Safety population\nAnalysis of time to death (All Causality) - MITT population\nDiscontinuations Due to Adverse Events - Safety Population\nTemporary Discontinuations or Dose Reductions Due to Adverse Events\nTreatment Emergent Adverse Events (All Causalities)  - Safety Population\nTreatment Emergent Adverse Events by System Organ Class (All Causalities) - Safety \nPopulation\nSummary of Treatment-Emergent Risk Events (All Causalities) - Safety Population\nTreatment Emergent Adverse Events (Treatment Related)  - Safety Population\nTreatment Emergent Adverse Events by System Organ Class (Treatment Related -\nAnidulafungin and Fluconazole)  \u2013 Safety Population\nTreatment Emergent Adverse Events by System Organ Class (Treatment Related -\nAnidulafungin)  \u2013 Safety Population\nTreatment-Emergent Adverse Events by System Organ Class (Treatment Related -\nFluconazole) \u2013 Safety Population\nIncidence and Severity of Treatment Emergent Adverse Events (All Causalities)  - Safety \nPopulation\nIncidence and Severity of Treatment Emergent Adverse Events (Treatment Related) -\nSafety Population\nIncidence and Severity of Treatment Emergent Adverse Events (Treatment Related -\nAnidulafungin)  - Safety Population\nIncidence and Severity of Treatment Emergent Adverse Events (Treatment Related -\nFluconazole) - Safety Population\nIncidence and Severity of Treatment Emergent Adverse Events - by Risk (Safety \nPopulation)\nIndividual Listing of Deaths\nSerious Adverse Events\nBasic Results Disclosure for \nTreatment-Emergent Non Serious Adverse Events by System Organ Class and Preferred \nTerm (All Causalities)\nFor events having a frequency rate greater than 2\nBasic Results Disclosure for Treatment Emergent Serious Adverse Events \nIncidence of Laboratory Test Abnormalities (Without Regard to Baseline Abnormality)\nIncidence of Laboratory Test Abnormalities (Normal Baseline)\nIncidence of Laboratory Test Abnormalities (Abnormal Baseline)\nLaboratory Test Data: Median Changes from Baseline to Last Observation\nFrequency Table of First Fundoscopy - Right Eye\nFrequency Table of First Fundoscopy - Left Eye\nFrequency Table of Fundoscopy Changes - Right Eye\n090177e18f1c6d30\\Approved\\Approved On: 09-Aug-2018 13:03 (GMT)\nProtocol <A8851008> (A885), PF-03910960\nStatistical Analysis Plan\nPage 30\nFrequency Table of Fundoscopy Changes - Left Eye\nDuration of Treatment - Treatment Regimen - Safety Population\nDuration of Treatment - Combined Treatments - Safety Population\nDuration of Treatment - Treatment Regimen - MITT Population\nDuration of Treatment - Combined Treatments - MITT Population\nDrug Treatments Prior to Start of Study Treatment - Safety Population\nDrug Treatments During Study Treatment - Safety Population\nDrug Treatments During Study Treatment - MITT Population\nDrug Treatments After Study Treatment - Safety Population\nDrug Treatments After Study Treatment - MITT Population\nNondrug Treatment Prior to Study Treatment\nNondrug Treatment During Study Treatment\nSummary of Exclusions from MITT Population\nListings\nRandomization listing\nSubject Evaluation Groups\nSubject Discontinuations from Study\nSubject Discontinuations from Treatment\nProtocol Deviations\nInclusion/Exclusion from Analysis Populations\nDemographic Characteristics\nPrimary Diagnoses and Duration\nMedical History\nDrug Treatments Prior to the Start of Study Treatment\nNondrug Treatments Prior to Start of Study Treatment\nAdministration Schedule\nAntifungal Drug Treatments\nConcomitant Drug Treatments\nConcomitant Nondrug Treatments\nStudy Treatment Compliance for Outpatient Fluconazole Treatment\n[PKBDFLD] [PKTERM] Concentration ([PKCNCU]) versus Time Listing - All Age \nGroups\nSite of Infection\nResponse Listing\nSigns and Symptoms of Invasive Candidiasis\nMicrobiology Data (Local data)\nMicrobiology Data (Vendor data)  \nHistopathology/Cytology data (Local data)\nCandidemia Risk Factors\nCandida Osteomyelitis MRI Findings\nCandida Endocarditis Echocardiogram Findings - Follow-up Assessment\nCandida Endocarditis Echocardiogram Findings - Full Assessment\nAdverse Events\nAdverse Events (Treatment Related)\nListing of Treatment-Emergent Adverse Events \u2013 By Risk - Safety Subjects\n090177e18f1c6d30\\Approved\\Approved On: 09-Aug-2018 13:03 (GMT)\nProtocol <A8851008> (A885), PF-03910960\nStatistical Analysis Plan\nPage 31\nLaboratory Data\nLaboratory Test Abnormalities, by Subject\nLaboratory Test Abnormalities, by Test\nVitals Signs Data\nVital Signs Change from Baseline\nElectrocardiogram Data (Local data)\nElectrocardiogram Data (Reference Laboratory)\nPhysical Examination Findings at Baseline\nPhysical Examination: Changes from Screening\nFundoscopy and Fundoscopy Change \nMedication Error Listing\nRadiographic Assessment\nIntravenous Catheter Details at Baseline\nDeaths (Source: Project Database)\nInvestigator Comments\nSafety Narratives- (one output per usubid)\nFigures\nKaplan-Meier Plot of Time to Death - Safety Population\nKaplan-Meier Plot of Time to Death - MITT Population\n090177e18f1c6d30\\Approved\\Approved On: 09-Aug-2018 13:03 (GMT)\n",
+        "Sub-sections": []
+    }
+]

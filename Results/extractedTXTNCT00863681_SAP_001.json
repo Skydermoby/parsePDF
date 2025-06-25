@@ -1,0 +1,137 @@
+[
+    {
+        "Header Number": "N/A",
+        "Title": "Title page",
+        "Content": "Long-term extension, multi-center, multi-national study to evaluate the safety and tolerability of oral BAY 63-2521 (1 mg, 1.5 mg, 2 mg, or 2.5 mg TID) in patients with symptomatic Pulmonary Arterial Hypertension (PAH), PATENT-2 studyPATENT-2 studyBayer study drugBAY 63-2521/Riociguat/AdempasStudy purpose:Long-term extension Clinical study phase:IIIDate:25 JUL 2019Study No.:12935Version:5.0Author:ConfidentialThe information provided in this document is strictly confidential and is intended solely for the guidance of the clinical investigation.  Reproduction or disclosure of this document, whether in part or in full, to parties not associated with the clinical investigation or its use for any other purpose without the prior written consent of the sponsor is not permitted.Throughout this document, symbols indicating proprietary names (\u00ae, TM) are not displayed.  Hence, the appearance of product names without these symbols does not imply that these names are not protected.This Statistical Analysis Plan is produced on a word-processing system and bears no signatures.The approval of the Statistical Analysis Plan is documented in a separate Signature Document.PPDStatistical Analysis PlanProtocol No.: BAY 63-2521 / 12935Page: 2 of 11Reference Number: RD-OI-0119Supplement Version: 8",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "N/A",
+        "Title": "Table of Contents",
+        "Content": "Title page................................................................................................................................... 1Abbreviations............................................................................................................................ 31.Introduction....................................................................................................................... 32.Study Objectives................................................................................................................ 43.Study Design ...................................................................................................................... 44.General Statistical Considerations .................................................................................. 54.1General Principles............................................................................................................ 54.2Handling of Dropouts ...................................................................................................... 54.3Handling of Missing Data................................................................................................ 54.4Interim Analyses and Data Monitoring ........................................................................... 64.5Data Rules........................................................................................................................ 64.6Blind Review ................................................................................................................... 65.Analysis Sets ...................................................................................................................... 65.1Assignment of analysis sets ............................................................................................. 66.Statistical Methodology .................................................................................................... 66.1Population characteristics ................................................................................................ 76.2Efficacy............................................................................................................................ 86.3Pharmacokinetics/pharmacodynamics........................................................................... 106.4Safety ............................................................................................................................. 107.Document history and changes in the planned statistical analysis............................. 118.References ........................................................................................................................ 11Statistical Analysis PlanProtocol No.: BAY 63-2521 / 12935Page: 3 of 11Reference Number: RD-OI-0119Supplement Version: 8",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "N/A",
+        "Title": "Abbreviations",
+        "Content": "",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "1.",
+        "Title": "Introduction",
+        "Content": "",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "2.",
+        "Title": "Study Objectives",
+        "Content": "",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "3.",
+        "Title": "Study Design",
+        "Content": "",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "4.",
+        "Title": "General Statistical Considerations",
+        "Content": "",
+        "Sub-sections": [
+            {
+                "Header Number": "4.1",
+                "Title": "General Principles",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "4.2",
+                "Title": "Handling of Dropouts",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "4.3",
+                "Title": "Handling of Missing Data",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "4.4",
+                "Title": "Interim Analyses and Data Monitoring",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "4.5",
+                "Title": "Data Rules",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "4.6",
+                "Title": "Blind Review",
+                "Content": "",
+                "Sub-sections": []
+            }
+        ]
+    },
+    {
+        "Header Number": "5.",
+        "Title": "Analysis Sets",
+        "Content": "",
+        "Sub-sections": [
+            {
+                "Header Number": "5.1",
+                "Title": "Assignment of analysis sets",
+                "Content": "",
+                "Sub-sections": []
+            }
+        ]
+    },
+    {
+        "Header Number": "6.",
+        "Title": "Statistical Methodology",
+        "Content": "",
+        "Sub-sections": [
+            {
+                "Header Number": "6.1",
+                "Title": "Population characteristics",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "6.2",
+                "Title": "Efficacy",
+                "Content": "Statistical Analysis Plan\nProtocol No.: BAY 63-2521 / 12935\nPage: 9 of 11\nReference Number: RD-OI-0119\nSupplement Version: 8\nThe occurrence of the event of clinical worsening during the long-term extension will be \nsummarized using categorical methods, but as an additional summary, the time to event will \nalso be described. In determining whether an event is considered to be an event of clinical \nworsening the same rules as in study 12934 will be applied.  \nChange in the Borg CR 10 Scale\u00ae will be summarized using frequency counts.  \nThe exploratory efficacy variables described in the Supplementary SAP of study 12934 will \nbe summarized descriptively. This includes the subscales of the EQ5D and LPH and the \nadditional haemodynamic variables. Also the sensitivity analysis of clinical worsening and the \ncategorical analyses described in the Supplementary SAP of study 12934 will be performed.\nThe primary and secondary efficacy variables, except PVR,  will be summarized descriptively \nfor the following subgroups:\n\uf02d\ntherapy-na\u00efve\n\uf02d\npre-treated\n\uf02d\npre-treated with Endothelin Receptor Antagonist\n\uf02d\npre-treated with Prostacyclin Analogue\n\uf02d\nregion\n\uf02d\nidiopathic/familial PAH\n\uf02d\nconnective tissue disease\n\uf02d\nassociated (other forms) PAH\n\uf02d\nWHO FC I/II at baseline\n\uf02d\nWHO FC III/IV at baseline\n\uf02d\ntherapy-na\u00efve and WHO FC I/II at baseline\n\uf02d\ntherapy-na\u00efve and WHO FC III/IV at baseline\n\uf02d\npre-treated and WHO FC I/II at baseline\n\uf02d\npre-treated and WHO FC III/IV at baseline\n\uf02d\n< 320m 6MWD at baseline\n\uf02d\n\u2265320m 6MWD at baseline\n\uf02d\n< 380m 6MWD at baseline\n\uf02d\n\u2265 380m 6MWD at baseline\n\uf02d\nmales\n\uf02d\nfemales\n\uf02d\nage < 65 years\n",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "6.3",
+                "Title": "Pharmacokinetics/pharmacodynamics",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "6.4",
+                "Title": "Safety",
+                "Content": "",
+                "Sub-sections": []
+            }
+        ]
+    },
+    {
+        "Header Number": "7.",
+        "Title": "Document history and changes in the planned statistical analysis",
+        "Content": "",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "8.",
+        "Title": "References",
+        "Content": "",
+        "Sub-sections": []
+    }
+]

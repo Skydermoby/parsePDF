@@ -1,0 +1,208 @@
+[
+    {
+        "Header Number": "1",
+        "Title": "OBJECTIVES",
+        "Content": "",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "2",
+        "Title": "PATIENTS",
+        "Content": "",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "3",
+        "Title": "STUDY SIZE",
+        "Content": "",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "4",
+        "Title": "PLANNED INVESTIGATION PERIOD",
+        "Content": "",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "5",
+        "Title": "STUDY PROCEDURES",
+        "Content": "",
+        "Sub-sections": [
+            {
+                "Header Number": "5.1",
+                "Title": "Study method",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "5.2",
+                "Title": "Data collection method",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "5.3",
+                "Title": "Patient registration",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "5.4",
+                "Title": "Observation period",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "5.5",
+                "Title": "Reminders concerning completing, revising, and reviewing of case report forms",
+                "Content": "",
+                "Sub-sections": []
+            }
+        ]
+    },
+    {
+        "Header Number": "6",
+        "Title": "INVESTIGATION ITEMS AND SCHEDULE",
+        "Content": "",
+        "Sub-sections": [
+            {
+                "Header Number": "6.1",
+                "Title": "Background",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "6.2",
+                "Title": "Targeted drug use record",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "6.3",
+                "Title": "Concomitant therapy",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "6.3.1",
+                        "Title": "Drug therapy",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "6.3.2",
+                        "Title": "Non-drug therapy",
+                        "Content": "",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "6.4",
+                "Title": "Tests / Clinical laboratory tests",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "6.5",
+                "Title": "Effectiveness evaluation",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "6.5.1",
+                        "Title": "Clinical evaluation of tumor",
+                        "Content": "",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "6.6",
+                "Title": "Patient background (at the completion)",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "6.7",
+                "Title": "Patient summary (reason for discontinuation)",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "6.8",
+                "Title": "Adverse event",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "6.8.1",
+                        "Title": "Detailed information on adverse events related to interstitial lung disease",
+                        "Content": "",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "6.9",
+                "Title": "Major investigation items",
+                "Content": "",
+                "Sub-sections": []
+            }
+        ]
+    },
+    {
+        "Header Number": "7",
+        "Title": "STATISTICAL ANALYSIS PLAN",
+        "Content": "",
+        "Sub-sections": [
+            {
+                "Header Number": "7.1",
+                "Title": "Analysis Set",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "7.2",
+                "Title": "Method of Analysis",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "7.2.1",
+                        "Title": "Analysis for safety evaluation",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "7.2.2",
+                        "Title": "Analysis for effectiveness evaluation",
+                        "Content": "",
+                        "Sub-sections": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Header Number": "8",
+        "Title": "DISSEMINATION OF THE RESULTS",
+        "Content": "",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "9",
+        "Title": "CONTACT INFORMATION",
+        "Content": "",
+        "Sub-sections": [
+            {
+                "Header Number": "9.1",
+                "Title": "Contact for inquiry concerning this study",
+                "Content": "",
+                "Sub-sections": []
+            }
+        ]
+    },
+    {
+        "Header Number": "10",
+        "Title": "REFERENCES",
+        "Content": "",
+        "Sub-sections": []
+    }
+]

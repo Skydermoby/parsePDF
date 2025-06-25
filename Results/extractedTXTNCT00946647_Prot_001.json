@@ -1,0 +1,999 @@
+[
+    {
+        "Header Number": "N/A",
+        "Title": "A phase Ib/IIb, open-label, multi-center study of oral Panobinostat (LBH589) administered with 5-Azacitidine (Vidaza\u00ae) in adult patients with myelodysplastic syndromes (MDS), chronic myelomonocytic leukemia (CMML) or acute myeloid leukemia (AML)",
+        "Content": "AuthorsDocument typeAmended Protocol VersionEUDRACT number2009-010548-32Version number05Development phasePhase Ib/IIbDocument statusFinalRelease date18-Nov-2016Property of NovartisConfidentialMay not be used, divulged, published, or otherwise disclosedwithout the consent of NovartisNovartisConfidentialPage 2Amended Protocol Version 05 CleanStudy No. CLBH589H2101",
+        "Sub-sections": [
+            {
+                "Header Number": "N/A",
+                "Title": "Table of contents",
+                "Content": " .................................................................................................................2List of figures ......................................................................................................................6List of tables ........................................................................................................................6Amendment 5 (18-Nov-2016)...........................................................................................12Amendment 4 ....................................................................................................................16Amendment 3 ....................................................................................................................17Amendment 2 (released on 24 October 2011)...................................................................20Amendment 1 (released on 21 April 2010) .......................................................................26Oncology clinical study protocol synopsis........................................................................271Background........................................................................................................................371.1Overview of myelodysplastic syndromes (MDS)..................................................371.1.1Classification of MDS...........................................................................371.1.2Treatment options in intermediate-2 (INT-2) and high risk MDS........381.1.3Overview of safety profile obtained with 5-Aza...................................391.2Overview of panobinostat (LBH589) ....................................................................411.3Combination of DNA methyltransferase inhibitors with deacetylase inhibitors...421.3.1Clinical experience combining 5-Aza and DAC inhibitors ..................431.3.2Update of clinical experience with combining panobinostat with Vidaza from the phase Ib part of this study ..........................................441.4History of Amendments.........................................................................................452Rationale for the investigation of the combination treatment of 5-Aza and panobinostat.......................................................................................................................462.1Preclinical and clinical rationale supporting the combination of 5-Aza and panobinostat...........................................................................................................462.25-Aza dose and schedule .......................................................................................482.3Panobinostat starting dose and schedule................................................................482.3.1Drug-drug interaction between panobinostat and 5-Aza ......................502.4Target population...................................................................................................513Objectives..........................................................................................................................513.1Phase Ib part ..........................................................................................................513.1.1Primary objective ..................................................................................513.1.2Secondary objectives.............................................................................51523.2Phase IIb part .........................................................................................................523.2.1Primary objective ..................................................................................523.2.2Secondary objectives.............................................................................52Novartis\nConfidential\nPage 3\nAmended Protocol Version 05 Clean\nStudy No. CLBH589H2101\n53\n4\nStudy design ......................................................................................................................53\n5\nPopulation..........................................................................................................................54\n5.1\nInclusion criteria ....................................................................................................55\n5.2\nExclusion criteria...................................................................................................55\n6\nTreatment...........................................................................................................................56\n6.1\nInvestigational and combination drugs..................................................................56\n6.1.1\nHow supplied ........................................................................................57\n6.1.2\nPreparation and storage.........................................................................58\n6.2\nTreatment Arms.....................................................................................................58\n6.2.1\nPhase Ib part..........................................................................................58\n6.2.2\nPhase IIb part.........................................................................................58\n6.3\nPatient numbering..................................................................................................59\n6.4\nTreatment assignment............................................................................................60\n6.4.1\nIRT procedures......................................................................................60\n6.5\nTreatment blinding.................................................................................................60\n6.6\nTreating the patient................................................................................................60\n6.6.1\nStudy treatment administration .............................................................60\n6.6.2\nOther concomitant medications.............................................................69\n6.6.3\nStudy treatment discontinuation............................................................70\n6.6.4\nEnd of treatment....................................................................................70\n6.6.5\nWithdrawal of consent ..........................................................................71\n6.6.6\nFollow-up for safety evaluation ............................................................71\n6.6.7\nLost to follow-up...................................................................................71\n6.6.8\nEnd of study (study evaluation completion) .........................................72\n6.6.9\nEmergency unblinding of treatment assignment...................................72\n7\nVisit schedule and assessments .........................................................................................73\n7.1\nDisease classification/qualification at baseline .....................................................82\n7.2\nInformation to be collected on screening failures..................................................82\n7.3\nPatient demographics/other baseline characteristics .............................................82\n7.4\nTreatments .............................................................................................................82\n7.5\nEfficacy..................................................................................................................82\n7.5.1\nEfficacy assessments.............................................................................82\n7.6\nSafety.....................................................................................................................83\n7.6.1\nPerformance status ................................................................................83\n7.6.2\nCardiac assessments..............................................................................83\n7.6.3\nLaboratory evaluations..........................................................................84\nNovartis\nConfidential\nPage 4\nAmended Protocol Version 05 Clean\nStudy No. CLBH589H2101\n7.7\nTolerability ............................................................................................................86\n7.8\nResource utilization ...............................................................................................86\n7.9\nPatient-reported outcomes .....................................................................................86\n7.10\nPharmacokinetic assessment..................................................................................87\n87\n89\n8\nSafety monitoring and reporting........................................................................................90\n8.1\nAdverse events.......................................................................................................90\n8.1.1\nDefinitions and reporting ......................................................................90\n8.1.2\nLaboratory test abnormalities................................................................91\n8.1.3\nAdverse events of special interest.........................................................91\n8.2\nSerious adverse events...........................................................................................92\n8.2.1\nDefinitions.............................................................................................92\n8.2.2\nReporting...............................................................................................92\n8.3\nEmergency unblinding of treatment assignment ...................................................93\n8.4\nPregnancies............................................................................................................93\n8.5\nWarning and precautions.......................................................................................94\n8.6\nData monitoring committee...................................................................................94\n8.7\nSteering committee................................................................................................94\n9\nData collection and management.......................................................................................94\n9.1\nData confidentiality ...............................................................................................94\n9.2\nSite monitoring ......................................................................................................95\n9.3\nData collection.......................................................................................................95\n9.3.1\nElectrocardiogram.................................................................................95\n95\n9.4\nDatabase management and quality control............................................................96\n10 Statistical methods and data analysis ................................................................................96\n10.1\nPhase Ib part ..........................................................................................................97\n10.1.1\nPopulations for analysis ........................................................................97\n10.1.2\nPatient demographics/other baseline characteristics.............................97\n10.1.3\nTreatments (study drug, concomitant therapies, compliance) ..............97\n10.1.4\nPrimary objective ..................................................................................97\n10.1.5\nSecondary objectives.............................................................................99\n10.1.6\nPopulation and grouping for the analyses .............................................99\n10.1.7\nResource utilization.............................................................................101\n10.1.8\nPatient-reported outcomes...................................................................101\n10.1.9\nPharmacokinetics ................................................................................101\nNovartis\nConfidential\nPage 5\nAmended Protocol Version 05 Clean\nStudy No. CLBH589H2101\n101\n101\n10.1.12\nInterim analysis ...................................................................................101\n10.1.13\nSample size calculation.......................................................................101\n10.1.14\nPower for analysis of critical secondary variables..............................102\n10.2\nPhase IIb part .......................................................................................................102\n10.2.1\nPopulation for analysis........................................................................102\n10.2.2\nPopulation and grouping for the analyses ...........................................102\n10.2.3\nPatient demographics/other baseline characteristics...........................102\n10.2.4\nTreatments (study drug, concomitant therapies, compliance) ............102\n10.2.5\nPrimary objective ................................................................................102\n10.2.6\nSecondary objectives...........................................................................102\n102\n10.2.8\nEfficacy variables and analysis ...........................................................103\n10.2.9\nSafety variables and analysis ..............................................................103\n10.2.10\nSample size calculation.......................................................................104\n10.2.11\nInterim analysis ...................................................................................104\n10.2.12\nPower for analysis of critical secondary variables..............................105\n10.2.13\nHandling of missing values/censoring/discontinuations.....................105\n11 Ethical considerations and administrative procedures ....................................................105\n11.1\nRegulatory and ethical compliance......................................................................105\n11.2\nResponsibilities of the investigator and IRB/IEC/REB.......................................105\n11.3\nInformed consent procedures...............................................................................105\n11.4\nDiscontinuation of the study................................................................................106\n11.5\nPublication of study protocol and results.............................................................106\n11.6\nStudy documentation, record keeping and retention of documents.....................106\n11.7\nConfidentiality of study documents and patient records .....................................107\n11.8\nAudits and inspections.........................................................................................107\n11.9\nFinancial disclosures............................................................................................107\n12 Protocol adherence ..........................................................................................................108\n12.1\nAmendments to the protocol................................................................................108\n13 References (available upon request)................................................................................109\nNovartisConfidentialPage 6Amended Protocol Version 05 CleanStudy No. CLBH589H2101",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "N/A",
+                "Title": "List of figures",
+                "Content": "Figure 2-1Dose-dependent induction of apoptosis by in vitro combination of 5-Aza and LBH589 ...............................................................................46Figure 2-2Expression of cell cycle and apoptotic markers in U937 cell line due to exposure to LBH589 and 5-Aza.................................................47Figure 6-1Treatment schedule (Phase Ib part).......................................................58Figure 6-2Treatment schedule (Phase IIb part) .....................................................59Figure 6-3Cycle 1 DLT decision algorithm for patients not experiencing grade 3 or 4 non-hematological toxicities.............................................64",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "N/A",
+                "Title": "List of tables",
+                "Content": "Table 1-1International Prognostic Scoring System and prognosis.......................38Table 1-2Hematological response and hematological improvement based on IWG criteria for MDS ...........................................................................39Table 1-3Summary of major toxic effects of 5-Aza.............................................40Table 1-4Study CLBH589B2102 dose escalation summary - Arm 1 (three-times-a-week every week).....................................................................41Table 1-5Study CLBH589B2102 dose escalation summary - Arm 2 (three-times-a-week every other week) ...........................................................42Table 1-6Clinical trials of combination regimens with DNMTi and DACi.........44Table 6-1Treatment doses and regimens (Phase Ib part) .....................................58Table 6-2Treatment doses and regimens (Phase IIb part) ....................................59Table 6-3Dose escalation levels ...........................................................................61Table 6-4Phase IIb only: Panobinostat and Vidaza dose discontinuations/ interruptions/reductions for Grade 4 neutropenia and Grade 4 thrombocytopenia (NCI CTCAEv3.0)..................................................67Table 6-5Phase Ib and Phase IIb: Panobinostat and Vidaza dose discontinuations/interruptions/reductions for febrile neutropenia (NCI CTCAEv3.0)................................................................................68Table 6-6Phase Ib only: Panobinostat dose interruptions/reductions for treatment-emergent/new non-hematological toxicities attributable to study treatment (except for prolonged QT interval) .........................68Table 6-7Phase IIb only: Panobinostat dose interruptions/reductions for treatment emergent/new non-hematological toxicities attributable to study treatment (except for prolonged QT interval) .........................68Table 7-1Visit evaluation schedule for Phase Ib and Phase IIb part....................74Table 7-2Visit evaluation schedule after CSR data cut off date (for the phase Ib and IIb part) ......................................................................................78Table 7-3Visit evaluation schedule as of protocol amendment 5 (for the phase Ib and IIb part) ............................................................................80Novartis\nConfidential\nPage 7\nAmended Protocol Version 05 Clean\nStudy No. CLBH589H2101\nTable 7-4\nECOG Performance Status....................................................................83\nTable 7-5\nCardiac assessment monitoring schedule..............................................84\nTable 7-6\nPK blood sampling................................................................................87\n87\nTable 10-1\nMinimum exposure criteria (Cycle 1)...................................................97\nTable 10-2\nProbability of detecting at least one adverse event in cohort as a \nfunction of the cohort size...................................................................100\nTable 10-3\nProbability of observing clinically relevant improvement based on \nan assessment of composite CR (CR or CRi or bone marrow CR) ....104\nNovartis\nConfidential\nPage 8\nAmended Protocol Version 05 Clean\nStudy No. CLBH589H2101\nList of abbreviations\n5-Aza\n5-azacytidine, Vidaza\u00ae\nADME\nAbsorption, distribution, metabolism, and elimination\nAE\nAdverse event\nAkt\nV-akt murine thymoma viral oncogene homolog\nALL\nAcute lymphocytic leukemia\nALT\nAlanine aminotransferase/glutamic pyruvic transaminase/SGPT\nAML\nAcute myelogenous leukemia\nANC\nAbsolute neutrophil count\nAPD\nAction potential duration\nAPL\nAcute promyelocytic leukemia\nAST\nAspartate aminotransferase/glutamic oxaloacetic transaminase/SGOT\nATC\nAcute toxic class\nATD\nAccelerated titration design\nATRA\nAll trans-retinoic acid\nAUC\nArea under the curve\nb.i.d.\nBis in diem/twice a day\nBAPK\nBioanalytics and Pharmacokinetics\nBM\nBone marrow\nBrdU\n5-bromo-2-deoxyuridine\nBSA\nBody surface area\nBUN\nBlood urea nitrogen\nCBC\nComplete blood count\nCEA\nCarcino-embryonic antigen\nCFR\nCode of Federal Regulations\nCHF\nCongestive heart failure\nCK-MB\nMB isoenzyme of creatine phosphokinase\nCmax\nMaximum (peak) concentration of drug\nCMML\nChronic myelomonocytic leukemia\nCNS\nCentral nervous system\nCR\nComplete response\nCRO\nContract research organization\nCRu\nUnconfirmed complete response\nCSF\nCerebrospinal fluid\nCT\nComputed tomography\nCTC\nNCI common toxicity criteria (version 2.0)\nCTCAE\nNCI common terminology criteria for adverse events (version 3.0)\nCTCL\nCutaneous T-cell lymphoma\nCV\nCoefficient of variation\nCYP450\nCytochrome P450\nDLT\nDose-limiting toxicity\nDNA\nDeoxyribonucleic acid\nNovartis\nConfidential\nPage 9\nAmended Protocol Version 05 Clean\nStudy No. CLBH589H2101\nDNMT\nDNA methyl transferase\nDSM\nDrug supply management\nDTIC\nDacarbazine\nECG\nElectrocardiogram\nCRF\nElectronic case record form\nECHO\nEchocardiogram\nEDC\nElectronic data capture\nEDM\nElectronic data management\nEDTA\nEdetic acid (ethylenediaminetetraacetic acid)\nEOS\nEnd of study\nFACS\nFluorescent-activated cell sorter\nFDA\nFood and Drug Administration\nFPFV\nFirst patient first visit\nFPG\nFasting plasma glucose\nG-CSF\nGranulocyte colony-stimulating factor\nGI\nGastrointestinal\nGLP\nGood laboratory practice\nGM-CSF\nGranulocyte-macrophage colony-stimulating factor\nH3, H4\nHistones H3, H4\nHAT\nHistone acetyltransferase\nHbA\nAdult hemoglobin\nHbF\nFetal hemoglobin\nHDAC\nHistone deacetylase\nHDACi\nHistone deacetylase inhibitor\nhERG\nHuman ether-a-go-go related gene\nHgb\nHemoglobin\nHI\nHematologic Improvement\nHIV\nHuman immunodeficiency virus\nHPF\nHigh-power field\nHPLC\nHigh pressure (performance) liquid chromatography\nHSP90\nHeat shock protein 90\nIEC\nIndependent ethics committee\nIEP\nImmunoelectrophoresis\nIMS\nIntegrated Medical Safety\nINR\nInternational normalized ratio\nIRB\nInstitutional review board\nITT\nIntent to treat\nIRT\nInteractive Response Technology\nIV\nIntravenous(ly)\nLC-MS/MS\nLiquid chromatography-mass spectrometry/mass spectrometry\nLDH\nLactic dehydrogenase\nLLN\nLower limit of normal\nLLOQ\nLower limit of quantification\nLMWH\nLow molecular weight heparin\nNovartis\nConfidential\nPage 10\nAmended Protocol Version 05 Clean\nStudy No. CLBH589H2101\nLOH\nLoss of heterozygosity\nLPLV\nLast patient last visit\nLVEF\nLeft ventricular ejection fraction\nMCH\nMean corpuscular hemoglobin\nMCHC\nMean corpuscular hemoglobin concentration\nMCRM\nModified continual reassessment method\nMCV\nMean corpuscular volume\nMDS\nMyelodysplastic syndromes\nMDS-U\nMyelodysplastic syndrome, unclassified\nMedDRA\nMedical Dictionary for Regulatory Activities\nmg/m2\nMilligrams per square meter\nMI\nMyocardial infarction\nMTD\nMaximum tolerated dose\nMUGA\nMultiple uptake gated acquisition scan\nMWF\nMonday, Wednesday, Friday\nNCI\nNational cancer institute\nNIH\nNational Institutes of Health\nNPGN\nNovartis pharmacogenetic network\nN/V\nNausea/vomiting\nOBD\nOptimum biologic dose\np.o.\nPer os/by mouth/orally\nPBMC\nPeripheral blood mononuclear cells\nPD\nPharmacodynamic\nPD\nProgressive disease\nPE\nPhysical examination\nPG\nPharmacogenetic\nP-gp\nP-glycoprotein\nPK\nPharmacokinetic\nPLT\nPlatelet\nPR\nPartial response\nPS\nPerformance status\nPT\nProthrombin time\nPTT\nPartial thromboplastin time\nq.d.\nOnce a day\nQ-RT-PCR\nQuantitative reverse transcription polymerase chain reaction\nQT\nQT interval - portion of an electrocardiogram between the onset of the Q wave and the \nend of the T wave\nQTc\nECG QT interval - corrected\nQTcF\nQR corrected with Fridericia\u2019s formula\nRA\nRetinoic acid\nRA\nRefractory anemia\nRAEB\nRefractory anemia with excess blasts\nRAEB-T\nRefractory anemia with excess blasts in transformation\nRARS\nRefractory anemia with ringed sideroblasts\nNovartis\nConfidential\nPage 11\nAmended Protocol Version 05 Clean\nStudy No. CLBH589H2101\nRBC\nRed blood cell\nRAMD\nRefractory anemia with multilineage dysplasia\nRAMD-RS\nRefractory anemia with multilineage dysplasia and ring sideroblasts\nREB\nResearch ethics board\nRight BBB\nRight bundle branch block\nRNA\nRibonucleic acid\nRR\nResponse rate\nRT-PCR\nReverse transcription polymerase chain reaction\nSAE\nSerious adverse event\nSAHA\nSuberoylanilide hydroxamic acid\nSD\nStable disease\nSmPC\nSummary of Product Characteristics\nSOP\nStandard operating procedure\nSPEP\nSerum protein electrophoresis\nSTS\nSample tracking system\nSUV\nStandardized uptake value\nT/C\nTumor/control\nT3\nTriiodothyronine\nFT4\nFree Thyroxin\nTDL\nToxic dose low\nTIW\nThree times a week\nTmax\nTime to peak concentration\nTNF\nTumor necrosis factor\nTSH\nThyroid stimulating hormone\nULN\nUpper limit of normal\nUNK\nUnknown\nUPEP\nUrine protein electrophoresis\nVEGF\nVascular endothelial growth factor\nVidaza\u00ae\n5-azacytidine, 5-Aza\nVS\nVital signs\nWBC\nWhite blood cell\nWOCBP\nWomen of childbearing potential\nWHO\nWorld health organization\nWNL\nWithin normal limits\nNovartisConfidentialPage 12Amended Protocol Version 05 CleanStudy No. CLBH589H2101",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "N/A",
+                "Title": "Amendment 5 (18-Nov-2016)",
+                "Content": "Amendment rationaleThe CLBH589H2101 study started in December 2009 as a phase Ib dose escalation study of oral panobinostat in combination with 5-Azacitidine (5-Aza). The study was amended to a phase Ib/IIb with a randomized, two-arm, open-label design, adding an active control arm with single agent 5-Aza, with the first patient randomized on 19-March-2012. An interim Clinical Study Report (CSR) was planned, using a cut-off date corresponding to the time when the last patient enrolled in the phase IIb part had completed 12 months of treatment. The corresponding cut-off date was reached on 30-Apr-2014, an interim database lock took place on 30-Oct-2014, and an interim CSR was released on 7-May-2015. At the time of the cut-off date (30-Apr-2014), 17 patients were still on treatment, 4 in the phase Ib and 13 in the phase IIb. As of 01-May-2014, the schedule assessment was changed (as pre-specified in the protocol), leaving the efficacy-related assessments involving aspirate and biopsy samples at the discretion of the investigators.The results described in the interim CSR suggested an unfavorable benefit/risk profile of the dose and schedule of panobinostat in combination with 5-Aza in this patient population.However, some patients appear to derive benefit from their treatment, based on investigators assessment, and seven of them are still on treatment. The rationale of this amendment 5 is to ensure treatment access for these patients with a limited data collection. Therefore, for the patients ongoing treatment the study will focus on collecting continuously Adverse Events, Serious Adverse Events, Concomitant Medications, and Dose Administration Records information. In addition, information (date and reason) related to End of Treatment and Study Evaluation Completion, date of disease progression as well as Survival information must be provided. All other assessments will be performed at the discretion of the investigators. To align with the most up-to-date protocol template, the sections 6, 8, 9, 11, and 12 of the protocol have been updated. The Inform Consent was also updated according to the updated template. Furthermore, and in order to align with program level standard language, the pregnancy prevention information will be implemented at the same time as this protocol amendment 5, by means of update of the Informed Consent.As of this amendment 5 there are 7 patients on treatment, one in the phase Ib and 6 in the phase IIb part of the study. The detailed changes to the protocol are listed below.Changes to the protocolThe changes that are made to the protocol are listed below and integrated directly in the protocol with track changes using strike-through red font for deletions, red underlined for insertions. \uf0b7Section 6.6.1: paragraph \u201cStudy drug supply and resupply, storage, and tracking/drug accountability\u201d has been moved to this section from Section 11.4\uf0b7Section 6.6.1.8: reference to Table 7-5 has been updated Novartis\nConfidential\nPage 13\nAmended Protocol Version 05 Clean\nStudy No. CLBH589H2101\n\uf0b7\nSection 6.6.3: text has been aligned with the visit evaluation schedule described in Table \n7-3\n\uf0b7\nSection 6.6.5: new section added as per DOCE (Discontinuation of Clinical Trial Protocol \nElements) guidelines\n\uf0b7\nSection 6.6.6: section number has been updated and text has been aligned to DOCE \nguidelines\n\uf0b7\nSection 6.6.7: new section added as per DOCE guidelines\n\uf0b7\nSection 6.6.8: section number has been updated and text has been aligned with the visit \nevaluation schedule described in Table 7-3\n\uf0b7\nSection 6.6.9: section number has been updated\n\uf0b7\nTable 7-1: references to Table 7-5 and to Table 7-6 have been updated\n\uf0b7\nTable 7-2: reference to Table 7-5 has been updated\n\uf0b7\nTable 7-3: new table added to describe the visit evaluation schedule for patients ongoing \ntreatment at the time of protocol amendment 5\n\uf0b7\nSection 7.5.1: text has been aligned with the visit evaluation schedule described in Table \n7-3\n\uf0b7\nSection 7.6: former Section 7.6.1 (Adverse Events) has been moved to Section 8.1\n\uf0b7\nSection 7.6.1: section number has been updated\n\uf0b7\nTable 7-4: table number has been updated\n\uf0b7\nSection 7.6.2: table number has been updated and reference to Table 7-5 has been updated \n\uf0b7\nTable 7-5: table number has been updated and one footnote has been added to align the \ntable with the visit evaluation schedule described in Table 7-3\n\uf0b7\nSection 7.6.3: section number has been updated and references to Table 7-2 and to table 7-\n3 have been added\n\uf0b7\nSection 7.6.3.1: section number has been updated and text has been aligned with the visit \nevaluation schedule described in Table 7-3\n\uf0b7\nSection 7.6.3.2: section number has been updated and text has been aligned with the visit \nevaluation schedule described in Table 7-3\n\uf0b7\nSection 7.6.3.3: section number has been updated and text has been aligned with the visit \nevaluation schedule described in Table 7-3\n\uf0b7\nSection 7.6.3.4: section number has been updated and text has been aligned with the visit \nevaluation schedule described in Table 7-3\n\uf0b7\nSection 7.6.3.5: section number has been updated and text has been aligned with the visit \nevaluation schedule described in Table 7-3\n\uf0b7\nSection 7.6.3.6: section number has been updated and text has been aligned with the \ncurrent pregnancy program standard language and updated based on the status of ongoing \npatients \n\uf0b7\nSection 7.10: reference to Table 7-6 has been updated \n\uf0b7\nTable 7-6: table number has been updated\nNovartis\nConfidential\nPage 14\nAmended Protocol Version 05 Clean\nStudy No. CLBH589H2101\n\uf0b7\nSection 7.11: reference to Table 7-7 has been updated and text has been aligned with the \nvisit evaluation schedule described in Table 7-3\n\uf0b7\nTable 7-7: table number has been updated \n\uf0b7\nSection 7.11.1: text has been aligned with the visit evaluation schedule described in Table \n7-3\n\uf0b7\nSection 8: header has been aligned with the latest Clinical Trial Protocol Template \n\uf0b7\nSection 8.1: Adverse Events section has been moved here from Section 7.6 and has been \nupdated to be aligned with the current Clinical Trial Protocol template\n\uf0b7\nSection 8.2: Serious Adverse Events section has been updated to be aligned with the \ncurrent Clinical Trial Protocol template\n\uf0b7\nSection 8.3: section has been added to be aligned with the current Clinical Trial Protocol \ntemplate\n\uf0b7\nSection 8.4: section number has been updated and text has been aligned with the current \nClinical Trial Protocol template\n\uf0b7\nSection 8.5: section has been added to be aligned with the current Clinical Trial Protocol \ntemplate\n\uf0b7\nSection 8.6: section number has been updated\n\uf0b7\nSection 8.7: section number has been updated and header has been aligned with the latest \nClinical Trial Protocol Template\n\uf0b7\nSection 9: header has been aligned with the latest Clinical Trial Protocol Template \n\uf0b7\nSection 9.1: section has been added to be aligned with the current Clinical Trial Protocol \ntemplate\n\uf0b7\nSection 9.2: section number has been updated and text has been aligned with the current \nClinical Trial Protocol template\n\uf0b7\nSection 9.3: section number has been updated and text has been aligned with the current \nClinical Trial Protocol template\n\uf0b7\nSection 9.3.1: section number has been updated\n\uf0b7\nSection 9.3.2: section number has been updated\n\uf0b7\nSection 9.4: section number has been updated and text has been aligned with the current \nClinical Trial Protocol template\n\uf0b7\nSection 11: header has been aligned with the latest Clinical Trial Protocol Template \n\uf0b7\nSection 11.1: text has been aligned with the current Clinical Trial Protocol template\n\uf0b7\nSection 11.2: text has been aligned with the current Clinical Trial Protocol template\n\uf0b7\nSection 11.3: text has been aligned with the current Clinical Trial Protocol template. The \nparagraph \u201cAmendments to the protocol\u201d has been moved to section 12.1\n\uf0b7\nSection 11.4: text has been aligned with the current Clinical Trial Protocol template. The \nparagraph \u201cStudy drug supply and resupply, storage, and tracking/drug accountability\u201d has \nbeen moved to section 6.6.1\n\uf0b7\nSection 11.5: section added to be aligned with the current Clinical Trial Protocol template\nNovartis\nConfidential\nPage 15\nAmended Protocol Version 05 Clean\nStudy No. CLBH589H2101\n\uf0b7\nSection 11.6: section added to be aligned with the current Clinical Trial Protocol template\n\uf0b7\nSection 11.7: section added to be aligned with the current Clinical Trial Protocol template\n\uf0b7\nSection 11.8: section added to be aligned with the current Clinical Trial Protocol template\n\uf0b7\nSection 11.9: section added to be aligned with the current Clinical Trial Protocol template\n\uf0b7\nSection 12.1: paragraph \u201cAmendments to the protocol\u201d  has been moved here from \nSection 11.3\n\uf0b7\nThe synopsis has been updated according to the changes described above\nIRBs/IECs\nA copy of this amended protocol will be sent to the Institutional Review Board \n(IRBs)/Independent Ethics Committee (IECs) and Health Authorities.\nThe changes described in this amended protocol require IRB/IEC approval prior to \nimplementation. \nThe changes herein affect the Informed Consent. Sites are required to update and submit for \napproval a revised Informed Consent that takes into account the changes described in this \nprotocol amendment.\nNovartisConfidentialPage 16Amended Protocol Version 05 CleanStudy No. CLBH589H2101",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "N/A",
+                "Title": "Amendment 4",
+                "Content": "Amendment rationaleThis amendment is a country-specific, non-substantial amendment for the Republic of Korea to clarify in the Header of Table 6-4 and Table 6-5 that the therein provided dose adjustment recommendations are for panobinostat and Vidaza. The Korean Health Authority has given full approval for amendment 3, however requesting to make the above mentioned changes prior to start enrollment in Korea.The CLBH589H2101 study started in December 2009 as a phase Ib dose escalation study of oral panobinostat in combination with 5-Aza and was amended to a phase Ib/IIb study with a randomized, two-arm, open-label design, adding an active control arm with single agent 5-Aza in October 2011. LPFV of the phase I portion was in June 2011. The first patient was randomized onto the phase II portion in March 2012. As of this amendment, 20 of the planned 80 patients have been enrolled globally. Changes to the protocolThe changes that are made to the protocol are listed below and integrated directly in the protocol with track changes using strike-through red font for deletions, red underlined for insertions. Section 6.6.1.8:\uf0b7Table 6-4; Header title changes made to provide clarification around dose adjustment recommendations for Panobinostat and Vidaza.\uf0b7Table 6-5; Header title changes made to provide clarification around dose adjustment recommendations for Panobinostat and Vidaza.NovartisConfidentialPage 17Amended Protocol Version 05 CleanStudy No. CLBH589H2101",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "N/A",
+                "Title": "Amendment 3",
+                "Content": "The CLBH589H2101 study started in December 2009 as a phase Ib dose escalation study of oral panobinostat in combination with 5-Aza. In October 2011, after the determination of the recommended phase II dose (RPIID) at 30 mg, the study was recently amended to a phase Ib/IIb study with a randomized, two-arm, open-label design, adding an active control arm with single agent 5-Aza. As of this amendment 5 patients are ongoing from the phase Ib part and the first patient was randomized into the phase IIb part on 19 March 2012. It is planned to enroll a total of 80 patients into the phase IIb part.Amendment rationaleThis amendment 3 is a global amendment to provide guidance on dose adjustments for panobinostat and/or 5-Aza in the event of hematological toxicity, in particular thrombocytopenia and neutropenia as well as in the event of non-hematological toxicity for patients enrolled in the phase IIb part. In the Phase I portion of this study dose modifications were guided by DLT definitions (Section 6.6.1.6).  In the Phase II portion, these toxicities are no longer captured as DLTs. A global amendment was necessary to ensure optimal risk management for patients with toxicities and keeping the dose adjustments consistent across sites, avoiding any ambiguity at the end of the study with overall patient drug exposure.For hematological toxicities, managing grade 3-4 cytopenias with optimal hematological support is necessary to maximize patient exposure to 5-aza and panobinostat.  Following optimal hematological support, dose modifications may become necessary to help patients tolerate study treatment.  For the non-hematological toxicities the approach was to manage these patients as per the 5-aza label and in keeping with current clinical practice.  This helps to maintain patient exposure to 5-aza which has been shown to improve outcomes.Rationale for other changes in the protocol and the Informed Consent Form for phase IIb part:Additional editorial corrections were needed in order to provide clarifications, to increase consistency within the protocol as well as with the Case Report Form (CRF), to harmonize with the Novartis Guidance on the Prevention of Pregnancies in Participants in Clinical Trialsand to rectify typographical errors throughout. \uf0b7To harmonize eligibility of patients with current LBH protocols, Inclusion criteria #6 which defines eligibility of euthyroid patients\u2019 will be clarified by removing any mention of supplementation to avoid previous ambiguity. \uf0b7To provide clarification around IRT procedures.\uf0b7To provide clarification on dose adjustments in Phase II. In particular, this clarification was necessary where a reference was given to the dose escalation levels as described in Novartis\nConfidential\nPage 18\nAmended Protocol Version 05 Clean\nStudy No. CLBH589H2101\nTable 6-3 (e.g. Dose adjustments due to prolonged QT interval) as this table is only \napplicable in the Phase Ib part. \n\uf0b7To provide clarification around bone marrow aspiration and/or core biopsy at screening. \nThis clarification specifies time windows and gives an option not to repeat bone marrow \naspiration and/or core biopsy at screening, however is limited to patients where the \noriginal bone marrow aspiration and/or core biopsy was performed within 14 days of \nstarting study drug, and the original marrow (or marrow report) has sufficient information \nto assess diagnosis or eligibility of the patient and perform assessment of response when \ncomparing to the next bone marrow assessment.  In addition, the time window for bone \nmarrow collection and peripheral blood collection throughout the study were clarified.\n\uf0b7To provide consistency with the CRF, in particular the visit numbering \n\uf0b7To provide consistency throughout the document that the reduced visit evaluation \nschedule described in Table 7-2 will have to be followed only for patients who have \ncompleted 12 cycles after the data cut-off date for the CSR has been reached.\n\uf0b7To provide clarification around cardiac monitoring for patients in the control arm by \nadding an introduction to Table 7-4 and removing a footnote.\n\uf0b7To provide consistency between the cardiac monitoring schedules described in Table 7-4 \nand footnote 13 of Table 7-1, the number of ECGs at screening will be corrected to be \n\u201csingle\u201d in the latter. \n\uf0b7To provide clarification on \u201cseriousness\u201d of Grade 4 events a note was added to section \n7.6.1  \n\uf0b7To provide clarification in Section 8.2 that pregnancy outcome must be collected also \nfemale patients that took study treatment.\n\uf0b7The protocol and the relevant sections of the Informed Consent Form (Phase IIb part) have \nbeen updated \n\uf0b7\nTo align with the Novartis Guidance on the Prevention of Pregnancies in Participants \nin Clinical Trials, in particular the definition of WOCBP, urinary pregnancy testing \nduring the duration of the study was added and the length of contraception clarified. \n \n\uf0b7\nStudy title was corrected on the IC Signature Page\n\uf0b7Informed Consent Form for Female Partners was updated to align the time window for \ncontraception with the 5-Aza label.\n\uf0b7\n[Post-text supplement 3] has been updated to rectify a corrupted sentence \n\uf0b7\nFor consistency with the International Prognostic Scoring System (Greenberg et al, 1997), \nthe score value for category \u2018poor\u2019 and \u2018intermediate\u2019 will be corrected in [Post-text \nsupplement 1 Table 2-3].\nChanges to the protocol\nThe major changes that are made to the protocol are listed below and incorporated directly in \nthe protocol with track changes using strike-through red font for deletions, red underlined for \ninsertions. Where appropriate, changes to the protocol body will be made to corresponding \nNovartis\nConfidential\nPage 19\nAmended Protocol Version 05 Clean\nStudy No. CLBH589H2101\nsections for consistency.  Additional minor changes (e.g., correction of typographical errors) \nand re-phrasing of existing sentences to be more precise in wording are only incorporated \ndirectly in the protocol with track changes. \nThe major changes to the protocol, and the \nsections affected, are detailed below.\nSection \nChanges made\nProtocol synopsis\nAll relevant sections of the protocol synopsis were \nupdated to be consistent with the changes in the \nprotocol body described hereafter.\n \nSection 5.1 Inclusion Criteria \nIC #6 was updated to clarify eligibility of patients and \nempty IC #4 was clarified\nSection 6.4.1\nIRT procedures were clarified\nSection 6.6.1.8 Dose modification, delay and \ndiscontinuation\nSpecific guidance was proposed for the Phase IIb \nportion in subsections Dose adjustment due to \nhematologic toxicity and Dose adjustment due to non-\nhematologic toxicity, including Table 6-4 and Table 6-7. \nSection 6.6.1.8 Sub-section on Dose adjustments due \nto QT prolongations \nReference to Table 6-3 Dose escalation level for dose \nreduction was replaced.\nTable 7-1 \nVisit numbers in the protocol were aligned with the \nCase Report Form (CRF) and urinary pregnancy tests  \nwere added on Day 1 of each subsequent cycle during \nstudy duration\nSection 7.1\nA new section was added to clarify the use of historical \nbone marrow collection for disease characterization \nTable 7-1 footnote 15  and Section 10\nUpdated to clarify start of reduced visit schedule \nTable 7-1 footnote 13\nTypo corrected for number of ECGs at screening\nTable 7-4\nEditorial changes made to provide clarification around \ncardiac monitoring for patients in control arm \nSection 7.5.1 Efficacy Assessment and Table 7-1 \nFootnote #14\nTime windows for bone marrow aspiration/biopsy and \nperipheral blood collection were clarified \nSection 7.6.1\nNote was added\nSection 7.6.4.6\nUrinary pregnancy testing at monthly intervals during \nstudy duration was added and aligned with the \ndefinition of WOCBP\nSection 8.2\nFemale patients added\nInformed Consent Form for Phase II and \nInformed Consent Form for Female Partners\nUrinary pregnancy tests were added to the tests to be \nperformed during the study treatment and the length of \ncontraception was clarified. \n \nPost-text 3 supplement (1st section, first sentence)\nCorrupted sentence was corrected\nPost-text 1 supplement \u2013 Table 2-3\nThe score value for category \u2018poor\u2019 and \u2018intermediate\u2019 \nhas been corrected\nNovartisConfidentialPage 20Amended Protocol Version 05 CleanStudy No. CLBH589H2101IRB/IEC/REB ApprovalA copy of this amended protocol will be sent to the Institutional Review Board (IRBs)/Independent Ethics Committee (IECs) and Health Authorities.The changes described in this amended protocol require IRB/IEC approval prior to implementation. In addition, if the changes herein affect the Informed Consent, sites are required to update and submit for approval a revised Informed Consent that takes into account the changes described in this amended protocol.Summary of previous amendments ",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "N/A",
+                "Title": "Amendment 2 (released on 24 October 2011)",
+                "Content": "The purpose of Amendment 2 is to:\uf0b7Collect preliminary efficacy data of panobinostat at the recommended phase II dose (RPIID) level in conjunction with azacytidine (5-Aza/Vidaza\u00ae) by introducing a randomized, two-arm, open-label expansion phase, which determines the phase IIb part of the study. \uf0b7Revise the eligibility criteria based on new safety information and current clinical practice.\uf0b7Update the ECG safety monitoring schedule according to the current LBH589 cardiac safety profile.\uf0b7Align the protocol with the current LBH589 guidance on the use of concomitant medications (as specified in the post-text supplement 3).As of this amendment, the phase Ib part of this study is completed and the recommended phase II dose (RPIID) was established at 30 mg of oral panobinostat once daily on day 3, 5, 8, 10, 12, and 15 in combination with azacytidine (5-Aza/Vidaza\u00ae). In total, 31 patients were enrolled in the phase lb part. Eighteen patients were treated at the dose level of 30 mg of panobinostat, 16 of which were evaluable for the MTD determining set. Dose escalation was not continued up to the MTD because of long term tolerability considerations.Rationale for the phase IIb part\uf0b7This amendment introduces a randomized phase IIb part with an active control arm so that the preliminary efficacy of panobinostat at the RPIID level in combination with 5-Aza versus 5-Aza alone can be rigorously studied. The most important advantage of proper randomization is that it minimizes allocation bias and the use of an active treatment comparator overcomes several limitations of a historical comparator, e.g., treatment arms can be balanced adequately with respect to both known and unknown prognostic factors and the confounding effect of imbalances in prior treatment can be controlled. \uf0b7Based on the Phase III AZA-001 study data (Fenaux et al 2009a), low response rates have been shown with 5-Aza alone. Assuming an increase in CR response rates can be achieved with the combination over the low rates seen with single-agent 5-Aza, CR including CRi for AML patients and bone marrow CR for MDS/CMML patients have been selected as primary efficacy endpoints in the phase IIb part.Novartis\nConfidential\nPage 21\nAmended Protocol Version 05 Clean\nStudy No. CLBH589H2101\n\uf0b7\nThis randomized phase II part allows collecting safety data of panobinostat in combination \nwith 5-Aza in comparison to single-agent 5-aza. In addition, it allows to better understand \nthe degree of tolerability wherefore safety and tolerability have been selected as secondary \nendpoints in the phase IIb part. \n \n\uf0b7\nData from the phase III AZA-001 study shows that 90% of the study population achieved \na best response by Cycle 9 (Fenaux 2009b).  The core clinical study report (encompassing \nboth, the phase Ib and the phase IIb part of the study) will be based on a data cut-off \ncorresponding to the time point where all patients have either completed 12 cycles of \nstudy treatment or discontinued study treatment for any other reason, whichever comes \nfirst. An addendum to the core clinical study report will be provided at the completion of \nthe study to summarize and/or list the additional safety and efficacy data as appropriate. \nPatients who have completed 12 cycles of study treatment and are assessed by the \nInvestigator to have the potential to benefit from ongoing treatment will continue their \nassigned treatment allowing the collection and assessment of safety, efficacy and survival \ndata. After the data-cut off point for the CSR a reduced assessment schedule will be \napplied.\n\uf0b7\nClinical response, the primary efficacy endpoint in the phase IIb part, is assessed by \nchanges in bone marrow and peripheral blood blast percentages based on standardized \nresponse criteria proposed by Cheson et al. 2003 and 2006 (as specified in the post-text \nsupplement 1). The proposed open label study design is not likely to impact the objective \ndetermination of response based on the Cheson criteria.\nRationale for protocol adjustments related to eligibility criteria, cardiac \nassessments, ECG monitoring schedule and the current LBH589 guidance on \nthe use of concomitant medications \n\uf0b7\nInclusion criterion #4 which defines patients\u2019 eligibility according to INR and PTT \nlaboratory parameter has been replaced with a criterion based on evidence of clinically \nsignificant mucosal or internal bleeding. The new criterion reflects more closely clinical \npractice and is aligned with newer AML protocols.\n\uf0b7\nDue to limited data about the effect of myelosuppression caused by panobinostat, in \nparticular thrombocytopenia, the eligibility criterion based on INR/PTT laboratory values \nwas defined at the time of the original protocol. New safety information with regards to \nthrombocytopenia showed that irrespective of new or worsening grade 3/4 \nthrombocytopenia, the incidence of grade 3/4 bleeding events (regardless of causality) was \nlow and may be associated with baseline thrombocyte levels and other risk factors (tumor \ntypes, metastases). We recommend that patients who require chronic anticoagulation \ntherapy at study entry or while on panobinostat therapy use low molecular weight heparin \n(LMWH).  However, if the use of LMWH is not feasible, such patients may continue on \nsodium warfarin while on panobinostat, but a close monitoring of common coagulation \nparameters, including a PTT/INR should be conducted.  Coagulation parameters at study \nNovartis\nConfidential\nPage 22\nAmended Protocol Version 05 Clean\nStudy No. CLBH589H2101\nentry and during the course of the study should be maintained within a therapeutic range \nas appropriate for the indication.\n\uf0b7\nDuring the course of this trial four grade 3 bleeding events of hemoptysis and recurrent \nbleeding in the oral cavity, intracerebral bleeding, and acute GI bleeding were reported in \nthree patients (30 mg dose cohorts). Hemoptysis and recurrent bleeding in the oral cavity \nas well as intracerebral bleeding were not suspected to be related to panobinostat. For the \nacute GI bleeding event a possible relation with the study treatment was reported. \nHowever, confounding factors were confirmed by the investigator as the GI bleed was \nidentified to originate from internal hemorrhoids and deemed to be secondary to Grade 4 \nthrombocytopenia. All patients entered the trial with grade 3 thrombocyte counts which \nworsened to grade 4 on day 8 of the first cycle but were manageable with platelet \ntransfusions. All events resolved within 3 days and none of the events were considered life \nthreatening or required study drug adjustments.\n\uf0b7\nMUGA has been added as another validated method to assess cardiac function.  Both, \nECHO (echocardiogram) and MUGA (multiple gated acquisitions) scan are widely \napplied methods, used to monitor cardiac function in clinical practice and therapy-induced \ncardio-toxicity in clinical trials (e.g., with anthracyclines).\n\uf0b7\nThe ECG safety monitoring schedule has been updated according to the current LBH589 \ncardiac safety profile. This is based on an integrated analysis of completed and ongoing \nstudies using oral panobinostat showing minimal risk of QT prolongation with no \nclinically significant QTc interval changes. It also showed that the risk of QTc \nprolongations does not increase over time when oral panobinostat is dosed up to 40 mg \nthree times a week (TIW) every week or 45 mg TIW every other week.  An integrated \nanalysis was performed on the pooled centrally reviewed ECG data collected from three \nPhase I and six Phase II studies of single-agent oral panobinostat in 559 patients with \nadvanced hematologic malignancies or solid tumors (Weber et al 2009).  A total of 554 \npatients had both a baseline and at least one post-baseline ECG measurement (a total of \n23.017 ECG assessments).  This analysis has shown that oral panobinostat monotherapy at \ndoses up to 40 mg TIW weekly and 45 mg TIW every other week was safe and well \ntolerated with no clinically significant QTc interval changes observed.  Major outliers \n(QTcF >500 ms) were observed in two patients (less than 1 % of patients) up to doses of \n45 mg, and these sporadic cases were generally associated with significant comorbidities \n(e.g., underlying heart disease, hypertension, and severe electrolyte disturbances).  \nBaseline QTcF and age, but not dosing schedule, were identified as predictive factors for \nQT prolongation.  Significant mean and maximum QTcF interval changes were observed \nin Cycle 1 on Days 1 and 5 after the first and the third consecutive dose of panobinostat. \nBeyond Day 5, mean QTcF values showed a trend towards normalization compared with \nbaseline up to the completion of Cycle 2.\n\uf0b7\nWith a dosing interval of 48 hours and the specific dosing schedule in this protocol \n(panobinostat intake on days 3, 5, 8, 10, 12, and 15), the ECG monitoring schedule was \nadjusted as follows: Cycle 1 Day 3 (first panobinostat dose), Days 8 and 12 (third and fifth \nconsecutive dose of panobinostat) as well as on Day 3 of Cycle 2 and all subsequent \ncycles. ECGs time points at screening and EOS visit did not change\n\uf0b7\nNo study-drug related prolonged QTcF has been observed in this study. Two grade 3 \nQTcF prolongation events have been reported, each one in the 30 mg or 40 mg \nNovartis\nConfidential\nPage 23\nAmended Protocol Version 05 Clean\nStudy No. CLBH589H2101\npanobinostat dose cohort; none of which was suspected to be related to the study treatment. \nOne occurred at C2D18 and the other at C1D26. The individual events resolved from \nseveral hours to approximately 2-3 days after their onset and required no actions with \nregards to the study treatment.\n\uf0b7\nWith this adjusted ECG monitoring schedule, patient safety will remain uncompromised \nwhile eliminating excessive tests that are inconvenient for patients.\n\uf0b7\nTo align with the current LBH589 guidance, the use of concomitant medications (as \nspecified in the post-text supplement 3) has been updated. The current LBH589 guidance \nprovides new information for the management of co-medications that prolong the QT \ninterval, are strong CYP3A4/5 inhibitors or are CYP2D6 substrates. It also includes an \nupdated list of medications which was developed in collaboration with an external \ncardiology consultant and is based on the ARIZONA CERT website on drugs that prolong \nthe QT interval and/or induce Torsades de Pointes or ventricular arrhythmia \n(...azert.org/medical-pros/drug-lists/drug-lists.cfm). Additional information from the two \ndrug-drug interaction studies [CLBH589B2110] and [CLBH589B2109] were incorporated. \n\uf0b7\nTo date, none of the patients enrolled in this trial were concomitantly treated with \ndolasetron mesylate which should no longer be used to prevent nausea and vomiting \nassociated with cancer chemotherapy in conjunction with panobinostat (LBH589). With \nregards to the medications (which have since been removed from the list of prohibited \nconcomitant medications), three protocol deviations with respect to the concomitant use of \naprepitant have been reported. \nRationale for other changes in this amendment: \nEditorial corrections were needed in order to provide clarifications, increase the consistency \nof the document and rectify typographical errors throughout.\n\uf0b7\nThe primary objective of the original protocol (specified as the primary objective of the \nphase Ib part in the proposed amendment) was clarified to indicate that the dose being \nselected to go forward with, in the phase IIb part, will be based on considerations of the \nMTD estimation process using the BLRM, and on an overall assessment of safety taking \ninto consideration long term tolerability data from subsequent cycles. The selected dose \nwhich would be referred to as the recommended phase II dose (RPIID) could be the same \nas the MTD but will not exceed it under any circumstance. This specification of the \nprimary objective is consistent with the description of the dose escalation procedure and \nthe statistical principles guiding it, in sections 6.7.1.4 and 10.1.4.2 of the protocol.\n \n\uf0b7\nTo provide clarifications on study procedures, time points, study visit terminology \n\uf0b7\nSection 7.1.8 including table 6-4 header has been rephrased to clarify that only QT \ninterval prolongation is excluded from the general guidance on dose adjustments for \nnon-hematological toxicities.  To date, two treatment-related cardiac toxicities \n(electrocardiogram T-wave inversion and atrial fibrillation and syncope) have been \nreported. With regards to the T-wave inversion, the study drug was interrupted for one \ndose (C1D15) and the patient continued the study without any dose adjustments after \nexclusion of a myocardial infarction and normalization of the electrocardiogram after \nNovartis\nConfidential\nPage 24\nAmended Protocol Version 05 Clean\nStudy No. CLBH589H2101\ntwo days. Due to the suspected study drug relationship both cases were considered a \nDLT.\n\uf0b7\nThe first visit (days -14 to -1) where screening activities are to be performed is \nindicated as \u2018baseline\u2019 visit. The term \u2018baseline visit\u2019 has been replaced with the term \n\u2018screening visit\u2019. \n\uf0b7\nClarifications for Study Treatment Discontinuation, End of Treatment and End of \nStudy have been provided in sections 6.7.3, 6.7.4 and 6.7.6\n\uf0b7\nThe narrow time window for laboratory evaluations on Day 1 of each cycle, in \nparticular hematology and biochemistry has been extended from 48 hours to 72 hours.\n \n \n \n\uf0b7\nIn section 7.5.1 it has been clarified, that if additional non-study response assessments \nare being performed the number of units for red blood cells and/or platelets \ntransfusions should be collected in the additional assessments transfusion CRF pages. \nThis optional data recording only applies for the additional response assessment.\n\uf0b7\nRed blood cell count (RBC) has been added in Section 7.5.4.1 (hematology) to \nprovide details on hematology tests to be performed, in particular complete blood \ncount.\n\uf0b7\nTo align with current standard CRF pages\n\uf0b7\nAbnormal laboratory value(s) and Abnormal test procedure result(s) are no longer \npart of the standard EOT CRF page as they are considered AE(s) wherefore they have \nbeen removed from the list of End of Study reasons in section 6.7.4.\n\uf0b7\nTo implement the most recent pregnancy protocol language based on the Novartis \nGuideline on Prevention of Pregnancy\n\uf0b7\nTo align with the working instructions for Eligibility Check prior to Randomization\nChanges to the protocol\nThe major changes that are made to the protocol are listed below and incorporated directly in \nthe protocol with track changes using strike-through red font for deletions, red underlined for \ninsertions. Where appropriate, changes to the protocol body will be made to corresponding \nsections for consistency. Additional minor changes (e.g., correction of typographical errors) \nand re-phrase of existing sentences to be more precise in wording are only incorporated \ndirectly in the protocol with track changes. \nChanges introduced for the phase IIb part \n\uf0b7\nStudy Title has been modified and the phase IIb information added.\nNovartis\nConfidential\nPage 25\nAmended Protocol Version 05 Clean\nStudy No. CLBH589H2101\n\uf0b7\nSection 1.3.2 has been added to describe the current data from the phase Ib part of the \nstudy\n\uf0b7\nSection 3: Objectives have been specified to describe the endpoints of the phase IIb part \n\uf0b7\nSection 4: The Study Design has been modified to introduce the randomized, two-arm \nphase IIb part. \n\uf0b7\nSection 6.1 and subsections have been revised with regards to the terminology used for \ninvestigational, combination and control drugs.\n\uf0b7\nSection 6.1.1.2 has been revised to describe how the combination and/or control drug will \nbe supplied in the phase IIb part\n\uf0b7\nSection 6.3 describes the treatment schedule in the phase IIb part of the study including \nthe addition of Figure 6-2.\n\uf0b7\nSection 6.5 describes the treatment assignment in the phase IIb part including the addition \nof subsection 6.5.1 for IVRS procedures.\n\uf0b7\nSection 6.4.7 has been amended to describe collection and capturing of survival data after \nEnd of Study.\n\uf0b7\nSection 7 and Table 7-1 describes the modifications to patient visit assessments including \npharmacokinetic (PK), \n collection timepoints.\n\uf0b7\nTable 7-2 has been added to describe the treatment visit schedule after 12 cycles\n \n\uf0b7\nSection 8.3 has been amended to introduce a steering committee for the phase IIb part of \nthe study.\n\uf0b7\nSection 10 has been updated to reflect the statistical details for the phase I/IIb study.\n\uf0b7\nThe synopsis was updated according to the changes described above.\nChanges introduced to adjust with new safety information, the programs \nupdated ECG schedule and post-text supplement on concomitant medications \n\uf0b7\nSection 5.1 and 5.2 have been amended removing inclusion criteria #4 and adding \nexclusion criteria #19 and providing clarification on baseline cardiac assessment tests \n(exclusion criteria #9).\n\uf0b7\nSection 7.5.3 including Table 7-3 has been adjusted according to the programs updated \nECG monitoring schedule and to provide clarification on methods for cardiac assessments \n\uf0b7\nTable 7-1 (Visit evaluation schedule) including footnotes was revised according to the \nprotocol amendment and the existing protocol\n\uf0b7\nPost-text supplement 3 has been adjusted to align with the current LBH589 guidance on \nthe use of concomitant medications\nNovartisConfidentialPage 26Amended Protocol Version 05 CleanStudy No. CLBH589H2101Other Changes in this amendment\uf0b7The primary objective of the original protocol (specified as the primary objective of the phase Ib part in the proposed amendment) was clarified in all relevant sections of the protocol.\uf0b7Section 1.2 was aligned with data on file with regards to response rates for AML patients treated in the B2102 study (manuscript for publication under preparation).\uf0b7Clarifications for Study Treatment Discontinuation, End of Treatment, Follow up and End of Study have been incorporated in  6.7.3, 6.7.4, 6.7.5, and 6.7.6\uf0b7The list of EOT reasons provided in Section 6.7.4 has been aligned according to the current standard EOT CRF page. \uf0b7Clarification on eligibility checks prior to randomization were provided in section 6.5.1 and section 7 of the proposed amendment. \uf0b7Clarifications for Screening visit has been incorporated in all relevant sections in the proposed amendment including Table 7-1\uf0b7Section 7.1.8 including the header of Table 6-4 has been changed to provide clarification on dose adjustment for cardiac toxicity.   \uf0b7Clarification on time-window and study procedures have been incorporated in Section 7.5.4.1 Hematology and 7.5.4.3 Biochemistry.\uf0b7Section 8.2 has been aligned with the current pregnancy language\uf0b72008 has been removed from the reference on the Investigator Brochure in all relevant sections of the protocol.\uf0b7Reference to EMA and FDA with regards to the Vidaza product label has been removed in sections 6.1.2.2, 6.7.1.2 and the reference section\uf0b7To amend the List of Abbreviations\uf0b7Editorial corrections were made in order to provide clarifications, increase the consistency of the document and rectify typographical errors throughout including tablesIRB/IEC/REB ApprovalA copy of this amended protocol will be sent to the Institutional Review Board (IRBs)/Independent Ethics Committee (IECs) and Health Authorities.The changes described in this amended protocol require IRB/IEC and Health Authority approval prior to implementation. In addition, if the changes herein affect the Informed Consent, sites are required to update and submit for approval a revised Informed Consent that takes into account the changes described in this amended protocol.",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "N/A",
+                "Title": "Amendment 1 (released on 21 April 2010)",
+                "Content": "Please refer to Section 1.4 History of amendmentsNovartisConfidentialPage 27Amended Protocol Version 05 CleanStudy No. CLBH589H2101",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "N/A",
+                "Title": "Oncology clinical study protocol synopsis",
+                "Content": "Investigational drugLBH589Protocol no.LBH589H2101Study phaseIb/IIbStudy titleA phase Ib/IIb, open-label, multi-center, study of oral Panobinostat (LBH589) administered with 5-Azacitidine (Vidaza\u00ae) in adult patients with Myelodysplastic Syndromes (MDS), Chronic Myelomonocytic Leukemia (CMML) or Acute Myeloid Leukemia (AML).BackgroundTumor cells inactivate transcription of growth control and pro-apoptotic genes in order to sustain proliferation and survival. Methods of gene inactivation include transcriptional silencing by hypermethylation of CpG islands in gene promoter regions and by hypoacetylation of chromatin preventing access of DNA-binding transcriptional regulators to promoter regions of genes. Reversal of these epigenetic processes results in up-regulation of genes that can reverse the malignant phenotype by a number of means including the induction of apoptosis and differentiation. Since these two processes are independent, but mechanistically related, the reversal of both processes can lead to greater gene transcription than the reversal of either one alone.5-Azacitidine (5-Aza) is a demethylating agent and has been approved by FDA for the treatment of patients with all FAB subtypes MDS and by EMEA for the treatment of patients with high-risk MDS, CMML and AML, not eligible for hematopoietic stem cell transplantation. Panobinostat is a deacetylase inhibitor (DACi) that has been investigated in patients with lymphoid and myeloid malignancies as well as solid tumors. It has shown single-agent activity in cutaneous T-cell lymphoma (CTCL), and hematological disorders including HL, AML, MDS and chronic idiopathic myelofibrosis (CIM).Pre-clinical studies have demonstrated that the administration of a demethylator followed by a deacetylase inhibitor (DACi) leads to greater gene re-expression and apoptosis induction than either alone. Consequently, a number of clinical trials have been conducted by several groups using 5-Aza in combination with DACi agents such as phenylbutyrate, valproic acid, belinostat and vorinostat.Overall, this type of combined therapy appears to be not only safe, but has also shown a superior response rate compared to single agent epigenetic therapy, although this observation needs be confirmed in prospective randomized clinical trials. Of note is that slow onset of response, seen for single agent 5-Aza therapy in MDS, CMML and AML patients, appears to be accelerated by combining 5-Aza with DACi, with a median time to response of 1 course (range, 1 to 3 courses) in contrast with the 4 to 6 courses for single-agent 5-Aza. (Silverman et al 2008)The strong preclinical rationale, encouraging clinical activity of single agent panobinostat, as well as published data showing enhanced clinical activity by combining two epigenetic-modifying agents suggest that panobinostat and 5-Aza can be combined safely and be a therapeutic option of benefit for the patient.Novartis\nConfidential\nPage 28\nAmended Protocol Version 05 Clean\nStudy No. CLBH589H2101\nPurpose/rationale\nThe primary purpose of the phase Ib part of this study is to determine the \nmaximum-tolerated dose (MTD) and/or recommended phase II dose (RPIID) \nfor the panobinostat / 5-Aza drug combination in patients with MDS, CMML or \nAML.\nIn vitro, the combination of a hypomethylating agent and a DAC inhibitor have \nbeen shown to have a synergistic effect both in terms of leukemia cell killing, \nand also in terms of gene reactivation. Based on this concept, a number of \nearly clinical trials have been conducted by several groups using either 5-Aza \nin combination with agents such as phenylbutyrate (Gore 2006, Maslak 2006), \nMS-275, or valproic acid (Soriano et al 2007). All these studies have shown \npromising results compared to hypomethylating therapy alone and support a \ncombined epigenetic therapeutic approach.\nIt is expected that the combination of these two agents can be safely \nadministered and result in clinical benefit for the patients. As per registered \nlabel, 5-Aza is given subcutaneously (sc) for 1 week (Day 1-7). Panobinostat \nwill be administered intermittently (Day 3, 5, 8, 10, 12, and 15) over 2 weeks \nin a 28-day cycle. \nIn the two-arm, randomized phase IIb part of the study patients will be treated \nwith panobinostat at the RPIID in combination with 5-Aza versus 5-Aza alone. \nThe schedule of the phase Ib part will be followed. The primary purpose is to \nassess preliminary efficacy of this new regimen and to further characterize \nsafety and tolerability.\nObjectives\nPhase Ib part\nPrimary objectives\n\uf0b7\nTo determine the MTD and/or RPIID of oral panobinostat in combination \nwith a fixed dose of 5-Aza in adult patients with MDS, CMML, or AML.\nSecondary objectives\n\uf0b7\nTo characterize the safety and tolerability of panobinostat in combination \nwith 5-Aza in the target patient populations\nAs of amendment 2, the primary objective of the phase Ib part has been met  \nand the recommended phase II dose (RPIID) has been determined to be \n30 mg of oral panobinostat once daily on day 3, 5, 8, 10, 12, and 15 in \ncombination with 5-Aza as per the registered label (75mg/m2 on day 1-7). \nDose escalation was not continued up to the MTD because of long term \ntolerability considerations.\nPhase IIb part\nPrimary objective\n\uf0b7\nTo assess preliminary efficacy of treatment with the panobinostat and 5-\nAza combination at RPIID relative to treatment with single agent 5-Aza \nthrough the assessment of composite CR (CR or CRi or bone marrow \nCR).\nSecondary objectives\n\uf0b7\nTo assess preliminary efficacy of treatment with the panobinostat and 5-\nNovartis\nConfidential\nPage 29\nAmended Protocol Version 05 Clean\nStudy No. CLBH589H2101\nAza combination at RPIID relative to treatment with single agent 5-Aza \nthrough the assessment of clinical response other than the composite CR \nspecified in the primary objective, 1-year survival, and time to progression \n(TTP). \n\uf0b7\nTo characterize the safety and tolerability of panobinostat at RPIID in \ncombination with 5-AZA, as well as, 5-AZA alone in the target patient \npopulation.\n \n \nEndpoints (efficacy, \nsafety)\nPhase Ib part\nPrimary Endpoint:\n\uf0b7\nIncidence of dose limiting toxicity (DLT)\nSecondary Endpoints:\n\uf0b7\nType, duration, frequency and relatedness of Adverse Events (AE). AE \nseverity will also be assessed according to National Cancer Institute (NCI) \nCommon Terminology Criteria for Adverse Events (CTCAE, Version 3.0)\n\uf0b7\nLaboratory (biochemistry, hematology)\n\uf0b7\nECG monitoring (central review by eRT)\nPhase IIb part\nPrimary Endpoint:\n\uf0b7\nComposite CR (CR or CRi or bone marrow CR) \nSecondary Endpoints:\n\uf0b7\nClinical response for AML: PR; for MDS/CMML: PR and Hematologic \nImprovement (HI)\n\uf0b7\nOverall response (CR or CRi or bone marrow CR or PR)\n\uf0b7\n1-year survival\n\uf0b7\nTime to progression (TTP) based on the Guidelines for Implementation of \nIWG response criteria in AML, MDS and CMML according to Cheson \n2003 and 2006 [Post-text supplement 1]\n\uf0b7\nType, duration, frequency and relatedness of Adverse Events (AE). AE \nseverity will be assessed according to National Cancer Institute (NCI) \nCommon Terminology Criteria for Adverse Events (CTCAE, Version 3.0)\n\uf0b7\nLaboratory (biochemistry, hematology)\n\uf0b7\nECG monitoring (central review by eRT)\nNovartis\nConfidential\nPage 30\nAmended Protocol Version 05 Clean\nStudy No. CLBH589H2101\nStudy design\nThis is an open-label, multi-center phase Ib/IIb trial.\nThe primary objective of the phase Ib part is to determine the maximum \ntolerated dose (MTD) and/or recommended phase II dose (RPIID) of oral \npanobinostat in conjunction with a fixed dose of 5-Aza in adult patients with \nMDS, CMML or AML. The phase IIb part, that will commence once MTD \nand/or RPIID is established, has a randomized, two arm design and is \ndesigned to assess preliminary efficacy of panobinostat (in combination with \n5-Aza) at RPIID relative to 5-Aza alone, the current standard of care,\nIn the phase Ib part, escalating doses of oral panobinostat will be \nadministered in combination with the registered schedule of subcutaneous \n(sc) of 5-Aza (75 mg/m2 daily for 7 days). A minimum of three patients \nconstitutes a cohort for each dose level. During this iterative process the dose \nlimiting toxicity (DLT) will be assessed after each cohort has completed Cycle \n1. In each subsequent cohort, patients will receive a dose of panobinostat \nguided by the Bayesian logistic regression model with overdose control \n(EWOC) together with a standard dose of 5-Aza until the MTD and/or RPIID is \ndetermined.\nStarting dose of panobinostat will be 20 mg. At least 9 evaluable patients \nneed to be treated at a certain dose level before this dose can be declared to \nbe the MTD and/or RPIID. \nAs of August 2011, the recommended phase II dose (RPIID) was determined \nto be 30 mg of oral panobinostat once daily on day 3, 5, 8, 10, 12, and 15 in \ncombination with azacytidine (5-Aza/Vidaza\u00ae).\nAdditional 80 patients will be randomly assigned in a 1:1 ratio into the phase \nIIb part of the study receiving 30 mg of panobinostat plus 5-Aza \n(investigational arm) or single agent 5-Aza (active control arm). Single agent \n5-Aza will be administered according to the registered label (75mg/m2 daily for \n7 days), \nPatients will continue treatment until disease progression, unacceptable \ntoxicity or consent withdrawal, whichever comes first The core clinical study \nreport will be based on a data cut-off corresponding to the time point where all \npatients have either completed 12 cycles of study treatment or discontinued \nstudy treatment for any other reason whichever comes first. An addendum to \nthe core clinical study report (encompassing both phase Ib and phase IIb \nparts) will be provided at the completion of the study to summarize and/or list \nthe additional safety and efficacy data as appropriate. \nPatients who have completed 12 cycles of study treatment and are assessed \nby the Investigator to have the potential to benefit from ongoing treatment will \ncontinue their assigned treatment allowing collecting and reviewing safety, \nefficacy and survival data. After the data-cut off point for the CSR, a reduced \nvisit and assessment schedule will be applied.\nPopulation\nAdult patients with IPSS INT-2 or high risk MDS, CMML or AML not eligible \nfor HSCT\nInclusion/exclusion \ncriteria\nInclusion\n1.\nAdult patients (age \u2265 18 years) who are candidates for treatment with 5-\nAza and present with one of the following:\n\uf0b7\nintermediate-2 or high-risk myelodysplastic syndromes according to \nthe International Prognostic Scoring System (IPSS). OR\n\uf0b7\nAML with multilineage dysplasia and maximum of 30% blasts (former \nRAEB-T according to FAB) OR\n\uf0b7\nchronic myelomonocytic leukemia (CMML)\nNovartis\nConfidential\nPage 31\nAmended Protocol Version 05 Clean\nStudy No. CLBH589H2101\n2.\nECOG performance status \u2264 2\n3.\nPatients must have the following laboratory values unless elevations are \nconsidered due to MDS or leukemia: AST/SGOT and/or ALT/SGPT \u2264 2.5 \nx ULN; serum creatinine \u2264 1.5 x ULN; serum bilirubin (total and direct) \u2264 2 \nx ULN; serum electrolytes (e.g. Calcium, Magnesium and Potassium) are \nwithin normal ranges for the institution\n4.\n- Not applicable-\n5.\nNegative pregnancy test\n6.\nPatients who are clinically euthyroid\n7.\nWritten informed consent obtained prior to any screening procedures\nExclusion\n1.\nPlanned hematopoietic stem-cell transplantation (HSCT)\n2.\nPatients with therapy-related MDS\n3.\nPatients with therapy-related AML and/or relapsed/refractory AML\n4.\nClinical symptoms suggesting CNS leukemia\n5.\nConcurrent therapy with any other investigational agent\n6.\nPrior treatment with deacetylase inhibitor(s)\n7.\nPrior treatment with 5-Azacytidine or 5-aza-2'-deoxycytidine\n8.\nTime windows for prior therapies: Last dose of therapy, including \ncytokines and/or retinoids, immunotherapy, low-dose ara-C, \ninvestigational agent less than 28 days with the exception of hydroxyurea \n(24 hours) prior to receipt of study medication or AEs that have not \nrecovered at least to NCI CTCAE Grade 1.\n9.\nPatients with impaired cardiac function including any of the following:\n\uf0b7\nComplete left bundle branch block or use of a permanent cardiac \npacemaker, congenital long QT syndrome, history or presence of \nventricular tachyarrhythmia, clinically significant resting bradycardia \n(<50 beats per minute), QTcF > 460 ms on screening ECG, or right \nbundle branch block + left anterior hemiblock (bifascicular block)\n\uf0b7\nPresence of unstable atrial fibrillation (ventricular response rate >100 \nbpm). Patients with stable atrial fibrillation are eligible provided they \ndo not meet the other cardiac exclusion criteria\n\uf0b7\nPrevious history of angina pectoris or acute MI within 6 months\n\uf0b7\nScreening LVEF <45% by echocardiography or MUGA\n\uf0b7\nOther clinically significant heart disease (e.g. uncontrolled \nhypertension or history of poor compliance with an antihypertensive \nregimen).\n10. Drugs which may cause QT prolongation and the treatment cannot be \ndiscontinued or switched to a different medication prior to starting study \ndrug.\n11. Any of concurrent severe and/or uncontrolled medical conditions which \ncould compromise participation in the study. For example:\n\uf0b7\nUncontrolled diabetes\n\uf0b7\nActive or uncontrolled infection\n\uf0b7\nUncontrolled hypothyroidism\n\uf0b7\nAcute or chronic liver or renal disease\n12. Impairment of gastrointestinal (GI) function or GI disease that may \nNovartis\nConfidential\nPage 32\nAmended Protocol Version 05 Clean\nStudy No. CLBH589H2101\nsignificantly alter the absorption of oral panobinostat (e.g., ulcerative \ndiseases, diarrhea, malabsorption syndrome, or small bowel resection).\n13. HIV, Hepatitis B/C infection according to the medical history (testing will \nnot be performed).\n14. Female patients who are pregnant or breast feeding or patients of \nchildbearing potential (WOCBP) not willing to use a double barrier method \nof contraception during the study and for 3 months following the last dose \nof study drug.\n15. Male patients whose sexual partner(s) are WOCBP who are not willing to \nuse a double barrier method of contraception, one of which includes a \ncondom, during the study and for 3 months after the end of treatment.\n16. Suspected hypersensitivity to 5-Aza or Mannitol\n17. Inability to swallow capsules\n18. Unwilling or unable to comply with the protocol\n19. Patient has evidence of clinically significant mucosal or internal bleeding\nPatient numbering\nUpon signing the informed consent, each patient in the study will be uniquely \nidentified by a 9 digit patient number, which is a combination of his/her 4-digit \ncenter number and 5-digit subject number.\nIn the phase IIb part, a separate numbering scheme, different from the one \nused in the phase Ib part, will be applied for the 5-digit subject number. The \nfirst patient, at each site, in the phase IIb part will be assigned the subject \nnumber 10001, and subsequent patients at the site, will then be assigned \nconsecutive numbers (i.e., the second patient is assigned patient number \n10002, the third patient is assigned patient number 10003 etc).\nInvestigational and \ncontrol drugs\nTerminology used:\nStudy drug = panobinostat\nCombination drug = 5-Aza\nControl drug = 5-Aza (only in phase IIb part) \nStudy treatment = panobinostat + 5-Aza\nDose, regimen, \ntreatment cycle\nA study treatment cycle lasts 28 days. 5-Aza will be administered by sc \ninjection of 75 mg/m2 on Days 1 to 7. The study drug panobinostat will be \nadministered orally on Days 3 and 5 in week 1, on Days 8, 10, 12 in week 2, \nand on Day 15 in week 3 of the treatment cycle (= total of 6 oral panobinostat \ndoses)..\nIn the phase IIb part, the planned dose of panobinostat is 30 mg, which is the \nRPIID, determined in the phase Ib part of the study \nSupply, preparation, \nand administration\nOral panobinostat is available as 5-mg,10-mg (when available) or 20-mg \ncapsules and will be dosed orally on a flat scale of mg/day. In the phase Ib \npart, 5-Aza will be supplied by the Sponsor (Novartis); For the phase IIb part, \n5-Aza will be purchased commercially as part of standard care. 5-Aza will be \nsupplied by Novartis only for patients from those countries where 5-Aza is not \navailable as standard care, or where no alternative method of obtaining or \npaying for 5-Azabased on the patient\u2019s local regulation can be identified. 5-\nAza is administered sc Day 1-7 of the treatment cycle according to \nmanufacturer\u2019s instructions.\nVisit schedule and \nassessments\nSee Table 7-1, Table 7-2 and Table 7-3\nEfficacy \nassessment(s)\nThe IWG criteria for response in MDS, CMML (Cheson et al 2006) and AML \n(Cheson et al 2003) will apply to evaluate disease response as implemented \nin [Post-text supplement 1].\nNovartis\nConfidential\nPage 33\nAmended Protocol Version 05 Clean\nStudy No. CLBH589H2101\nSpecial safety \nassessment(s)\nSerial ECGs will be taken for cardiac safety.\nPatient reported \noutcomes\nThere are no Quality of Life assessments in this protocol\nPharmacokinetics\nPharmacokinetic samples of panobinostat will be collected at pre-dose on \nCycle 1 Days 4, 5, and 8 in all patients participating in the phase Ib part of the \nstudy. \nWhole blood (3 mL per sample) will be collected and stored frozen at < -60C \nbefore shipping to Novartis for analysis. Panobinostat plasma concentrations \nwill be measured using a validated LC/MS/MS method with a LLOQ of \n0.5 ng/mL or lower.\nPlasma panobinostat trough levels (Cmin in ng/mL) will be summarized by \nstudy day.\nNo pharmacokinetic samples of panobinostat will be collected and analyzed in \nthe phase IIb part of the study.\n \nNovartis\nConfidential\nPage 34\nAmended Protocol Version 05 Clean\nStudy No. CLBH589H2101\nExploratory \nBiomarker \npharmacodynamic \nstudies involving \ntumor samples\nNot applicable.\nOptional Biomarker \nstudies on additional \nor remaining samples\nNot applicable\nData Monitoring \nCommittee\nA Data Monitoring Committee will not be in place for this trial. Instead, in the \nphase Ib part of the study, Novartis and the study investigators agree to \nconvene once each treatment cohort has completed (or earlier in case of \nDLT) to make decision on whether to escalate the dose any further, or \nwhether to de-escalate and/or expand recruitment into particular cohort/s. \nThis group will also decide when the MTD and/or RPIID for panobinostat in \ncombination with 5-Aza has been reached. In the phase IIb part a steering \ncommittee will be established.\nStatistical methods \nand data analysis\nPhase Ib part\nAn adaptive Bayesian logistic regression model (BLRM) for combination \ntherapy, including the escalation with overdose control (EWOC) principle will \nbe used to guide the dose escalation to determine the MTD of panobinostat in \ncombination with a fixed dose of 5-Aza. MTD will be assessed during the first \ntreatment cycle. Historical data of 5-Aza regimens as well as data from study \n[CLBH589B2102, arm X] for panobinostat were used to derive informative \npriors for the model parameters.\nEach cohort will consist of a minimum of 3 patients fully evaluable for therapy-\nrelated toxicities over the first cycle of treatment.\nA dose limiting toxicity (DLT) is defined as an adverse event or abnormal \nlaboratory value occurring at any time and assessed as clinically relevant and \nis considered to be related to the study treatment, unrelated to disease, \ndisease progression, inter-current illness, or concomitant medications. \nToxicities will be assessed using the NCI CTCAE, version 3.0.\nAfter each cohort of patients has completed the first cycle of treatment, the \nposterior distribution for the model parameters will be obtained by simulation. \nBased on the posterior distribution of all model parameters, the corresponding \nposterior distributions for probabilities of a DLT are obtained. Dose \nrecommendation within each part of the dose escalation will be based on \nposterior summaries for each dose combination including the mean, median, \nstandard deviation, 95%-credibility interval, and the interval probabilities for \nunder-dosing, targeted, excessive, and unacceptable toxicity.\nOnce updated, the distribution summarizes the probability that the true \nprobability of a DLT for each dose combination lies in one of the following \ncategories:\n[0%, 20%)\nunder-dosing\nNovartis\nConfidential\nPage 35\nAmended Protocol Version 05 Clean\nStudy No. CLBH589H2101\n[20%, 35%)\ntargeted toxicity\n[35%, 60%)\nexcessive toxicity\n[60%, 100%]\nunacceptable toxicity.\nFollowing the principle of escalation with overdose control, after each cohort \nof patients the recommended dose combination is the one with the highest \nposterior probability of DLT in the target interval [20%, 35%) among the doses \nfulfilling the overdose criteria: there is less than 25% chance of either \nexcessive or unacceptable toxicity.\nThe dose of panobinostat recommended by the adaptive BLRM may be \nregarded as information to be integrated with a clinical assessment of the \ntoxicity profiles observed thus far in determining the next dose to be \ninvestigated.\nAt least 9 evaluable patients are to be treated at a dose level to declare the \ndose as MTD and/or RPIID.\nThe recommended phase II dose (RPIID)  of panobinostat in combination with \na fixed dose of 5-Aza will be based on considerations of the  MTD estimation \nprocess  using  the BLRM, and on an overall assessment of safety taking into \nconsideration tolerability data from subsequent cycles.\nAll adverse events recorded during the study will be listed and summarized. \nAll serious adverse events will be listed by patients and tabulated by type of \nadverse event and initial dose level. Any other safety information will be listed \nand tabulated as appropriate.\nPhase IIb part\nThe planned sample size is 40 per arm, or in other words, 80 in total.  It is \ndeemed that an observed improvement of 50% in composite CR rate is \nclinically relevant in the phase llb part of the study.  Under the assumption that \nthe composite CR rate in the active control arm is 17% (estimate based on \nFenaux et al 2009a), the chance of observing a clinically relevant \nimprovement when there is actually no difference in the true composite CR \nrates between the arms is estimated to be 23% while the chance of not \nobserving a clinically relevant improvement when there is indeed a substantial \ndifference in the true composite CR rates (true composite response rate in \nexperimental arm is 35%) is estimated to be 19%.\nFor all safety analyses, the safety set will be used. For efficacy analyses, the \nfull analysis set (FAS) will be used. All listings and tables will be presented by \ntreatment arm (\u2018as treated\u2019 for the safety analyses, and \u2018as randomized\u2019 for \nthe efficacy analyses). \nEfficacy variables and endpoints\nThe primary efficacy endpoint will be the composite CR (CR or CRi or bone \nmarrow CR) among all patients in the FAS.\nThe following other efficacy endpoints will be considered as part of the \nNovartis\nConfidential\nPage 36\nAmended Protocol Version 05 Clean\nStudy No. CLBH589H2101\nsecondary efficacy analysis: \n\uf0b7\nClinical response for AML: PR; \n\uf0b7\nClinical response for MDS/CMML:PR and Hematologic Improvement (HI)\n\uf0b7\nOverall response (CR or CRi or bone marrow CR or PR)\n\uf0b7\n1-year survival rate\n\uf0b7\nTime to progression\nClinical responses will be summarized by treatment arm, overall and within \ndisease type (i.e. AML or MDS/CMML). Percentage rates for composite CR \n(CR or CRi or bone marrow CR) will be reported along with 95% confidence \nintervals for both arms. Exact binomial confidence interval (implemented using \nSAS procedure FREQ with EXACT statement for one-way tables) will be \ncalculated (Clopper and Pearson 1934). Point estimates and confidence \nintervals for the difference in rates between the treatment arms will also be\nreported. The 1-year survival rate will be obtained from the Kaplan-Meier \ncurve and its variance will be estimated by Greenwood\u2019s formula. Time to \nprogression will also be analyzed through Kaplan-Meier curves.\nSafety variables and analysis\nAll adverse events recorded during the study will be summarized by treatment \narm. The incidence of treatment-emergent adverse events (new or worsening \nfrom baseline) will be summarized by body system, severity (based on \nCTCAE grades), type of adverse event, and relation to the study treatment. \nDeaths reportable as SAEs and non-fatal serious adverse events will be listed \nby patient, type of adverse event, and treatment arm.\nThe assessment of safety will be based mainly on the frequency of adverse \nevents, on the number of laboratory values that fall outside of pre-determined \nranges, and other safety data. \n",
+                "Sub-sections": []
+            }
+        ]
+    },
+    {
+        "Header Number": "1",
+        "Title": "Background",
+        "Content": "",
+        "Sub-sections": [
+            {
+                "Header Number": "1.1",
+                "Title": "Overview of myelodysplastic syndromes (MDS)",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "1.1.1",
+                        "Title": "Classification of MDS",
+                        "Content": "",
+                        "Sub-sections": [
+                            {
+                                "Header Number": "N/A",
+                                "Title": "Table 1-1 International Prognostic Scoring System and prognosis",
+                                "Content": "",
+                                "Sub-sections": []
+                            }
+                        ]
+                    },
+                    {
+                        "Header Number": "1.1.2",
+                        "Title": "Treatment options in intermediate-2 (INT-2) and high risk MDS",
+                        "Content": "",
+                        "Sub-sections": [
+                            {
+                                "Header Number": "N/A",
+                                "Title": "Table 1-2 Hematological response and hematological improvement based on IWG criteria for MDS",
+                                "Content": "",
+                                "Sub-sections": []
+                            }
+                        ]
+                    },
+                    {
+                        "Header Number": "1.1.3",
+                        "Title": "Overview of safety profile obtained with 5-Aza",
+                        "Content": "",
+                        "Sub-sections": [
+                            {
+                                "Header Number": "N/A",
+                                "Title": "Table 1-3 Summary of major toxic effects of 5-Aza",
+                                "Content": "",
+                                "Sub-sections": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Header Number": "1.2",
+                "Title": "Overview of panobinostat (LBH589)",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "N/A",
+                        "Title": "Table 1-4 Study CLBH589B2102 dose escalation summary - Arm 1 (three-times-a-week every week)",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "N/A",
+                        "Title": "Table 1-5 Study CLBH589B2102 dose escalation summary - Arm 2 (three-times-a-week every other week)",
+                        "Content": "",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "1.3",
+                "Title": "Combination of DNA methyltransferase inhibitors with deacetylase inhibitors",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "1.3.1",
+                        "Title": "Clinical experience combining 5-Aza and DAC inhibitors",
+                        "Content": "",
+                        "Sub-sections": [
+                            {
+                                "Header Number": "N/A",
+                                "Title": "Table 1-6 Clinical trials of combination regimens with DNMTi and DACi",
+                                "Content": "",
+                                "Sub-sections": []
+                            }
+                        ]
+                    },
+                    {
+                        "Header Number": "1.3.2",
+                        "Title": "Update of clinical experience with combining panobinostat with Vidaza from the phase Ib part of this study",
+                        "Content": "",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "1.4",
+                "Title": "History of Amendments",
+                "Content": "",
+                "Sub-sections": []
+            }
+        ]
+    },
+    {
+        "Header Number": "2",
+        "Title": "Rationale for the investigation of the combination treatment of 5-Aza and panobinostat",
+        "Content": "",
+        "Sub-sections": [
+            {
+                "Header Number": "2.1",
+                "Title": "Preclinical and clinical rationale supporting the combination of 5-Aza and panobinostat",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "N/A",
+                        "Title": "Figure 2-1 Dose-dependent induction of apoptosis by in vitro combination of 5-Aza and LBH589",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "N/A",
+                        "Title": "Figure 2-2 Expression of cell cycle and apoptotic markers in U937 cell line due to exposure to LBH589 and 5-Aza",
+                        "Content": "",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "2.2",
+                "Title": "5-Aza dose and schedule",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "2.3",
+                "Title": "Panobinostat starting dose and schedule",
+                "Content": "Novartis\nConfidential\nPage 49\nAmended Protocol Version 05 Clean\nStudy No. CLBH589H2101\n12.4% when panobinostat is given together with 75 mg/m2 of 5-Aza which is far below \nthe overdosing criterion of a probability less than 25%.\n\uf0b7\nConsequently, the starting dose of 20 mg of oral panobinostat when given for two weeks \nin a 28 days cycle in combination with 5-Aza is considered to be a clinically acceptable \nand safe starting dose to be combined with the established doses of 5-Aza.\nThe recommended phase II dose (RPIID) has been determined to be 30 mg of oral \npanobinostat once daily on Day 3, 5, 8, 10, 12, and 15 and is proposed as the dose for the \nphase IIb part of the study.\nIn the phase Ib as well as in the phase IIb part of the study oral panobinostat will be \nadministered over 2 weeks in a 28-day cycle. 5-Aza and panobinostat will be delivered in a \nsequential scheme of treatment as follows:\n\uf0b7\n5-Aza on Day 1-7 in week 1 of the treatment cycle\n\uf0b7\nPanobinostat on Day 3 and 5 of week 1 of the treatment cycle\n\uf0b7\nPanobinostat on Day 8, 10, and 12 of week 2 and on Day 15 of week 3.\nOverall 7 doses of 5-Aza (1 week treatment) and 6 doses of panobinostat (2 weeks treatment) \nwill be delivered in a 28 day treatment cycle. The same regimen will be repeated in \nsubsequent cycles. As previously mentioned, the treatment cycle might be extended to 42 \ndays to allow for recovery from toxicity (Section 6.6.1.6)\nAccording to 5-Aza label, treatment should be continued as long as the patient continues to \nbenefit or until disease progression. It is also recommended that patients be treated for a \nminimum of 6 cycles. Accordingly, the present study stipulates that at least 3 or 4 cycles of \nthe combination 5-Aza and panobinostat should be given unless disease progression or \nunacceptable toxicity or patient\u2019s consent withdrawal are encountered. The rationale for this \nschedule and its duration is based on the following considerations:\n\uf0b7\nThere are preclinical evidences suggesting that sequential addition of DACi to cells \npreincubated with DNMTi synergistically reactivates the expression of genes silenced \nthrough promoter methylation (Cameron 1999, Zhu 2001).\n\uf0b7\nBased on this concept, a number of clinical trials have been conducted by several groups \nusing a sequential administration of 5-Aza followed by a DACi such as phenylbutyrate, \nvalproic acid, belinostat and vorinostat (Table 1-6). In all these studies, the DACi inhibitor \nwas delivered following 5-Aza. Two weeks of rest was part of the treatment cycle of 28 \ndays. With this therapeutic approach, evidences of clinical activity and a manageable \nsafety profile were consistently reported, being the most promising results observed with \nthe combination of 5-Aza with vorinostat (Silverman et al 2008). A similar therapeutic \napproach has been proposed in the present study.\n\uf0b7\nAlthough the approved dose and schedule of 5-Aza cause marrow hypoplasia in a limited \nnumber of patients (10%), 5-Aza remains a myelosuppressive agent and patients should be \nmonitored for fever, neutropenia, and thrombocytopenia. There is a greater risk of these \nevents occurring during the first two cycles with single agent 5-Aza, after which their \nfrequency is reduced in patients with restoration of hematological function. Mean times to \nnadir values (across all cycles) for hematological parameters, including absolute \nneutrophils and platelets, were between 15 and 16 days in the pivotal CALGB 9221 study \n",
+                "Sub-sections": [
+                    {
+                        "Header Number": "2.3.1",
+                        "Title": "Drug-drug interaction between panobinostat and 5-Aza",
+                        "Content": "",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "2.4",
+                "Title": "Target population",
+                "Content": "",
+                "Sub-sections": []
+            }
+        ]
+    },
+    {
+        "Header Number": "3",
+        "Title": "Objectives",
+        "Content": "",
+        "Sub-sections": [
+            {
+                "Header Number": "3.1",
+                "Title": "Phase Ib part",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "3.1.1",
+                        "Title": "Primary objective",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "3.1.2",
+                        "Title": "Secondary objectives",
+                        "Content": "",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "3.2",
+                "Title": "Phase IIb part",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "3.2.1",
+                        "Title": "Primary objective",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "3.2.2",
+                        "Title": "Secondary objectives",
+                        "Content": "",
+                        "Sub-sections": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Header Number": "4",
+        "Title": "Study design",
+        "Content": "",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "5",
+        "Title": "Population",
+        "Content": "",
+        "Sub-sections": [
+            {
+                "Header Number": "5.1",
+                "Title": "Inclusion criteria",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "5.2",
+                "Title": "Exclusion criteria",
+                "Content": "",
+                "Sub-sections": []
+            }
+        ]
+    },
+    {
+        "Header Number": "6",
+        "Title": "Treatment",
+        "Content": "",
+        "Sub-sections": [
+            {
+                "Header Number": "6.1",
+                "Title": "Investigational and combination drugs",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "6.1.1",
+                        "Title": "How supplied",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "6.1.2",
+                        "Title": "Preparation and storage",
+                        "Content": "",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "6.2",
+                "Title": "Treatment Arms",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "6.2.1",
+                        "Title": "Phase Ib part",
+                        "Content": "",
+                        "Sub-sections": [
+                            {
+                                "Header Number": "N/A",
+                                "Title": "Table 6-1 Treatment doses and regimens (Phase Ib part)",
+                                "Content": "",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "N/A",
+                                "Title": "Figure 6-1 Treatment schedule (Phase Ib part)",
+                                "Content": "",
+                                "Sub-sections": []
+                            }
+                        ]
+                    },
+                    {
+                        "Header Number": "6.2.2",
+                        "Title": "Phase IIb part",
+                        "Content": "",
+                        "Sub-sections": [
+                            {
+                                "Header Number": "N/A",
+                                "Title": "Table 6-2 Treatment doses and regimens (Phase IIb part)",
+                                "Content": "",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "N/A",
+                                "Title": "Figure 6-2 Treatment schedule (Phase IIb part)",
+                                "Content": "",
+                                "Sub-sections": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Header Number": "6.3",
+                "Title": "Patient numbering",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "6.4",
+                "Title": "Treatment assignment",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "6.4.1",
+                        "Title": "IRT procedures",
+                        "Content": "",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "6.5",
+                "Title": "Treatment blinding",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "6.6",
+                "Title": "Treating the patient",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "6.6.1",
+                        "Title": "Study treatment administration",
+                        "Content": "",
+                        "Sub-sections": [
+                            {
+                                "Header Number": "N/A",
+                                "Title": "Table 6-3 Dose escalation levels",
+                                "Content": "Novartis\nConfidential\nPage 62\nAmended Protocol Version 05 Clean\nStudy No. CLBH589H2101\n5-Aza without causing serious, hence dose-limiting side effects/toxicities (DLT) given in a 7-\ndays schedule of 5-Aza.\nThe MTD is defined to be the highest dose of panobinostat given with 5-Aza in the first \ntreatment cycle. The applied adaptive Bayesian logistic regression model (BLRM) provides a \nrecommendation for the highest dose level of panobinostat in combination with 5-Aza by the \ndose with maximum probability of targeted toxicity (probability of DLT between 20%-35%). \nThe use of escalation with overdose control (EWOC) principle limits the risk of excessive or \nunacceptable toxicity (probability of DLT \u2265 35%) to less than 25% (for further details see \nSection 10.1.4.2 and [Post-text supplement 2]).\nIn order to be evaluable for the MTD determining set, patients of the safety set need to have \nreceived sufficient study treatment as defined in the minimum exposure criteria in cycle 1 \n(Table 10-1) and had sufficient safety evaluations or discontinued due to DLT in Cycle 1. \nPatients not experiencing DLT during Cycle 1 must have completed all safety assessments as \nrequested in the protocol during this treatment cycle and meet the minimum exposure criteria\nto be included in the MTD determining set. Patients who meet the minimum exposure criteria \nbut discontinue early (e.g., for disease progression) will be asked to have all scheduled safety \nevaluations performed as delineated in the protocol in order to remain evaluable for the MTD \ndetermining population. Patients who do not meet these minimum safety evaluation \nrequirements will be regarded as ineligible for the MTD-determining set and will be replaced.\nAt the end of each treatment cohort in the dose escalation part of the study, Novartis will \nconvene a teleconference with the investigators. At the dose escalation teleconference the \nclinical course (safety information including all DLTs and all \u2265 Grade 2 toxicity data during \nCycle 1 and ECG) for each patient in the current dose cohort will be described in detail. \nUpdated safety data on other ongoing patients, including data in later cycles, will be discussed \nas well. The final decision to dose escalate is not based solely on DLT information, but also \non a clinical interpretation of all the relevant toxicity (both DLT and non-DLT) using the \nBLRM's recommendation as a guideline to the decision making process. The maximum inter-\ncohort dose escalation permitted is 100%. In any case, the next dose will not exceed the \nrecommended dose by the BLRM. The parties must reach a consensus on whether to escalate \nthe dose any further, or whether to de-escalate or expand recruitment into particular cohorts. \nNovartis will prepare minutes from these meetings and circulate them within 24 hours to each \ninvestigator for comment prior to finalization. \nThe recommended phase II dose (RPIID) for panobinostat will be based on the overall \nassessment of the incidence of DLT of the first treatment cycle as provided by the adaptive \nBLRM in conjunction with safety data generated across treatment cycles at all tested dose \nlevels.\n6.6.1.5\nDose escalation\nDuring the phase Ib part of the study, a minimum of 3 patients will be assigned sequentially to \na cohort. A cohort consists of at least three patients eligible for the MTD determining set (see \nSection 10.1.1). Patients who are not eligible for the MTD determining set will be replaced. \nThe first patient of the first cohort will start study treatment at least one week before the next \npatients start study treatment.\nNovartis\nConfidential\nPage 63\nAmended Protocol Version 05 Clean\nStudy No. CLBH589H2101\nThe Bayesian model will be updated prior to additional enrollment under the following \nscenarios:\n1. If the first 2 patients in a cohort experience DLT prior to the enrollment of the 3rd patient. \nEnrollment will be halted, the model will be updated, and any new patients will be \nenrolled at a dose satisfying the overdose criteria, no higher than the current dose level.\n2. No additional patients will be enrolled until the current cohort is completed and the model \nis updated.\n3. For cohorts of > 3 patients if the observed number of DLTs exceeds 25% of the currently \nenrolled patients to that dose level, enrollment will be halted until all patients complete \none cycle of dosing or experience DLT. The model will be updated to determine the \nuncertainty about the probability of DLT at each dose level. New patients will be enrolled \nat a dose level up to the highest satisfying the overdose criteria.\nA decision will be jointly made by the investigators and the sponsor as to the dose level at \nwhich to continue dosing. \n6.6.1.6\nDose-limiting toxicities (For phase Ib portion only)\nThe DLT is defined as a toxicity requiring treatment withdrawal and includes the following:\n\uf0b7\nNon-hematologic toxicity qualifying for DLT: In all patients, any treatment emergent or \nnew NCI-CTCAE Grade 3 or 4 non-hematological toxicity, attributable to study treatment \n(either drug in combination). Additionally, treatment-emergent or new Grade 2 peripheral \nneuropathy attributable to study treatment, customarily considered DLT in cancer clinical \nstudies.\n\uf0b7\nHematologic toxicity qualifying for DLT: In all patients NCI CTCAE Grade 4 life-\nthreatening febrile neutropenia. A special distinction between patients evaluable or not for \nhematologic toxicity has been made in this study, considering that the majority of patients \nrepresenting the target population will have pre-existing severe cytopenias.  Management \nof hematologic toxicity according to baseline blood count values is an integral part of the \nVidaza label and common clinical practice in these patient populations. To overcome \ncomplexity in implementing the Vidaza label algorithm, a more user-friendly approach \nbased on clinical experience has been used in this study protocol. Hematologic toxicity \nwill not be evaluable unless patients demonstrate baseline neutrophil counts > 0.5 x 109/L \nand platelet counts > 20 x 109/L. In these patients, failure to recover neutrophil and \nplatelet counts to equal or higher baseline levels AND the demonstration of persistent \nbone marrow hypoplasia (MH) (<10% overall cellularity and <5% blasts) on Day 42 of \nCycle 1 will be considered a hematologic DLT at that dose level (see Figure 6-3). On the \nother hand, if a patient with the previous baseline values of neutrophils and platelets, \nexperiences persisting cytopenias on Day 42 AND does not exhibit MH on bone marrow \nbiopsy, this condition will not be considered a hematologic DLT and the patient will \ncommence Cycle 2 with the same doses of 5-Aza and panobinostat, provided no non-\nhematological DLT has been encountered. Patients with pre-existing cytopenias not \nevaluable for hematological toxicities (baseline neutrophil count \uf0a30.5 x 109/L or platelet \ncount \u2264 20 x 109/L) will commence cycle 2 with the same doses of 5-Aza and \npanobinostat on day 29 (i.e., day 1 of next cycle), if they have not experienced any non-\nhematological DLT (see Figure 6-3).\n",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "N/A",
+                                "Title": "Figure 6-3 Cycle 1 DLT decision algorithm for patients not experiencing grade 3 or 4 non-hematological toxicities",
+                                "Content": "Novartis\nConfidential\nPage 65\nAmended Protocol Version 05 Clean\nStudy No. CLBH589H2101\nDose adjustments due to hematological toxicity\nAll patients should receive supportive, hematological measures in accordance with \ninstitutional protocols. There will be no dose reductions for panobinostat below 10 mg (dose \nlevel -1). Following dose modifications, the cycle duration should return to 28 days.\nIn AZA-001 pivotal phase III trial (Fenaux et al 2009a), about 90% of patients experienced \ngrade 3-4 neutropenia and/or thrombocytopenia. Seventy-four percent of patients (n=72) with \nbaseline grade 0-2 thrombocytopenia developed grade 3-4 thrombocytopenia during treatment \nwith 5-Aza. However, 151 (86%) of patients remained on 75 mg/m 2 per day throughout the \nstudy with no dose adjustments for a median of 9 treatment cycles The median 5 -Aza cycle \nlength was 28 days and 21% of the cycles were longer than 35 days. These findings indicate \nthat provided adequate hematological supportive care, patients could continue on 5-Aza \ntherapy and benefit from it. Of note if that median time to response was rep orted to be 4 \nmonths. There is mounting clinical evidence that combining a hypomethylating agent, such as \n5-Aza, with DACi may shorten time to response to two cycles (Silverman et al 2008). \nTherefore, it is paramount to manage grade 3-4 cytopenia and possible residual disease with \noptimal hematological support in order to keep the patient, if not progressing, on treatment for \nseveral cycles to allow study treatment activity to occur.\nHematological toxicity deriving from the combination of panobinostat and 5-Aza and the \npotential risk for bleeding and infection/sepsis should be weighted against conventional \nmanagement of the disease and expected treatment benefit for the patients.\nFor phase IIb portion only: \nDuring the scheduled 2 weeks off of study treatment, neutropenia and thrombocytopenia are \nanticipated to be resolved to at least patient baseline CTCAE grade.  If by Day 28, there is \nfailure to recover from Grade 4 neutropenia or Grade 4 thrombocytopenia to \u2265 patient \nbaseline CTCAE grade, then study treatment may be delayed up to Day 42.  If these \ncytopenias persist, Table 6-4 below is offered as guidance for dose reductions in the phase IIb \npart of the study. \nManagement of febrile neutropenia\nAt least one-half of neutropenic patients who become febrile have an established or occult \ninfection and at least one-fifth of patients with neutrophil of <1.0 x 109/L has bacteremia. \nBecause the progression of infection in neutropenic patients can be rapid, and because such \npatients with early bacterial infections cannot be reliably distinguished from non-infected \npatients at presentation, empirical antibiotic therapy should be administered promptly to all \nneutropenic patients at the onset of fever. Afebrile patients who are neutropenic but who have \nsigns or symptoms compatible with an infection should also have empirical antibiotic therapy \nbegun in the same manner as do febrile patients. Selection of the initial antibiotic regimens \nshould follow institutional guidance, as well as considering low vs. high risk patients and \npotential drug-drug interactions with study treatment, i.e. panobinostat (Section 6.6.2).\nNovartis\nConfidential\nPage 66\nAmended Protocol Version 05 Clean\nStudy No. CLBH589H2101\nDose adjustments due to non hematological toxicity\nFor all treatment cycles, dosing should not be delayed beyond 42 days.\nNo dose modifications are required for grade 1 non-hematologic toxicity. Patients \nexperiencing NCI-CTCAE grade 2 non-hematologic toxicity (excluding prolonged QT \ninterval and peripheral neuropathy) may continue treatment with panobinostat at the current \ndose and schedule if in the best interest for the patient. More frequent monitoring of the \npatient may be required, and patients should be informed to call the Investigator immediately \nif there is any worsening of symptoms. (Table 6-6 for phase Ib part and Table 6-7 for phase\nIIb part)\nDose adjustments due to prolonged QT interval\nThe cardiac assessment schedule for the phase Ib and the phase IIb parts is shown in Table 7-\n5. Pre-dose ECG criteria is defined as a QTcF < 480 ms. In case any single pre-dose ECG \nduring the treatment cycle shows a QTcF \u2265 480 ms the administration of study drug is not \npermitted. Instead, dosing should be delayed until the next scheduled day of panobinostat \nintake and three pre-dose ECGs should be repeated. If, again, pre-dose ECG criteria are not \nmet the patient should be discontinued from the study. In case pre-dose ECG criteria are met \npanobinostat treatment can be resumed.\nIf any single post-dose ECG shows a QTcF \u2265 480 ms or an increase of more than 60 ms from \nbaseline panobinostat dosing should be delayed until the next scheduled day of panobinostat \nintake and three pre-dose ECGs done. If pre-dose ECG criteria are not met the patient should \nbe discontinued from the study. In case pre-dose ECG criteria are met (QTcF < 480 ms) \npanobinostat treatment can be resumed with a 10mg dose reduction.\nIf any single ECG shows QTcF > 500 ms the patient is discontinued from the study.\nIn case of QT prolongation it is recommended to check and correct patient\u2019s serum potassium, \nmagnesium, calcium and phosphorus immediately, as well as evaluate concomitant \nmedication. In case the prolongation is due to electrolyte imbalance or concomitant \nmedication the patient can continue the trial once these causes can be eliminated.\nThe Sponsor should be notified immediately of any QT prolongation that would cause delay \nof study drug administration, change in panobinostat dose or discontinuation of the patient \nfrom the study.\nDose adjustments due to 5-Aza-related renal toxicity\nThere are no reportings of renal toxicity with panobinostat in the ongoing clinical program. \nOn the other hand, renal tubular dysfunction manifesting as hypophosphatemia, hypokalemia \nor hyponatremia with or without increases in serum creatinine or blood urea nitrogen (BUN) \nmay infrequently occur with 5-Aza therapy. If serum bicarbonate falls below 20mEq/L and \nthe decrease is considered secondary to 5-Aza the patient should receive oral bicarbonate \nreplacement. If the event cannot be controlled replacement therapy should be continued and \nthe next 5-Aza cycle dosage be reduced by 50%. Other electrolyte disturbances should be \ntreated with appropriate replacement therapy. If serum creatinine or BUN increase by 2-fold \n",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "N/A",
+                                "Title": "Table 6-4 Phase IIb only: Panobinostat and Vidaza dose discontinuations/ interruptions/reductions for Grade 4 neutropenia and Grade 4 thrombocytopenia (NCI CTCAEv3.0)",
+                                "Content": "",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "N/A",
+                                "Title": "Table 6-5 Phase Ib and Phase IIb: Panobinostat and Vidaza dose discontinuations/interruptions/reductions for febrile neutropenia (NCI CTCAEv3.0)",
+                                "Content": "",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "N/A",
+                                "Title": "Table 6-6 Phase Ib only: Panobinostat dose interruptions/reductions for treatment-emergent/new non-hematological toxicities attributable to study treatment (except for prolonged QT interval)",
+                                "Content": "",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "N/A",
+                                "Title": "Table 6-7 Phase IIb only: Panobinostat dose interruptions/reductions for treatment emergent/new non-hematological toxicities attributable to study treatment (except for prolonged QT interval)",
+                                "Content": "",
+                                "Sub-sections": []
+                            }
+                        ]
+                    },
+                    {
+                        "Header Number": "6.6.2",
+                        "Title": "Other concomitant medications",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "6.6.3",
+                        "Title": "Study treatment discontinuation",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "6.6.4",
+                        "Title": "End of treatment",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "6.6.5",
+                        "Title": "Withdrawal of consent",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "6.6.6",
+                        "Title": "Follow-up for safety evaluation",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "6.6.7",
+                        "Title": "Lost to follow-up",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "6.6.8",
+                        "Title": "End of study (study evaluation completion)",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "6.6.9",
+                        "Title": "Emergency unblinding of treatment assignment",
+                        "Content": "",
+                        "Sub-sections": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Header Number": "7",
+        "Title": "Visit schedule and assessments",
+        "Content": "",
+        "Sub-sections": [
+            {
+                "Header Number": "N/A",
+                "Title": "Table 7-1 Visit evaluation schedule for Phase Ib and Phase IIb part",
+                "Content": "Novartis\nConfidential\nPage 75\nAmended Protocol Version 05 Clean\nStudy No. CLBH589H2101\nExamination\nScreening Cycle 1\n(28 days - additional visit in () if cycle is \nextended beyond day 28)\nCycle 2 through CSR cut off date\n(28 days - additional visits in () if cycle is extended \nbeyond day 28)\nEOT15 28d \nFu16\nEOS17\nSurvival \nFu18\nVisit\n1\n2\n3\n6\n601 7\n8\n9\n10\n11\n12\n13 14\n15\n777\n501\n778\nDay of cycle\n-14 to -1\n1\n2 3\n4 5 6 7 8\n10 12\n15 22 (29) 1\n2\n3\n4\n5\n6\n7\n8\n10 12 15 22\n(29)\nPregnancy test for \nWOCBP8\nX\nX\nX\nThyroid function test9\nX\nX\nEchocardiogramm or \nMUGA\nX\n5-Aza\nX X X\nX X X X\nX X\nX\nX\nX\nX\nX\nPanobinostat dosing\nX\nX\nX\nX\nX\nX\nX\nX\nX\nX\nX X\nPrior/concomitant \nmedications11\nCONTINUOUS\nX\nX\nAdverse events12\nCONTINUOUS\nX\nX\nECG13\nX\nX\nX\nX\nX\nX\nAntineoplastic therapy \nsince discontinuation \nof study treatment16\nX\nX\nPK assessment\nTable 7-6\nBone marrow exam / \nResponse \nassessment14\nX\nEnd of cycle14\nX\nExtramedullary \ndisease evaluation14\nX\nEnd of cycle14\nX\nNovartis\nConfidential\nPage 76\nAmended Protocol Version 05 Clean\nStudy No. CLBH589H2101\nExamination\nScreening Cycle 1\n(28 days - additional visit in () if cycle is \nextended beyond day 28)\nCycle 2 through CSR cut off date\n(28 days - additional visits in () if cycle is extended \nbeyond day 28)\nEOT15 28d \nFu16\nEOS17\nSurvival \nFu18\nVisit\n1\n2\n3\n6\n601 7\n8\n9\n10\n11\n12\n13 14\n15\n777\n501\n778\nDay of cycle\n-14 to -1\n1\n2 3\n4 5 6 7 8\n10 12\n15 22 (29) 1\n2\n3\n4\n5\n6\n7\n8\n10 12 15 22\n(29)\nSurvival\nX\n\u00a5        done in cycle 2 only\n1.\nScreening evaluations must be performed \u2264 14 days prior to cycle 1 administration of panobinostat and 5-Aza, unless otherwise stated. Baseline \ndemographics will be captured for screening failures as well as the reason for failure.\n2.\nPhysical examinations, vital signs, and weight will be performed on the scheduled day, even if study medication is being held. More frequent \nexaminations may be performed at the investigator\u2019s discretion, if medically indicated.\n3.\nECOG performance status - Section 8.1. Assessment of ECOG Performance Status will be performed on the scheduled day, even if study medication \nis being held. More frequent examinations may be performed at the investigator\u2019s discretion, if medically indicated. If the baseline assessment was \nperformed \u2264 72 hours prior to the first dose of panobinostat, then it does not need to be repeated on day 1 of cycle 1.\n4.\nHematology - Section 7.6.3.1\n5.\nCoagulation - Section 7.6.3.2\n6.\nBiochemistry - Section 7.6.3.3\n7.\nUrinalysis - Section 7.6.3.4\n8.\nPregnancy test - Section 7.6.3.6. All females of childbearing potential should complete a serum pregnancy test \u2264 72 hours prior to the administration \nof study treatment on day 1 of cycle 1 and at the end of treatment. In addition, a urine pregnancy test will be performed in monthly intervals pre-dose \non day 1 of each subsequent cycle during study duration.\n9.\nThyroid function test - Section 7.6.3.5\n \n11. Prior/concomitant medications - Record all medications administered \u2264 4 weeks prior to the administration of study treatment. Record all medications \ntaken during the study on the Concomitant Medications CRF.\n12. Adverse events - Section 8.1\n13. ECG - 12-lead ECG will be performed at scheduled time points as indicated in Table 7-5.  Single ECGs will be done at screening; triplicate ECGs will \nbe done in cycle 1 on days 3, 8, 12 and all subsequent treatment cycles on Day 3 and at EOT.\n \nNovartis\nConfidential\nPage 77\nAmended Protocol Version 05 Clean\nStudy No. CLBH589H2101\nExamination\nScreening Cycle 1\n(28 days - additional visit in () if cycle is \nextended beyond day 28)\nCycle 2 through CSR cut off date\n(28 days - additional visits in () if cycle is extended \nbeyond day 28)\nEOT15 28d \nFu16\nEOS17\nSurvival \nFu18\nVisit\n1\n2\n3\n6\n601 7\n8\n9\n10\n11\n12\n13 14\n15\n777\n501\n778\nDay of cycle\n-14 to -1\n1\n2 3\n4 5 6 7 8\n10 12\n15 22 (29) 1\n2\n3\n4\n5\n6\n7\n8\n10 12 15 22\n(29)\n \n15. End of treatment visit (EOT) - Patients who permanently discontinue study drug for any reason, will be considered to have completed study treatment, \nand should not be considered withdrawn from the study. Such patients should be scheduled for a visit as soon as possible, at which time all of the \nassessments listed should be performed..\n16. Follow-up - Section 6.6.6. All patients must be carefully monitored for adverse events and concomitant medications (including antineoplastic therapy) \nfor 28 days following the end of study treatment.\n17. Study evaluation completion (EOS) - Section 6.6.8. Once the patient discontinues study drug treatment and no additional study assessments will be \nperformed, the Study Evaluation Completion CRF should be completed.\n18. Survival Follow up - Section 6.6.8 - Survival information will be collected by telephone contact every three months for the first year after EOS visit, \nhereafter every six months.\n",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "N/A",
+                "Title": "Table 7-2 Visit evaluation schedule after CSR data cut off date (for the phase Ib and IIb part)",
+                "Content": "Novartis\nConfidential\nPage 79\nAmended Protocol Version 05 Clean\nStudy No. CLBH589H2101\nExamination\n(28 days - additional visits in () if cycle is extended beyond day 28)\nEOT11\n28d Fu12\nEOS13\nSurvival \nFu14\nVisit\n10\n11\n12\n13\n14\n15\n777\n501\n778\nDay of cycle\n1\n2\n3\n4\n5\n6\n7\n8\n10\n12\n15\n22\n(29)\nAdverse events8\nCONTINUOUS\nECG9\nX\nAntineoplastic therapy \nsince d/c of study \ntreatment \nX\nX\nBone marrow exam/ \nResponse assessment 10\nEnd of Cycle \nX\nExtramedullary disease \nevaluation10\nEnd of Cycle\nX\nSurvival\nX\n1. Hematology - Section 7.6.3.1\n2. Coagulation - Section 7.6.3.2\n3. Biochemistry - Section 7.6.3.3\n4. Urinalysis - Section 7.6.3.4\n5. Thyroid function test- Section 7.6.3.5\n \n7. Prior concomitant medications -Record all medications taken during the study on the Concomitant Medications CRF.\n8. Adverse Events - Section 8.1\n9. ECG - Table 7-5\n10. Response assessment - Section 7.5.1 - Bone marrow aspiration and /or biopsy after the data cut off date will be obtained at the discretion of the investigator. \n11. End of Treatment visit (EOT) - Section 6.6.4\n12. Follow-up - Section 6.6.6 Survival information will be collected by telephone contact every three months for the first year after EOS visit, hereafter every six months.\n13. Study Evaluation Completion (EOS) Section 6.6.8\n14. Survival follow up - Section 6.6.8\n15. Pregnancy test \u2013 Section 7.6.3.6\n",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "N/A",
+                "Title": "Table 7-3 Visit evaluation schedule as of protocol amendment 5 (for the phase Ib and IIb part)",
+                "Content": "Novartis\nConfidential\nPage 81\nAmended Protocol Version 05 Clean\nStudy No. CLBH589H2101\nExamination\n(28 days - additional visits in () if cycle is extended beyond day 28)\nEOT1\n28d Fu2\nEOS3\nSurvival \nFu4\nVisit\n777\n501\n778\nDay of cycle\n1\n2\n3\n4\n5\n6\n7\n8\n10\n12\n15\n22\n(29)\ndependency13\nBone marrow exam/ \nResponse assessment 13\nEnd of Cycle X\nExtramedullary disease \nevaluation13\nEnd of Cycle X\nAntineoplastic therapy \nsince d/c of study \ntreatment \nX\nX\n1. End of Treatment visit (EOT) - Section 6.6.4\n2. Follow-up - Section 6.6.6\n3. Study Evaluation Completion (EOS) Section 6.6.8\n4. Survival follow up - Section 6.6.8 Survival information will be collected by telephone contact every three months for the first year after EOS visit, hereafter every six \nmonths.\n5. Concomitant medications -Record all medications taken during the study on the Concomitant Medications CRF.\n6. Adverse Events - Section 8.1\n7. Hematology - Section 7.6.3.1\n8. Coagulation - Section 7.6.3.2\n9. Biochemistry - Section 7.6.3.3\n10. Urinalysis - Section 7.6.3.4\n11. Thyroid - Section 7.6.3.5\n12. ECG - Table 7-5\n13. Response assessment - Section 7.5.1\n",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "7.1",
+                "Title": "Disease classification/qualification at baseline",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "7.2",
+                "Title": "Information to be collected on screening failures",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "7.3",
+                "Title": "Patient demographics/other baseline characteristics",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "7.4",
+                "Title": "Treatments",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "7.5",
+                "Title": "Efficacy",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "7.5.1",
+                        "Title": "Efficacy assessments",
+                        "Content": "",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "7.6",
+                "Title": "Safety",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "7.6.1",
+                        "Title": "Performance status",
+                        "Content": "",
+                        "Sub-sections": [
+                            {
+                                "Header Number": "N/A",
+                                "Title": "Table 7-4 ECOG Performance Status",
+                                "Content": "",
+                                "Sub-sections": []
+                            }
+                        ]
+                    },
+                    {
+                        "Header Number": "7.6.2",
+                        "Title": "Cardiac assessments",
+                        "Content": "",
+                        "Sub-sections": [
+                            {
+                                "Header Number": "N/A",
+                                "Title": "Table 7-5 Cardiac assessment monitoring schedule",
+                                "Content": "",
+                                "Sub-sections": []
+                            }
+                        ]
+                    },
+                    {
+                        "Header Number": "7.6.3",
+                        "Title": "Laboratory evaluations",
+                        "Content": "Novartis\nConfidential\nPage 85\nAmended Protocol Version 05 Clean\nStudy No. CLBH589H2101\nsymptoms, and are considered clinically significant (e.g., require dose modification and/or \ninterruption of study drug, lead to clinical symptoms, cause study discontinuation or constitute \nin and of itself an SAE) or require therapy. These events should be recorded on the Adverse \nEvents CRF, as well as the appropriate laboratory CRF and/or comment CRF page. \nScreening labs may be repeated, if needed, to obtain acceptable values before the patient \nwould fail screening. Laboratory tests should be collected and analyzed immediately prior to \ndosing on the scheduled day.\n7.6.3.1\nHematology\nHematology tests include the following parameters: Complete blood count (CBC) including a \ntotal white blood cell count (WBC), neutrophil count, red blood cell count (RBC), lymphocyte, \nmonocyte, eosinophil, basophil, promyelocyte, metamyelocyte, myelocyte, and blast counts, \nhemoglobin (Hgb), hematocrit, and platelet count. Automated differential blood counts should \nbe accompanied by peripheral blood smear assessed by a pathologist and results reported in \nthe CRF.\nHematology is done at screening and within 72 hours, on Day 1 of each cycle; then on Day 8, \n15, 22 in Cycle 1, and continues weekly in case the treatment cycle is extended beyond Day \n28; and at End of Treatment Visit. As of protocol amendment 5, hematology tests will be \nperformed at the discretion of the investigator (Table 7-3).\nMore frequent examinations may be performed at the investigator\u2019s discretion if medically \nindicated; results should be recorded on the Unscheduled Visit CRFs.\n7.6.3.2\nCoagulation\nThe coagulation profile includes prothrombin time (PT) or International Normalized Ratio \n(INR), partial thromboplastin time (PTT), and fibrinogen. The coagulation profile should be \nperformed at the following time points: Screening (does not need to be repeated at Cycle 1 \nDay 1 if obtained within -7 days before Cycle 1 Day 1); Pre-dose on Day 1 of every cycle \nthrough Cycle 6; Pre-dose on Day 1 of every other cycle there after; End of Treatment visit.\nAs of protocol amendment 5, coagulation tests will be performed at the discretion of the \ninvestigator (Table 7-3).\n7.6.3.3\nBiochemistry\nBiochemistry includes the following parameters: urea or BUN, creatinine, sodium, potassium, \nglucose, calcium, albumin, total protein, total bilirubin (direct and indirect), alkaline \nphosphatase, AST, ALT, inorganic phosphorous, magnesium, bicarbonate, LDH (screening \nonly), and uric acid.\nBiochemistry is done at screening and within 72 hours, on Day 1 of each cycle; then on Day 8, \n15, 22 in Cycle 1 and Cycle 2; On Day 15 of each subsequent Cycle, and continues weekly in \ncase the treatment cycle is extended beyond Day 28; and at End of Treatment Visit. If the \nbaseline examination was performed \u226472 hours prior to the first dose of study treatment, it \nneed not be repeated on Day 1. As of protocol amendment 5, biochemistry will be performed \nat the discretion of the investigator (Table 7-3).\n",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "7.7",
+                "Title": "Tolerability",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "7.8",
+                "Title": "Resource utilization",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "7.9",
+                "Title": "Patient-reported outcomes",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "7.10",
+                "Title": "Pharmacokinetic assessment",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "N/A",
+                        "Title": "Table 7-6 PK blood sampling",
+                        "Content": "Novartis\nConfidential\nPage 88\nAmended Protocol Version 05 Clean\nStudy No. CLBH589H2101\nNovartis\nConfidential\nPage 89\nAmended Protocol Version 05 Clean\nStudy No. CLBH589H2101\n",
+                        "Sub-sections": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Header Number": "8",
+        "Title": "Safety monitoring and reporting",
+        "Content": "",
+        "Sub-sections": [
+            {
+                "Header Number": "8.1",
+                "Title": "Adverse events",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "8.1.1",
+                        "Title": "Definitions and reporting",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "8.1.2",
+                        "Title": "Laboratory test abnormalities",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "8.1.3",
+                        "Title": "Adverse events of special interest",
+                        "Content": "",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "8.2",
+                "Title": "Serious adverse events",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "8.2.1",
+                        "Title": "Definitions",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "8.2.2",
+                        "Title": "Reporting",
+                        "Content": "",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "8.3",
+                "Title": "Emergency unblinding of treatment assignment",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "8.4",
+                "Title": "Pregnancies",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "8.5",
+                "Title": "Warning and precautions",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "8.6",
+                "Title": "Data monitoring committee",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "8.7",
+                "Title": "Steering committee",
+                "Content": "",
+                "Sub-sections": []
+            }
+        ]
+    },
+    {
+        "Header Number": "9",
+        "Title": "Data collection and management",
+        "Content": "",
+        "Sub-sections": [
+            {
+                "Header Number": "9.1",
+                "Title": "Data confidentiality",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "9.2",
+                "Title": "Site monitoring",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "9.3",
+                "Title": "Data collection",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "9.3.1",
+                        "Title": "Electrocardiogram",
+                        "Content": "",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "9.4",
+                "Title": "Database management and quality control",
+                "Content": "",
+                "Sub-sections": []
+            }
+        ]
+    },
+    {
+        "Header Number": "10",
+        "Title": "Statistical methods and data analysis",
+        "Content": "",
+        "Sub-sections": [
+            {
+                "Header Number": "10.1",
+                "Title": "Phase Ib part",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "10.1.1",
+                        "Title": "Populations for analysis",
+                        "Content": "",
+                        "Sub-sections": [
+                            {
+                                "Header Number": "N/A",
+                                "Title": "Table 10-1 Minimum exposure criteria (Cycle 1)",
+                                "Content": "",
+                                "Sub-sections": []
+                            }
+                        ]
+                    },
+                    {
+                        "Header Number": "10.1.2",
+                        "Title": "Patient demographics/other baseline characteristics",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "10.1.3",
+                        "Title": "Treatments (study drug, concomitant therapies, compliance)",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "10.1.4",
+                        "Title": "Primary objective",
+                        "Content": "Novartis\nConfidential\nPage 98\nAmended Protocol Version 05 Clean\nStudy No. CLBH589H2101\noverall clinical assessment of safety taking into consideration safety and tolerability data from \nall cycles. \n10.1.4.2 Statistical hypothesis, model, and method of analysis\nAn adaptive Bayesian logistic regression model (BLRM) and dose escalation criteria similar \nto that proposed by (Babb Rogatko and Zacks 1998) will be used to guide the dose escalation \nto determine the MTD of panobinostat in combination with a fixed dose of 5-Aza. Informative \npriors for panobinostat will be derived based on the DLT rate obtained from a similar trial \n[CLBH589B2102, arm X] with the similar populations, formulations, dose regimens and for \n5-Aza from publications. MTD will be assessed during the first treatment cycle. Each cohort \nwill consist of a minimum of 3 patients fully evaluable for therapy-related toxicities over the \nfirst cycle of treatment. Posterior probabilities of the DLT from the model will be summarized. \nSelection of the next dose will be based on these probabilities as well as on other safety and \nlaboratory data. For details please refer to the [Post-text supplement 2].\nDose recommendation will be based on posterior summaries for each dose combination and \nthe interval probabilities for underdosing, targeted, excessive, and unacceptable toxicity for \nintervals. Once updated, the distribution summarizes the probability that the true probability \nof a DLT for each dose combination lies in one of the following categories:\n\uf0b7\n[0, 20%) under-dosing\n\uf0b7\n[20%, 35%) targeted toxicity\n\uf0b7\n[35%,60%) excessive toxicity\n\uf0b7\n[60, 100%] unacceptable toxicity.\nFollowing the principle of EWOC, after each cohort of patients the recommended dose \ncombination is the one with the highest posterior probability of DLT in the target interval \n[20%, 35%) among the doses fulfilling the overdose criteria: there is less than 25% chance of \neither excessive or unacceptable toxicity. The maximum inter-cohort dose escalation \npermitted is 100%. The dose recommended by the adaptive BLRM may be regarded as \ninformation to be integrated with a clinical assessment of the safety data observed thus far in \ndetermining the next dose to be investigated. In any case, the next dose will not exceed the \nrecommended dose by the BLRM. Cohorts of at least 3 and up to a maximum of 12 MTD-\nevaluable patients will be enrolled in the dose-escalation part including at least 9 patients at \nthe MTD. The Bayesian model will be updated prior to additional enrollment under the \nfollowing scenarios:\n1. If the first 2 patients in a cohort experience DLT prior to the enrollment of the 3rd patient. \nEnrollment will be halted, the model will be updated, and any new patients will be \nenrolled at a dose satisfying the overdose criteria, no higher than the current dose level.\n2. No additional patients will be enrolled until the current cohort is completed and the model \nis updated.\n3. For cohorts of > 3 patients if the observed number of DLTs exceeds 25% of the currently \nenrolled patients to that dose level, enrollment will be halted until all patients complete \none cycle of dosing or experience DLT. The model will be updated to determine the \nuncertainty about the probability of DLT at each dose level. New patients will be enrolled \nat a dose level up to the highest satisfying the overdose criteria.\n",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "10.1.5",
+                        "Title": "Secondary objectives",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "10.1.6",
+                        "Title": "Population and grouping for the analyses",
+                        "Content": "",
+                        "Sub-sections": [
+                            {
+                                "Header Number": "N/A",
+                                "Title": "Table 10-2 Probability of detecting at least one adverse event in cohort as a function of the cohort size",
+                                "Content": "",
+                                "Sub-sections": []
+                            }
+                        ]
+                    },
+                    {
+                        "Header Number": "10.1.7",
+                        "Title": "Resource utilization",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "10.1.8",
+                        "Title": "Patient-reported outcomes",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "10.1.9",
+                        "Title": "Pharmacokinetics",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "10.1.12",
+                        "Title": "Interim analysis",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "10.1.13",
+                        "Title": "Sample size calculation",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "10.1.14",
+                        "Title": "Power for analysis of critical secondary variables",
+                        "Content": "",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "10.2",
+                "Title": "Phase IIb part",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "10.2.1",
+                        "Title": "Population for analysis",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "10.2.2",
+                        "Title": "Population and grouping for the analyses",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "10.2.3",
+                        "Title": "Patient demographics/other baseline characteristics",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "10.2.4",
+                        "Title": "Treatments (study drug, concomitant therapies, compliance)",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "10.2.5",
+                        "Title": "Primary objective",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "10.2.6",
+                        "Title": "Secondary objectives",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "10.2.8",
+                        "Title": "Efficacy variables and analysis",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "10.2.9",
+                        "Title": "Safety variables and analysis",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "10.2.10",
+                        "Title": "Sample size calculation",
+                        "Content": "",
+                        "Sub-sections": [
+                            {
+                                "Header Number": "N/A",
+                                "Title": "Table 10-3 Probability of observing clinically relevant improvement based on an assessment of composite CR (CR or CRi or bone marrow CR)",
+                                "Content": "",
+                                "Sub-sections": []
+                            }
+                        ]
+                    },
+                    {
+                        "Header Number": "10.2.11",
+                        "Title": "Interim analysis",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "10.2.12",
+                        "Title": "Power for analysis of critical secondary variables",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "10.2.13",
+                        "Title": "Handling of missing values/censoring/discontinuations",
+                        "Content": "",
+                        "Sub-sections": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Header Number": "11",
+        "Title": "Ethical considerations and administrative procedures",
+        "Content": "",
+        "Sub-sections": [
+            {
+                "Header Number": "11.1",
+                "Title": "Regulatory and ethical compliance",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "11.2",
+                "Title": "Responsibilities of the investigator and IRB/IEC/REB",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "11.3",
+                "Title": "Informed consent procedures",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "11.4",
+                "Title": "Discontinuation of the study",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "11.5",
+                "Title": "Publication of study protocol and results",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "11.6",
+                "Title": "Study documentation, record keeping and retention of documents",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "11.7",
+                "Title": "Confidentiality of study documents and patient records",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "11.8",
+                "Title": "Audits and inspections",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "11.9",
+                "Title": "Financial disclosures",
+                "Content": "",
+                "Sub-sections": []
+            }
+        ]
+    },
+    {
+        "Header Number": "12",
+        "Title": "Protocol adherence",
+        "Content": "",
+        "Sub-sections": [
+            {
+                "Header Number": "12.1",
+                "Title": "Amendments to the protocol",
+                "Content": "",
+                "Sub-sections": []
+            }
+        ]
+    },
+    {
+        "Header Number": "13",
+        "Title": "References (available upon request)",
+        "Content": "Novartis\nConfidential\nPage 110\nAmended Protocol Version 05 Clean\nStudy No. CLBH589H2101\nGreenberg P, Cox C, LeBeau MM, et al (1997) International scoring system for evaluating \nprognosis in myelodysplastic syndromes. Blood; 89 (6):2079-2088.\nLeone G, D'Alo F, Zardo G, et al (2008) Epigenetic treatment of myelodysplastic syndromes \nand acute myeloid leukemias. Curr.Med.Chem.; 15 (13):1274-1287.\n \nMaslak P, Chanel S, Camacho LH, et al (2006) Pilot study of combination transcriptional \nmodulation therapy with sodium phenylbutyrate and 5-azacytidine in patients with acute \nmyeloid leukemia or myelodysplastic syndrome. Leukemia 20 (2):212-7. 0887-6924.\nMoe-Behrens GH, Pandolfi PP (2003) Targeting aberrant transcriptional repression in acute \nmyeloid leukemia. Rev.Clin.Exp.Hematol.; 7 (2):139-159.\nMufti GJ, Bennett JM, Goasguen J, et al (2008) Diagnosis and classification of \nmyelodysplastic syndrome: International Working Group on Morphology of myelodysplastic \nsyndrome (IWGM-MDS) consensus proposals for the definition and enumeration of \nmyeloblasts and ring sideroblasts. Haematologica; 93 (11):1712-1717.\nMuller-Berndorff H, Haas PS, Kunzmann R, et al (2006) Comparison of five prognostic \nscoring systems, the French-American-British (FAB) and World Health Organization (WHO) \nclassifications in patients with myelodysplastic syndromes: Results of a single-center analysis. \nAnn.Hematol.; 85 (8):502-513.\nOdenike OM, Green M, Larson R, et al (2008) Phase I study of belinostat (PXD101) plus \nazacitidine (AZC) in patients with advanced myeloid neoplasms [abstract]. 2008 ASCO \nAnnual Meeting.\nOttmann OG, Spencer A, Prince HM, et al (2008) Phase IA/II Study of Oral Panobinostat \n(LBH589), a Novel Pan-Deacetylase Inhibitor (DACi) Demonstrating Efficacy in Patients \nwith Advanced Hematologic Malignancies [abstract]. 50th ASH Annual Meeting.\nRaj K, Mufti GJ (2006) Azacytidine (Vidaza\u00ae) in the treatment of myelodysplastic syndromes. \nTher.Clin.Risk Manag.; 2 (4):377-388.\nRothenberg ML, Meropol NJ, Poplin EA, et al (2001) Mortality associated with irinotecan \nplus bolus fluorouracil/leucovorin: summary findings of an independent panel. J.Clin.Oncol.; \n19 (18):3801-3807.\nRudek MA, Zhao M, He P, et al (2005) Pharmacokinetics of 5-azacitidine administered with \nphenylbutyrate in patients with refractory solid tumors or hematologic malignancies. \nJ.Clin.Oncol.; 23 (17):3906-3911.\nSezer O, San Miguel JF, Mateos M-V, et al (2008) A Phase IB, Multicenter, Open-Label,\nDose-Escalation Study of Oral Panobinostat (LBH589) and I.V. Bortezomib in Patients with \nRelapsed Multiple Myeloma [abstract]. ASH 2008, 6-9 December San Francisco.\n",
+        "Sub-sections": []
+    }
+]

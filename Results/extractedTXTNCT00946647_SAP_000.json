@@ -1,0 +1,785 @@
+[
+    {
+        "Header Number": "N/A",
+        "Title": "A phase Ib/IIb, open-label, multi-center, dose-escalation study of oral Panobinostat (LBH589) administered with 5-Azacitidine (Vidaza\u00ae) in adult patients with Myelodysplastic Syndromes (MDS), Chronic Myelomonocytic Leukemia (CMML) or Acute Myeloid Leukemia (AML)",
+        "Content": "",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "N/A",
+        "Title": "RAP Module 3 \u2013 Detailed Statistical Methodology (Amendment 2)",
+        "Content": " Author:   Document type: RAP Documentation Document status: Version 2.1, Final Release date: 29-Oct-2014Property of Novartis Confidential May not be used, divulged, published or otherwise disclosed without the consent of Novartis Novartis \nConfidential \nPage 2 \nRAP Module 3 \n28-Oct-2014 \nCLBH589H2101 \n \nChange history \nCREDI Version \nDate \nChanges \n \n \n \nAmendment 1  \n23-Jun-2014 \nAnalysis plans corresponding to the phase IIb part have been \nadded \nMinor changes to existing analysis descriptions have been made \nto align with the current project MAP \n \n \n \nAmendment 2 \n29-Oct-2014 \nThe sections on dose intensity calculation in the M3 were \nrevised to simplify definitions of dose intensity and relative dose \nintensity, as they applied to this study. \nFor the purpose of dose intensity calculations, a general \nalgorithm was put in place to assign doses to days.  \n \n \nNovartis \nConfidential \nPage 3 \nRAP Module 3 \n28-Oct-2014 \nCLBH589H2101 \n \nTable of contents \nClinical Development ............................................................................................................ 1 \n1 \nIntroduction .................................................................................................................... 7 \nDocument content ........................................................................................................... 7 \n2 \nStudy design ................................................................................................................... 8 \n3 \nObjectives ....................................................................................................................... 9 \n3.1 \nPhase Ib part ........................................................................................................ 9 \n3.1.1 \nPrimary objective ................................................................................. 9 \n3.1.2 \nSecondary objectives ......................................................................... 10 \n \n 10 \n3.2 \nPhase IIb part ..................................................................................................... 10 \n3.2.1 \nPrimary objective ............................................................................... 10 \n3.2.2 \nSecondary objectives ......................................................................... 11 \n \n 11 \n4 \nPopulation ..................................................................................................................... 11 \n5 \nDraft of Section 9.7 of CSR on Statistical methods ........................................................ 12 \n5.1 \nStatistical methods and data analysis .................................................................. 12 \n5.1.1 \nPhase Ib part ...................................................................................... 12 \n5.1.2 \nPhase IIb part ..................................................................................... 13 \n5.2 \nPopulations for analysis: definitions ................................................................... 13 \n5.2.1 \nPhase Ib part ...................................................................................... 13 \n5.2.2 \nPhase IIb part ..................................................................................... 13 \n5.3 \nPopulation and grouping for the analyses ........................................................... 14 \n5.4 \nPatient disposition, demographics and other baseline characteristics .................. 14 \n5.5 \nTreatments (study drug, concomitant therapies, compliance).............................. 14 \n5.6 \nPharmacokinetics ............................................................................................... 15 \n5.7 \nSafety variables and analyses ............................................................................. 15 \n5.7.1 \nAdverse events (AE) .......................................................................... 15 \n5.7.2 \nLaboratory abnormalities ................................................................... 15 \n5.7.3 \nOther safety data ................................................................................ 15 \n5.7.4 \nTolerability ........................................................................................ 15 \n5.8 \nEfficacy variables and analyses .......................................................................... 15 \n5.8.1 \nPhase Ib part ...................................................................................... 16 \n5.8.2 \nPhase IIb part ..................................................................................... 16 \n \n 17 \nNovartis \nConfidential \nPage 4 \nRAP Module 3 \n28-Oct-2014 \nCLBH589H2101 \n \n \n 17 \n \n17 \n5.10 \nHandling of missing values/censoring/discontinuations ...................................... 17 \n5.11 \nSubgroup analyses ............................................................................................. 17 \n5.12 \nInterim analysis ................................................................................................. 17 \n5.13 \nSample size calculation ...................................................................................... 18 \n5.13.1 \nPhase Ib part ...................................................................................... 18 \n5.13.2 \nPhase IIb part ..................................................................................... 18 \n5.14 \nPower for analysis of critical secondary variables .............................................. 19 \n6 \nChanges in analyses specified in the protocol ................................................................ 19 \nDraft of Appendix 16.1.9 ..................................................................................................... 20 \n1 \nTable of contents ........................................................................................................... 22 \n2 \nIntroduction .................................................................................................................. 25 \n3 \nDefinitions and general methodology ............................................................................ 26 \n3.1 \nDefinitions ......................................................................................................... 26 \n3.1.1 \nStudy drug and study treatment .......................................................... 26 \n3.1.2 \nPhase Ib part ...................................................................................... 26 \n3.1.3 \nPhase IIb part ..................................................................................... 26 \n3.1.4 \nDate of first administration of study drug ........................................... 26 \n3.1.5 \nDate of last administration of study drug ............................................ 26 \n3.1.6 \nDate of first administration of study treatment.................................... 26 \n3.1.7 \nDate of last administration of study treatment .................................... 26 \n3.1.8 \nStudy day ........................................................................................... 27 \n3.1.9 \nBaseline ............................................................................................. 27 \n3.1.10 \nOn-treatment assessment/event/period ............................................... 28 \n3.1.11 \nTime windows ................................................................................... 28 \n3.1.12 \nScreening failure ................................................................................ 28 \n3.2 \nData included in analyses ................................................................................... 28 \n3.3 \nDefinition of analysis sets .................................................................................. 29 \n3.3.1 \nPhase Ib part ...................................................................................... 29 \n3.3.2 \nPhase IIb part ..................................................................................... 29 \n3.4 \nPopulation and grouping for the analyses ........................................................... 30 \n3.5 \nProtocol deviations ............................................................................................ 30 \n3.6 \nConcomitant therapy .......................................................................................... 30 \n3.6.1 \nConcomitant medications with specific impact on the analysis ........... 31 \n3.7 \nGeneral statistical methodology ......................................................................... 31 \nNovartis \nConfidential \nPage 5 \nRAP Module 3 \n28-Oct-2014 \nCLBH589H2101 \n \n3.7.1 \nBaseline comparability ....................................................................... 31 \n3.7.2 \nMultiple assessments within post-baseline visits ................................ 31 \n3.7.3 \nCenter pooling ................................................................................... 31 \n3.7.4 \n1-sided vs. 2-sided test ....................................................................... 31 \n3.7.5 \nBetween group comparisons .............................................................. 32 \n3.7.6 \nConversion factors ............................................................................. 32 \n3.8 \nImplementation of efficacy criteria .................................................................... 32 \n4 \nStatistical methods used in reporting ............................................................................. 32 \n4.1 \nBackground and demographic characteristics ..................................................... 32 \n4.1.1 \nBasic demographic and background data ............................................ 32 \n4.1.2 \nProtocol eligibility criteria ................................................................. 33 \n4.1.3 \nDiagnosis and characteristics of disease ............................................. 33 \n4.1.4 \nMedical history .................................................................................. 34 \n4.1.5 \nPrior anti-neoplastic therapy .............................................................. 34 \n4.1.6 \nOther ................................................................................................. 35 \n4.2 \nProtocol deviation summaries ............................................................................ 35 \n4.3 \nGroupings for Analysis ...................................................................................... 35 \n4.4 \nPatient disposition .............................................................................................. 35 \n4.5 \nFollow-up .......................................................................................................... 36 \n4.6 \nLast contact date ................................................................................................ 36 \n4.7 \nStudy treatment and duration of study treatment exposure .................................. 37 \n4.7.1 \nDuration of study treatment exposure ................................................. 37 \n4.7.2 \nCycle definition ................................................................................. 38 \n4.7.3 \nPartial dates ....................................................................................... 40 \n4.7.4 \nCumulative dose ................................................................................ 40 \n4.7.5 \nDI and RDI ........................................................................................ 40 \n4.7.6 \nDose intensity over study period ........................................................ 41 \n4.8 \nConcomitant therapy .......................................................................................... 42 \n4.8.1 \nConcomitant medications with specific impact on the analysis ........... 43 \n4.9 \nPrimary safety variable ...................................................................................... 43 \n4.9.1 \nAnalysis of the primary safety variable .............................................. 43 \n4.9.2 \nSensitivity and other supportive analyses ........................................... 43 \n4.10 \nSafety evaluation ............................................................................................... 43 \n4.10.1 \nAdverse events ................................................................................... 43 \n4.10.2 \nAE summaries ................................................................................... 44 \n4.10.3 \nClinical notable AE ............................................................................ 45 \nNovartis \nConfidential \nPage 6 \nRAP Module 3 \n28-Oct-2014 \nCLBH589H2101 \n \n4.10.4 \nLaboratory data .................................................................................. 46 \n4.10.5 \nVital signs .......................................................................................... 47 \n4.10.6 \nHandling of missing values ................................................................ 48 \n4.10.7 \nECG................................................................................................... 48 \n4.10.8 \nECOG performance status .................................................................. 50 \n4.11 \nEfficacy analysis ................................................................................................ 50 \n4.11.1 \nEfficacy analysis for the phase Ib part ................................................ 50 \n4.11.2 \nEfficacy analysis for the phase IIb part ............................................... 50 \n4.11.3 \nKaplan-Meier analysis ....................................................................... 52 \n4.11.4 \nHandling of missing values/discontinuations ...................................... 53 \n4.11.5 \nTransfusions ...................................................................................... 53 \n4.12 \nHandling of missing values/discontinuations ...................................................... 55 \n4.13 \nSubgroup analysis .............................................................................................. 55 \n4.14 \nPharmacokinetic analyses .................................................................................. 55 \n \n 55 \n \n 55 \n \n56 \n4.16 \nInterim analyses ................................................................................................. 56 \n5 \nReferences .................................................................................................................... 56 \n6 \nAppendix ...................................................................................................................... 57 \nA1 \nInstructions given to sites for completion of the DAR forms .............................. 57 \n \nAbbreviations \nAbbreviation \nDetail \n5-Aza \n5-Azacytidine, trade name: Vidaza\u00ae \nAE \nAdverse event \nAML \nAcute myeloid leukemia \nANC \nAbsolute neutrophil count \nATC \nAnatomical, therapeutical, chemical \nBLRM \nBayesian logistic regression model \nbpm \nbeats per minute \nBSA \nbody surface area \nCMML \nChronic myelomonocytic leukemia \nCNAE \nClinical notable adverse event \nCNS \ncentral nervous system \nCR \nComplete remission \nCRF \nCase report form \nNovartis Confidential Page 7 RAP Module 3 28-Oct-2014 CLBH589H2101  Abbreviation Detail CRi Complete remission with incomplete blood count recovery CSR Clinical study report CTC Common Terminology Criteria CTCAE Common Terminology Criteria for Adverse Events CYP cytochrome P450 DAR Dose administration record DLT Dose-limiting toxicity ECG 12 lead electrocardiogram ECOG Eastern Cooperative Oncology Group EWOC Escalation with overdose control FAB French-American-British FAS Full analysis set HI Hematologic improvement HSCT Hematopoeitic stem cell transplantation  IPSS International prognostic scoring system LLOQ Lower limit of quantitation MAP Master analysis plan MDS myelodysplastic syndrome MedDRA medical dictionary for regulatory activities ms Milliseconds MTD Maximum tolerated dose NCI National cancer institute PAN Panobinostat PK Pharmacokinetic PR Partial remission PT Preferred Term (category of MedDRA) RAP Report and analysis plan SAE Serious Adverse Event SD Stable disease SI Syst\u00e8me internationale SOC System organ class (category of MedDRA) T4 thyroxine TSH thyroid stimulating hormone VAP Validation and planning WHO World Health Organization ",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "1",
+        "Title": "Introduction",
+        "Content": " ",
+        "Sub-sections": [
+            {
+                "Header Number": "N/A",
+                "Title": "Document content",
+                "Content": " This RAP module describes the planned statistical methods. It is structured as Novartis Confidential Page 8 RAP Module 3 28-Oct-2014 CLBH589H2101  \u2022 A draft of Section 9.7 of the clinical study report (CSR) [Statistical methods planned in the protocol and determination of sample size] \u2022 A draft of Appendix 16.1.9 (Documentation of statistical methods).  Appendix 16.1.9 text will contain details of statistical methods and issues that are too long to include in the CSR text. (Appendix 16.1.9 is not mandatory for abbreviated and synoptic reports). It is written in future tense. It will be reviewed and updated (including conversion to past tense) for entry into the CSR after the statistical analysis has taken place. The data will be analyzed by Novartis and/or designated CRO. Any data analysis carried out independently by the investigator should be submitted to Novartis before publication or presentation. It is planned that the data from participating centers in this protocol will be combined, so that an adequate number of patients will be available for analysis. Data from the phase Ib and phase IIb parts will be separately analyzed, but presented in the same CSR. Unless, otherwise specified in this document, the same conventions and working definitions will apply to analyses conducted in the two phases of this study. The core CSR, encompassing both phase Ib and phase IIb parts, will be based on a data cut-off corresponding to the time point where all patients from the phase IIb part have either completed 12 cycles of study treatment or discontinued study treatment for any reason whichever comes first. An addendum to the core clinical study report will be provided at the time of completion of the study to summarize and/or list the additional safety and efficacy data as appropriate. Patients who are continuing their treatment at the time of data cut-off and are assessed by the Investigator to have the potential to benefit from their treatment will continue their assigned treatment on a reduced assessment schedule allowing collection and review of safety, efficacy, and survival data.  ",
+                "Sub-sections": []
+            }
+        ]
+    },
+    {
+        "Header Number": "2",
+        "Title": "Study design",
+        "Content": " This is an open-label, multi-center, phase Ib/IIb study. The phase Ib part of the study is designed to determine the maximum tolerated dose (MTD) and/or the recommended phase II dose (RPIID) of panobinostat administered in a fixed combination of 5-Aza in adult patients with IPSS INT-2 or high-risk MDS, CMML or AML not eligible for HSCT.  The phase IIb part, that will commence once MTD and/or RPIID is established, has a randomized, two arm design and is designed to assess preliminary efficacy of panobinostat (in combination with 5-Aza) at RPIID compared to 5-Aza alone, the current standard of care, and to further characterize safety and tolerability of this combination. In the phase Ib part, patients will receive escalating oral doses of the study drug panobinostat. The starting dose of Panobinostat will be 10 mg and will be administered intermittently (Day 3, 5, 8, 10, 12, and 15) over 2 weeks. As per registered label, 5-Aza will be given subcutaneously (sc) at a dose of 75 mg/m2/day for 1 week (Day 1- 7). A treatment cycle is defined as 28 Days in duration. Patients should be treated for a minimum of 6 cycles. Study treatment should be continued as long as the patient continues to benefit or until disease Novartis Confidential Page 9 RAP Module 3 28-Oct-2014 CLBH589H2101  progression or unacceptable toxicity is encountered or consent withdrawal whatever comes first. At least 3 patients per cohort must be enrolled. During the phase Ib part, patients will be evaluated for DLT (Section 6.6.1.6 of the protocol) using an adaptive Bayesian logistic regression model with overdose control (EWOC) to guide the dose escalation process.  After completion of a given dose cohort, the decision on the dose chosen for the next cohort will depend on the risk assessment using the Bayesian logistic regression method and a medical review of available clinical and laboratory data. Dose-limiting toxicity will be assessed from the safety data of Cycle 1 for each dose level. Prior to declaring a dose to be MTD, at least 9 evaluable patients need to be treated at that dose level. The MTD is defined to be the highest daily dose of panobinostat given together with 5-Aza in the first treatment cycle in which the probability to produce medically unacceptable, dose limiting  toxicity (DLT) in more than 35% of the patients is less or equal to 25%. The recommended phase II dose (RPIID) will be based on considerations of the MTD estimation process by the adaptive Bayesian logistic regression model, and on an overall assessment of safety taking into consideration tolerability data from subsequent cycles at all the different dose levels tested. As of August 2011, the recommended phase II dose (RPIID) has been determined to be 30 mg of oral panobinostat once daily on day 3, 5, 8, 10, 12, and 15 in combination with azacytidine (5-Aza/Vidaza\u00ae) administered at a dose of 75mg/m2 daily for 7 days). Additional 80 patients will be randomly assigned in a 1:1 ratio into the phase IIb part of the study receiving 30 mg of panobinostat plus 5-Aza (investigational arm) or single agent 5-Aza (active control arm). Single agent 5-Aza will be administered according to the locally approved label (75mg/m2 daily for 7 days). Patients will continue treatment until disease progression, unacceptable toxicity or consent withdrawal, whichever comes first. The core clinical study report (encompassing both, the phase Ib and the phase IIb part of the study) will be based on a data cut-off corresponding to the time point where all patients have either completed 12 cycles of study treatment in phase IIb or discontinued study treatment for any reason whichever comes first. An addendum to the core clinical study report will be provided at the completion of the study to summarize and/or list the additional safety and efficacy data as appropriate. Patients who are continuing their treatment at the time of data cut-off for the core CSR and are assessed by the Investigator to have the potential to benefit from ongoing treatment will continue their assigned treatment allowing collecting and reviewing safety, efficacy and survival data. After the data-cut off point for the core CSR, a reduced visit evaluation schedule will be applied. ",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "3",
+        "Title": "Objectives",
+        "Content": " ",
+        "Sub-sections": [
+            {
+                "Header Number": "3.1",
+                "Title": "Phase Ib part",
+                "Content": " ",
+                "Sub-sections": [
+                    {
+                        "Header Number": "3.1.1",
+                        "Title": "Primary objective",
+                        "Content": " \u2022 To determine the MTD and/or RPIID of oral panobinostat in combination with a fixed dose of 5-Aza in adult patients with IPSS INT-2 or high risk MDS, CMML, or AML. Novartis Confidential Page 10 RAP Module 3 28-Oct-2014 CLBH589H2101  3.1.1.1 End-point for primary objective \u2022 Incidence of DLT ",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "3.1.2",
+                        "Title": "Secondary objectives",
+                        "Content": " \u2022 To characterize the safety and tolerability of panobinostat in combination with 5-Aza in the target patient population. 3.1.2.1 End-points for secondary objectives \u2022 Type, duration, frequency and relatedness of Adverse Events (AE). AE severity will also be assessed according to NCI Common Terminology Criteria for Adverse Events (CTCAE), version 3.0 \u2022 Laboratory (biochemistry, hematology) \u2022 ECG monitoring (central review by eRT) ",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "3.2",
+                "Title": "Phase IIb part",
+                "Content": " ",
+                "Sub-sections": [
+                    {
+                        "Header Number": "3.2.1",
+                        "Title": "Primary objective",
+                        "Content": " \u2022 To assess preliminary efficacy of treatment with the panobinostat and 5-Aza combination at the RPIID relative to treatment with single agent 5-Aza through the assessment of composite CR (CR or CRi or bone marrow CR).  3.2.1.1 End-point for primary objective \u2022 Composite CR (CR or CRi or bone marrow CR) Novartis Confidential Page 11 RAP Module 3 28-Oct-2014 CLBH589H2101  ",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "3.2.2",
+                        "Title": "Secondary objectives",
+                        "Content": " \u2022 To assess preliminary efficacy of treatment with the panobinostat and 5-Aza combination at the RPIID relative to treatment with single agent 5-Aza through the assessment of clinical responses other than the composite CR specified in the primary objective, 1 year survival, and time to progression (TTP).  \u2022 To characterize the safety and tolerability of panobinostat at the  RPIID in combination with 5-Aza, as well as, 5-Aza alone in the target patient population. 3.2.2.1 End-points for secondary objectives \u2022 Clinical response for AML: PR; for MDS/CMML: PR, Hematologic Improvement (HI) \u2022 Overall response (CR or CRi or bone marrow CR or PR) \u2022 1-year survival rate \u2022 Time to progression (TTP) based on the Guidelines for Implementation of IWG response criteria in AML, MDS and CMML according to Cheson 2003 and 2006 and specified in [Post-text supplement 1]. \u2022 Type, duration, frequency and relatedness of Adverse Events (AE). AE severity will be assessed according to NCI Common Terminology Criteria for Adverse Events (CTCAE), version 3.0 \u2022 Laboratory (biochemistry, hematology) \u2022 ECG monitoring (central review by eRT) ",
+                        "Sub-sections": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Header Number": "4",
+        "Title": "Population",
+        "Content": " Adult patients with intermediate-2 or high-risk MDS as per IPSS, AML with multilineage dysplasia and maximum of 30% bone marrow blasts (former RAEB-T according to FAB, currently AML according to WHO definition),), or Chronic Myelomonocytic Leukemia (CMML) who are candidates for the treatment with 5-Aza will be enrolled onto the study.  Novartis Confidential Page 12 RAP Module 3 28-Oct-2014 CLBH589H2101  ",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "5",
+        "Title": "Draft of Section 9.7 of CSR on Statistical methods",
+        "Content": " ",
+        "Sub-sections": [
+            {
+                "Header Number": "5.1",
+                "Title": "Statistical methods and data analysis",
+                "Content": " ",
+                "Sub-sections": [
+                    {
+                        "Header Number": "5.1.1",
+                        "Title": "Phase Ib part",
+                        "Content": " An adaptive Bayesian logistic regression model (BLRM) and dose-escalation criteria similar to that proposed by (Babb, Rogatko and Zacks 1998) including the escalation with overdose control (EWOC) principle will be used to guide the dose escalation to determine the MTD of PAN in combination with a fixed dose of 5-Aza. Informative priors for PAN will be derived based on the DLT rate obtained from a similar trial [CLBH589B2102, arm X] with similar populations, formulations, dose regimens and for 5-Aza from publications. The MTD will be assessed during the first treatment cycle. Each cohort will consist of a minimum of 3 patients fully evaluable for therapy-related toxicities over the first cycle of treatment. Posterior probabilities of the DLT from the model will be summarized. Selection of the next dose will be based on these probabilities as well as on other safety and laboratory data. For details please refer to the Post-text supplement 2.  Dose recommendation will be based on posterior summaries for each dose combination and the interval probabilities for underdosing, targeted, excessive, and unacceptable toxicity for intervals. Once updated, the distribution summarizes the probability that the true probability of a DLT for each dose combination lies in 1 of the following categories: \u2022 [0, 20%) under-dosing \u2022 [20%, 35%) targeted toxicity \u2022 [35%,60%) excessive toxicity \u2022 [60, 100%] unacceptable toxicity. Following the principle of EWOC, the recommended dose combination is the one with the highest posterior probability of DLT in the target interval [20%, 35%) among the doses fulfilling the overdose criteria after each cohort of patients: there is less than 25% chance of either excessive or unacceptable toxicity. The maximum inter-cohort dose escalation permitted is 100%. The dose recommended by the adaptive BLRM may be regarded as information to be integrated with a clinical assessment of the safety data observed thus far in determining the next dose to be investigated. In any case, the next dose will not exceed the recommended dose by the BLRM. Cohorts of at least 3 and up to a maximum of 12 MTD evaluable patients will be enrolled in the dose-escalation part including at least 9 patients at the MTD. The Bayesian model will be updated prior to additional enrollment under the following scenarios: 1. If the first 2 patients in a cohort experience DLT prior to the enrollment of the 3rd patient enrollment will be halted, the model will be updated, and any new patients will be enrolled at a dose satisfying the overdose criteria, no higher than the current dose level. 2. No additional patients will be enrolled until the current cohort is completed and the model is updated. 3. For cohorts of > 3 patients if the observed number of DLTs exceeds 25% of the currently enrolled patients to that dose level, enrollment will be halted until all patients complete 1 cycle of dosing or experience DLT. The model will be updated to determine the Novartis Confidential Page 13 RAP Module 3 28-Oct-2014 CLBH589H2101  uncertainty about the probability of DLT at each dose level. New patients will be enrolled at a dose level up to the highest satisfying the overdose criteria. Estimation of the MTD will be based upon the estimation of the probability of DLT in cycle 1 in the MTD determining set. Estimation of the RPIID will be based on considerations of the MTD estimation process by the use of the BLRM, together with an overall clinical assessment of safety taking into consideration safety and tolerability data from all cycles. The RPIID could be the same as the MTD, but will not exceed it under any circumstance. Cohorts may be expanded at any dose level (or dose combination) below the MTD for further elaboration of safety parameters as required. For further details of the statistical model and results under a variety of scenarios, please refer to Clinical Study Protocol Post-text supplement 2. ",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "5.1.2",
+                        "Title": "Phase IIb part",
+                        "Content": " There will be no formal testing of statistical hypotheses. Descriptive summaries of safety and efficacy by treatment group will be provided. Point estimates of efficacy endpoints (such as response rate) along with appropriate confidence intervals may be reported by treatment group.   ",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "5.2",
+                "Title": "Populations for analysis: definitions",
+                "Content": " ",
+                "Sub-sections": [
+                    {
+                        "Header Number": "5.2.1",
+                        "Title": "Phase Ib part",
+                        "Content": " Safety Set: The safety set includes all patients who received at least 1 dose of any 1 compound of the study treatment.  MTD-determining set: consists of all patients of the safety set who either received sufficient study treatment as defined in the minimum exposure criteria in cycle 1 (patients need to have 100% of the planned dose of each compound, see Table 5-1) and had sufficient safety evaluations or discontinued due to DLT in Cycle 1. Patients who do not meet these minimum safety evaluation requirements in cycle 1 will be regarded as ineligible for the MTD-determining set. From a programming point, a patient will be considered to have sufficient safety evaluations if he or she has information on vital signs and/or lab assessments taken during cycle 1. The information on whether a patient experienced a DLT during cycle 1 will be taken from the \u2018End-Of-Cycle\u2019 page for the first cycle.  ",
+                        "Sub-sections": [
+                            {
+                                "Header Number": "N/A",
+                                "Title": "Table 5-1 Minimum exposure criteria (Cycle 1)",
+                                "Content": " Compound Scheduled doses Minimum exposure criterion PAN 6 6 5-Aza 7 7 Full analysis set: This will be the same as the safety set. PK set: consisted of all patients with at least 1 evaluable PK profile of PAN. ",
+                                "Sub-sections": []
+                            }
+                        ]
+                    },
+                    {
+                        "Header Number": "5.2.2",
+                        "Title": "Phase IIb part",
+                        "Content": " Safety Set:  The safety set includes all patients who received at least one dose of any one component of the study treatment. Patients in the safety set will be analyzed as treated. The Novartis Confidential Page 14 RAP Module 3 28-Oct-2014 CLBH589H2101  \u201cas treated\u201d information will be taken from the IVRS medication package that was actually dispensed. However, patients who are randomized to the PAN+5-Aza group, and have not taken a non-zero dose of PAN as per the DAR panel, at the time of data cutoff, will be reported under the 5-Aza group for analyses based on the safety set.   Full analysis set: consists of all patients who were randomized to one of the two treatment arms. Following the intent-to-treat (ITT) principle, the patients in the FAS will be analyzed in the treatment group they were assigned to at randomization. The randomized treatment information will be taken from the IVRS patient randomization listing.  ",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "5.3",
+                "Title": "Population and grouping for the analyses",
+                "Content": " For all safety analyses in phase Ib/IIb, the safety set will be used. The FAS will be used for all efficacy analyses, as well as, for analysis of patient disposition, demography and baseline characteristics in phase Ib/IIb. For the determination of the MTD in phase Ib part, the MTD-determining set will be used. For the analysis of PK data in phase Ib part, the PK set will be used. The MTD determining set and the PK set are defined and applicable only for the phase Ib part.  ",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "5.4",
+                "Title": "Patient disposition, demographics and other baseline characteristics",
+                "Content": "  Patient disposition, demographic and other baseline data will be listed by patient and/or summarized descriptively by initial dose group of PAN in the phase Ib part, and, by treatment group in the phase IIb part. The analyses will be based on the full analysis set. Categorical data will be presented as frequencies and percentages. For continuous data, summary statistics will be presented including mean, standard deviation, median, minimum, and maximum. ",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "5.5",
+                "Title": "Treatments (study drug, concomitant therapies, compliance)",
+                "Content": " The actual dose and duration in days of PAN and 5-Aza as well as the actual dose intensity (computed as cumulative dose received / actual duration) and relative dose intensity (computed as actual dose intensity / planned dose intensity [= planned cumulative dose / scheduled duration]), will be listed and summarized by means of descriptive statistics by initial dose group of PAN in the phase Ib part, and, by treatment group in the phase IIb part.   Concomitant medications and significant non-drug therapies prior to and after the start of the study treatment will be summarized by ATC term descriptively.  Novartis Confidential Page 15 RAP Module 3 28-Oct-2014 CLBH589H2101  ",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "5.6",
+                "Title": "Pharmacokinetics",
+                "Content": "  Trough plasma PAN sample levels collected during Cycle 1 of the phase Ib part of the study, on Days 4, 5, and 8 will be summarized by study day. Concentrations of pre-dose levels of PAN (Cmin values) will be summarized at the study conclusion by study day and actual dose group of PAN. Values below the lower limit of quantification (LLOQ) of approximately 0.5 ng/mL will be reported as 0 ng/mL. Missing values will be labeled accordingly.  ",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "5.7",
+                "Title": "Safety variables and analyses",
+                "Content": " ",
+                "Sub-sections": [
+                    {
+                        "Header Number": "5.7.1",
+                        "Title": "Adverse events (AE)",
+                        "Content": " All AEs recorded during the study will be summarized. The incidence of treatment-emergent AEs (new or worsening from baseline) will be summarized by system organ class, severity (based on the National Cancer Institute\u2019s Common Terminology Criteria for Adverse Events [NCI CTCAE version 3]), type of AE and relation to the study treatment. SAEs resulting in death and non-fatal serious AEs (SAEs) will be listed by patient and tabulated by type of AE and initial dose group of PAN. Listings of deaths, SAEs, AEs requiring dose interruption or adjustment, AEs requiring additional therapy, Grade 3/4 AEs, and AEs leading to early termination of study treatment or premature withdrawal from study will be also provided. ",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "5.7.2",
+                        "Title": "Laboratory abnormalities",
+                        "Content": " All laboratory values for hematology, biochemistry, coagulation, free T4, TSH and urinalysis will be converted into SI units, if appropriate, and the severity Grade calculated using appropriate common toxicity criteria (CTC). By-patient listings of laboratory values will be provided by laboratory parameter and patient.  Separate listings will display notable laboratory abnormalities based on the laboratory normal ranges. The frequency of laboratory abnormalities will be displayed by parameter. Laboratory data will be summarized by presenting shift tables by initial dose group of PAN. ",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "5.7.3",
+                        "Title": "Other safety data",
+                        "Content": " Data from ECGs, vital signs and ECOG performance status will be listed, notable values will be flagged, and any other information collected will be listed as appropriate. Any QT and QTcF outliers (as defined in section 4.10.6 on ECG in the later part of this document) will be summarized and listed. ",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "5.7.4",
+                        "Title": "Tolerability",
+                        "Content": " Not applicable. ",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "5.8",
+                "Title": "Efficacy variables and analyses",
+                "Content": "  Novartis Confidential Page 16 RAP Module 3 28-Oct-2014 CLBH589H2101  ",
+                "Sub-sections": [
+                    {
+                        "Header Number": "5.8.1",
+                        "Title": "Phase Ib part",
+                        "Content": " Summaries of the following efficacy endpoints will be reported by initial dose group of PAN.  \u2022 Clinical response for AML: complete remission (CR), complete remission with incomplete blood count recovery (CRi), partial remission (PR) \u2022 Clinical response for MDS/CMML: CR, bone marrow CR, PR, hematologic improvement (HI) Evidence of anti-leukemic activity of PAN in combination with 5-Aza will be evaluated using best response based on the Novartis\u2019 implementation of the recommendations of the 'International Working Group for Diagnosis, Standardization of response Criteria, Treatment Outcomes, and Reporting Standards for Therapeutic Trials in MDS and Acute Myeloid Leukemia' (Cheson 2003, Cheson 2006) as implemented in Post-text supplement 1. The best on-study response as categorized by the response criteria will be listed by patient, as well as, summarized, based on investigator\u2019s assessment. Exact binomial confidence interval (implemented using SAS procedure FREQ with EXACT statement for one-way tables) will be calculated Clopper and Pearson 1934. ",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "5.8.2",
+                        "Title": "Phase IIb part",
+                        "Content": " The primary efficacy endpoint will be the composite CR (CR or CRi or bone marrow CR) among all patients in the FAS.  The following efficacy endpoints will be considered.  \u2022 Clinical response for AML: CR, CRi, PR \u2022 Clinical response for MDS/CMML: CR, bone marrow CR, PR and Hematologic Improvement (HI) \u2022 1-year survival rate \u2022 Time to Progression (TTP) Clinical responses will be summarized by treatment arm, overall and within disease type (i.e. AML or MDS/CMML). Percentage rates for the composite CR rate (CR or CRi or bone marrow CR), overall response rate (CR or CRi or bone marrow CR or PR) will be reported along with 95% confidence intervals for both arms. Exact binomial confidence interval (implemented using SAS procedure FREQ with EXACT statement for one-way tables) will be calculated (Clopper and Pearson 1934.). Point estimates and confidence intervals for the difference in rates between the treatment arms will also be reported. The 1-year survival rate will be obtained from the Kaplan-Meier curve and its variance will be estimated by Greenwood\u2019s formula. Time to progression will also be analyzed through Kaplan Meier curves.  Novartis Confidential Page 17 RAP Module 3 28-Oct-2014 CLBH589H2101  ",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "5.10",
+                "Title": "Handling of missing values/censoring/discontinuations",
+                "Content": "  Patients who are not evaluable for MTD determination (i.e. patients who are not in MTD determining set) will be replaced. Patients in whom clinical response is unknown will be treated as non-responders. Patients, for whom the post-baseline response assessments cannot be computed because of missing baseline response assessment, will be deemed as patients with \u2018unknown\u2019 response. Other missing data will be noted as missing on appropriate tables/listings.   ",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "5.11",
+                "Title": "Subgroup analyses",
+                "Content": " No subgroup analyses will be performed. ",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "5.12",
+                "Title": "Interim analysis",
+                "Content": " Not applicable. Novartis Confidential Page 18 RAP Module 3 28-Oct-2014 CLBH589H2101  ",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "5.13",
+                "Title": "Sample size calculation",
+                "Content": " ",
+                "Sub-sections": [
+                    {
+                        "Header Number": "5.13.1",
+                        "Title": "Phase Ib part",
+                        "Content": "  Sample size is expected to be 26 in total. Cohorts of at least three MTD evaluable patients per dose level will be enrolled in the phase Ib part including at least nine patients at the MTD and/or RPIID level. Sample size is expected to be at least 26 assuming two cohorts of six patients each treated at dose levels distinct from the MTD and/or RPIID, and two cohorts of 7 patients each treated at the MTD and/or RPIID.  ",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "5.13.2",
+                        "Title": "Phase IIb part",
+                        "Content": " The planned sample size is 40 per arm, or, in other words, 80 in total. It is deemed that an observed relative improvement of 50% in the composite CR rate (CR or CRi or bone marrow CR) in the investigational arm over the active control arm is clinically relevant in the phase IIb part of the study. Under the assumption that the composite response rate in the active control arm is 17% (estimate based on Fenaux et al 2009a), the following table gives the estimated probabilities of observing clinically relevant improvement , under different values of the true composite CR rate in the experimental arm. The chance of observing a clinically relevant improvement when there is actually no difference in the true composite CR rates between the arms) is estimated to be 23% while the chance of not observing a clinically relevant improvement when there is indeed a substantial difference in the true composite CR rates (true composite response rates in investigational and active control arms are 35% and 17% respectively) is estimated to be 19%. Since there is no hypothesis being tested, a formal power analysis has not been done. The aforementioned estimated probabilities of 23% and 19% are only analogous to the probabilities of type I and type II errors (in the setting of hypothesis testing). These probabilities (as well as, the others shown under [4] in the following table) have been derived by simulating response data using independent binomial distributions for the investigational and active control arms with the probability parameter of the distribution being specified according to the assumed true underlying composite CR rates as shown under [1], and [2] of the table below. Thus, given that the true composite CR rates are as in [1] and [2] (and, the true percentage improvement as in [3]), [4] represents the probability of observing clinically relevant improvement. More specifically, [4] represents the following: Pr[(observed composite CR rate in investigational arm - observed composite CR rate in active control arm) \u2265 50% of observed composite CR rate in active control arm] Table 5-2 Probability of observing clinically relevant improvement based on an assessment of composite CR (CR or CRi or bone marrow CR)  True composite CR rate  in active control arm  True composite CR rate  in investigational  arm  True improvement (as a percentage of the true composite CR rate Probability of  observing clinically relevant improvement  Novartis Confidential Page 19 RAP Module 3 28-Oct-2014 CLBH589H2101  [1] [2] in the active control arm)  [3] [4] 0.17  0.17  0 0.23  0.20  18 0.33  0.25  47 0.51  0.30  76 0.68  0.35  106 0.81  ",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "5.14",
+                "Title": "Power for analysis of critical secondary variables",
+                "Content": "",
+                "Sub-sections": []
+            }
+        ]
+    },
+    {
+        "Header Number": "6",
+        "Title": "Changes in analyses specified in the protocol",
+        "Content": "Novartis Confidential Page 20 RAP Module 3 28-Oct-2014 CLBH589H2101  ",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "N/A",
+        "Title": "Draft of Appendix 16.1.9",
+        "Content": "   Novartis Confidential Page 21 RAP Module 3 28-Oct-2014 CLBH589H2101  Clinical Development Panobinostat ",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "N/A",
+        "Title": "Appendix 16.1.9: Documentation of statistical methods",
+        "Content": " Document type: Clinical Study Report - Appendix 16.1.9 Property of Novartis Confidential May not be used, divulged, published or otherwise disclosed without the consent of Novartis Novartis Confidential Page 22 RAP Module 3 28-Oct-2014 CLBH589H2101  ",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "1",
+        "Title": "Table of contents",
+        "Content": " Clinical Development ............................................................................................................ 1 1 Introduction .................................................................................................................... 7 Document content ........................................................................................................... 7 2 Study design ................................................................................................................... 8 3 Objectives ....................................................................................................................... 9 3.1 Phase Ib part ........................................................................................................ 9 3.1.1 Primary objective ................................................................................. 9 3.1.2 Secondary objectives ......................................................................... 10   10 3.2 Phase IIb part ..................................................................................................... 10 3.2.1 Primary objective ............................................................................... 10 3.2.2 Secondary objectives ......................................................................... 11   11 4 Population ..................................................................................................................... 11 5 Draft of Section 9.7 of CSR on Statistical methods ........................................................ 12 5.1 Statistical methods and data analysis .................................................................. 12 5.1.1 Phase Ib part ...................................................................................... 12 5.1.2 Phase IIb part ..................................................................................... 13 5.2 Populations for analysis: definitions ................................................................... 13 5.2.1 Phase Ib part ...................................................................................... 13 5.2.2 Phase IIb part ..................................................................................... 13 5.3 Population and grouping for the analyses ........................................................... 14 5.4 Patient disposition, demographics and other baseline characteristics .................. 14 5.5 Treatments (study drug, concomitant therapies, compliance).............................. 14 5.6 Pharmacokinetics ............................................................................................... 15 5.7 Safety variables and analyses ............................................................................. 15 5.7.1 Adverse events (AE) .......................................................................... 15 5.7.2 Laboratory abnormalities ................................................................... 15 5.7.3 Other safety data ................................................................................ 15 5.7.4 Tolerability ........................................................................................ 15 5.8 Efficacy variables and analyses .......................................................................... 15 5.8.1 Phase Ib part ...................................................................................... 16 5.8.2 Phase IIb part ..................................................................................... 16   17 Novartis \nConfidential \nPage 23 \nRAP Module 3 \n28-Oct-2014 \nCLBH589H2101 \n \n5.9.1 \nPhase Ib part ...................................................................................... 17 \n5.9.2 \nPhase IIb part ..................................................................................... 17 \n5.10 \nHandling of missing values/censoring/discontinuations ...................................... 17 \n5.11 \nSubgroup analyses ............................................................................................. 17 \n5.12 \nInterim analysis ................................................................................................. 17 \n5.13 \nSample size calculation ...................................................................................... 18 \n5.13.1 \nPhase Ib part ...................................................................................... 18 \n5.13.2 \nPhase IIb part ..................................................................................... 18 \n5.14 \nPower for analysis of critical secondary variables .............................................. 19 \n6 \nChanges in analyses specified in the protocol ................................................................ 19 \nDraft of Appendix 16.1.9 ..................................................................................................... 20 \n1 \nTable of contents ........................................................................................................... 22 \n2 \nIntroduction .................................................................................................................. 25 \n3 \nDefinitions and general methodology ............................................................................ 26 \n3.1 \nDefinitions ......................................................................................................... 26 \n3.1.1 \nStudy drug and study treatment .......................................................... 26 \n3.1.2 \nPhase Ib part ...................................................................................... 26 \n3.1.3 \nPhase IIb part ..................................................................................... 26 \n3.1.4 \nDate of first administration of study drug ........................................... 26 \n3.1.5 \nDate of last administration of study drug ............................................ 26 \n3.1.6 \nDate of first administration of study treatment.................................... 26 \n3.1.7 \nDate of last administration of study treatment .................................... 26 \n3.1.8 \nStudy day ........................................................................................... 27 \n3.1.9 \nBaseline ............................................................................................. 27 \n3.1.10 \nOn-treatment assessment/event/period ............................................... 28 \n3.1.11 \nTime windows ................................................................................... 28 \n3.1.12 \nScreening failure ................................................................................ 28 \n3.2 \nData included in analyses ................................................................................... 28 \n3.3 \nDefinition of analysis sets .................................................................................. 29 \n3.3.1 \nPhase Ib part ...................................................................................... 29 \n3.3.2 \nPhase IIb part ..................................................................................... 29 \n3.4 \nPopulation and grouping for the analyses ........................................................... 30 \n3.5 \nProtocol deviations ............................................................................................ 30 \n3.6 \nConcomitant therapy .......................................................................................... 30 \n3.6.1 \nConcomitant medications with specific impact on the analysis ........... 31 \n3.7 \nGeneral statistical methodology ......................................................................... 31 \nNovartis \nConfidential \nPage 24 \nRAP Module 3 \n28-Oct-2014 \nCLBH589H2101 \n \n3.7.1 \nBaseline comparability ....................................................................... 31 \n3.7.2 \nMultiple assessments within post-baseline visits ................................ 31 \n3.7.3 \nCenter pooling ................................................................................... 31 \n3.7.4 \n1-sided vs. 2-sided test ....................................................................... 31 \n3.7.5 \nBetween group comparisons .............................................................. 32 \n3.7.6 \nConversion factors ............................................................................. 32 \n3.8 \nImplementation of efficacy criteria .................................................................... 32 \n4 \nStatistical methods used in reporting ............................................................................. 32 \n4.1 \nBackground and demographic characteristics ..................................................... 32 \n4.1.1 \nBasic demographic and background data ............................................ 32 \n4.1.2 \nProtocol eligibility criteria ................................................................. 33 \n4.1.3 \nDiagnosis and characteristics of disease ............................................. 33 \n4.1.4 \nMedical history .................................................................................. 34 \n4.1.5 \nPrior anti-neoplastic therapy .............................................................. 34 \n4.1.6 \nOther ................................................................................................. 35 \n4.2 \nProtocol deviation summaries ............................................................................ 35 \n4.3 \nGroupings for Analysis ...................................................................................... 35 \n4.4 \nPatient disposition .............................................................................................. 35 \n4.5 \nFollow-up .......................................................................................................... 36 \n4.6 \nLast contact date ................................................................................................ 36 \n4.7 \nStudy treatment and duration of study treatment exposure .................................. 37 \n4.7.1 \nDuration of study treatment exposure ................................................. 37 \n4.7.2 \nCycle definition ................................................................................. 38 \n4.7.3 \nPartial dates ....................................................................................... 40 \n4.7.4 \nCumulative dose ................................................................................ 40 \n4.7.5 \nDI and RDI ........................................................................................ 40 \n4.7.6 \nDose intensity over study period ........................................................ 41 \n4.8 \nConcomitant therapy .......................................................................................... 42 \n4.8.1 \nConcomitant medications with specific impact on the analysis ........... 43 \n4.9 \nPrimary safety variable ...................................................................................... 43 \n4.9.1 \nAnalysis of the primary safety variable .............................................. 43 \n4.9.2 \nSensitivity and other supportive analyses ........................................... 43 \n4.10 \nSafety evaluation ............................................................................................... 43 \n4.10.1 \nAdverse events ................................................................................... 43 \n4.10.2 \nAE summaries ................................................................................... 44 \n4.10.3 \nClinical notable AE ............................................................................ 45 \nNovartis Confidential Page 25 RAP Module 3 28-Oct-2014 CLBH589H2101  4.10.4 Laboratory data .................................................................................. 46 4.10.5 Vital signs .......................................................................................... 47 4.10.6 Handling of missing values ................................................................ 48 4.10.7 ECG................................................................................................... 48 4.10.8 ECOG performance status .................................................................. 50 4.11 Efficacy analysis ................................................................................................ 50 4.11.1 Efficacy analysis for the phase Ib part ................................................ 50 4.11.2 Efficacy analysis for the phase IIb part ............................................... 50 4.11.3 Kaplan-Meier analysis ....................................................................... 52 4.11.4 Handling of missing values/discontinuations ...................................... 53 4.11.5 Transfusions ...................................................................................... 53 4.12 Handling of missing values/discontinuations ...................................................... 55 4.13 Subgroup analysis .............................................................................................. 55 4.14 Pharmacokinetic analyses .................................................................................. 55   55   55  56 4.16 Interim analyses ................................................................................................. 56 5 References .................................................................................................................... 56 6 Appendix ...................................................................................................................... 57 A1 Instructions given to sites for completion of the DAR forms .............................. 57 ",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "2",
+        "Title": "Introduction",
+        "Content": " The statistical methodology used (Section 9.7) will be described and discussed in the main part of the clinical study report.  In Appendix 16.1.9, details of the statistical methods and their justification are provided for the statistical reviewers. The statistical analysis of this study will be performed by Novartis personnel. SAS\u00ae version 9.2 (SAS Institute Inc., Cary, NC, USA) will be used for all analyses. The simulations for the adaptive Bayesian logistic regression model (BLRM) will be performed by WinBUGS for Windows\u00ae version 1.4 and R for Windows\u00ae version 2.8 using the module OncoBayes developed internally by Novartis. All data are part of the Clinical Database and will be exported to SAS\u00ae files for analysis.  Novartis Confidential Page 26 RAP Module 3 28-Oct-2014 CLBH589H2101  ",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "3",
+        "Title": "Definitions and general methodology",
+        "Content": " ",
+        "Sub-sections": [
+            {
+                "Header Number": "3.1",
+                "Title": "Definitions",
+                "Content": " ",
+                "Sub-sections": [
+                    {
+                        "Header Number": "3.1.1",
+                        "Title": "Study drug and study treatment",
+                        "Content": " ",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "3.1.2",
+                        "Title": "Phase Ib part",
+                        "Content": " Study drug refers to single agent PAN.  Study treatment refers to of PAN plus 5-Aza (combination therapy).  Study combination partner refers to 5-Aza. ",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "3.1.3",
+                        "Title": "Phase IIb part",
+                        "Content": " Study drug refers to single agent PAN in the treatment arm and to 5-Aza in the control arm.  Study treatment refers to of PAN plus 5-Aza (combination therapy) in the treatment arm and to 5-Aza alone in the control arm.  Study combination partner refers to 5-Aza in the treatment arm. There is no study combination partner in the control arm.  ",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "3.1.4",
+                        "Title": "Date of first administration of study drug",
+                        "Content": " The date of first administration of study drug is derived as the first date when a nonzero dose of study drug was administered and recorded on the dose administration record (DAR) case report form (CRF). For the sake of simplicity, the date of first administration of study drug will also be referred as start of study drug. ",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "3.1.5",
+                        "Title": "Date of last administration of study drug",
+                        "Content": " The date of last administration of study drug is defined as the last date when a non-zero dose of study drug was administered and recorded on the end-of-treatment CRF.  ",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "3.1.6",
+                        "Title": "Date of first administration of study treatment",
+                        "Content": " The date of first administration of study treatment is derived as the first date when a non-zero dose of any component of study treatment was administered and recorded on DAR CRF. For example, if in the phase Ib part, the 1st dose of PAN is administered on 05JAN2010, and the 1st dose of 5-Aza is administered on 03JAN2010, the date of first administration of study treatment is on 03JAN2010. For the sake of simplicity, the date of first administration of study treatment will also be referred as the start of study treatment. ",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "3.1.7",
+                        "Title": "Date of last administration of study treatment",
+                        "Content": " The date of last administration of study treatment is derived as the last date when a non-zero dose of any component of study treatment was administered and recorded on end-of-treatment CRF. For example, if in the phase Ib part, the last dose of PAN dose is administered on Novartis Confidential Page 27 RAP Module 3 28-Oct-2014 CLBH589H2101  15APR2010, the last dose of 5-Aza is administered on 17MAY2010, the date of last administration of study treatment is then on 17MAY2010.  ",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "3.1.8",
+                        "Title": "Study day",
+                        "Content": " 3.1.8.1 Phase Ib part The study day for all assessments (efficacy, safety) will be calculated as the difference between the date of the event (e.g., visit date, onset date of an event, assessment date) and the  treatment start date plus 1 day. The first day of study treatment is therefore Study Day 1. For example: if the start of study treatment is on 05JAN2010 and the start date of an Adverse Event (AE) is on 09JAN2010, the study day of the AE onset is calculated to have occurred on Study Day 5. If the event or assessment date happens to be before the treatment start date, the calculation will be without \u201c+1\u201d and the resulting day(s) is a negative number. 3.1.8.2 Phase IIb part The study day for safety assessments (e.g., adverse event onset, laboratory abnormality occurrence, vital sign measurement, dose interruption etc.) will be calculated as: Date of the assessment/event - start date of study treatment + 1. The study day for all other, i.e. non-safety assessments/events (e.g., response assessment, disease progression, ECOG performance status, etc.) will be calculated as: Date of assessment/event - randomization date + 1. Example: if randomization date is 02-Jan-2011, start of study treatment is on 05JAN2011, and the date of death is 09JAN2011 then the study day when the death occurred is 8. For events that occur before randomization/first treatment day, the \u201c+1\u201d from the formulas above will be removed and the study day will be a negative number by definition: Study day = Event date - Date of first study treatment/randomization. Note that the day of first dose of study treatment is day 1 and the day before the date of first study treatment is day \u2013 1, not day 0.  Death may be analyzed as a safety or an efficacy variable depending on the context.  If death is analyzed as a safety variable (such as a listing of deaths),  then \u201cstudy day\u201d must be calculated following the rules for safety assessment.  When death is used as an efficacy variable , such as, in the analysis of overall survival or progression-free-survival,  then the non-safety rule must be used.     ",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "3.1.9",
+                        "Title": "Baseline",
+                        "Content": " Baseline is the result of an investigation describing the \u201ctrue\u201d uninfluenced state of the patient. Phase Ib part (non-randomized):  Novartis Confidential Page 28 RAP Module 3 28-Oct-2014 CLBH589H2101  Baseline is defined to be the last available value or assessment, assessed prior to or on the date of start of study treatment.  Phase IIb part (randomized):  For efficacy evaluations, the last available assessment before or on the date of randomization is taken as \u201cbaseline\u201d value or assessment. In the context of baseline definition, the efficacy evaluations include ECOG performance status.     For safety evaluations (i.e. AEs, laboratory values, and vital signs), the last available assessment before or on the date of start of study treatment, is taken as \u201cbaseline\u2019 assessment. For ECG, please refer to section 3.8.5. If patients have no value as defined above, the baseline result will be considered to be missing. Any assessment which is obtained outside of the protocol-defined screening period will not be considered for baseline unless otherwise specified. Baseline definition for ECG assessments is given in section 4.9.6.  ",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "3.1.10",
+                        "Title": "On-treatment assessment/event/period",
+                        "Content": " On-treatment assessment/event is any assessment/event obtained in the on-treatment period which is defined as the following time interval: [date of first administration of study treatment; date of last administration of study treatment +28 days], i.e. inclusive of the lower and upper limits.   The calculation of study treatment duration may use different rules as specified in Section 3.5.1. ",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "3.1.11",
+                        "Title": "Time windows",
+                        "Content": " For response assessment, the time window as defined in Clinical Study Protocol Post-text supplement 1 to the protocol will be applied. ",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "3.1.12",
+                        "Title": "Screening failure",
+                        "Content": " Screening failures are patients who will have been enrolled but subsequently fail the screening criteria on the  study.  These patients will not be treated.   ",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "3.2",
+                "Title": "Data included in analyses",
+                "Content": " A unique data cut-off date will be determined. Only data from an assessment or event start date (e.g., vital sign assessment date or start date of an AE) prior to or on the cut-off date will be included in the analysis. For example, if the cut-off date is 15JUN2011, an AE starting on 13JUN2011 will be reported, whereas an AE with a start date of 17JUN2011 will not be reported. All events with a start date before or on the cut-off date and an end date after the cut-off date will be reported as \u2018continuing at the cut-off date\u2019. The same rule will be applied to events Novartis Confidential Page 29 RAP Module 3 28-Oct-2014 CLBH589H2101  starting before or on the cut-off date and not having a documented end date. This approach applies in particular to AE and concomitant medication reports.  If imputation of an end date is required for a specific analysis (e.g., for a dose administration record with a missing end date or an end date after the cut-off date, the latter of which must be imputed as an end date to allow for the calculation of treatment exposure duration), the imputed date will be displayed and flagged in the listings. The data cut-off date for the core CSR will be taken as April 30, 2014. This corresponds to the time-point when the last enrolled patient in the phase IIb part completed 12 cycles of treatment.   ",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "3.3",
+                "Title": "Definition of analysis sets",
+                "Content": " ",
+                "Sub-sections": [
+                    {
+                        "Header Number": "3.3.1",
+                        "Title": "Phase Ib part",
+                        "Content": " Safety Set: The safety set includes all patients who received at least 1 dose of any 1 compound of the study treatment.  MTD-determining set: consists of all patients of the safety set who either received sufficient study treatment as defined in the minimum exposure criteria in cycle 1 (patients need to have 100% of the planned dose of each compound, (as shown in the table below) and had sufficient safety evaluations or discontinued due to DLT in Cycle 1. Patients who do not meet these minimum safety evaluation requirements in cycle 1 will be regarded as ineligible for the MTD-determining set. From a programming point, a patient will be considered to have sufficient safety evaluations if he or she has information on vital signs and/or lab assessments taken during cycle 1. The information on whether a patient experienced a DLT during cycle 1 will be taken from the \u2018End-Of-Cycle\u2019 page for the first cycle.  ",
+                        "Sub-sections": [
+                            {
+                                "Header Number": "N/A",
+                                "Title": "Table 3-1 Minimum exposure criteria (Cycle 1)",
+                                "Content": " Compound Scheduled doses Minimum exposure criterion PAN 6 6 5-Aza 7 7 Full analysis set: This will be the same as the safety set. PK set: consisted of all patients with at least 1 evaluable PK profile of PAN.  ",
+                                "Sub-sections": []
+                            }
+                        ]
+                    },
+                    {
+                        "Header Number": "3.3.2",
+                        "Title": "Phase IIb part",
+                        "Content": " Safety Set: The safety set includes all patients who received at least one dose of any one component  of the study treatment. Patients in the safety set will be analyzed as treated. The \u201cas treated\u201d information will be taken from the IVRS medication package that was actually dispensed. . However, patients who are randomized to the PAN+5-Aza group, and have not taken a non-zero dose of PAN as per the DAR panel, at the time of data cutoff, will be reported under the 5-Aza group for analyses based on the safety set. Patients who have been randomized but did not take at least one dose of any component of study treatment will not be included in the safety set. Novartis Confidential Page 30 RAP Module 3 28-Oct-2014 CLBH589H2101   Full analysis set: consists of all patients who were randomized to one of the two treatment arms. Following the intent-to-treat (ITT) principle, the patients in the FAS will be analyzed in the treatment group they were assigned to at randomization. The randomized treatment information will be taken from the IVRS patient randomization listing.  ",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "3.4",
+                "Title": "Population and grouping for the analyses",
+                "Content": " For all safety analyses in phase Ib/IIb, the safety set will be used. The FAS will be used for all efficacy analyses, as well as, for analysis of patient disposition, demography and baseline characteristics in phase Ib/IIb. For the determination of the MTD in phase Ib part, the MTD-determining set will be used. For the analysis of PK data in phase Ib part, the PK set will be used. The MTD determining set and the PK set are defined and applicable only for the phase Ib part.   ",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "3.5",
+                "Title": "Protocol deviations",
+                "Content": " All protocol deviations and patient classification rules as specified in the VAP module 3, will be finalized before database lock.  Protocol deviations will be , summarized and listed by initial dose group of PAN for the phase Ib part and by treatment arm for the phase IIb part.  ",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "3.6",
+                "Title": "Concomitant therapy",
+                "Content": " Concomitant therapy is defined as all interventions (therapeutic treatments and procedures) besides the study treatment, that were intentionally administered to a patient preceding or coincident with the study assessment period. Concomitant medications entered into the database will be coded using the WHO Drug Reference List to allow for categorization by preferred term. In addition to categorizing medication data by preferred term, drugs are classified according to their ATC classification in order to present and compare how they are being utilized. The ATC classification allows for the summary of medications by a high-level common drug class. Concomitant medications and significant non-drug therapies taken concurrently with the study treatment will be listed and summarized by ATC class, preferred term and initial dose group of PAN by means of frequency counts and percentages. These summaries will include medications starting on or after the start of study treatment or medications starting prior to the start of study treatment and continuing after the start of study treatment.  Any prior concomitant medications or significant non-drug therapies starting and ending prior to the start of study treatment will be listed.  Novartis Confidential Page 31 RAP Module 3 28-Oct-2014 CLBH589H2101  ",
+                "Sub-sections": [
+                    {
+                        "Header Number": "3.6.1",
+                        "Title": "Concomitant medications with specific impact on the analysis",
+                        "Content": " 3.6.1.1 Further anti-neoplastic therapy Patients who take additional anti-neoplastic therapy before discontinuing study treatment (i.e., anti-neoplastic therapy other than study treatment) will be identified as protocol deviations. Their efficacy data will be censored so that response assessments made after the first intake of an anti-neoplastic drug will not be included in analyses.    ",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "3.7",
+                "Title": "General statistical methodology",
+                "Content": " ",
+                "Sub-sections": [
+                    {
+                        "Header Number": "3.7.1",
+                        "Title": "Baseline comparability",
+                        "Content": " Baseline variables refer to characteristics of patients at the start of a study. As this is not a comparative study, no assessment of baseline comparability will be done. Instead, baseline characteristics will be described by initial dose group of PAN in the phase Ib part and by treatment group in the phase IIb part. ",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "3.7.2",
+                        "Title": "Multiple assessments within post-baseline visits",
+                        "Content": " If there are multiple measurements/samples within the same post-baseline visit, the last measurement/sample within the visit (sorted by date and as available by time or repeat measurements) will be used in the analysis by visit or overall. For any analysis regarding outlier or abnormal assessments, all post-baseline values will be included (scheduled, unscheduled, repeat). For any other analyses, only scheduled visits will be included. This applies to quantitative and qualitative variables. For composite assessments, these rules apply for the complete sample (e.g., bone marrow differential counts, differential blood counts). It is not allowed to mix these variables across samples. 3.7.2.1 12-lead ECG assessments  The visit day recorded in the database will be used as the day of ECG. For all patients, a minimum of 3 ECGs are measured at all assessment time points except at screening (one ECG only). If any patient has more than 1 measurement at a specific time point, the average of all available measurements will be used for the analysis of change from baseline. Unscheduled measurements will be included for analysis of outliers and listings. ",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "3.7.3",
+                        "Title": "Center pooling",
+                        "Content": "  All study centers will be combined for the analysis unless otherwise specified. Due to expected small size of centers, no center effect will be assessed. However, number of patients will be summarized by analysis set, center and country. ",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "3.7.4",
+                        "Title": "1-sided vs. 2-sided test",
+                        "Content": "  No statistical testing will be performed. Novartis Confidential Page 32 RAP Module 3 28-Oct-2014 CLBH589H2101  ",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "3.7.5",
+                        "Title": "Between group comparisons",
+                        "Content": " Not applicable. ",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "3.7.6",
+                        "Title": "Conversion factors",
+                        "Content": " A month will be calculated as (365.25 / 12) = 30.4375 days.  For the conversion of laboratory values measured in units as used by local laboratories to SI units, standard Novartis\u2019 conversion factors will be used.  ",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "3.8",
+                "Title": "Implementation of efficacy criteria",
+                "Content": " Response evaluation will be performed according to the Cheson (2003, 2006) criteria as implemented in the Clinical Study Protocol Post-text supplement 1.  ",
+                "Sub-sections": []
+            }
+        ]
+    },
+    {
+        "Header Number": "4",
+        "Title": "Statistical methods used in reporting",
+        "Content": " ",
+        "Sub-sections": [
+            {
+                "Header Number": "4.1",
+                "Title": "Background and demographic characteristics",
+                "Content": " The full analysis set will be used for all baseline and demographic summaries and listings.  ",
+                "Sub-sections": [
+                    {
+                        "Header Number": "4.1.1",
+                        "Title": "Basic demographic and background data",
+                        "Content": " All demographic and background data will be listed in detail. Qualitative data will be summarized by means of contingency tables  and quantitative data will be summarized by appropriate descriptive statistics (mean, standard deviation, median, minimum, and maximum) Data will be reported by the initial dose group of PAN for the phase Ib part and by treatment group for the phase IIb part. The following variables will be summarized: \u2022 Age [years], (< 65 years, \u2265 65 years) \u2022 Height [cm] \u2022 Weight [kg] \u2022 Sex (male/ female) \u2022 Race (Caucasian/ Black/ Asian/ Native American/ Pacific Islander/ Other) \u2022 Ethnicity (Hispanic/latino/ Chinese/ Indian (Indian subcontinent)/ Japanese/ Mixed ethnicity/ Other) \u2022 ECOG status (0/ 1/ 2/ >2) \u2022 Respiratory rate [/min] \u2022 Body temperature [\u00b0C] \u2022 BMI [kg/m2] \u2022 Body surface area (BSA) [m2] \u2022 Transfusion-dependent (yes/ no) \u2022 Number of patients by disease (MDS/ AML/ CMML) Novartis Confidential Page 33 RAP Module 3 28-Oct-2014 CLBH589H2101  ",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "4.1.2",
+                        "Title": "Protocol eligibility criteria",
+                        "Content": "  Protocol eligibility criteria on CRFs will be summarized and listed by initial dose group of PAN for the phase Ib part and by treatment group for the phase IIb part. ",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "4.1.3",
+                        "Title": "Diagnosis and characteristics of disease",
+                        "Content": " Summary statistics will be tabulated (by initial dose group of PAN for the phase Ib part and by treatment group for the phase IIb part) for diagnosis and characteristics of AML, CMML and MDS and depending on the data collected on the CRF include the following:  \u2022 WHO classification of MDS at initial diagnosis o Refractory anemia (RA) o Refractory anemia with ringed sideroblasts (RARS) o Refractory cytopenia with multilineage dysplasia (RCMD) o Refractory cytopenia with multilineage dysplasia and ringed sideroblasts (RCMD-RS) o Refractory anemia with excess blasts-1 (RAEB-1) o Refractory anemia with excess blasts-2 (RAEB-2) o Myelodysplastic syndrome , unclassified (MDS-U) \u2022 FAB classification of MDS at initial diagnosis o Refractory anemia (RA) o Refractory anemia with ringed sideroblasts (RARS) o Refractory anemia with excess blasts (RAEB) \u2022 Cytogenetics of MDS at initial diagnosis (Not done/ Favorable/ Intermediate/ Unfavorable) \u2022 MDS IPSS risk category (low/ intermediate-1/ intermediate-2/ high) \u2022 MDS disease status at enrolment (previously untreated/ previously treated) \u2022 WHO classification of AML at initial diagnosis  o AML with multilineage dysplasia (BM blasts 21-30%) o Following MDS o Following MDS/MPD o Without antecedent MDS or MDS/MPD but dysplasia in at least 50% of cells in 2 or more myeloid lineages o Other o AML (BM blasts > 30%) \u2022 FAB classification of AML at initial diagnosis o M0: Minimally differentiated acute myeloblastic leukemia o M1: Acute myeloblastic leukemia, without maturation o M2: Myeloblastic with granulocytic maturation o M3: Acute promyelocytic leukemia o M4: Acute myelomonocytic leukemia o M4eo: Myelomonocytic together with bone marrow eosinophilia o M5: Acute monoblastic leukemia without differentiation or acute monocytic leukemia Novartis Confidential Page 34 RAP Module 3 28-Oct-2014 CLBH589H2101  o M6: Acute erythroid leukemia including erythroleukemia and very rare pure erythroid leukemia o M7: Acute megakaryoblastic leukemia o Acute myeloid leukemia, not otherwise categorized o Other \u2022 time since initial diagnosis of AML until start of treatment (phase Ib part) or randomization date (phase IIb part)  and by categories: \u2022 < 1 month \u2022 \u2265 1 month to \u2264 3 months \u2022 3 months to \u2264 6 months \u2022 months to \u2264 12 months \u2022 12 months to \u2264 24 months \u2022 24 months \u2022 unknown \u2022 duration of first CR to AML o refractory o \u2264 6 months  o > 6 month to \u2264 12 months o > 12 months to \u2264 24 months o > 24 months o unknown \u2022 AML disease status (previously treated/ previously untreated) \u2022 Cytogenetics AML (favorable/ intermediate/ poor/ not done) \u2022 WHO classification of CMML o Chronic myelomonocytic leukemia (CMML) Myelodysplastic disease (WBC < 13 x 109/L, BM blasts 10-29%) o Chronic myelomonocytic leukemia (CMML) Myeloproliferative disease (WBC \u2265 13 x 109/L) \u2022 CMML status at enrolment (previously untreated/ previously treated). \u2022 Time since diagnosis [months] (all diseases) ",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "4.1.4",
+                        "Title": "Medical history",
+                        "Content": " Medical history and ongoing conditions, including leukemia-related conditions and symptoms will be summarized and listed. Separate summaries will be presented for ongoing and historical medical conditions. The summaries will be presented by primary system organ class and preferred term (by initial dose group of PAN for the phase Ib part and by treatment group for the phase IIb part). Medical history/current medical conditions are coded using the Medical dictionary for regulatory activities MedDRA terminology.  ",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "4.1.5",
+                        "Title": "Prior anti-neoplastic therapy",
+                        "Content": " Prior anti-neoplastic therapy will be listed for medications, radiotherapy and surgeries. Novartis Confidential Page 35 RAP Module 3 28-Oct-2014 CLBH589H2101  The number and percentage of patients receiving any prior anti-neoplastic therapy, surgeries, radiotherapy, and prior anti-neoplastic medications will be summarized.  ",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "4.1.6",
+                        "Title": "Other",
+                        "Content": " All data collected at baseline, including source of patient referral, childbearing potential, pregnancy test results, cytogenetics, , will be listed (by initial dose group of PAN for the phase Ib part and by treatment group for the phase IIb part). Demographic information on screening failures will be listed together with the reason for screening failure. ",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "4.2",
+                "Title": "Protocol deviation summaries",
+                "Content": " The number and percentage of patients in the FAS with any protocol deviation will be tabulated by the deviation category (as specified in the Validation and Analysis Plan [VAP] documents). Protocol deviations will also be listed. The tabulation and listing will be done by the initial dose group of PAN for patients in the phase Ib part, and by treatment group for patients in the phase IIb part.  ",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "4.3",
+                "Title": "Groupings for Analysis",
+                "Content": " The number and percentage of patients in each analysis set (definitions are provided in Section 2.3) will be summarized by initial dose group of PAN for the phase Ib part and by treatment group for the phase IIb part). ",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "4.4",
+                "Title": "Patient disposition",
+                "Content": "  The full analysis  set will be used for the patient disposition summaries.  The following frequencies will be provided by initial dose group of PAN for the phase Ib part and by treatment group for the phase IIb part: \u2022 Number (%) of patients who were enrolled  \u2022 Number (%) of patients who are still in the treatment phase at the cut-off date  \u2022 Number (%) of patients who discontinued the study treatment (based on \u2018End of Treatment\u2019 page) \u2022 Number of patients (%) by primary reason for treatment discontinuation (based on \u2018End of Treatment\u2019 page: AE(s)/ Abnormal laboratory value(s)/ Abnormal test procedure result(s)/ Patient withdrew consent/ Lost to follow-up/ Administrative problems/ Death/ Disease progression/ Protocol deviation/ Reason missing) \u2022 Number (%) of patients who entered the post-treatment evaluation phase (based on \u2018End of Treatment\u2019 page \u2022 Number (%) of patients who entered the post-treatment evaluation and completed the study (based on \u2018Study Evaluation Completion\u2019 page) \u2022 Number (%) of patients who entered the post-treatment evaluation and who discontinued the study (based on \u2018Study Evaluation Completion\u2019 page) Novartis Confidential Page 36 RAP Module 3 28-Oct-2014 CLBH589H2101  \u2022 Reasons for discontinuation from the post-treatment evaluation phase (based on \u2018Study Evaluation Completion\u2019 page: Patient withdrew consent/ Lost to follow-up/ Administrative problems/ Death/ New cancer therapy/ Disease progression/ Protocol deviation/ Follow-up phase completed/ Reason missing).  ",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "4.5",
+                "Title": "Follow-up",
+                "Content": " To describe the maturity of data and quality of follow-up, the following summaries on the follow-up of patients will be provided by treatment group for the phase IIb part.  Median duration of follow-up described as the duration of time elapsed from the first visit (per the visit record) of the median patient enrolled to date of data cut-off. Time elapsed from last contact (or death) of patient to date of data cut-off summarized by the following interval times. \u2022 0 to <1 month \u2022 \u22651 to <3 months \u2022 \u22653 to < 6 months \u2022 \u22656 to < 12 months \u2022 \u226512 months The date of last contact is defined as the last date the patient was known to be alive as derived from different CRF pages as described below. ",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "4.6",
+                "Title": "Last contact date",
+                "Content": " The last contact date should be derived as the latest date on or before the data cut-off date from the dates listed in the 1st column of Table 4-1. For each of the sources specific conditions (2nd column of Table 4-1) have to be fulfilled to ensure that there was true contact with the patient.  No additional dates are allowed to be used, e.g. dates coming from concomitant medications, QoL, ECG, etc. The rationale for excluding those additional potential sources is the following: \u2022 Use of a transparent and easy to implement approach that can be standardized across most of the studies. \u2022 The risk of disregarding important information is low since the last contact date is expected to be obtained from the main sources listed in Table 4-1. Table 4-1 Last contact date data sources  Source data Conditions Date of Randomization   No Condition Last contact date/last date patient was known to be alive from Survival Follow-up page   - Patient status is reported to be alive. - Do not use if patient status is reported unknown. Start/End dates from further antineoplastic Non-missing medication/procedure term. Novartis Confidential Page 37 RAP Module 3 28-Oct-2014 CLBH589H2101  Source data Conditions therapy Start/End* dates from drug administration record   Non-missing dose. Doses of 0 are allowed. End of treatment date from end of treatment page No condition. Efficacy (any specific assessment) assessment date Evaluation is marked as \u2018done\u2019. Laboratory/PK collection dates  Sample collection marked as \u2018done\u2019.  Vital signs date  At least one parameter value Performance Status date  Non-missing performance status  ",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "4.7",
+                "Title": "Study treatment and duration of study treatment exposure",
+                "Content": " All summaries mentioned below will be presented (in addition to groupings mentioned below) by initial dose group of PAN for the phase Ib part and by treatment group for the phase IIb part. Duration of study treatment exposure [days] will be summarized overall, and by compound. . The cumulative dose [mg], dose intensity (DI) [mg/day] and relative dose intensity (RDI) [%] will be summarized by compound.  The number of patients who have dose reductions or interruptions and the reasons will be summarized.  Listings of all doses of the study treatment, along with dose change reasons, will be produced by compound.   The safety set will be used for all summaries and listings of study treatment.  ",
+                "Sub-sections": [
+                    {
+                        "Header Number": "4.7.1",
+                        "Title": "Duration of study treatment exposure",
+                        "Content": " In summarizing the  duration of exposure to  study treatment  and study treatment component the following working definitions and conventions will be used. Duration of study treatment exposure Duration of exposure (days) = [(date of last administration of study treatment) \u2013 (date of first administration of study treatment) + 1 day] Duration of study treatment component exposure Duration of exposure to any single component of study treatment will be calculated as Duration of exposure (days) = [(date of last administration of study treatment component) \u2013 (date of first administration of study treatment component) + 1 day] The date of last administration of study treatment  is taken from CRF treatment completion page \u2018last dose taken\u2019. For the date of last administration of the treatment component, the DAR page must be used. Novartis Confidential Page 38 RAP Module 3 28-Oct-2014 CLBH589H2101   The calculation of \u2018duration of exposure\u2019 does not consider the potential \u2018lagging effect\u2019 from the last dose. The duration includes the periods of temporary interruption (of any component of the study treatment for any reason). \u2018Date of last administration of study drug /component\u2019 and \u2018date of first administration of study drug /component\u2019 is defined in Section 2.1. For patients who did not take any study treatment the duration of exposure is defined as zero days. The following categories for exposure to study treatment (by component) will be analyzed: \u2022 < 1 week \u2022 1 week to < 3 weeks \u2022 3 weeks to < 6 weeks \u2022 6 weeks to < 9 weeks  \u2022 9 weeks to < 12 weeks \u2022 \u2265 12 weeks ",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "4.7.2",
+                        "Title": "Cycle definition",
+                        "Content": " Cycle length will be calculated based on the cycle panel for this study.  Using cycle panel (except last cycle), Cycle length= (date of day 1 of the next cycle \u2013 date of day 1 of the current cycle). The actual length of a treatment cycle might differ from the scheduled length: \u2022 In case of Adverse Events which led to a dose delay, the duration of the cycle might be longer than the scheduled length. \u2022 In case a patient was withdrawn from the study, the length of the last treatment cycle might be shorter than the scheduled length 4.7.2.1 Last cycle  Since patient can discontinue the study early, last cycle may not be a complete cycle for treatment.  The calculation of last cycle length needs special attention, i.e.,  Last Cycle Length= [(date of last administration of study treatment component +X) \u2013 (day 1 of the last cycle date) + 1]. where X is the number of days remaining to complete the exposure time of the last dose of the study treatment component or the number of days from last administered  dose to the next planned dose.  This can be better understood by referring to the dosing schedule for the phase IIb part given in Figure 4-1 (note: dosing schedule for the phase Ib part would follow the investigational arm of the phase IIb part). The dose is given on days marked by the dark filled-in slots. X would equal the number of unfilled slots between the filled-in slot that marks the last dose and the next filled-in slot that would mark the next scheduled dose.   For PAN: If last dose is given on day 1, 2, 3, 4, 6, 7, 8, 9, 10, 11, 13, 14 of the cycle, X = 1 Novartis \nConfidential \nPage 39 \nRAP Module 3 \n28-Oct-2014 \nCLBH589H2101 \n \nIf last dose is given on day 5, 12 of the cycle, X = 2 \nIf last dose is given on day 15 to 27 the cycle, X = 28 \u2013 day of last dose \nIf last dose is given on day 28 and beyond, X = 0 \n \nFor 5-Aza: \nIf last dose is given on day 1 through day 6 of the cycle, X = 0. \nIf last dose is given on day 7 to day 27 of the cycle, X = 28 \u2013 day of last dose. \nIf last dose is given on day 28 and beyond, X = 0 \n \nThe special handling of the last cycle length is to carefully calculate dose intensity. This is \ndifferent from the purpose of calculating \u2018duration of exposure\u2019 where \u2018last dose lagging \neffect\u2019 is not included. \n \nNovartis Confidential Page 40 RAP Module 3 28-Oct-2014 CLBH589H2101  Figure 4-1 Treatment schedule (Phase IIb part) Investigational arm:  Active control arm:       ",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "4.7.3",
+                        "Title": "Partial dates",
+                        "Content": " Partial dates will be listed as partial dates. The general approach is to impute partial dates only when further analysis is required.   As a common rule, whenever an imputation is implemented, the imputed date needs to be in the reasonable range of the event. In general, no imputation will be made when the year is missing (exceptions if any will be described in RAP Module 8). In case the imputation process results in a date that is not plausible given known key study dates, the imputed date is to be replaced with a date that is aligned with those known key dates. As an example, when imputing an AE start date results in a date prior to start of study treatment then the AE start date will be set to the study treatment start date. Or for example, if a date is known to be within the trial period and imputation makes it after the last known contact date, the last known contact date will be used. The details for the different scenarios will be specified in RAP module 8.  ",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "4.7.4",
+                        "Title": "Cumulative dose",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "4.7.5",
+                        "Title": "DI and RDI",
+                        "Content": "Novartis Confidential Page 41 RAP Module 3 28-Oct-2014 CLBH589H2101  that if RDI alone is being reported, the calculation of BSA (which appears in both the numerator and the denominator of the formula for RDI and hence cancels out), is not necessary. If BSA is not collected in the CRF then the weight provided at Day 1 of each cycle will be used to calculate the actual BSA (if needed) for each cycle as:  Body Surface Area (Gehan and George):  BSA [m2] =234.94*(height (cm)**0.422)*(weight(kg)**0.515)/10000.  ",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "4.7.6",
+                        "Title": "Dose intensity over study period",
+                        "Content": " PAN and 5-AZA Dose intensity (DI) for patients with non-zero duration of exposure is defined as follows: [][][]\u2211==kii1day)lengthscycleactual(mg dose Cumulativemg/dayDI and i =1,2,3,\u2026,k are the indices for the cycle. For patients who did not take any drug the DI is by definition equal to zero. Note: ()\u2211iilength cycle actualmay not be equal to the duration of the study treatment exposure. Planned dose intensity (PDI) for patients with non-zero duration of exposure is defined as follows: 1. Last cycle length is shorter as or equal to the planned length [][][]\u2211-=+=11lentghcyclelastactual)lengthscyclePlanned(mg dose plannedTotalmg/dayPDIkiiday i =1,2,3,\u2026,k are the indices for the cycle. k is the actual total number of cycles 2. Last cycle length is longer than planned [][][]\u2211==kii1daylengths)cyclePlanned(mg dose plannedTotalmg/dayPDI i =1,2,3,\u2026,k are the indices for the cycle. k is the actual total number of cycles For patients who did not take any drug the PDI is by definition equal to zero. Relative dose intensity (RDI) is defined as follows: RDI [%] = DI [mg/day] / PDI [mg/day] * 100 The definition and analysis will be applicable only for patients with non-zero PDI. Novartis Confidential Page 42 RAP Module 3 28-Oct-2014 CLBH589H2101  Relative dose intensity will be summarized by compound.   This will be done by initial dose group of PAN for the phase Ib part and by treatment group for the phase IIb part.  The number of patients who have dose reductions or interruptions, and the reasons, will be summarized by initial dose group of PAN for the phase Ib part and by treatment group for the phase IIb part . The instructions given to sites regarding completion of dose administration records are provided in the appendix and should be referred to when developing the program code or logic as appropriate. A continuous dose recording scheme (whereby a new entry is made only when there is a change/delay/interruption to the planned dose and schedule) is used for this study. For the purpose of dose intensity calculations, the following algorithm will be used to assign doses: - For 5-Aza: a dose will be assigned daily from start to end date  - For PAN: o For records with a dose starting on any of the protocol days (3,5,8,10,12,15) =>  doses will be assigned on the days as per planned. \ufffd e.g.  if PAN started on C1D3 and ended on C1D14, 5 doses will be assigned (on days 3,5,8,10, and 12)  o For records with doses starting on a non-protocol day => a dose will be assigned every other day, upto a maximum of 6 doses per cycle.   ",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "4.8",
+                "Title": "Concomitant therapy",
+                "Content": " Concomitant therapy is defined as all interventions (therapeutic treatments and procedures) besides the study treatment, which were intentionally administered to a patient preceding or coincident with the study assessment period. Concomitant medications entered into the database will be coded using the WHO Drug Reference List to allow for categorization by preferred term. In addition to categorizing medication data by preferred term, drugs are classified according to their ATC classification in order to present and compare how they are being utilized. The ATC classification allows for the summary of medications by a high-level common drug class. Concomitant medications and significant non-drug therapies taken concurrently with the study treatment will be listed and summarized by ATC class, preferred term.This will be done by the initial dose group of PAN in the phase Ib part and by treatment group in the phase IIb part.  Separate summaries and listings will be generated for concomitant medications started prior to the start of study treatment, and those started after the start of study treatment.  The safety set will be used for all concomitant medication summaries and listings.  Novartis Confidential Page 43 RAP Module 3 28-Oct-2014 CLBH589H2101  ",
+                "Sub-sections": [
+                    {
+                        "Header Number": "4.8.1",
+                        "Title": "Concomitant medications with specific impact on the analysis",
+                        "Content": " 4.8.1.1 Further anti-neoplastic therapy Patients who take additional anti-neoplastic therapy before discontinuing study treatment (i.e., anti-neoplastic therapy other than study treatment) will be identified as protocol deviations. Their efficacy data will be censored so that response assessments made after the first intake of an anti-neoplastic drug will not be included in analyses.   ",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "4.9",
+                "Title": "Primary safety variable",
+                "Content": " The primary safety variable is the incidence of DLT as observed in the phase Ib part. ",
+                "Sub-sections": [
+                    {
+                        "Header Number": "4.9.1",
+                        "Title": "Analysis of the primary safety variable",
+                        "Content": " There is no formal testing of statistical hypotheses. An adaptive Bayesian logistic regression model with overdose control will be used to guide the dose-escalation procedure. This model will be used to estimate probabilities for toxicity categories (underdosing, target toxicity, excessive and unacceptable toxicity) as taken from the posterior distribution. For details refer to the Post-text supplemental 1. The MTD-determining set is the primary analysis set.  The probability for each of the toxicity classes will be provided for the determined MTD in terms of simulations as obtained by the BLRM.  ",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "4.9.2",
+                        "Title": "Sensitivity and other supportive analyses",
+                        "Content": " None are planned. ",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "4.10",
+                "Title": "Safety evaluation",
+                "Content": " The assessment of safety will be based mainly on the frequency of AEs and on the number of laboratory values that fall outside of pre-determined ranges. Other safety data (e.g. electrocardiogram, vital signs, special tests) will be considered as appropriate. Unless otherwise mentioned, all summary safety outputs (including deaths, adverse events, laboratory values, vital signs, ECGs, and ECOG performance status) will be reported by initial dose group of PAN for the phase Ib part and by treatment group for the phase IIb part, in addition to other groupings specified for that analysis.  All safety outputs will use the safety set. The safety summary tables will include only assessments collected no later than 28 days after study treatment discontinuation. All safety assessments will be listed and those collected later than 28 days after study treatment discontinuation will be flagged. ",
+                "Sub-sections": [
+                    {
+                        "Header Number": "4.10.1",
+                        "Title": "Adverse events",
+                        "Content": " Coding of AEs AEs are coded using the Medical Dictionary for Regulatory Activities (MedDRA) terminology version 16.0  or later. Novartis Confidential Page 44 RAP Module 3 28-Oct-2014 CLBH589H2101  Grading of AEs AEs will be assessed according to the Common Terminology Criteria for AEs (CTCAE version 3.0 or later). If CTCAE grading does not exist for an AE, grades 1 \u2013 4 corresponding to the severity of mild, moderate, severe, and life-threatening will be used. CTCAE grade 5 (death) is not be used in studies; rather, this information will be collected in the \u201cEnd of Treatment\u201d or \u201cStudy Completion Evaluation\u201d CRF pages.  Reporting of AEs AE summaries will include all treatment emergent AEs starting on or after Study Day 1 (i.e. on or after the day of the first intake of study treatment) and starting no later than 28 days after study treatment discontinuation. All AEs will be listed. AEs starting prior to Study Day 1 and AEs starting later than 28 days after study treatment discontinuation will be flagged in the listings. A patient with multiple occurrences of an AE will be counted only once in the respective AE category. AE summaries will be presented by primary system organ class, preferred term, and maximum CTC grade. A patient with multiple CTC grades for an AE category will be summarized under the maximum CTC grade recorded for the event. In the summaries presented by grade, all AEs will be pooled regardless of whether they are CTC gradable or not, i.e. regardless of whether the question \u201cCTCAE\u201d on the AEs CRF is answered \u2018Yes\u2019 or \u2018No\u2019. The frequency of all CTC grades and grade 3 and 4 AEs will be summarized separately. Any information collected (e.g. CTC grades, relatedness to study treatment, action taken etc.) will be listed as appropriate.  Summaries of AEs with suspected relationship to study treatment will be provided. Deaths reportable as serious AEs (SAEs) and non-fatal SAEs will be listed by patient and tabulated.  ",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "4.10.2",
+                        "Title": "AE summaries",
+                        "Content": " The following incidences of AE summaries will be produced: \u2022 AEs, regardless of study treatment relationship by primary system organ class and preferred term  \u2022 AEs with suspected relationship to study treatment by primary system organ class, preferred term \u2022 AEs with an overall incidence rate of 10%, regardless of study treatment relationship by primary system organ class and preferred term  \u2022 CTC grade 3 or 4 AEs, regardless of study treatment relationship by primary system organ class and preferred term  \u2022 CTC grade 3 or 4 AEs with suspected study treatment relationship by primary system organ class and preferred term  \u2022 Deaths up to 28 days after end of treatment by primary system organ class and preferred term  Novartis Confidential Page 45 RAP Module 3 28-Oct-2014 CLBH589H2101  \u2022 Deaths after 28 days after end of treatment by primary system organ class and preferred term \u2022 Serious AEs, regardless of study treatment relationship, by primary system organ class and preferred term  \u2022 AEs leading to study treatment discontinuation, regardless of study treatment relationship, by primary system organ class and preferred term  \u2022 AEs requiring dose adjustment or study-treatment interruption, regardless of study treatment relationship, by primary system organ class and preferred term  \u2022 AEs requiring additional therapy, regardless of study treatment relationship, by primary system organ class and preferred term.   ",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "4.10.3",
+                        "Title": "Clinical notable AE",
+                        "Content": " Specific groupings of clinically notable AEs will be considered and the number of patients with at least 1 AE within each grouping will be reported. Such groups consist of AEs for which there is a specific clinical interest in connection with PAN (i.e. where PAN may influence a common mechanism of action responsible for triggering them) or which are similar in nature (although not identical). The groups are defined as per Table 4-2 below and in RAP Module 8.). These groupings are based on standardized MedDRA queries and Novartis MedDRA queries. A NMQ is a customized group of search terms which defines a medical concept for which there is no official SMQ available or the available SMQ does not completely fit to the need.  It may include a combination of single terms and/or an existing SMQ, narrow or broad. Table 4-2 Clinical notable AE Clinically notable adverse events grouping Source Identified risks    QT prolongation SMQ - Broad   Myelosuppression      Haematopoietic erythropenia SMQ \u2013 Broad     Haematopoietic cytopenias SMQ \u2013 Broad     Haematopoietic leukopenia SMQ \u2013 Broad     Haematopoietic thrombocytopenia SMQ - Broad   Hemorrhage SMQ - Narrow   Hepatic dysfunction  SMQ - Broad   Renal dysfunction SMQ - Broad   Severe infections      Pneumonia NMQ - Broad [selected relevant PTs for infectious pneumonia]     Sepsis NMQ -  Broad [selected relevant PTs for infectious sepsis] Potential risks  Novartis Confidential Page 46 RAP Module 3 28-Oct-2014 CLBH589H2101  Clinically notable adverse events grouping Source   Acute pancreatitis NMQ - Broad [SMQ acute pancreatitis, excluding PTs for non-specific symptoms]   Cardiac failure SMQ - Narrow   Hypothyroidism SMQ - Broad   Interstitial lung disease  SMQ \u2013 Broad   Ischemic colitis  SMQ \u2013 Broad   Ischemic heart disease SMQ - Narrow   Reactivation of Hepatitis B infection NMQ \u2013 Broad [selected PTs including relevant serology tests]   Tachyarrhythmias  NMQ - Broad [SMQ tachyarrhythmias (including supraventricular and ventricular) and additional selected PTs]   Venous Thromboembolism SMQ - Narrow   Pericardial effusion NMQ \u2013 Broad [selected relevant PTs for pericardial effusion] Further    Peripheral neuropathy SMQ    Asthenia / fatigue PT  A summary of these clinical notable AEs will be provided by treatment group for the phase IIb part.   ",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "4.10.4",
+                        "Title": "Laboratory data",
+                        "Content": " On analyzing laboratory assessments, data from all sources (central and local laboratories) will be combined. The summaries will include all laboratory assessments collected no later than 28 days after study treatment discontinuation. All laboratory assessments will be listed and those collected later than 28 days after study treatment discontinuation will be flagged in the listings. Laboratory data will be classified into CTC grades according to the NCI CTCAE. A severity grade of 0 will be assigned when the value is within normal limits. In the unlikely case when a local laboratory normal range overlaps into the higher (i.e. non-zero) CTC grade, the laboratory value will still be taken as within normal limits and assigned a CTC grade of zero. In case the lab presented blood counts as percentage of the total white blood cell count, the absolute blood counts will be derived. Both the percent blood count and the total white blood cell count have to be taken from the same blood sample. For all the differential counts, percentages will be converted to absolute values, if necessary, as Absolute value = (percentage * WBC) / 100  Novartis Confidential Page 47 RAP Module 3 28-Oct-2014 CLBH589H2101  In order to derive the corresponding absolute normal range, the following scenarios (depending on the availability of the % range and the absolute range for the differential) will be considered:  \u2022 1st scenario: % range missing and absolute range missing Use pre-defined normal range reported in the Merck manual      \u2022 2nd scenario: % range missing and absolute range NOT missing Use the absolute range provided by the site   \u2022 3rd scenario: % range NOT missing and absolute range NOT missing Use the absolute range provided by the site   \u2022 4th scenario: % range NOT missing and absolute range missing Approved rule: the % normal limits (i.e. LLN and ULN) are divided by 100 and multiplied by the corresponding normal limits of WBC count, e.g. for neutrophils (NEU): \u2022 LLN for NEU count = (LLN for WBC count) * (LLN for NEU % / 100) \u2022 ULN for NEU count = (ULN for WBC count) * (ULN for NEU % / 100)  The following summaries will be produced for the laboratory data (by laboratory variable): \u2022 Number and percentage of patients with worst post-baseline CTC grade (regardless of the baseline status). Each patient will be counted only for the worst grade observed post-baseline. \u2022 Shift tables using CTC grades to compare baseline to the worst post-baseline value will be produced for hematology and biochemistry laboratory parameters with CTC grades. \u2022 For laboratory parameters where CTC grades are not defined (eg. thyroid hormones), shift tables to the worst post-baseline value will be produced using the low/normal/high classifications based on laboratory reference ranges.   The number of granulocytes blood count will be calculated as sum of the neutrophil, basophil and eosinophil blood count. The following listings will be produced for the laboratory data: \u2022 Listing of patients with laboratory values outside the laboratory reference ranges with values flagged to show the corresponding CTC grades and the classifications relative to the laboratory reference ranges \u2022 Listing of all laboratory data with values flagged to show the corresponding CTC grades and the classifications relative to the laboratory reference ranges.   ",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "4.10.5",
+                        "Title": "Vital signs",
+                        "Content": " Vital sign assessments are performed in order to characterize basic body function. The variables collected are:  Novartis Confidential Page 48 RAP Module 3 28-Oct-2014 CLBH589H2101  \u2022 Weight [kg] \u2022 Body temperature [\u00b0C] \u2022 Heart rate [beats per minute] \u2022 Systolic and diastolic blood pressure [mmHg] \u2022 Respiratory rate [breaths per minute]. Patients with clinically notable vital sign abnormalities will be listed and assessments collected later than 28 days after study treatment discontinuation will be flagged in the listings. The criteria for clinically notable abnormalities are depicted in Table 4- and Table 4-4. ",
+                        "Sub-sections": [
+                            {
+                                "Header Number": "N/A",
+                                "Title": "Table 4-3 Clinically notable elevated values",
+                                "Content": " Variable Criteria Systolic BP \u2021 180 mmHg and an increase \u2021 20 mmHg from baseline Diastolic BP \u2021 105 mmHg and an increase \u2021 15 mmHg from baseline. Body temperature \u2021 39.1\u00b0C (102.3\u00b0F) Weight increase from baseline of \u2021 10% Heart rate \u2021 120 bpm with increase from baseline of \u2021 15 bpm Respiratory rate \u2265 30 breaths per minute ",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "N/A",
+                                "Title": "Table 4-4 Clinically notable below normal values",
+                                "Content": " Variable Criteria Systolic BP \u00a3 90 mmHg and a decrease \u2021 20 mmHg from baseline Diastolic BP \u00a3 50 mmHg and a decrease \u2021 15 mmHg from baseline Body temperature \u00a3 35\u00b0C (95\u00b0F) Weight decrease from baseline of \u2021 10% Heart rate \u00a3 50 bpm with decrease from baseline of \u202115 bpm Respiratory rate \u2264 10 breaths per minute ",
+                                "Sub-sections": []
+                            }
+                        ]
+                    },
+                    {
+                        "Header Number": "4.10.6",
+                        "Title": "Handling of missing values",
+                        "Content": " Any post-baseline AE with a missing grade will be substituted by grade 4.  ",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "4.10.7",
+                        "Title": "ECG",
+                        "Content": "  Definition of baseline and post-baseline QTcF 4.10.7.1 Baseline definition Quantitative ECG: Baseline is defined as an average of all pre-dose ECGs performed on Cycle 1 Day 1 if available. Otherwise, the average of all pre-dose ECG measurements taken on most recent day prior to the start of study treatment within the protocol-defined time window is considered as baseline. Unscheduled visits are included. Novartis \nConfidential \nPage 49 \nRAP Module 3 \n28-Oct-2014 \nCLBH589H2101 \n \nNote: if the unscheduled visits have been done on Cycle 1 Day 1 but without time, these \nassessments will not be included in baseline derivation.  \nQualitative ECG: \nBaseline is defined as the last assessment (or set of assessments) prior to the first dose of \nstudy treatment within the protocol-defined time window. Unscheduled visits are included. \n4.10.7.2 Post-Baseline value  \nAll measurements taken after first dose of study treatment will be considered as post baseline. \n4.10.7.3 Population for analysis \nQuantitative ECG: \nPatients will be considered evaluable (included in \u201cTotal\u201d) for outlier analysis if they are at \nrisk at baseline and have at least one post-treatment ECG measurement. For change from \nbaseline analyses they have to have at least one baseline ECG measurement and one post-\nbaseline measurement. \nA patient is considered at risk at baseline for the respective outlier category, if the baseline of \nthis patient is: \n\u2022 Missing or \u2264450 msec for category \u201cNew > 450 and \u2264 480 ms\u201d \n\u2022 Missing or \u2264480 msec for category \u201cNew > 480 and \u2264 500 ms\u201d \n\u2022 Missing or \u2264500 msec for category \u201cNew of > 500 ms\u201d \nQualitative ECG \nA patient is considered at risk for each individual finding if the baseline of the patient is: \n\u2022 Missing or with baseline being normal for that particular finding. \n4.10.7.4 QTcF prolongation summary \nNotable abnormalities will be summarized for the following: \n\u2022 an increase of 30- 60 ms compared to baseline \n\u2022 an increase of > 60 ms compared to baseline \n\u2022 patients with any value of > 450 ms and \u2264 480 ms \n\u2022 patients with any value of > 480 ms and \u2264 500 ms \n\u2022 patients with any value of > 500 ms \nFor outlier abnormalities, similar analysis will be made excluding missing baseline (optional). \nFor the following Quantitative ECG summaries, the patients with baseline and with at least \none post baseline value will be included. \n4.10.7.5 Qualitative ECG summary \nSummary of newly occuring of All qualitative ECG findings will be reported: \n\u2022 Including missing baseline values \nNovartis Confidential Page 50 RAP Module 3 28-Oct-2014 CLBH589H2101  \u2022 Excluding missing baseline values (optional)  ",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "4.10.8",
+                        "Title": "ECOG performance status",
+                        "Content": " ECOG PS scale is used to assess physical health of patients, ranging from 0 (most active) to 5 (least active): ",
+                        "Sub-sections": [
+                            {
+                                "Header Number": "N/A",
+                                "Title": "Table 4-5 ECOG performance scale",
+                                "Content": "",
+                                "Sub-sections": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Header Number": "4.11",
+                "Title": "Efficacy analysis",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "4.11.1",
+                        "Title": "Efficacy analysis for the phase Ib part",
+                        "Content": "   Listing of the data on response variables as assessed by the investigator will be provided.  The best overall response as categorized by the criteria used and assessed by the investigator will be reported by patient. These assessments will be performed for all patients of the FAS and results will be presented per initial dose group of PAN in tabular form. Point estimates and 95% CIs according to Clopper-Pearson will be provided for best response based on the FAS.  ",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "4.11.2",
+                        "Title": "Efficacy analysis for the phase IIb part",
+                        "Content": " The primary efficacy endpoint will be the composite CR (CR or CRi or bone marrow CR) among all patients in the FAS.  The following efficacy endpoints will be considered.  \u2022 Clinical response for AML: CR, CRi, PR \u2022 Clinical response for MDS/CMML: CR, bone marrow CR, PR and Hematologic Improvement (HI) Novartis \nConfidential \nPage 51 \nRAP Module 3 \n28-Oct-2014 \nCLBH589H2101 \n \n\u2022 1-year survival rate \n\u2022 Time to Progression (TTP) \nNo formal statistical test comparing the two arms will be done on any of the endpoints since \nthe study was not powered to do that. \n4.11.2.1 Clinical response for AML and MDS/CMML \n \nClinical responses will be summarized by treatment arm, overall and within disease type (i.e. \nAML or MDS/CMML). Percentage rates for the composite CR rate (CR or CRi or bone \nmarrow CR), overall response rate (CR or CRi or bone marrow CR or PR) will be reported \nalong with 95% confidence intervals for both arms. Exact binomial confidence interval \n(implemented using SAS procedure FREQ with EXACT statement for one-way tables) will be \ncalculated Clopper and Pearson 1934. Point estimates and confidence intervals for the \ndifference in rates between the treatment arms will also be reported.  \n4.11.2.2 1-year survival rate \nThe 1-year survival rate will be obtained from the Kaplan-Meier analysis of overall survival, \nand its variance will be estimated by Greenwood\u2019s formula. Overall survival is defined as the \ntime from date of randomization to date of death due to any cause. If a patient is not known to \nhave died, survival will be censored at the date of last contact. Patients not known to have \ndied will be censored for \u2018Lost to follow-up\u2019 if the time between their last contact date and the \nanalysis cut-off date is longer than 3 months and 2 weeks (104 days) during the first year after \nstudy evaluation completion, and longer than 6 months and 2 weeks (194 days), thereafter. \nThis takes into account the fact that survival follow-up is every 3 months during the first year \nafter completion of study evaluation, and every 6 months thereafter, and allows for a window \nof 2 weeks to accommodate reasonable delays in reporting. \n4.11.2.3 Time to Progression (TTP) \nTime to progression (TTP) is defined as the time from the date of randomization to the date of \nthe first documented PD per investigator\u2019s assessment or death due to study indication. Time \nto progression will be analyzed by the Kaplan Meier method. The 25th, 50th (median), and \n75th percentiles of the TTP and the 2-sided 95% CIs will be reported for both arms. \nThe event and censoring times for TTP are depicted in Table 4-6 below. \n \nTable 4-6 \nEvent and censoring dates used in TTP \n \nSituation \n End-date \n \nOutcome\nA \nNo baseline assessment  \nDate of randomization \nCensor \nB \nPD/relapse at scheduled assessment \ndate or before next scheduled \nassessment \nDate of PD/relapse \nEvent \nNovartis Confidential Page 52 RAP Module 3 28-Oct-2014 CLBH589H2101   Situation  End-date  OutcomeC1 PD/relapse or death due to study indication after exactly one missing assessment Date of PD/relapse/death  Event  C2 PD/relapse or death due to study indication after two or more missing assessments Date of last adequate assessment before PD/relapse or death due to study indication (i.e. before the 2 or more missing assessments) Censor       D No PD/relapse/death due to study indication Date of last adequate assessment1  Censor E Treatment discontinuation due to \u2018Disease PD/relapse\u2019 without documented PD/relapse, i.e. clinical PD/relapse based on investigator claim  N/A   Ignored   F New anticancer therapy given2 Date of last adequate assessment before start of new anticancer therapy Censor     1 In case there is no adequate assessment, the end date is the date of randomization 2 New anticancer therapy given without documented evidence of PD/relapse     ",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "4.11.3",
+                        "Title": "Kaplan-Meier analysis",
+                        "Content": " The analysis will be conducted via use of the SAS procedure LIFETEST where statement STRATA will include only the treatment group variable (trt in the example below). The TIME statement will include a variable with survival times (survtime in the example below) and a (right) censoring variable (censor in the example below) with one representing censoring: PROC LIFETEST data=dataset  TIMELIST=t1 t2 t3 METHOD=KM CONFTYPE=LOGLOG;  TIME survtime*censor(1); STRATA trt; RUN; Novartis Confidential Page 53 RAP Module 3 28-Oct-2014 CLBH589H2101  \u2022 survtime represents variable containing event/censor times    \u2022 censor represents censoring variable (1=censored, 0=event)  \u2022 trt represents treatment group variable \u2022 t1, t2, and t3 represent the times at which survival estimates are to be reported, e.g. at 6 months, 9 months, and 1 year, say.    ",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "4.11.4",
+                        "Title": "Handling of missing values/discontinuations",
+                        "Content": " Patients with best overall response of \u2018Unknown\u2019 by the respective efficacy criteria will be treated as non-responders in the calculation of the objective response rate in the full analysis set. ",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "4.11.5",
+                        "Title": "Transfusions",
+                        "Content": " The total number of transfusion units by patient will be summarized by transfusion type indication (MDS/CMML, AML) and  adjusted for the respective study period. This will be done by the initial dose group of PAN for patients in the phase Ib part and by treatment group for patients in the phase IIb part.  Number of units of transfusion of a specific type, for a patient, adjusted for the study period =  (Total number of transfusion units of the specific type during the on-treatment period) / (on-treatment period in months) where on-treatment period is defined as the following time interval: [date of first administration of study treatment; date of last administration of study treatment +28 days], i.e. inclusive of the lower and upper limits.    Transfusion-dependence will be assessed throughout the study. At baseline, a patient is to be considered transfusion-dependent if he/she has had an infusion of 4 or more units within the 8 weeks preceding treatment and 1 of those units was administered within 1 week immediately preceding treatment.  Post-baseline, a patient is considered not to be transfusion dependent until the start of the first transfusion notwithstanding transfusions during baseline. After start of treatment, a period of 7 days without any transfusion would define a patient as transfusion-independent. Bone marrow assessment Bone marrow variables as assessed by aspirate and/or biopsy will be listed. Differential cell counts as provided by aspirate will be listed by initial dose group of PAN in the phase Ib part and by treatment group in the phase IIb part.  The last measurement per cycle will be used in Novartis \nConfidential \nPage 54 \nRAP Module 3 \n28-Oct-2014 \nCLBH589H2101 \n \ncase of more than 1 assessment per cycle. In this case, all variables need to be from the same \nsample. \nThe differential cell counts include the following variables which will be listed: \nBone marrow aspirate \n\u2022 Blasts [%] \n\u2022 Promyelocytes [%] \n\u2022 Metamyelocytes [%] \n\u2022 Bands [%] \n\u2022 Neutrophil [%]s \n\u2022 Eosinophils [%] \n\u2022 Basophils [%] \n\u2022 Lymphocytes [%] \n\u2022 Monocytes [%] \n\u2022 Pronormoblasts/Proerythroblasts [%] \n\u2022 Normoblasts/Erythroblasts [%] \n\u2022 Plasma Cells [%] \n\u2022 Other [%] \nBone marrow biopsy \n\u2022 Blasts [%] \nThe following variables will be listed: \nBone marrow aspirate \n\u2022 Was the specimen adequate for assessment (yes/ no) \n\u2022 if no: Dry tap/ hemodiluted/ other \n\u2022 Are the differential results from smear/ touch imprints? (yes/ no) \n\u2022 Auer rods present? (yes/no) \n\u2022 Myeloid/ erythroid ratio \n\u2022 Erythroid cells (absent/ decreased/ normal/ increased/ unknown, not done) \n\u2022 Myeloid cells (absent/ decreased/ normal/ increased/ unknown, not done) \n\u2022 Megakaryotype cells (absent/ decreased/ normal/ increased/ unknown, not done) \n\u2022 Dysplasia (no/ yes) \n\u2022 If yes: erythroid/ myeloid/ megakaryocyte \n\u2022 Cellularity done (yes/ no) \n\u2022 If yes:  \n\u2022 aplastic \n\u2022 hypocellular (mild/ moderate/ severe) \n\u2022 normocellular \n\u2022 hypercellular (mild/ moderate/ severe) \nNovartis Confidential Page 55 RAP Module 3 28-Oct-2014 CLBH589H2101  \u2022 not available Bone marrow biopsy \u2022 Was the specimen adequate for assessment (yes/ no) \u2022 Auer rods present? (yes/no) \u2022 Cellularity done (yes/ no) \u2022 If yes:  \u2022 aplastic \u2022 hypocellular (mild/ moderate/ severe) \u2022 normocellular \u2022 hypercellular (mild/ moderate/ severe) \u2022 not available \u2022 Cellularity available? (yes/ no) \u2022 If yes: \u2022 %age of cellularity \u2022 Megakaryotype cells (absent/ decreased/ normal/ increased/ unknown, not done) \u2022 Dysplasia (no/ yes) \u2022 If yes: erythroid/ myeloid/ megakaryocyte ",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "4.12",
+                "Title": "Handling of missing values/discontinuations",
+                "Content": " Patients with best overall response of \u2018Unknown\u2019 by the respective efficacy criteria will be treated as non-responders. Missing values for CTC grading of AEs and laboratory values at baseline will be set to CTC grade 0. ",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "4.13",
+                "Title": "Subgroup analysis",
+                "Content": " Not applicable. ",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "4.14",
+                "Title": "Pharmacokinetic analyses",
+                "Content": " Plasma PAN levels collected during Cycle 1 of the phase Ib part of the study, on Days 4, 5, and 8 will be summarized by study day. Pre-dose levels of PAN (Cmin values) will be summarized at the study conclusion by study day and actual dose group of PAN. Values below the lower limit of quantification (LLOQ) of approximately 0.5 ng/mL will be reported as 0 ng/mL. Missing values will be labeled accordingly. Novartis Confidential Page 56 RAP Module 3 28-Oct-2014 CLBH589H2101   ",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "4.16",
+                "Title": "Interim analyses",
+                "Content": " Not applicable. ",
+                "Sub-sections": []
+            }
+        ]
+    },
+    {
+        "Header Number": "5",
+        "Title": "References",
+        "Content": " [Babb J, Rogatko A, Zacks S (1998)] Cancer Phase I clinical trials: efficient dose escalation with overdose control. Stat Med; 17: 1103-1120   [Cheson B, Bennet JM, Kopecky K, et al (2003)] Revised Recommendations of the International Working Group for Diagnosis, Standardization of Response Criteria, Treatment Outcomes, and Reporting Standards for Therapeutic Trials in Acute Myeloid Leukemia. Journal of Clinical Oncology; 21(24):4642-4649 [Cheson BD, Greenberg PL, Bennet JM, et al (2006)] Clinical application and proposal for modification of the International Working Group (IWG) response criteria in myelodysplasia. Blood (108):419-425            Novartis Confidential Page 57 RAP Module 3 28-Oct-2014 CLBH589H2101     ",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "6",
+        "Title": "Appendix",
+        "Content": "  ",
+        "Sub-sections": [
+            {
+                "Header Number": "N/A",
+                "Title": "A1 Instructions given to sites for completion of the DAR forms",
+                "Content": " 1. GENERAL INSTRUCTIONS  - In general, the site must enter at least 1 record per cycle - For patient WITHOUT dose delay/interruption, it is acceptable to have just one record for the cycle, with start date = day1/ 3 and end date = day 7/15 of the cycle for 5-Aza/Pan   - Planned dose is always the dose defined by the protocol (30 mg for Panobinostat for phase II, 75 mg/m2 for Vidaza). The most important is the first planned dose (C1D1 for 5-Aza and C1D3 for PAN). Note: for phase I, PAN could be from  10-60mg  2. DOSE CHANGE  Dose Change: To decide whether the dose was changed or not, it must be compared to previous non-zero dose received (and not to the planned dose) Example:            Administration 1: Planned Dose 30 mg, Actual Dose 30 mg (Dose Change = No) Administration 2: Planned Dose 30 mg, Actual Dose 20 mg (Dose Change = Yes) Administration 3: Planned Dose 30 mg, Actual Dose 20 mg (Dose Change = No) Administration 4: Planned Dose 30 mg, Actual Dose 0 mg (Dose Change = No \u2013 e.g. interruption, see below) Administration 5: Planned Dose 30 mg, Actual Dose 20 mg (Dose Change = No)  3. DOSE DELAY There are two situations to be considered in this study: \u2022 Situation 1: Delay of a cycle (duration>28 days)  If the cycle is >28 days, Day 29 to the end of the cycle will be considered as dose delay and one record with 0 dose should be entered Example: cycle start date is 1-April-2013 and end of cycle is 5-May-2013, 3 records should be entered: a. For 5-Aza: ",
+                "Sub-sections": []
+            }
+        ]
+    }
+]

@@ -1,0 +1,376 @@
+[
+    {
+        "Header Number": "1",
+        "Title": "Introduction",
+        "Content": "",
+        "Sub-sections": [
+            {
+                "Header Number": "1.1",
+                "Title": "Study design",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "1.2",
+                "Title": "Study objectives and endpoints",
+                "Content": "Novartis\nFor business use only\nPage 12\nRAP M3 Amendment 4\nICL670A2302\nballoon pump for hemodynamic compromise. Initiation of \noral diuretics or intensification (doubling) of the maintenance \ndiuretic dose will also qualify. \n3. Liver function impairment reflected by: \n\u25cf ALT or AST > 2 times the baseline value and > 3.5 \ntimes ULN \n                AND \n\u25cf Total bilirubin > 2 mg/dL at two consecutive visits \n4. Liver cirrhosis confirmed by: \n\u25cf The presence of at least one of the following \nsymptoms/signs: cirrhosis-related ascites, spontaneous \nbacterial peritonitis, hepatic encephalopathy, variceal \nbleeding due to portal hypertension \n                OR \n\u25cf Abdominal ultrasonography (if clinically indicated) \n                OR \n\u25cf Liver biopsy (if clinically indicated) \n5. Progression to Acute Myeloid Leukemia (confirmed by \nbone marrow biopsy or aspirate) \nSecondary\nHematologic improvement \n(HI) in terms of erythroid \nresponse\nProportion of patients with hematologic improvement in \nterms of erythroid response \nOverall survival \nOverall survival \nChange in endocrine \nfunction (thyroid and \nglycemic control) \n\uf0b7\nProportion of patients with hypothyroidism as \nassessed by annual TSH and free T4.\n\uf0b7\nProportion of patients with a worsening of glucose \nmetabolism from baseline as assessed by annual oral \nglucose tolerance test (OGTT) \nDisease progression (which \nincludes MDS progression \nand progression to AML) \nTime to disease progression, i.e. either MDS progression \ndefined as a transition into a higher MDS risk group based on \nIPSS scoring or progression to AML defined as >20% blasts \nin the bone marrow\nChange in serum ferritin \nlevel\nTime to first occurrence of serum ferritin > 2 times the \nbaseline value at two consecutive assessments (at least two \nweeks apart) (See Section 4 for details)\nChange in cardiac function\n\uf0b7\nTime to at least a 10% increase from baseline in left \nventricular end-diastolic internal dimension (LVIDD) \nat two consecutive assessments at least two weeks \napart\n\uf0b7\nTime to at least a 10% increase from baseline in left \nventricular internal systolic diameter (LVISD) at two \nconsecutive assessments at least two weeks apart \n",
+                "Sub-sections": []
+            }
+        ]
+    },
+    {
+        "Header Number": "2",
+        "Title": "Statistical methods",
+        "Content": "",
+        "Sub-sections": [
+            {
+                "Header Number": "2.1",
+                "Title": "Data analysis general information",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "2.1.1",
+                        "Title": "General presentation of descriptive summaries",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "2.1.2",
+                        "Title": "General definitions",
+                        "Content": "Novartis\nFor business use only\nPage 15\nRAP M3 Amendment 4\nICL670A2302\n2.1.2.6\nStudy day\nThe study day for safety assessments (e.g. adverse event onset, laboratory abnormality \noccurrence, vital sign measurement, dose interruption etc.) will be calculated as the difference \nbetween the date of the event (onset date of an event, assessment date etc.) and the start of \nstudy treatment plus 1. The first day of study treatment is therefore study day 1. If an event \nstarts after the start date of study treatment, the study day will be calculated as:\nStudy day=date of event \u2013 start date of study treatment+1\nIf an event date is before the treatment start date, the study day will be calculated using the \nbelow formula:\nStudy day= date of event \u2013 start date of study treatment\nThe study day for efficacy assessments will be calculated as:\nStudy day = The date of the assessment / event - randomization date + 1\nIn other words, all efficacy, including time-to-event variables (event-free survival, overall \nsurvival, time to disease progression), will be calculated from the date of randomization.\nFor any assessment or events, such as baseline disease characteristics or medical history (e.g.,\ntime since diagnosis of disease) collected prior to randomization date, the study day will be \nnegative and will be calculated as:\nStudy Day = Event date \u2013 Randomization date.\nThe study day will be displayed in the data listings.\n2.1.2.7\nMonth\nA month will be calculated as (365.25 / 12) = 30.4375 days. If duration is to be reported in \nmonths, duration in days will be divided by 30.4375.\n2.1.2.8\nBaseline\nUnless otherwise specified below, for efficacy evaluations, the baseline value is defined as \nthe last available measurement before or on the day of randomization (including results from \nunscheduled visits analyzed by the central laboratory). It is assumed that assessments \nscheduled for Visit 3 \u2013 the randomization visit \u2013 were done prior to randomization in order to \nbe interpreted as prior to or on the day of randomization (e.g. physical examination, chest x-\nray). If an assessment is done at both screening visits, Visit 1 and Visit 2, the value of Visit 2 \nis considered the baseline value.\nDiffering definitions for baseline values were specified for the following assessments or \nparameters:\n\uf0b7\nSerum creatinine, creatinine clearance, ALT/AST, serum ferritin, total and direct\nbilirubin: the baseline value is defined as the mean of the Visit 1 and Visit 2 values.  If \nadditional measurements analyzed by the central laboratory are available from \n",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "2.2",
+                "Title": "Analysis sets",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "2.2.1",
+                        "Title": "Full Analysis Set",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "2.2.2",
+                        "Title": "Per Protocol Analysis Set",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "2.2.3",
+                        "Title": "Safety Analysis Set",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "2.2.4",
+                        "Title": "Subgroup of interest",
+                        "Content": "",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "2.3",
+                "Title": "Patient disposition, demographics and other baseline characteristics",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "2.4",
+                "Title": "Treatments (study treatment, compliance)",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "2.4.1",
+                        "Title": "Duration of exposure",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "2.4.2",
+                        "Title": "Cumulative dose",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "2.4.3",
+                        "Title": "Average planned and actual dose",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "2.4.4",
+                        "Title": "Percent dose taken",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "2.4.5",
+                        "Title": "Concomitant, prior and post therapies",
+                        "Content": "",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "2.5",
+                "Title": "Analysis of the primary objective",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "2.5.1",
+                        "Title": "Primary endpoint",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "2.5.2",
+                        "Title": "Statistical hypothesis, model, and method of analysis",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "2.5.3",
+                        "Title": "Handling of missing values/censoring/discontinuations",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "2.5.4",
+                        "Title": "Sensitivity and supportive analyses",
+                        "Content": "Novartis\nFor business use only\nPage 25\nRAP M3 Amendment 4\nICL670A2302\nsame methodology will address the issue of partial data for the composite endpoint (i.e., a \npatient with some missing data but not all of the components of composite endpoints). \nFor the first main sensitivity analysis patients with premature discontinuation of randomized \nstudy treatment and subsequent treatment with marketed iron chelation therapy (including \nExjade\u00ae) will be censored at the date of first administration of the subsequent iron chelation \ntherapy.\nFor the second main sensitivity analysis patients with premature discontinuation of \nrandomized study treatment (regardless of whether they were subsequently treated with \nmarketed iron chelation therapy) will be censored at the date of last administration of \nrandomized study treatment.\nThe third sensitivity analysis will employ the following censoring rules:\n\uf0b7\nIf an event is documented after three or more consecutive missing biochemistry \nlaboratory assessments (regarding results for ALT, AST, and total bilirubin), the \nevent-free survival time of these patients will be censored at the date of the last \nassessment with complete information for ALT, AST, and total bilirubin. \n\uf0b7\nIf an event is documented after two or more consecutive missing echocardiogram \n(ECHO) assessments (for left ventricular ejection fraction), the event-free survival \ntime of these patients will be censored at the date of the last ECHO assessment.\n\uf0b7\nIf an event is documented after at least three consecutive missing biochemistry \nlaboratory assessments (ALT, AST, and total bilirubin) and at least two \nconsecutive missing ECHO assessments simultaneously, the event-free survival \nwill be censored at the date of the last assessment with both biochemistry \nlaboratory and ECHO assessments completed.\n\uf0b7\nAs the three other components, \u2018hospitalization for congestive heart failure\u2019, \u2018liver \ncirrhosis\u2019 and \u2018Progression to AML\u2019, i.e. assessed in unscheduled examinations, \nmissing assessments for them cannot be determined.\nSensitivity analyses include:\n\uf0b7\nPoint estimate and two-sided 95% confidence interval for the adjusted HR from a Cox \nproportional hazard regression model stratified for the randomization factors with \nadjustment for demographic or baseline characteristics of clinical interest. The \nadjustment will be made for age (\u226565 vs < 65), Asian vs non-Asian, MDS risk group\n(low vs intermediate).  \n\uf0b7\nStatistical analyses based on the PPS instead of the FAS.\nSupportive analyses include:\n\uf0b7\nKM curves by treatment and unadjusted HR (point estimate and two-sided 95% \nconfidence interval) for each of the strata defined by the randomization factors.\n\uf0b7\nKM curves by treatment and unadjusted HR (point estimate and two-sided 95% \nconfidence interval) for each component of event-free survival (overall survival is also \na secondary efficacy endpoint, see Section 2.7.1.1).\n\uf0b7\nNumber of deaths and non-fatal events adjudicated by the endpoint adjudication \ncommittee\n",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "2.6",
+                "Title": "Analysis of the key secondary objective",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "2.7",
+                "Title": "Analysis of secondary efficacy objective(s)",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "2.7.1",
+                        "Title": "Secondary efficacy endpoints",
+                        "Content": "Novartis\nFor business use only\nPage 27\nRAP M3 Amendment 4\nICL670A2302\nThe percentage of responders will be summarized for the two treatment groups and 100(1-\ufffd)% \nconfidence intervals with \ufffdof 0.05 will be provided. The 95% confidence limits for the \ndifference of two proportions will be derived by the Wilson score test (see Section 5.5.3).\nOverall survival\nOverall survival (OS) will be evaluated in patients treated with either deferasirox or placebo. \nThe variable used in the analysis of overall survival is time to death measured in days. It is \ndefined as date of death (irrespective of cause) minus date of randomization plus 1.\nCensoring is described in Section 2.7.3.1. The estimation of survival functions and the Cox \nmodel to estimate the HR are defined in Section 2.5.2.2 and Section 2.5.2.3. An exploratory \nstatistical test will be performed analogously to the description in Section 2.5.2.4.\nThe Kaplan-Meier curves, medians, and Kaplan-Meier estimates with 95% confidence \nintervals at specific time points will also be displayed by treatment and stratum.\nIn Kaplan-Meier plots, statistics such as p-value, hazard ratio, etc. will also be displayed. Note \nthat only nominal p-values are provided with no statistical interpretation.\nSurvival information will be listed. The listing will include if patients survived (Yes/No), last \ncontact date, study day, date of death if not survived and principal cause of death. \nUnless otherwise specified, all time-to-event analysis will be analyzed in a similar fashion. \n2.7.1.2\nProportion of patients with hypothyroidism\nHypothyroidism will be evaluated by the annual measurement of TSH and free T4. The \nproportion of patients with normal thyroid function, primary hypothyroidism, secondary \nhypothyroidism or subclinical hypothyroidism will be determined at each time point (i.e. 1, \n2, \u2026, years after randomization).\nDefinitions:\n\uf0b7\nnormal thyroid function: serum TSH and free T4 within normal limits;\n\uf0b7\nprimary hypothyroidism: serum TSH >ULN and free T4 <LLN;\n\uf0b7\nsecondary hypothyroidism: serum TSH <ULN and free T4 <LLN;\n\uf0b7\nsubclinical hypothyroidism: TSH >ULN and a free T4 within normal limits.\nFrequency of newly occurring hypothyroidism and shift tables will be provided for each \ntreatment group. Results will also be shown separately for each year since randomization. A\ncombined listing for hypothyroidism and glucose metabolism will be provided.\n2.7.1.3\nProportion of patients with worsening of glucose metabolism\nAn annual oral glucose tolerance test will be carried out to evaluate changes of glucose \nmetabolism compared to the baseline status. The proportion of patients with an increase in \nglucose metabolism category (normal, impaired glucose metabolism, diabetes mellitus) based \non the American Diabetes Association criteria (American Diabetes Association 2009) \ncompared to their baseline result will be determined at each time point, i.e. 1, 2, \u2026, years \nNovartis\nFor business use only\nPage 28\nRAP M3 Amendment 4\nICL670A2302\nafter randomization. For this classification, fasting and 2-hour post-prandial plasma glucose \nlevels will be measured.\nCriteria for impaired glucose metabolism:\n\uf0b7\nfasting plasma glucose (FPG) levels \u2265100 mg/dL (5.6 mmol/L) but <126 mg/dL\n(7.0 mmol/L)\nOR\n\uf0b7\n2-h values in the oral glucose tolerance test (OGTT) of \u2265140 mg/dL (7.8 mmol/L) but \n<200 mg/dl (11.1 mmol/L)\nCriteria for diabetes mellitus:\n\uf0b7\nnon-fasting plasma glucose  \u2265200 mg/dL (11.1 mmol/L)   \nOR\n\uf0b7\nFPG \u2265126 mg/dL (7.0 mmol/L). Fasting plasma glucose is defined as no caloric intake for \nat least 8 hours\n     OR\n\uf0b7\n2 hour post load glucose \u2265200 mg/dL (11.1 mmol/L) during an OGTT. As described by \nWHO, the test use a glucose load containing the equivalent of 75 g anhydrous glucose \ndissolved in water\nFrequency and shift tables will be provided for each treatment group. Results will also be \nshown separately for each year since randomization.\n2.7.1.4\nDisease progression\nAn evaluation of the time from randomization to either MDS progression or progression to \nAML in the treatment groups will be done based on date of diagnosis of MDS progression or \ndate of first diagnosis of AML minus date of randomization plus 1.\nMDS progression will be defined as a transition into a higher MDS risk group based on IPSS \nscoring (see Section 5.3.2). Progression to AML will be defined based upon the most current \nclassification guidelines (Vardiman 2009), as 20% or more blasts seen in the bone marrow \ncollected by biopsy or aspirate.\nThe time-to-event analysis follows the description given in Section 2.5.2.2. Censoring for \npatients with neither MDS progression nor progression to AML at last contact is described in \nSection 2.7.3.2 and Section 2.5.3.5. \n2.7.1.5\nTime to at least a 10% increase from baseline in LVIDD\nAn evaluation of the time from randomization to the first occurrence of an increase of at least \n10% from the baseline value of LVIDD (Left Ventricular Internal end-diastolic dimension) \nwill be performed based on the following variable:\n\uf0b7\ndate of echocardiography assessment where a minimum of 10% increase first occurred \nminus date of randomization plus 1.\nNovartis\nFor business use only\nPage 29\nRAP M3 Amendment 4\nICL670A2302\nThe time-to-event analysis follows the description given in Section 2.5.2.2. Censoring for \npatients without such an increase in LVIDD will be at the time of last LVIDD assessment \n(Section 2.7.3.3). \n2.7.1.6\nTime to at least a 10% increase from baseline in LVISD\nAn evaluation of the time from randomization to the first occurrence of an increase of at least \n10% from the baseline value of LVISD (Left Ventricular Internal end-systolic dimension) will \nbe performed based on the following variable:\n\uf0b7\ndate of echocardiography assessment where a minimum of 10% increase first occurred \nminus date of randomization plus 1.\nThe time-to-event analysis follows the description given in Section 2.5.2.2. Censoring for \npatients without such an increase in LVISD will be at the time of a last LVISD assessment \n(Section 2.7.3.3). \n2.7.1.7\nTime to first occurrence of serum ferritin > 2 times the baseline value\nAn evaluation of the time from randomization to the first occurrence of serum ferritin > 2 times \nthe baseline value at two consecutive assessments (at least two weeks apart) will be performed per \ntreatment group based on the following variable: \n\uf0b7\ndate of the first of the two consecutive laboratory assessment fulfilling the criterion of SF > 2 \n\u00d7 baseline value minus date of randomization plus 1 \nThe time-to-event analysis follows the description given in Section 2.5.2.2. Censoring for \npatients without such a serum ferritin increase is described in Section 2.5.3.6.\n2.7.1.8\nInfections\nInfections requiring intravenous antimicrobials during the treatment period (until the 28 day \nfollow-up visit) will be evaluated separately for each treatment group.\nDefinitions:\n\uf0b7\nInfections will be determined from the reported adverse events with system organ class \n\"Infections and infestations\" and action taken \u201cConcomitant medication taken\u201d.\n\uf0b7\nAntimicrobial therapy will be determined from the reported concomitant medications for \npatients who had an infection AE. The medications will be based on a pre-specified list of \nWHO low level ATC codes. The route of administration needs to be specified as \n\u201cintravenous (i.v.)\u201d.\n\uf0b7\nIdentified events will be combined with medications (of the same patient) based on the \nfollowing criterion: start date of medication \u2265start date of AE and start date of medication \n\u2264minimum (start date of AE + 1, end date of AE).\nThe total number of infections requiring intravenous antimicrobials will be counted and \nsummarized per treatment group. For this number, one patient can contribute more than one \ninfection event. To account for different lengths of observation time in the two groups, the \nrate of infections will be calculated with the number of recorded infections treated with \nintravenous antimicrobials divided by the total number of patient-years of follow-up. The \nrelative risk of infection will be calculated as the rate of infection in the treatment group \ncompared with the rate in the placebo group.\n",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "2.7.2",
+                        "Title": "Statistical hypothesis, model, and method of analysis",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "2.7.3",
+                        "Title": "Handling of missing values/censoring/discontinuations",
+                        "Content": "",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "2.8",
+                "Title": "Safety analyses",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "2.8.1",
+                        "Title": "Adverse events (AEs)",
+                        "Content": "Novartis\nFor business use only\nPage 32\nRAP M3 Amendment 4\nICL670A2302\n\uf0b7\nSerious adverse events, regardless of study drug relationship \n\uf0b7\nSerious adverse events, suspected to be study drug relationship \n\uf0b7\nAdverse events leading to study drug discontinuation, regardless of study drug \nrelationship \n\uf0b7\nAdverse events requiring dose adjustment or interruption, regardless of study drug \nrelationship \n\uf0b7\nAdverse events requiring additional therapy, regardless of study drug relationship \n\uf0b7\nAdverse events, suspected to be study drug related \n\uf0b7\nAdverse events which are not serious adverse events, regardless of study drug relationship\nFor the requirements of ClinicalTrials.gov and EudraCT, two required tables on <on-\ntreatment/treatment emergent> adverse events which are not serious adverse events with an \nincidence greater than 5% and on <on-treatment/treatment emergent> serious adverse events \nand SAE suspected to be related to study treatment will be provided by system organ class \nand preferred term on the safety set population.\nIf for a same patient, several consecutive AEs (irrespective of study treatment causality, \nseriousness and severity) occurred with the same SOC and PT:\n\uf0b7\na single occurrence will be counted if there is \u2264 1 day gap between the end date of the \npreceding AE and the start date of the consecutive AE\n\uf0b7\nmore than one occurrence will be counted if there is > 1 day gap between the end date \nof the preceding AE and the start date of the consecutive AE\nFor occurrence, the presence of at least one SAE/SAE suspected to be related to study \ntreatment / non SAE has to be checked in a block e.g., among AE's in a \u2264 1 day gap block, if \nat least one SAE is occurring, then one occurrence is calculated for that SAE.\nThe number of deaths resulting from SAEs suspected to be related to study treatment will be\ntabulated by SOC and PT and a listing will be generated.\n2.8.1.1\nAdverse events of special interest / grouping of AEs\nSpecific groupings of adverse events of special interest will be considered and the number of \npatients with at least one event in each grouping will be reported. Such groups consist of \nadverse events for which there is a specific clinical interest in connection with deferasirox \ntreatment. Note that certain adverse events may be reported within multiple groupings/AESIs.\nAESIs are defined by MedDRA terms. Definition for retrieval (maintenance of terms \nconsidered AESI) is in a separate document in the Novartis Documentum management system \nat the path \u201cCREDI Projects/I/ICL670A/Integrated Medical Safety\u201d. The MedDRA codes will \nbe used to generate the outputs.\nThe AESI search table will be used to map reported adverse events to the notable adverse\nevents groupings. The list of adverse events of special interest may be updated during the\n",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "2.8.2",
+                        "Title": "Deaths",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "2.8.3",
+                        "Title": "Laboratory data",
+                        "Content": "NovartisFor business use onlyPage 34RAP M3 Amendment 4ICL670A2302",
+                        "Sub-sections": [
+                            {
+                                "Header Number": "N/A",
+                                "Title": "Criteria for clinically notable and extended laboratory ranges",
+                                "Content": "",
+                                "Sub-sections": []
+                            }
+                        ]
+                    },
+                    {
+                        "Header Number": "2.8.4",
+                        "Title": "Other safety data",
+                        "Content": "",
+                        "Sub-sections": [
+                            {
+                                "Header Number": "N/A",
+                                "Title": "Table 2-1 Definition of notable ranges for blood pressure and weight",
+                                "Content": "",
+                                "Sub-sections": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Header Number": "2.9",
+                "Title": "Pharmacokinetic endpoints",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "2.10",
+                "Title": "Patient-reported outcomes",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "2.11",
+                "Title": "Biomarkers",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "2.12",
+                "Title": "Other Exploratory analyses",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "2.13",
+                "Title": "Interim analysis",
+                "Content": "",
+                "Sub-sections": []
+            }
+        ]
+    },
+    {
+        "Header Number": "3",
+        "Title": "Sample size calculation",
+        "Content": "",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "4",
+        "Title": "Change to protocol specified analyses",
+        "Content": "",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "5",
+        "Title": "Appendix",
+        "Content": "",
+        "Sub-sections": [
+            {
+                "Header Number": "5.1",
+                "Title": "Imputation rules",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "5.1.1",
+                        "Title": "Study drug",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "5.1.2",
+                        "Title": "AE date imputation",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "5.1.3",
+                        "Title": "Concomitant medication date imputation",
+                        "Content": "",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "5.2",
+                "Title": "AEs coding/grading",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "5.3",
+                "Title": "Laboratory parameters derivations",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "5.3.1",
+                        "Title": "Creatinine clearance estimation",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "5.3.2",
+                        "Title": "Terminology IPSS score and MDS risk group",
+                        "Content": "",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "5.4",
+                "Title": "Dose interruption and modification",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "5.5",
+                "Title": "Statistical models",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "5.5.1",
+                        "Title": "Primary analysis",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "5.5.2",
+                        "Title": "Key secondary analysis",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "5.5.3",
+                        "Title": "Confidence interval for the difference of proportions",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "5.5.4",
+                        "Title": "Treatment switching to new chelator(s)",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "5.5.5",
+                        "Title": "Time point windows",
+                        "Content": "Novartis\nFor business use only\nPage 43\nRAP M3 Amendment 4\nICL670A2302\nVisit\nDescription\nFirst day in \nwindow\nScheduled \nday in \nwindow\nLast day in \nwindow\nQuarter\nYear\nBaseline\n-35\n1\nWeek 2\n2\n14\n21\n1\n1\nWeek 4\n22\n28\n42\n1\n1\nWeek 8\n43\n56\n70\n1\n1\nWeek 12\n71\n84\n98\n1\n1\nWeek 16\n99\n112\n126\n2\n1\nWeek 20\n127\n140\n154\n2\n1\nWeek 24\n155\n168\n182\n2\n1\nWeek 28\n183\n196\n210\n3\n1\nWeek 32\n211\n224\n238\n3\n1\nWeek 36\n239\n252\n266\n3\n1\nWeek 40\n267\n280\n294\n4\n1\nWeek 44\n295\n308\n322\n4\n1\nWeek 48\n323\n336\n350\n4\n1\nWeek 52\n351\n364\n378\n4\n1\nWeek 56\n379\n392\n406\n1\n2\nWeek 60\n407\n420\n434\n1\n2\nWeek 64\n435\n448\n462\n1\n2\nWeek 68\n463\n476\n490\n2\n2\nWeek 72\n491\n504\n518\n2\n2\nWeek 76\n519\n532\n546\n2\n2\nWeek 80\n547\n560\n574\n3\n2\nWeek 84\n575\n588\n602\n3\n2\nWeek 88\n603\n616\n630\n3\n2\nWeek 92\n631\n644\n658\n4\n2\nWeek 96\n659\n672\n686\n4\n2\nWeek 100\n687\n700\n714\n4\n2\nWeek 104\n715\n728\n742\n4\n2\nWeek 108\n743\n756\n770\n1\n3\nWeek 112\n771\n784\n798\n1\n3\nWeek 116\n799\n812\n826\n1\n3\nWeek 120\n827\n840\n854\n2\n3\nWeek 124\n855\n868\n882\n2\n3\nWeek 128\n883\n896\n910\n2\n3\nWeek 132\n911\n924\n938\n3\n3\nWeek 136\n939\n952\n966\n3\n3\nWeek 140\n967\n980\n994\n3\n3\nWeek 144\n995\n1008\n1022\n4\n3\nWeek 148\n1023\n1036\n1050\n4\n3\nWeek 152\n1051\n1064\n1078\n4\n3\nWeek 156\n1079\n1092\n1106\n4\n3\nWeek 160\n1107\n1120\n1134\n1\n4\nWeek 164\n1135\n1148\n1162\n1\n4\nNovartis\nFor business use only\nPage 44\nRAP M3 Amendment 4\nICL670A2302\nVisit\nDescription\nFirst day in \nwindow\nScheduled \nday in \nwindow\nLast day in \nwindow\nQuarter\nYear\nWeek 168\n1163\n1176\n1190\n1\n4\nWeek 172\n1191\n1204\n1218\n2\n4\nWeek 176\n1219\n1232\n1246\n2\n4\nWeek 180\n1247\n1260\n1274\n2\n4\nWeek 184\n1275\n1288\n1302\n3\n4\nWeek 188\n1303\n1316\n1330\n3\n4\nWeek 192\n1331\n1344\n1358\n3\n4\nWeek 196\n1359\n1372\n1386\n4\n4\nWeek 200\n1387\n1400\n1414\n4\n4\nWeek 204\n1415\n1428\n1442\n4\n4\nWeek 208\n1443\n1456\n1470\n4\n4\nWeek 212\n1471\n1484\n1498\n1\n5\nWeek 216\n1499\n1512\n1526\n1\n5\nWeek 220\n1527\n1540\n1554\n1\n5\nWeek 224\n1555\n1568\n1582\n2\n5\nWeek 228\n1583\n1596\n1610\n2\n5\nWeek 232\n1611\n1624\n1638\n2\n5\nWeek 236\n1639\n1652\n1666\n3\n5\nWeek 240\n1667\n1680\n1694\n3\n5\nWeek 244\n1695\n1708\n1722\n3\n5\nWeek 248\n1723\n1736\n1750\n4\n5\nWeek 252\n1751\n1764\n1778\n4\n5\nWeek 256\n1779\n1792\n1806\n4\n5\nWeek 260\n1807\n1820\n1834\n4\n5\nWeek 264\n1835\n1848\n1862\n1\n6\nWeek 268\n1863\n1876\n1890\n1\n6\nWeek 272\n1891\n1904\n1918\n1\n6\nWeek 276\n1919\n1932\n1946\n2\n6\nWeek 280\n1947\n1960\n1974\n2\n6\nWeek 284\n1975\n1988\n2002\n2\n6\nWeek 288\n2003\n2016\n2030\n3\n6\nWeek 292\n2031\n2044\n2058\n3\n6\nWeek 296\n2059\n2072\n2086\n3\n6\nWeek 300\n2087\n2100\n2114\n4\n6\nWeek 304\n2115\n2128\n2142\n4\n6\nWeek 308\n2143\n2156\n2170\n4\n6\nWeek 312\n2171\n2184\n2198\n4\n6\nWeek 316\n2199\n2212\n2226\n1\n7\nWeek 320\n2227\n2240\n2254\n1\n7\nWeek 324\n2255\n2268\n2282\n1\n7\nWeek 328\n2283\n2296\n2310\n2\n7\nWeek 332\n2311\n2324\n2338\n2\n7\nWeek 336\n2339\n2352\n2366\n2\n7\n",
+                        "Sub-sections": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Header Number": "6",
+        "Title": "Reference",
+        "Content": "",
+        "Sub-sections": []
+    }
+]

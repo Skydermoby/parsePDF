@@ -1,0 +1,237 @@
+[
+    {
+        "Header Number": "N/A",
+        "Title": "TABLE OF CONTENTS",
+        "Content": "  1. AMENDMENTS FROM PREVIOUS VERSION(S) .................................................................4 2. INTRODUCTION .......................................................................................................................7 2.1. Study Design ...................................................................................................................7 2.2. Study Objectives .............................................................................................................7 3. INTERIM ANALYSES, FINAL ANALYSES AND UNBLINDING ........................................7 3.1. Data Safety Monitoring Board (DSMB) .........................................................................7 3.2. Additional Interim Analyses ...........................................................................................8 4. HYPOTHESES AND DECISION RULES .................................................................................8 4.1. Statistical Hypotheses .....................................................................................................8 4.2. Statistical Decision Rules ................................................................................................8 5. ANALYSIS SETS .......................................................................................................................8 5.1. Safety Analysis Population .............................................................................................8 5.2. Intention to Treat (ITT) Population .................................................................................8 6. ENDPOINTS AND COVARIATES ...........................................................................................8 6.1. Efficacy Endpoints ..........................................................................................................8 6.2. Safety Endpoints .............................................................................................................9 6.3. Physical exam and Medical history ...............................................................................12 6.4. Adverse Events ..............................................................................................................12 6.5. Discontinuations ............................................................................................................12 6.6. Covariates ......................................................................................................................12 6.7. Baseline .........................................................................................................................12 7. HANDLING OF MISSING VALUES ......................................................................................13 8. STATISTICAL METHODOLOGY AND STATISTICAL ANALYSES ................................13 8.1. Statistical Methods ........................................................................................................13 8.1.1. Analyses for Continuous Data ..........................................................................13 8.1.2. Analyses for Categorical Data ..........................................................................13 8.1.3. Analyses for Time to Event Endpoints .............................................................13 8.2. Efficacy Analyses ..........................................................................................................14 8.3. Safety Analyses .............................................................................................................14 APPENDICES ...............................................................................................................................18 Appendix 1. Data Derivation details ..............................................................................................18 Appendix 1.1. KCCQ (See protocol for a copy of the questionnaire) ...........................................18  Page 2 Protocol FoldRx1B-303 \nStatistical Analysis Plan \n \nAppendix 1.2. 6 Minute Walk Test Categorization .......................................................................22 \nAppendix 1.3. Calculation of QTc Interval Corrections ................................................................23 \nAppendix 2. Definition and Use of Visit Windows in Reporting ..................................................23 \nAppendix 3. Algorithm for imputing missing last dosing date of study drug ...............................24 \nAppendix 4. Example SAS code for Delayed Entry Model in Survival Analysis .........................25 \n \n \n \n \nPage 3 \nProtocol FoldRx1B-303 Statistical Analysis Plan  ",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "1.",
+        "Title": "AMENDMENTS FROM PREVIOUS VERSION(S)",
+        "Content": "  Amendment 1, 31Oct2015:  The Statistical Analysis Plan has been amended to include the following:   Change Date  Section(s) Affected Corresponds to a Protocol Amendment   Statistician  1. Changed the word patient to subject in order to agree with the amended protocol. May 29, 2014    Throughout    Yes (# 1)    2. Additional information on the use of interim analyses. May 29, 2014   3.2   Yes (# 1)    3. Additional clarification of visit windowing May 29, 2014  Appendix 2  No   4. Additional clarification of missing data rules is included. May 29, 2014   Appendix 3   No    5. Clarification of the categorical outcome variable analyses has been included, as well as the addition of shift tables for the analysis of these variables. May 29, 2014       8.1.2       No        6. The list of the laboratory measures to be summarized was shortened to those laboratory measures which are potentially related to disease.  All values will be listed in the subject listings. Additionally, duplicated laboratory measures were removed.            May 29, 2014            6.2 item 7            No             7. The report of physical examinations has been changed from a summary to a listing and a listing of medical history has been added May 29, 2014      6.3      No        Page 4 PPDPPDPPDPPDPPDPPDPPDProtocol FoldRx1B-303 \nStatistical Analysis Plan \n \n8. The LOCF analysis has \nbeen removed, due to \nthe nature of the \ndiscontinuation criteria \nfrom this study LOCF \nis not an appropriate \nanalysis. \n \n \n \n \n \n \nMay 29, 2014 \n \n \n \n \n \n \n7 \n \n \n \n \n \n \nNo \n \n \n \n \n \n \n \n9. The specification and \nsummary of the use of \npacemakers and/or \ndefibrillators were \nadded. \nMay 29, 2014,  \nNov 3, 2015 \n \n \n \n8.3 \n \n \n \nNo \n \n \n \n \n \n10. The cox regression \nmodels for time to \nevent were removed \ndue to the single arm \nstudy design. \nMay 29, 2014 \n \n \n8.1.3 \n \n \nNo \n \n \n \n11. Time to event analysis \nhas been modified to \nspecify time from \nrandomization and time \nfrom onset of disease. \nMay 29, 2014 \n \n \n \n \n8.1.3 \n \n \n \n \nNo \n \n \n \n \n \n12. Added specifications \nfor a table of clinically \nsignificant ECGs. \nMay 29, 2014 \n \n \n8.3 \n \n \nNo \n \n \n \n13. Added formulae for \ncalculating QTc \ncorrection factors (QTcB \nand QTcF). \nMay 29, 2014 \n \n \nAppendix 1.3 \n \n \n \nNo \n \n \n \n \n14. Replaced the scoring \nfor the KCCQ with a \nclearer version of the \nmanual to agree with \nthe programming used \nin Fx1B-201. \nMay 29, 2014 \n \n \n \n \nAppendix 1.1 \n \n \n \n \n \nNo \n \n \n \n \n \n \n15. Clarified Section 6.1 \nand 8.2 for efficacy \nendpoints and analyses \nto be consistent with the \nprotocol.  \nMay 29, 2014 \n \n6.1 and 8.2 \n \nNo \n \n \n16. Clarification of the data \npoints for the 6 minute \nwalk test Borg scale \nvalues. \n \n \n \nMay 29, 2014 \n \n \n \n6.1, item, 4c \n \n \n \nNo \n \n \n \n \n17. Eliminated an overlap \nin ECG change \nMay 29, 2014 \n \n6.2, item 6k \n \nNo \n \n \n \nPage 5 \nPPD\nPPD\nPPD\nPPD\nPPD\nPPD\nPPD\nPPD\nPPD\nPPD\nProtocol FoldRx1B-303 \nStatistical Analysis Plan \n \ncategories. \n18. Corrected typographic \nerror.  Changed PRS to \nQRS. \nMay 29, 2014 \n \n \n6.2, item 6c \n \n \nNo \n \n \n \n19. Added specifications \nfor clinical significant \nchanges in vital signs \nand definition of \northostatic hypotension. \nMay 29, 2014 \n \n \n \n \n8.3 \n \n \n \n \nNo \n \n \n \n \n \n20. Added analyses of \nmortality and \nhospitalization. \nSep 19, 2014 \n \n \n8.3 \n \n \nNo \n \n \n \n21. Added delayed entry \nmodel for time to \nmortality analysis from \nsymptom onset. \nJune 12, 2015 \n \n \n8.1.3 and \nAppendix 5 \n \n \n \nNo \n \n \n \n \n22. Added the definitions of \ncardiac-related death \nand cardiac-related \nhospitalizations. \nJune 12, 2015 \n \n \n \n6.2 \n \n \n \nNo \n \n \n \n \n \n \n \n \nPage 6 \nPPD\nPPD\nPPD\nPPD\nPPD\nProtocol FoldRx1B-303 Statistical Analysis Plan  ",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "2.",
+        "Title": "INTRODUCTION",
+        "Content": " This is a Phase 3, open-label study designed to obtain additional, long-term, open-label safety and efficacy data for Tafamidis, and to continue to provide subjects who have completed Protocol Fx1B-201 (a Phase 2, open-label study to evaluate TTR stabilization, as well as the safety and tolerability of Tafamidis) with 20 mg oral Tafamidis (soft gelatin capsule) for ten years or until tafamidis is commercially available for the subjects in this study. Eligible subjects will continue once-daily dosing with 20 mg Tafamidis at home on Day 1 (i.e., first dose) and will return to the clinical unit for study visits every 6 months, with telephone visits every 3 months between the clinic visits. ",
+        "Sub-sections": [
+            {
+                "Header Number": "2.1.",
+                "Title": "Study Design",
+                "Content": " This is a Phase 3, open-label study designed to obtain additional, long-term, open-label safety and efficacy data for tafamidis, and to continue to provide subjects who have completed Protocol Fx1B-201 (a Phase 2, open-label study to evaluate TTR stabilization, as well as the safety and tolerability of tafamidis) with 20 mg oral tafamidis (soft gelatin capsule) for up to 10 years or until subject has access to tafamidis for TTR-CM via prescription.  Upon regulatory approval for the treatment of TTR-CM in their respective country and access to prescription tafamidis, subjects may be withdrawn from the study.  Such subjects will be considered study completers.  The decision to withdraw subjects to transition to commercial tafamidis will be done in consultation between the investigator and the sponsor). Subjects who successfully complete Protocol Fx1B-201 will be eligible to enter study Fx1B-303.  ",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "2.2.",
+                "Title": "Study Objectives",
+                "Content": " 1 To obtain additional, long-term, open-label safety and efficacy data for tafamidis in subjects with TTR-CM. 2 To continue to provide the investigational product tafamidis to subjects with TTR-CM who have completed Protocol Fx1B-201. ",
+                "Sub-sections": []
+            }
+        ]
+    },
+    {
+        "Header Number": "3.",
+        "Title": "INTERIM ANALYSES, FINAL ANALYSES AND UNBLINDING",
+        "Content": " ",
+        "Sub-sections": [
+            {
+                "Header Number": "3.1.",
+                "Title": "Data Safety Monitoring Board (DSMB)",
+                "Content": " The study will be reviewed by an independent DSMB to assess the safety of subjects participating in the protocol on an ongoing basis.  The DSMB consists of an independent medical monitor (who also serves as chairperson), two external cardiology experts, and an independent statistician.  The DSMB will review cumulative safety data on a periodic timetable. Handling of this data is described in detail in the DSMB Charter.  The DSMB can recommend that the study team modify or discontinue the trial due to safety concerns.  Page 7 Protocol FoldRx1B-303 Statistical Analysis Plan  ",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "3.2.",
+                "Title": "Additional Interim Analyses",
+                "Content": " Given the lack of long-term data in TTR-CM, interim analyses will be performed during the course of the study to allow for the reporting of safety and efficacy data to the scientific community through presentation at scientific and professional meetings or for regulatory purposes. Analyses can also be performed for publication of safety and efficacy data provided there is Pfizer cross functional line review and agreement. This is an open-label study as such the data will not need to be unblinded.  ",
+                "Sub-sections": []
+            }
+        ]
+    },
+    {
+        "Header Number": "4.",
+        "Title": "HYPOTHESES AND DECISION RULES",
+        "Content": " ",
+        "Sub-sections": [
+            {
+                "Header Number": "4.1.",
+                "Title": "Statistical Hypotheses",
+                "Content": " This study is descriptive in nature, and as such, there are no formal hypotheses to be tested.  ",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "4.2.",
+                "Title": "Statistical Decision Rules",
+                "Content": " The data will be summarized using descriptive measures with 95% confidence intervals. ",
+                "Sub-sections": []
+            }
+        ]
+    },
+    {
+        "Header Number": "5.",
+        "Title": "ANALYSIS SETS",
+        "Content": " ",
+        "Sub-sections": [
+            {
+                "Header Number": "5.1.",
+                "Title": "Safety Analysis Population",
+                "Content": " The safety analysis population consists of all subjects who are enrolled in this study and who have taken at least one dose of study medication. ",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "5.2.",
+                "Title": "Intention to Treat (ITT) Population",
+                "Content": " The intent to treat (ITT) population consists of all subjects who are enrolled in this study, who have taken at least one dose of study medication, and who have baseline and at least one post-baseline cardiac measure. This population will be used for efficacy analysis. ",
+                "Sub-sections": []
+            }
+        ]
+    },
+    {
+        "Header Number": "6.",
+        "Title": "ENDPOINTS AND COVARIATES",
+        "Content": " ",
+        "Sub-sections": [
+            {
+                "Header Number": "6.1.",
+                "Title": "Efficacy Endpoints",
+                "Content": " 1. Patient Global Assessment: Severity at each visit and change from baseline  2. Patient Global Assessment: Improvement at each visit  3. New York Heart Association (NYHA) Classification:  by category and improvement:  at each visit 4. 6-Minute walk test:  at each visit and change from baseline a. Distance walked (in meters) b. Categories of distance walked (<300 meters, 300-374.9 meters, 375-449.9 meters, and \u2265450  meters)  c. Pre- and post-baseline dyspnea and fatigue values (using the Borg Scale).  This will yield four values for analysis per post-baseline visit.  The pre walk test  Page 8 Protocol FoldRx1B-303 Statistical Analysis Plan  values, the post walk test values, the within difference value and the change from baseline difference value [that is the difference between the baseline difference value and the visit difference value]. d. Based on the categories defined in b, subjects will be classified as improved, no change or worsened.  5. Kansas City Cardiomyopathy Questionnaire (KCCQ):  at each visit and change from baseline a. Physical limitations b. Self-efficacy c. Symptom stability d. Quality of life e. Symptom frequency f. Social limitation g. Symptom burden h. Overall summary score i. Total symptom score j. Clinical summary score ",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "6.2.",
+                "Title": "Safety Endpoints",
+                "Content": " 1. Echocardiography:  at each visit and change from baseline a. Interventricular septal thickness (mm)  b. Posterior left ventricular wall thickness (mm)  c. Left atrial diameter (mm)  d. Left atrial volume (cc)  e. Left ventricular end diastolic diameter (mm)  f. Left ventricular mass (g)  g. Ejection fraction (%)  h. Right ventricular wall thickness (mm)  2. Doppler data  a. E/A ratio  b. Mitral Deceleration time (msec)  3. Tissue Doppler   a. Septal s\u2019, e\u2019, a\u2019 (cm/sec)  b. Lateral s\u2019, e\u2019, a\u2019 (cm/sec)  c. Pericardial effusion (yes/no)  d. Valvular abnormalities (thickening, regurgitation)    4. Calculated Echo variables will include, but are not limited to:  a. Relative LV wall thickness (Post wall thickness X 2 divided by LVED)  b. LA Volume index (LA size/body surface area)  c. LV mass/voltage ratio (LV mass divided by largest voltage on ECG)  d. e:e\u2019 ratio  5. Select echocardiogram parameters will be categorized as indicated below: a. Left ventricular posterior wall thickness \u2265 13 mm  b. Left ventricular septal thickness \u2265 13 mm   Page 9 Protocol FoldRx1B-303 \nStatistical Analysis Plan \n \nc. Right ventricular thickness \u2265 7 mm  \nd. E/A ratio \u2265 2  \ne. E/Eprime Lateral > 15  \nf. E/Eprime Septal > 15  \ng. Ejection fraction < 50%  \nh. E deceleration time \u2264 150 msec  \ni. Isovolumic relaxation time (IVRT) \u2264 70 msec  \nj. Any valve thickening  \nk. Abnormal respiratory variation of inferior vena cava  \nl. Pericardial effusion  \n6. \nECG values:  at each visit and change from baseline \na. \nPR interval (msec) \nb. \nRR interval (msec) \nc. \nQRS interval (msec) \nd. \nQT and QTc interval (msec) \ne. \nheart rate (bpm) \nf. \noverall interpretation, normal/ abnormal findings and clinical significance \ng. \nCorrected QTc will be calculated using Bazett\u2019s and Fridericia\u2019s correction \nformulas.   \nh. \nQTc > 450 msec \ni. \nQTc > 480 msec \nj. \nQTc > 500 msec \nk. \nChange in QTc between 30 msec (inclusive) and < 60 msec \nl. \nChange in QTc \u2265 60 msec  \nm. \nChange in QTc \u2265 90 msec  \n7. \nClinical laboratory tests:  at each visit and change from baseline \nThe following list of clinical laboratory endpoints was collected during the course of \nthe study.  However, the summary tables will be restricted to the measures indicated \nwith an asterisk (*).  All measures will be included in the subject listings. \nHematology and Biochemistry \na. Alkaline phosphatase (ALP)* \nb. Alanine aminotransferase (ALT)* \nc. Aspartate aminotransferase (AST)* \nd. amino-terminal B-type natriuretic peptide (NT-pro-BNP)* \ne. Blood urea nitrogen (BUN) \nf. Gamma glutamyl transferase (GGT)* \ng. Creatinine \nh. Total bilirubin* \ni. International normalized ratio (INR)* \nj. Troponin I* \nk. Troponin T* \nl. Prothrombin time*   \nm. Sodium  \nn. Globulin  \n \nPage 10 \nProtocol FoldRx1B-303 \nStatistical Analysis Plan \n \no. Potassium   \np. Chloride   \nq. Bicarbonate   \nr. Cholesterol   \ns. Calcium  \nt. Uric acid  \nu. Inorganic Phosphorous   \nv. Thyroid-stimulating hormone   \nw. Glucose  \nx. Total thyroxine (T4)  \ny. Free T4  \nz. Total proteins   \naa. Prealbumin (transthyretin)   \nbb. Hemoglobin   \n \ncc. Platelets  \ndd. Hematocrit   \n \nee. White blood cell count   \nff. Red blood cell count   \n \ngg. Neutrophils  \nhh. Lymphocytes   \nii. Mean corpuscular volume  \n \njj. Monocytes   \nkk. Mean corpuscular hemoglobin   \n \nll. Eosinophils  \nmm. Mean corpuscular hemoglobin concentration \nnn. Basophils   \noo. Retinol-binding protein \n \nUrinalysis  \n \na. Bilirubin \nb. pH   \nc. Blood (free Hb)   \nd. Protein  \n \ne. Nitrite  \nf. Glucose  \n \ng. Urobilinogen  \nh. Ketones  \n \ni. Specific gravity   \n \n8. \nMortality and hospitalization (all-cause and cardiac-related) \nAll-cause of mortality is defined as any death occurring during the study. Cardiac-\nrelated mortality will be any mortality meeting the following MedDRA criterion:1) AE \nbody system (AEBODSYS) = \u201cCARDIAC DISORDERS\u201d, or 2) AE preferred  term \n(AEDECOD ) in (CHEST DISCOMFORT, CHEST PAIN, DEATH, \nCEREBROVASCULAR ACCIDENT,  EMBOLIC STROKE, DISEASE \n \nPage 11 \nProtocol FoldRx1B-303 Statistical Analysis Plan  PROGRESSION).  Description on the time to mortality analysis can be found in Section 8.1.3.  All cause of hospitalization is defined as any adverse event for which SAE type \u201c3=Hospitalization\u201d in the Adverse Event (AE) CRF. The cardiac-related hospitalization will be any hospitalization meeting the following MedDRA criterion:1) AE body system (AEBODSYS) = \u201cCARDIAC DISORDERS\u201d, or 2) AE preferred  term (AEDECOD ) in (CHEST DISCOMFORT, CHEST PAIN, DEATH, CEREBROVASCULAR ACCIDENT,  EMBOLIC STROKE, DISEASE PROGRESSION).  ",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "6.3.",
+                "Title": "Physical exam and Medical history",
+                "Content": " Physical exam will be listed by subject and visit in the listings.  Medical history will be listed by subject.  ",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "6.4.",
+                "Title": "Adverse Events",
+                "Content": " Treatment emergent adverse events will be summarized by all causes and treatment relatedness groupings.  Treatment emergent is defined as either a new adverse event or a worsening of an ongoing adverse event during the course of Study Fx1B-303 (B3461026). In addition, severity of the adverse events will be summarized by all causes and treatment relatedness. ",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "6.5.",
+                "Title": "Discontinuations",
+                "Content": "  All reasons for discontinuation will be summarized including: discontinuations due to adverse events, discontinuations due to laboratory abnormalities, discontinuations due to death, discontinuations due to liver and/or heart transplant and all cause discontinuation.    ",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "6.6.",
+                "Title": "Covariates",
+                "Content": "  Due to the small number of subjects, lack of comparator group and the descriptive nature of this study, baseline will be used as a covariate in the change from baseline models and where appropriate, duration of disease will be used as a covariate.   ",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "6.7.",
+                "Title": "Baseline",
+                "Content": " Baseline will be defined for Fx1B-201 and B3461026, respectively. The baseline for Fx1B-201 will be defined as the last measurement prior to the first dose of study drug in Study Fx1B-201. The baseline for B3461026 will be defined as the measurement from the end of study visit of Study Fx1B-201, or from the Day 0 visit of Study B3461026, whichever comes later.  Baseline for Fx1B-201 and for B3461026 will be summarized.     Page 12 Protocol FoldRx1B-303 Statistical Analysis Plan  ",
+                "Sub-sections": []
+            }
+        ]
+    },
+    {
+        "Header Number": "7.",
+        "Title": "HANDLING OF MISSING VALUES",
+        "Content": " Data which are based on entire scales which are missing will be analyzed as follows: If the data are time until event data and there is no observed event (at any point during the trial) the observation will be censored at the last observation.  If there was an observed event, the data associated with the first observation of that event will be used; all other observations will not be needed. For all other data types, the data will be analyzed as follows:  for analyses at each visit, the missing observations will not be used. Any visit after the subject was discontinued will remain as missing data. For any subject  missing a 12-month visit observation from Study Fx1B-201, if the Day 0 visit observation from theFx1B-303 study is reported, the  Day 0 visit observation from the Fx1B-303 will be imputed for the12-month visit observation for Study Fx1B-201. For specific scoring details, see Appendix 1. ",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "8.",
+        "Title": "STATISTICAL METHODOLOGY AND STATISTICAL ANALYSES",
+        "Content": " ",
+        "Sub-sections": [
+            {
+                "Header Number": "8.1.",
+                "Title": "Statistical Methods",
+                "Content": "  ",
+                "Sub-sections": [
+                    {
+                        "Header Number": "8.1.1.",
+                        "Title": "Analyses for Continuous Data",
+                        "Content": " All continuous data will be summarized with descriptive statistics, including mean, standard deviation, median, IQR, range and 95% confidence intervals.   In addition, change from baseline statistics will be presented as appropriate, to include the appropriate descriptive statistics. For analysis of change from baseline, baseline data from protocol Fx1B-201 will be used as baseline for these analyses. For the change from baseline statistics, the estimate will be adjusted for baseline and the LSMean and standard error will be presented with the 95% confidence interval based on an MMRM model with a random effect for subject and covariate of baseline. ",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "8.1.2.",
+                        "Title": "Analyses for Categorical Data",
+                        "Content": "  All categorical data will be summarized as n, percentage and 95% confidence intervals. The 95% CI intervals will be estimated using exact methods due to the decreasing sample size. In addition, a shift table will be provided for such variables as the 6 minute walk test, PGA, and NYHA class. ",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "8.1.3.",
+                        "Title": "Analyses for Time to Event Endpoints",
+                        "Content": " Kaplan-Meier estimates will be computed for all time to event endpoints, including median and interquartile ranges, where appropriate. 95% confidence intervals will be presented at yearly intervals from the start of the investigational drug (baseline of Fx1B-201).  Time to event will use randomization and onset of disease as starting points for the calculation of time to event.     Page 13 Protocol FoldRx1B-303 Statistical Analysis Plan  Subjects are required to survive to enroll in the parent study (Fx1B-201). Such conditions yield a left-truncated death time distribution from symptom onset. To account for the potential immortal time bias, the time to death from onset of symptom will be analyzed using the delayed entry (left truncation) technique. Survival probabilities will be calculated conditional on subjects having survived until study entry of the parent study (Fx1B-201). SAS codes for the delayed entry (left truncation) technique are provided in Appendix 5. ",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "8.2.",
+                "Title": "Efficacy Analyses",
+                "Content": " Efficacy analyses will be performed for cumulative efficacy data as measured by Patient Global Assessment (PGA), New York Heart Association (NYHA) classification, Kansas City Cardiomyopathy Questionnaire (KCCQ), 6-minute walk test (6MWT), echocardiograms, and serum levels of troponin I, troponin T, and NT-proBNP. The analyses will use the methods described above for these continuous outcomes in Section 8.1.1: \u2022 Kansas City Cardiomyopathy Questionnaire (KCCQ) \u2022 6-minute walk test (6MWT) \u2022 Echocardiograms \u2022 Serum levels of troponin I, troponin T, and NT-proBNP. The analyses will use the methods described above for these categorical outcomes in Section 8.1.2: \u2022 Patient Global Assessment (PGA) \u2022 New York Heart Association (NYHA) classification  \u2022 6-minute walk test (6MWT) (categorized by level as described below) Shift tables will be provided for the following variables: \u2022 Patient Global Assessment (PGA) \u2022 New York Heart Association (NYHA) classification  \u2022 6-minute walk test (6MWT) (categorized as stable, improved, worsened) ",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "8.3.",
+                "Title": "Safety Analyses",
+                "Content": " Safety data will be summarized for the safety analysis population. Treatment and Disposition of Subjects: Subject evaluation groups will show end of study subject disposition and will show which subjects were analyzed for efficacy, as well as for  Page 14 Protocol FoldRx1B-303 \nStatistical Analysis Plan \n \nsafety (adverse events and laboratory data).  Frequency counts will be supplied for subject \ndiscontinuation(s) by treatment. \nA listing of treatment duration for each subject will be reported in accordance with the \nsponsor reporting standards. \nDemographic and Baseline Characteristics.  A break-down of demographic data will be \nprovided for age, race, weight, body mass index, and height.  Each will be summarized by \nsex at birth and \u2018All Subjects\u2019 in accordance with the sponsor reporting standards.  All \nbaseline and disease characteristics will also be summarized for Fx1B-201 and B3461026, \nrespectively.   \nDiscontinuations. Subject discontinuations or temporary discontinuations due to adverse \nevents will be detailed and summarized.  \nAdverse events (AEs): Adverse events will be summarized by causality and severity. \nMortality and Hospitalization (all-cause and cardiac-related): Time to all-cause mortality \nand time to cardiac-related mortality will be calculated from the first dose of the randomized \ntreatment in Study Fx1B-201, and from onset of symptom, respectively. For cardiac-related \nmortality, subjects who died for reasons other than cardiovascular will be designated as \ncensored at the time of death. Subjects alive at the end of the study will be censored at the \nlast visit date.  Death after discontinuation will be censored at time of discontinuation. For \nsubjects who have received a liver and/or heart transplant, time will be censored at the time \nof transplant. The analyses will use the methods described for time to event endpoints in \nSection 8.1.3. The analyses will be performed on the safety analysis population (defined in \nSection 5.1).  \nThe number and percentage of subjects hospitalized (all-cause and cardiac-related) during the \nstudy will be summarized descriptively. \nHematology, Biochemistry and Urinalysis:  Descriptive statistics will be provided for each \ntest result and for change from baseline by visit.  \nBaseline is defined as the last evaluation prior to the first dose of study drug in Study Fx1B-\n201. \nCardiac Measures: Changes from baseline (defined as the last evaluation prior to the first \ndose of study drug) will be summarized for each of the cardiac parameters listed above by \nvisit.  Clinically significant changes in ECG measures (as indicated by the items in Section \n6.2, #6, item h through m) at any point during the study will be summarized.   \nPacemaker and defibrillator insertion procedures will be identified through a programmatic \nsearch of potentially related terms in the clinical database coupled with a manual review by \nPfizer Clinical.   \n \nThe following MedDRA Lower Level Terms (codes) will be applied to the Medical History, \nAdverse Events, and Investigator Comments to identify potential procedures in the clinical \n \nPage 15 \nProtocol FoldRx1B-303 \nStatistical Analysis Plan \n \ndatabase: CARDIOVERTER PLACEMENT (10053015), INSERTION OF IMPLANTABLE \nCARDIOVERTER DEVICE (10052044), CARDIAC PACEMAKER INSERTION \n(10007598), PACEMAKER INSERTION (CARDIAC) (10033352), \nDEFIBRILLATOR/PACEMAKER INSERTION (10069072), IMPLANTABLE \nDEFIBRILLATOR INSERTION (10049442).  \n \nThe following terms will also be searched to identify potential associated procedures \ncollected in the Investigator Comments CRF: pacemaker, implantable cardiac device, ICD, \nAICD, cardioversion, cardioverter,  defibrillator, ventricular fibrillation, ventricular \ntachycardia.   \n \nFinal search criteria and categorization of pacemaker and defibrillator will be based on the \nresults of the clinical review and will be described in the programming plan prior to database \nfinalization.   \n \nThe number and percentage of subjects with pacemaker or defibrillator insertion procedures \n(defined above) will be summarized by category and for overall at baseline of Fx1B-201, the \nnumber and percentage of subjects who have such devices implanted during the course of \nFx1B-201 and during the course of B3461026 (Fx1B-303), respectively.   \n \nVital signs: Will be summarized using descriptive statistics, to include:  values at each visit, \nchange from baseline to each visit and a categorization of clinically significant changes. \nSignificant changes from baseline are defined as follows: \n\u2022 Systolic Blood Pressure (mmHg) Decrease (Change < -20, or Value < 90) \n\u2022 Systolic Blood Pressure (mmHg) Increase (Change > 20, or Value > 180)  \n\u2022 Diastolic Blood Pressure (mmHg) Decrease (Change < -15, or Value < 50)  \n\u2022 Diastolic Blood Pressure (mmHg) Increase (Change > 15, or Value > 105)  \n\u2022 Heart Rate (bpm) Decrease (Change < -15, or Value < 50)  \n\u2022 Heart Rate (bpm) Increase (Change > 15, or Value > 120)  \n\u2022 Weight (kg) Decrease (Change < -7%)  \n\u2022 Weight (kg) Increase (Change > 7%) \n \nOrthostatic hypotension is present under any of the following conditions: \n \n\u2022 (Lying Systolic Blood Pressure - Standing Systolic Blood Pressure) >= 20 mmHg, or \n\u2022 (Lying Diastolic Blood Pressure - Standing Diastolic Blood Pressure) >= 10 mmHg, \nor \n\u2022 (Standing Pulse - Lying Pulse) > 20 bpm along with (Standing Pulse or Lying Pulse > \n100bpm)  \n \nIf pulse is missing at any visit, then evaluate orthostatic hypotension using only blood \npressure measures. \n \n \nPage 16 \nProtocol FoldRx1B-303 \nStatistical Analysis Plan \n \nConcomitant medications: will be summarized. \nPhysical Examination and Medical History: Results will be summarized and listed.   \n \n \nPage 17 \nProtocol FoldRx1B-303 Statistical Analysis Plan  ",
+                "Sub-sections": []
+            }
+        ]
+    },
+    {
+        "Header Number": "N/A",
+        "Title": "APPENDICES",
+        "Content": "",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "N/A",
+        "Title": "APPENDIX 1. DATA DERIVATION DETAILS",
+        "Content": "",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "N/A",
+        "Title": "APPENDIX 1.1. KCCQ (SEE PROTOCOL FOR A COPY OF THE QUESTIONNAIRE)",
+        "Content": "Protocol FoldRx1B-303 \nStatistical Analysis Plan \n \n \nPage 19 \nProtocol FoldRx1B-303 \nStatistical Analysis Plan \n \n \nPage 20 \nProtocol FoldRx1B-303 \nStatistical Analysis Plan \n \n \nPage 21 \n",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "N/A",
+        "Title": "APPENDIX 1.2. 6 MINUTE WALK TEST CATEGORIZATION",
+        "Content": "",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "N/A",
+        "Title": "APPENDIX 1.3. CALCULATION OF QTC INTERVAL CORRECTIONS",
+        "Content": "",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "N/A",
+        "Title": "APPENDIX 2. DEFINITION AND USE OF VISIT WINDOWS IN REPORTING",
+        "Content": "",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "N/A",
+        "Title": "APPENDIX 3. ALGORITHM FOR IMPUTING MISSING LAST DOSING DATE OF STUDY DRUG",
+        "Content": "",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "N/A",
+        "Title": "APPENDIX 4. EXAMPLE SAS CODE FOR DELAYED ENTRY MODEL IN SURVIVAL ANALYSIS",
+        "Content": "",
+        "Sub-sections": []
+    }
+]

@@ -1,0 +1,290 @@
+[
+    {
+        "Header Number": "1.",
+        "Title": "INTRODUCTION",
+        "Content": "This statistical analysis plan describes the statistical analysis plan for the drug use investigation of Mycobutin\u00ae 150mg Capsules (hereinafter referred to as Mycobutin) conducted as part of the Joint Post-Marketing Survey of HIV-Related Drugs (HRD Joint Survey) using a common case report form. In this plan, sentences cited from the Protocol are shown in Italics.",
+        "Sub-sections": [
+            {
+                "Header Number": "1.1.",
+                "Title": "Study Design",
+                "Content": "As part of the HRD Joint Survey, this study includes HIV patients for whom Mycobutin is prescribed, including those captured in retrospective surveys. As far as possible, this part of the HRD joint Survey seeks to include all patients who receive Mycobutin at participating medical institutions. The indications and dosage and administration for Mycobutin, the survey periods, and the major investigation items are presented below.MycobutinStatistical Analysis Plan, Version 4.0Page 8\uf0b7IndicationsSusceptible strains: Mycobacteria susceptible to MycobutinIndications: Tuberculosis, nontuberculous mycobacteriosis including Mycobacterium avium complex (MAC) infection, and prevention of symptoms of disseminated MAC infection in HIV patients.\uf0b7Dosage and AdministrationTuberculosis:For adults, an oral dose of rifabutin 150 mg to 300 mg is administered once daily.For adults with multi-drug resistant tuberculosis, an oral dose of rifabutin 300 mg to 450 mg is administered once daily.Treatment of nontuberculous mycobacteriosis including MAC infection:For adults, an oral dose of rifabutin 300 mg is administered once daily.Prevention of symptoms of disseminated MAC infection in HIV patients:For adults, an oral dose of rifabutin 300 mg is administered once daily.\uf0b7Survey PeriodsTuberculosis and nontuberculous mycobacteriosis including MAC infection:The survey will start on October 7, 2008, and the registration of patients will end at the end of the fiscal year after the 6th year.Patient registration: October 7, 2008 - March 31, 2015Prevention of the symptoms of disseminated MAC infection in HIV patients:The survey will start on October 7, 2008, and the registration of patients will end at the end of the fiscal year after the 8th year.Patient registration: October 7, 2008 - March 31, 2017",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "1.2.",
+                "Title": "Study Objectives",
+                "Content": "The objectives of the study are to grasp the following aspects and to assess whether a specified drug use-results survey or a post-marketing clinical study is needed:\u2022Unexpected adverse drug reactions\u2022Incidence of adverse drug reactions under the actual use, and\u2022Factors considered to affect the safety and/or effectiveness, etc.In this survey, the incidence of hematologic disorders (including anemia, decreased platelets, decreased white blood cells, and pancytopenia) and uveitis will be assessed as the major investigation items.MycobutinStatistical Analysis Plan, Version 4.0Page 9",
+                "Sub-sections": []
+            }
+        ]
+    },
+    {
+        "Header Number": "2.",
+        "Title": "INTERIM AND FINAL ANALYSES",
+        "Content": "In this study, interim analyses for periodic safety update report will be performed periodically. At the time of interim analyses, only the analyses of items necessary for periodic safety update report among the statistical analyses specified in this plan will be performed. In addition, the final analysis for the application for reexamination will be performed. At the time of the final analysis, all analyses specified in this plan will be performed.",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "3.",
+        "Title": "HYPOTHESIS AND DECISION RULES",
+        "Content": "",
+        "Sub-sections": [
+            {
+                "Header Number": "3.1.",
+                "Title": "Statistical Hypothesis",
+                "Content": "Because this study is not a confirmatory investigation, the tests are considered exploratoryand a p-value resulting from a test will be considered as a descriptive statistic with no significance level specified, although a post-hoc threshold value may be introduced for a screening purpose.",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "3.2.",
+                "Title": "Statistical Decision Rules",
+                "Content": "Not applicable.",
+                "Sub-sections": []
+            }
+        ]
+    },
+    {
+        "Header Number": "4.",
+        "Title": "ANALYSIS SETS",
+        "Content": "",
+        "Sub-sections": [
+            {
+                "Header Number": "4.1.",
+                "Title": "Safety Analysis Set",
+                "Content": "The safety analysis set consists of the patients who meet the inclusion criteria for this study and are confirmed to have received at least one dose of Mycobutin. However patients who have received treatment with Mycobutin before marketing (those who discontinued or completed their treatment with Mycobutin before the marketing of Mycobutin\u00ae 150mg Capsules) will be excluded from the safety analysis set.",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "4.2.",
+                "Title": "(Preventive) Effectiveness Analysis Set",
+                "Content": "Among the patients in the safety analysis set, those who received Mycobutin for the prevention of MAC infection and underwent an effectiveness evaluation (determination of whether an onset of MAC infection is observed or not) comprise the (preventive)effectiveness analysis set.",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "4.3.",
+                "Title": "(Therapeutic) Effectiveness Analysis Set",
+                "Content": "Among the patients in the safety analysis set, those who underwent at least one post-treatment effectiveness evaluation (determination of bacteriological response or clinical efficacy at the end of the observation period) comprise the (therapeutic) effectiveness analysis set.MycobutinStatistical Analysis Plan, Version 4.0Page 10",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "4.4.",
+                "Title": "Bacteriological Response Analysis Set",
+                "Content": "Among the patients in the (therapeutic) effectiveness analysis set, those who underwent at least one bacteriological response determination comprise the bacteriological response analysis set. However, the patients with a bacteriological response determination for whom the result is considered inappropriate based on the results of the bacteriological tests will be excluded from the bacteriological response analysis set.",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "4.5.",
+                "Title": "Subgroups",
+                "Content": "Subgroup analyses of safety will be performed for the following patient background factors:\uf02dSex [male, female]\uf02dPregnancy (in females) [absent, present]\uf02dAge group 1 [<15 years, \u226515 years to <65 years, \u226565 years]\uf02dAge group 2 [<20 years, \u226520 years to <30 years, \u226530 years to <40 years, \u226540 yearsto <50 years, \u226550 years to <60 years, \u226560 years to <70 years, \u226570 years to <80 years, \u226580 years]\uf02dPrimary disease [HIV infection, others]\uf02dRace [Japanese, others]\uf02dHepatic dysfunction [absent, present]\uf02dHepatitis [absent, present]\uf02dRenal dysfunction [absent, present]\uf02dPast history [absent, present]\uf02dComplications [absent, present]\uf02dOphthalmologic complications [absent, present]\uf02dBaseline HIV-RNA copy number (copies/mL) [<200, \u2265200 to <400, \u2265400 to <10,000, \u226510,000 to <100,000, \u2265100,000]\uf02dBaseline CD4 count (cells/mm3) [\u22650 to <100, \u2265100 to <200, \u2265200 to <350, \u2265350 to <500, \u2265500]\uf02dCenters for Disease Control and Prevention (CDC) classification [A, B, C, P-0, P-1, P-2]Subgroup analyses of safety will also be performed for the following other factors:\u2013Maximum daily dose [<150 mg, 150 mg, 300 mg, 450 mg, >450 mg]\u2013Mean daily dose [<150 mg, 150 mg, >150 mg to <300 mg, 300 mg, >300 mg to <450 mg, 450 mg, >450 mg]\u2013Duration of treatment [\u22641 week, >1 week to \u22642 weeks, >2 weeks to \u22644 weeks, >4 weeks to \u22648 weeks, >8 weeks to \u226412 weeks, >12 weeks to \u226424 weeks, >24 weeksto \u226436 weeks, >36 weeks to \u22641 year, >1 year to \u22643 years, >3 years to \u22646 years, >6 years to \u22648 years, >8 years]\u2013Concomitant medications (anti-HIV drugs) [absent, present]\u2013Concomitant medications (anti-MAC drugs) [absent, present]MycobutinStatistical Analysis Plan, Version 4.0Page 11\u2013Concomitant use of the combination of sulfamethoxazole and trimethoprim (SMX/TMP) [absent, present]Subgroup analyses of effectiveness will be performed for the following patient backgroundfactors:\uf02dSex [male, female]\uf02dPregnancy (in females) [absent, present]\uf02dAge group 1 [<15 years, \u226515 years to <65 years, \u226565 years]\uf02dAge group 2 [<20 years, \u226520 years to <30 years, \u226530 years to <40 years, \u226540 yearsto <50 years, \u226550 years to <60 years, \u226560 years to <70 years, \u226570 years to <80 years, \u226580 years]\uf02dPrimary disease [HIV infection, others]\uf02dRace [Japanese, others]\uf02dHepatic dysfunction [absent, present]\uf02dRenal dysfunction [absent, present]\uf02dPast history [absent, present]\uf02dComplications [absent, present]\uf02dBaseline HIV-RNA copy number (copies/mL) [<200, \u2265200 to <400, \u2265400 to <10,000, \u226510,000 to <100,000, \u2265100,000]\uf02dBaseline CD4 count (cells/mm3) [\u22650 to <100, \u2265100 to <200, \u2265200 to <350, \u2265350 to <500, \u2265500]\uf02dCenters for Disease Control and Prevention (CDC) classification [A, B, C, P-0, P-1, P-2]Subgroup analyses of effectiveness will also be performed for the following other factors:\uf02dMaximum daily dose [<150 mg, 150 mg, 300 mg, 450 mg, >450 mg]\uf02dMean daily dose [<150 mg, 150 mg, >150 mg to <300 mg, 300 mg, >300 mg to <450 mg, 450 mg, >450 mg]\uf02dDuration of one prophylactic or therapeutic treatment [\u22641 week, >1 week to \u22642 weeks, >2 weeks to \u22644 weeks, >4 weeks to \u22648 weeks, >8 weeks to \u226412 weeks, >12 weeks to \u226424 weeks, >24 weeks to \u226436 weeks, >36 weeks to \u22641 year, >1 year]\uf02dConcomitant medications (anti-MAC drugs) [absent, present]\uf02dConcomitant use of SMX/TMP [absent, present]",
+                "Sub-sections": []
+            }
+        ]
+    },
+    {
+        "Header Number": "5.",
+        "Title": "ENDPOINTS AND COVARIATES",
+        "Content": "",
+        "Sub-sections": [
+            {
+                "Header Number": "5.1.",
+                "Title": "Safety Endpoints",
+                "Content": "\uf0b7Adverse drug reactions: adverse events (AEs) determined to be related to Mycobutin by the physician or Sponsor\uf0b7Adverse events: All-causality adverse eventsMycobutinStatistical Analysis Plan, Version 4.0Page 12\uf0b7Major investigation items: The events of major investigation items will be identified according to a separate list that provides the event names corresponding to each specified AE.",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "5.2.",
+                "Title": "Effectiveness Endpoints",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "5.2.1.",
+                        "Title": "Prophylactic Treatment",
+                        "Content": "\uf0b7Occurrence of MAC symptoms in patients treated with Mycobutin for the prophylaxis of MAC infection will be determined asAbsent, orPresent.",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "5.2.2.",
+                        "Title": "Therapeutic Treatment",
+                        "Content": "\uf0b7Clinical efficacy (overall improvement): After each continuous treatment or at the final fiscal year of registration (the end of observation), clinical efficacy (overall improvement) will be determined using the following categories:1. Markedly improved2. Improved3. Slightly improved4. Unchanged5. Aggravated9. Indeterminable\uf0b7Bacteriological response: After each continuous treatment or at the final fiscal year of registration (the end of observation), bacteriological response will be determined according to the following categories:1. Eradicated2. Decreased3. Unchanged4. Increased9. Unknown",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "5.3.",
+                "Title": "Other Endpoints",
+                "Content": "Not applicable.",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "5.4.",
+                "Title": "Covariates",
+                "Content": "In the analysis of safety, the presence or absence of contraindicated for coadministration (e.g., some azoles and macrolides) noted in PRECAUTIONS of the package insert as the drugs that require precautions for coadministration will be used as a covariate.MycobutinStatistical Analysis Plan, Version 4.0Page 13",
+                "Sub-sections": []
+            }
+        ]
+    },
+    {
+        "Header Number": "6.",
+        "Title": "HANDLING OF MISSING DATA",
+        "Content": "Any missing value for a laboratory parameter or effectiveness endpoint will be handled as a missing value and no imputation will be carried out.If the seriousness, measures taken, or outcome for an AE is missing, they are counted as \u201cunknown\u201d.If a date such as the onset date of an AE is missing, handling of those data will be defined in separate statistical analysis specifications prepared for the drug use investigation of Mycobutin\uf0d2150mg capsules.",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "7.",
+        "Title": "STATISTICAL METHODS AND STATISTICAL ANALYSIS",
+        "Content": "",
+        "Sub-sections": [
+            {
+                "Header Number": "7.1.",
+                "Title": "Statistical Methods",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "7.1.1.",
+                        "Title": "Analysis of Continuous Data",
+                        "Content": "Summary statistics (number of patients, mean, standard deviation, median, minimum and maximum) will be calculated.",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "7.1.2.",
+                        "Title": "Analysis of Categorical Data",
+                        "Content": "Categorical variables will be calculated by frequency and percentage.",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "7.1.3.",
+                        "Title": "Analysis of Binary Data",
+                        "Content": "Binary variables will be calculated by frequency and percentage. Confidence intervals (CIs) for the percentages may also be calculated; in this case, the 95% CIs (two-sided) will be calculated using an exact method. Statistical tests may also be performed when appropriate; an association with a nominal variable will be tested by Fisher's exact test, and an association with an ordinal variable by the exact Cochran-Armitage test.",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "7.2.",
+                "Title": "Statistical Analysis",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "7.2.1.",
+                        "Title": "Overview of Patients",
+                        "Content": "\uf0b7Number of sites by establisher and number of patientsIn patients for whom the case report form was collected, the number and percentage of sites by establisher shown below and the number and percentage of patients will be calculated:\uf02dUniversity hospitals\uf02dNational hospitals established by the Ministry of Health, Labour and Welfare\uf02dPrefectural and municipal hospitals\uf02dPublic organizations\uf02dHospitals established by corporations and individuals other than the above four\uf02dGeneral practitioners/clinicsMycobutinStatistical Analysis Plan, Version 4.0Page 14In addition, the mean, minimum, and maximum of the number of patients per site will be calculated.\uf0b7Disposition of patientsIn the patients for whom the case report form was collected, the number of those for whom the case report form was collected and those included in the safety analysis set will be tabulated. The patients excluded from the safety analysis set will also be counted in total and by reason for exclusion. In addition, Among the safety analysis set, the patients who are eligible for the effectiveness analysis will be counted for each of preventive and therapeutic treatments. The patients excluded from the effectiveness analysis set will also be counted in total and by reason for exclusion for each of preventive and therapeutic treatments. Totalnumber of treated patients will be counted in a treatment-based manner for each of preventive and therapeutic treatments, because in this investigation, cases of multiple treatments in a single patient are expected to occur.\uf0b7Listing of excluded patientsPatients excluded from the safety analysis set and those excluded from the effectivenessanalysis set will be tabulated with their reason for exclusion.",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "7.2.2.",
+                        "Title": "Patient Background and Treatment History of Mycobutin",
+                        "Content": " \uf0b7Patient backgroundFor the safety analysis set, (preventive) effectiveness analysis set, and (therapeutic)effectiveness analysis set, the following patient background factors will be tabulated in accordance with Section 7.1:\uf02dSex [male, female]\uf02dPregnancy (only in females) [absent, present]\uf02dAge (continuous)\uf02dAge group 1 [<15 years, \u226515 years to <65 years, \u226565 years]\uf02dAge group 2 [<20 years, \u226520 years to <30 years, \u226530 years to <40 years, \u226540 yearsto <50 years, \u226550 years to <60 years, \u226560 years to <70 years, \u226570 years to <80 years, \u226580 years]\uf02dBody weight (continuous)\uf02dBody weight group [<40 kg, \u226540 kg to <50 kg, \u226550 kg to <60 kg, \u226560 kg to <70 kg, \u226570 kg, unknown]\uf02dInpatient/outpatient [inpatient, outpatient, mixture of inpatient and outpatient]\uf02dRoute of infection [blood preparation, vertical transmission, medical accident, others (including sexual transmission), unknown]\uf02dPrimary disease [HIV infection, others]\uf02dRace [Japanese, others]\uf02dAllergy [absent, present, unknown]Mycobutin\nStatistical Analysis Plan, Version 4.0\nPage 15\n\uf02dComplications [absent, present]\n\uf02dHemophilia (A/B) as a complication [absent, present]\n\uf02dRenal dysfunction as a complication: [absent, present]\n\uf02dHepatitis A as a complication [absent, present]\n\uf02dHepatitis B as a complication [absent, present]\n\uf02dHepatitis C as a complication [absent, present]\n\uf02dOther hepatic dysfunction as a complication [absent, present]\n\uf02dSyphilis as a complication [absent, present]\n\uf02dOther condition as a complication: [absent, present]\n\uf02dOphthalmologic complications [absent, present]\n\uf02dConcomitant use of SMX/TMP [absent, present]\n\uf02dConcomitant therapy [absent, present]\n\uf02dUse of medications other than Mycobutin [absent, present]\n\uf02dBaseline HIV-RNA copy number (copies/mL) [<200, \u2265200 to <400, \u2265400 to \n<10,000, \u226510,000 to <100,000, \u2265100,000, unknown]\n\uf02dBaseline CD4 count (cells/mm3) [\u22650 to <100, \u2265100 to <200, \u2265200 to <350, \u2265350 to \n<500, \u2265500, unknown]\n\uf02dCenters for Disease Control and Prevention (CDC) classification [A, B, C, P-0, P-1, \nP-2, unknown]\nIn the safety analysis set, the number and percentage of relevant patients will be tabulated for \nthe following characteristic by system organ class (SOC) and preferred term (PT):\n\uf02d\nComplications\nIn the safety analysis set and effectiveness analysis sets, the number and percentage of \nrelevant patients will be tabulated for the following characteristics:\n\uf02d\nConcomitant medications other than anti-HIV drugs\n\uf02d\nNon-drug concomitant therapies\n\uf0b7\nStatus of treatment of Mycobutin\nIn the safety analysis set, the exposure of patients to Mycobutin will be tabulated with respect \nto the following status of treatment:\n\uf02d\nDuration of treatment * [\u22641 week, >1 week to \u22642 weeks, >2 weeks to \u22644 weeks, \n>4 weeks to \u22648 weeks, >8 weeks to \u226412 weeks, >12 weeks to \u226424 weeks, \n>24 weeks to \u226436 weeks, >36 weeks to \u22641 year, >1 year to \u22643 years, >3 years to \n\u22646 years, >6 years to \u22648 years, >8 years]\n\uf02d\nDuration of one prophylactic or therapeutic treatment [\u22641 week, >1 week to \n\u22642 weeks, >2 weeks to \u22644 weeks, >4 weeks to \u22648 weeks, >8 weeks to \u226412 weeks, \n>12 weeks to \u226424 weeks, >24 weeks to \u226436 weeks, >36 weeks to \u22641 year, >1 year]\n\uf02d\nMaximum daily dose [<150 mg, 150 mg, 300 mg, 450 mg, >450 mg]\nMycobutinStatistical Analysis Plan, Version 4.0Page 16\uf02dMean daily dose [<150 mg, 150 mg, >150 mg to <300 mg, 300 mg, >300 mg to <450 mg, 450 mg, >450 mg]\uf02dContinued or discontinued\uf02dReason of the use of Mycobutin [MAC (therapeutic), MAC (prophylactic), tuberculosis, Nontuberculous Mycobacteriosis (NTM Infections) other than MAC]The duration of treatment is defined as the period from the first to the last confirmed dose of Mycobutin during this survey, and does not include the period during which Mycobutin is suspended.",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "7.2.3.",
+                        "Title": "Safety Analysis",
+                        "Content": "",
+                        "Sub-sections": [
+                            {
+                                "Header Number": "7.2.3.1.",
+                                "Title": "Adverse Drug Reactions",
+                                "Content": "\uf0b7Adverse drug reactionsThe number and percentage of patients with adverse drug reactions will be tabulated by SOC and PT.\uf0b7Serious adverse drug reactionsThe number and percentage of patients with serious adverse drug reactions will be tabulatedby SOC and PT.The number and percentage of patients with serious adverse drug reactions will also be tabulated separately for expected and unexpected reactions by SOC and PT.\uf0b7Other details of adverse drug reactionsThe number and percentage of patients with adverse drug reactions will be tabulated for the following aspects by SOC and PT:\uf02dSeriousness [serious, non-serious]\uf02dExpected/unexpected [expected, unexpected]\uf02dTime to onset [\u22641 week, >1 week to \u22642 weeks, >2 weeks\u2264to 4 weeks, >4 weeks to \u22648 weeks, >8 weeks to \u226412 weeks, >12 weeks to \u226424 weeks, >24 weeks to \u226436 weeks, >36 weeks to \u22641 year, >1 year]\uf02dOutcome [death, sequela, not recovered, recovering, recovered, unknown]If the same AE (the same PT) occurs more than once in the same patient, it will be handled as follows in the tabulation of the number of patients with events:\uf02dSeriousness: If at least one event is reported as serious, they are counted as a serious event.\uf02dExpected/unexpected: If at least one event is reported as unexpected, they are counted as an unexpected event.\uf02dTime to onset: The time to the first onset will be used.MycobutinStatistical Analysis Plan, Version 4.0Page 17\uf02dOutcome: The outcome for the last event will be used. For multiple-time occurrence in the same fiscal year, the outcome for the severest event should preferably be used.\uf0b7Major investigation itemsFor the following major investigation items, the number and percentage of patient who experienced each event will be tabulated:\uf02dHematologic disorders (including anemia, decreased platelets, decreased white blood cells, and pancytopenia)\uf02dUveitisThe number and percentage of patients who experienced the events of major investigation items will also be tabulated for different outcomes by SOC and PT.In addition, the number and percentage of patients who experienced the events of major investigation items will be tabulated with respect to whether they concomitantly used the drugs contraindicated for coadministration, those for which precautions should be taken for coadministration (e.g., some of azoles and macrolides), or SMX/TMP and with respect to the concomitant drug's dose by SOC and PT.\uf0b7Adverse drug reactions by patients of included in/excluded from the safety analysis setIn patients for whom the case report form was collected, the listing of adverse drug reactions in patients excluded from the safety analysis set will be prepared. The number of patients with adverse drug reactions will also be tabulated by SOC and PT.",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "7.2.3.2.",
+                                "Title": "Adverse Events",
+                                "Content": "\uf0b7Adverse eventsThe number and percentage of patients with Adverse events will be tabulated by SOC and PT.\uf0b7Serious adverse events (SAE)The number and percentage of patients with SAEs will be tabulated by SOC and PT.\uf0b7Non-serious adverse eventsThe number and percentage of patients with non-serious adverse events will be tabulated by SOC and PT.",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "7.2.3.3.",
+                                "Title": "Other endpoints",
+                                "Content": "NoneMycobutinStatistical Analysis Plan, Version 4.0Page 18",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "7.2.3.4.",
+                                "Title": "Subgroup Analysis",
+                                "Content": "The number and percentage of patients who experienced at least one adverse drug reaction will be tabulated for each factor specified in Section 4.5. The statistical tests stated in Section 7.1 will be performed to evaluate the association between the patient background factors and development of adverse drug reactions.The number and percentage of patients who experienced adverse drug reactions will be tabulated by SOC and PT for each of the subgroups defined by the following factor:\uf02dReason for the use of Mycobutin [MAC (therapeutic), MAC (prophylactic), tuberculosis, NTM other than MAC]Similar analysis will also be performed for serious adverse drug reactions and SAEs.",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "7.2.3.5.",
+                                "Title": "Exploratory Analysis",
+                                "Content": "Additional analyses may be performed as necessary. The results of an exploratory analysis will be reported only when they result in an important interpretation.",
+                                "Sub-sections": []
+                            }
+                        ]
+                    },
+                    {
+                        "Header Number": "7.2.4.",
+                        "Title": "Effectiveness Analysis",
+                        "Content": "",
+                        "Sub-sections": [
+                            {
+                                "Header Number": "7.2.4.1.",
+                                "Title": "Success Rate of MAC Prevention in Patients Treated for the Prevention of MAC Infection",
+                                "Content": "",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "7.2.4.2.",
+                                "Title": "Clinical efficacy (overall improvement)",
+                                "Content": "Using the (therapeutic) effectiveness analysis set, the number of patients falling into each category of clinical efficacy (overall improvement) will be counted, and the clinical response rate (improvement rate) defined in the formula below and its 95% CI will be calculated. Because a single patient can be infected and treated multiple times during the survey period, patients are counted in a treatment-based manner, i.e., they are counted as many times as the number of the treatments they received. If there is a case of multiple therapeutic treatments in a single patient, the clinical response rate (improvement rate) at the final observation point defined in the formula below, and its 95% CI will also be calculated.MycobutinStatistical Analysis Plan, Version 4.0Page 19Clinical response rate (improvement rate)based on total number of cases (%) =(Total number of markedly improved cases + Total number of improved cases)\u00d7 100(Total number of cases eligible for the therapeutic effectiveness analysis except indeterminable cases)Clinical response rate(improvement rate) at the final observation point (%) =(Numbers of markedly improved patients at the final observation point + Numbers of improved patients at the final observation point)\u00d7 100(Number of patients eligible for the therapeutic effectiveness analysis except indeterminable patients at the final time point)",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "7.2.4.3.",
+                                "Title": "Bacteriological response",
+                                "Content": "Using the bacteriological response analysis set, the number of patients for each of the categories of bacteriological response will be counted, and the eradication rate defined in the formula below and its 95% CI will be calculated. Because a single patient can be infected and treated multiple times during the survey period, patients are counted in a treatment-based manner, i.e., they are counted as many times as the number of the treatments they received. If there is a case of multiple therapeutic treatments in a single patient, the eradication rate at the final observation point defined in the formula below, and its 95% CI will also be calculated. A similar analysis will be performed by reason of Mycobutin use.Eradication rate based on total number of cases(%) =(Total number of eradicated cases)\u00d7 100(Total number of cases evaluated for bacteriological response except unknown)Eradication rate at the final observation point (%) =(Number of eradicated patients at the final observation point)\u00d7 100(Number of patients evaluated for bacteriological response except unknown at the final observation point)",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "7.2.4.4.",
+                                "Title": "Subgroup Analysis",
+                                "Content": "Subgroup analyses of the success rates of MAC prevention, clinical response rates(improvement rate), and eradication rates will be performed for each of the factors listed in Section 4.5.",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "7.2.4.5.",
+                                "Title": "Exploratory Analysis",
+                                "Content": "Additional analyses may be performed as necessary. The results of an exploratory analysis will be reported only when they result in an important interpretation.MycobutinStatistical Analysis Plan, Version 4.0Page 20",
+                                "Sub-sections": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Header Number": "8.",
+        "Title": "LISTINGS",
+        "Content": "The following listings will be prepared (Tabulated summaries that are intended to be included in the study report are indicated as \u201cfor intext\u201d):\uf02dListing for registered patients and patients for whom the case report form was collected\uf02dListing for the decision of eligibility\uf02dListing of patients of all registered patients\uf02dListing of patients in the safety analysis set\uf02dListing of patients in the (preventive) effectiveness analysis set\uf02dListing of patients in the (therapeutic) effectiveness analysis set\uf02dListing of patients in the bacteriological response analysis set\uf02dListing of patients with adverse events\uf02dListing of patients with adverse drug reactions\uf02dListing of patients with adverse drug reactions among patients excluded from the safety analysis set\uf02dListing of patients with serious adverse drug reactions (for intext)\uf02dListing of patients with SAEs\uf02dListing of patients with adverse drug reactions among patients with hepatic dysfunction (for intext)\uf02dListing of patients with adverse drug reactions among patients with renal dysfunction (for intext)\uf02dListing of patients with adverse drug reactions among elderly patients\uf02dListing of patients with adverse drug reactions after long-term (>1 year) treatment\uf02dListing of patients with adverse drug reactions due to overdose\uf02dListing of events falling under major investigation items\uf02dListing of patients with adverse drug reactions falling under major investigation items (for intext)\uf02dListing of the status of administration of Mycobutin\uf02dListing of concomitant medications used\uf02dListing of bacteriological tests\uf02dListing of patients who concomitantly used SMX/TMP\uf02dListing of concomitant medications used for NTM infections (including MAC infection) and tuberculosis\uf02dListing of the changes in HIV-RNA copy number, CD4 count, and body weight for individual patientsIn addition, the following tables that correspond to the Appendix Forms required for the periodic safety update report will be prepared:\uf02dAppendix Form 3 (Listing of overview of patients)\uf02dAppendix Form 2 (Listing of occurrence of adverse drug reaction and infections)\uf02dAppendix Form 10 (Appendix Form 2-2) (Listing of occurrence of SAEs)MycobutinStatistical Analysis Plan, Version 4.0Page 21",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "9.",
+        "Title": "REFERENCES",
+        "Content": "Standard Specifications of the Analysis for the HRD Joint Survey, Ver. 6.0MycobutinStatistical Analysis Plan, Version 4.0Page 22",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "10.",
+        "Title": "APPENDIX",
+        "Content": "",
+        "Sub-sections": [
+            {
+                "Header Number": "10.1.",
+                "Title": "Appendix 1: Details of Data Collection",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "N/A",
+                        "Title": "A1.1 Definition of visits",
+                        "Content": "",
+                        "Sub-sections": []
+                    }
+                ]
+            }
+        ]
+    }
+]

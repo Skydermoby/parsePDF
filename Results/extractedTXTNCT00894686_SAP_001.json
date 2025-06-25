@@ -1,0 +1,311 @@
+[
+    {
+        "Header Number": "N/A",
+        "Title": "TABLE OF CONTENTS",
+        "Content": " LIST OF FIGURES ...................................................................................................................31. AMENDMENTS FROM PREVIOUS VERSION(S) ...........................................................42. INTRODUCTION .................................................................................................................42.1. Study Objectives .......................................................................................................42.1.1. Primary Objective.........................................................................................42.1.2. Secondary Objective.....................................................................................42.2. Study Design .............................................................................................................52.2.1. Precedent Studies..........................................................................................52.2.2. Study Subjects Selection and Process...........................................................52.2.3. Assessments..................................................................................................73. ENDPOINTS AND BASELINE VARIABLES: DEFINITIONS AND CONVENTIONS ..................................................................................................................83.1. Immunogenicity Endpoint(s).....................................................................................83.1.1. Primary Immunogenicity Endpoints.............................................................83.1.2. Secondary Immunogenicity Endpoints.........................................................83.2. Safety Endpoints .......................................................................................................83.3. Baseline Variables.....................................................................................................84. ANALYSIS SETS .................................................................................................................94.1. Full Analysis Set .......................................................................................................94.2. \u2018Per Protocol\u2019 Analysis Set .......................................................................................94.3. Safety Analysis Set....................................................................................................94.4. Other Analysis Sets .................................................................................................104.4.1. mITT Population.........................................................................................105. GENERAL METHODOLOGY AND CONVENTIONS....................................................105.1. Hypotheses and Decision Rules ..............................................................................105.2. General Methods .....................................................................................................105.2.1. Methods to Manage Missing Data..............................................................105.2.2. Analyses for Continuous Data....................................................................105.2.2.1. Annual Decline Rate of Antibody Response.............................105.2.2.2. GMT..........................................................................................115.2.2.3. GMFR........................................................................................115.2.2.4. RCDC........................................................................................11Protocol B9371021 (PF-06830414) Statistical Analysis Plan\nPage 3\n5.2.3. Analyses for Binary Data............................................................................12\n6. ANALYSES AND SUMMARIES ......................................................................................13\n6.1. Analysis of Primary Immunogenicity Endpoints....................................................13\n6.2. Analysis of Secondary Endpoints ...........................................................................13\n6.3. Analysis of Safety Data...........................................................................................13\n6.4. Analyses of Study Conduct.....................................................................................13\n6.4.1. Subject Disposition, Vaccination Administration, Blood Samples............13\n6.4.2. Demographic, Medical History, and Baseline Characteristics...................13\n6.4.3. Nonstudy Vaccination and Concomitant Medication.................................14\n6.4.4. Protocol Deviations ....................................................................................14\n6.4.4.1. Deviations Assessed Prior to Enrollment..................................14\n6.4.4.2. Deviations Assessed Post-Enrollment.......................................14\n6.4.4.3. Deviations Assessed for Booster Vaccination ..........................14\n7. INTERIM ANALYSES.......................................................................................................14\n8. REFERENCES ....................................................................................................................15\nLIST OF FIGURES\nFigure 1.\nStudy Design...........................................................................................................6\n",
+        "Sub-sections": [
+            {
+                "Header Number": "N/A",
+                "Title": "Table\u00a01. Revision History",
+                "Content": "Protocol B9371021 (PF-06830414) Statistical Analysis PlanPage 35.2.3. Analyses for Binary Data............................................................................126. ANALYSES AND SUMMARIES ......................................................................................136.1. Analysis of Primary Immunogenicity Endpoints....................................................136.2. Analysis of Secondary Endpoints ...........................................................................136.3. Analysis of Safety Data...........................................................................................136.4. Analyses of Study Conduct.....................................................................................136.4.1. Subject Disposition, Vaccination Administration, Blood Samples............136.4.2. Demographic, Medical History, and Baseline Characteristics...................136.4.3. Nonstudy Vaccination and Concomitant Medication.................................146.4.4. Protocol Deviations ....................................................................................146.4.4.1. Deviations Assessed Prior to Enrollment..................................146.4.4.2. Deviations Assessed Post-Enrollment.......................................146.4.4.3. Deviations Assessed for Booster Vaccination ..........................147. INTERIM ANALYSES.......................................................................................................148. REFERENCES ....................................................................................................................15",
+                "Sub-sections": []
+            }
+        ]
+    },
+    {
+        "Header Number": "N/A",
+        "Title": "LIST OF FIGURES",
+        "Content": "Figure 1.Study Design...........................................................................................................6Protocol B9371021 (PF-06830414) Statistical Analysis Plan\nPage 4\n1. AMENDMENTS FROM PREVIOUS VERSION(S)\nThis document was amended after revision of the protocol deviation plan.\nTable 1.\nRevision History\nVersion\nDate\nAuthor(s)\nSummary of Changes/Comments\nVersion 1.0\nDecember 22, 2015\nInitial version\nVersion 1.1\nMarch 02, 2017\nAmended version based on Protocol dated on \n25Jun2015 (protocol amendment 4) and SAP \nversion 1.0 dated on 22Dec2015.\n1. In section 4.2 \u2018Per Protocol\u2019 Analysis Set,     \nregarding NT/ELISA affected by a protocol \ndeviation at certain visit(s), and/or  subjects who \nmeet exclusion criteria 2, specified details to be \nconsistent with protocol deviation plan.\n2. Updated analysis method for mITT population.\n2. INTRODUCTION\nThe purpose of this document is to provide further details about the statistical analysis \nmethods specified in the study protocol. This study was originally sponsored by Baxter and \nthe sponsorship was transferred to Pfizer in 2015. After that the protocol was amended by \nPfizer to change the sponsorship. A brief description of the study design and the study \nobjectives are given. Subsequent sections include analysis populations, and the definitions of \nendpoints, followed by details about statistical methods.  The list of tables/figures/listings, \nmock-up tables, listings, figures, and programming rules are prepared separately based on the \nmethods described in this document. \nAny deviations from this analysis plan will be described in the Clinical Study Report.\n2.1. Study Objectives\n2.1.1. Primary Objective\n\uf0b7\nTo assess TBE antibody persistence at yearly intervals from approximately 3 years \n(38 months) to 10 years (118 months) after the first booster vaccination (as \napplicable) with either FSME-IMMUN 0.25 ml Junior or FSME-IMMUN 0.5 ml by \nmeans of NT (according to Adner et al., 2001)1 and ELISA [IMMUNOZYM FSME \nImmunoglobulin G (IgG)].\nThis objective is relevant to all applicable visits 1-3 and 6-10.\n2.1.2. Secondary Objective\n\uf0b7\nThe secondary objective on immunogenicity was to assess the antibody response to a \nsecond booster vaccination with either FSME-IMMUN 0.25 ml Junior or \nFSME-IMMUN 0.5 ml administered in the present study, by means of ELISA and \nNT.\nThis objective is applicable to postbooster blood sample draw visit (visit 5 only).\nPPD\nPPD\nProtocol B9371021 (PF-06830414) Statistical Analysis Plan\nPage 5\n\uf0b7\nThe secondary objective on safety was to assess the safety of FSME-IMMUN 0.25 ml \nJunior or FSME-IMMUN 0.5 ml after administration of the second booster \nvaccination in the present study.\nThis objective is applicable to injection site reactions and systemic events after receiving the \n2nd booster dose at visit 4.\n2.2. Study Design\nThis is a prospective, open-label, multicenter, follow-up, phase IV study in healthy children, \nadolescents and young adults who previously received the first booster vaccination with \neither FSME-IMMUN 0.25 ml Junior or FSME-IMMUN 0.5 ml in Study 700401. A brief \ndescription of all precedent studies are provided below.\n2.2.1. Precedent Studies\nStudy 209 was a multicenter, open-label safety study designed to investigate the safety of \nthree vaccinations with five consecutive vaccine lots of 0.25ml (1.2 \u03bcg [\u00b115%] TBEV \nantigen dose) FSME-IMMUN NEW in 2400 healthy children and adolescents aged 1 to \n15 years. Immunogenicity was also investigated in a subgroup of 400 (planned population) \nsubjects from four study centers. Blood samples drawn in Part A of the study (ie, at baseline \nand Day 21-35 after the second vaccination) and Part B (35-42 days after the third \nvaccination) were all tested for ELISA and NT. \nStudy 700401 was designed as a follow-up Phase 4 (Phase 3b in Poland) study in healthy \nchildren and adolescents aged 3 to 18 years to investigate seropersistence of TBE antibodies \napproximately 24, 34, 46 and 58 months after completion of the primary immunization in \nstudy 209 (3 vaccinations administered at Months 0, 1 and 6) with FSME-IMMUN 0.25 mL \n(subjects were aged 1 to 15 years at the time of their first vaccination).\n2.2.2. Study Subjects Selection and Process\nA total of 179 children, adolescents and young adults who received their first TBE booster \nvaccination in the precedent Study 700401 were enrolled to assess seropersistence of TBE \nantibodies at yearly intervals from approximately 3 years (38 months) to 10 years \n(118 months) after the first booster vaccination (as applicable), as well as antibody response \nto a second booster vaccination with either FSME-IMMUN 0.25 ml Junior or \nFSME-IMMUN 0.5 ml according to the subject\u2019s age.\nSubjects who may not be protected against TBE for an entire further tick season (NT titer \n\u226420 and / or ELISA value < 126 VIE U/ml) will be invited to receive the second booster \nvaccination at either the 40, 48, 60, 72, 84, 96, 108, or 120 month time point.\n",
+        "Sub-sections": [
+            {
+                "Header Number": "N/A",
+                "Title": "Figure\u00a01. Study Design",
+                "Content": "Protocol B9371021 (PF-06830414) Statistical Analysis PlanPage 4",
+                "Sub-sections": []
+            }
+        ]
+    },
+    {
+        "Header Number": "1.",
+        "Title": "AMENDMENTS FROM PREVIOUS VERSION(S)",
+        "Content": "This document was amended after revision of the protocol deviation plan.Table 1.Revision HistoryVersionDateAuthor(s)Summary of Changes/CommentsVersion 1.0December 22, 2015Initial versionVersion 1.1March 02, 2017Amended version based on Protocol dated on 25Jun2015 (protocol amendment 4) and SAP version 1.0 dated on 22Dec2015.1. In section 4.2 \u2018Per Protocol\u2019 Analysis Set,     regarding NT/ELISA affected by a protocol deviation at certain visit(s), and/or  subjects who meet exclusion criteria 2, specified details to be consistent with protocol deviation plan.2. Updated analysis method for mITT population.",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "2.",
+        "Title": "INTRODUCTION",
+        "Content": "The purpose of this document is to provide further details about the statistical analysis methods specified in the study protocol. This study was originally sponsored by Baxter and the sponsorship was transferred to Pfizer in 2015. After that the protocol was amended by Pfizer to change the sponsorship. A brief description of the study design and the study objectives are given. Subsequent sections include analysis populations, and the definitions of endpoints, followed by details about statistical methods.  The list of tables/figures/listings, mock-up tables, listings, figures, and programming rules are prepared separately based on the methods described in this document. Any deviations from this analysis plan will be described in the Clinical Study Report.",
+        "Sub-sections": [
+            {
+                "Header Number": "2.1.",
+                "Title": "Study Objectives",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "2.1.1.",
+                        "Title": "Primary Objective",
+                        "Content": "\uf0b7To assess TBE antibody persistence at yearly intervals from approximately 3 years (38 months) to 10 years (118 months) after the first booster vaccination (as applicable) with either FSME-IMMUN 0.25 ml Junior or FSME-IMMUN 0.5 ml by means of NT (according to Adner et al., 2001)1 and ELISA [IMMUNOZYM FSME Immunoglobulin G (IgG)].This objective is relevant to all applicable visits 1-3 and 6-10.",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "2.1.2.",
+                        "Title": "Secondary Objective",
+                        "Content": "\uf0b7The secondary objective on immunogenicity was to assess the antibody response to a second booster vaccination with either FSME-IMMUN 0.25 ml Junior or FSME-IMMUN 0.5 ml administered in the present study, by means of ELISA and NT.This objective is applicable to postbooster blood sample draw visit (visit 5 only).PPDPPDProtocol B9371021 (PF-06830414) Statistical Analysis PlanPage 5\uf0b7The secondary objective on safety was to assess the safety of FSME-IMMUN 0.25 ml Junior or FSME-IMMUN 0.5 ml after administration of the second booster vaccination in the present study.This objective is applicable to injection site reactions and systemic events after receiving the 2nd booster dose at visit 4.",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "2.2.",
+                "Title": "Study Design",
+                "Content": "This is a prospective, open-label, multicenter, follow-up, phase IV study in healthy children, adolescents and young adults who previously received the first booster vaccination with either FSME-IMMUN 0.25 ml Junior or FSME-IMMUN 0.5 ml in Study 700401. A brief description of all precedent studies are provided below.",
+                "Sub-sections": [
+                    {
+                        "Header Number": "2.2.1.",
+                        "Title": "Precedent Studies",
+                        "Content": "Study 209 was a multicenter, open-label safety study designed to investigate the safety of three vaccinations with five consecutive vaccine lots of 0.25ml (1.2 \u03bcg [\u00b115%] TBEV antigen dose) FSME-IMMUN NEW in 2400 healthy children and adolescents aged 1 to 15 years. Immunogenicity was also investigated in a subgroup of 400 (planned population) subjects from four study centers. Blood samples drawn in Part A of the study (ie, at baseline and Day 21-35 after the second vaccination) and Part B (35-42 days after the third vaccination) were all tested for ELISA and NT. Study 700401 was designed as a follow-up Phase 4 (Phase 3b in Poland) study in healthy children and adolescents aged 3 to 18 years to investigate seropersistence of TBE antibodies approximately 24, 34, 46 and 58 months after completion of the primary immunization in study 209 (3 vaccinations administered at Months 0, 1 and 6) with FSME-IMMUN 0.25 mL (subjects were aged 1 to 15 years at the time of their first vaccination).",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "2.2.2.",
+                        "Title": "Study Subjects Selection and Process",
+                        "Content": "A total of 179 children, adolescents and young adults who received their first TBE booster vaccination in the precedent Study 700401 were enrolled to assess seropersistence of TBE antibodies at yearly intervals from approximately 3 years (38 months) to 10 years (118 months) after the first booster vaccination (as applicable), as well as antibody response to a second booster vaccination with either FSME-IMMUN 0.25 ml Junior or FSME-IMMUN 0.5 ml according to the subject\u2019s age.Subjects who may not be protected against TBE for an entire further tick season (NT titer \u226420 and / or ELISA value < 126 VIE U/ml) will be invited to receive the second booster vaccination at either the 40, 48, 60, 72, 84, 96, 108, or 120 month time point.Protocol B9371021 (PF-06830414) Statistical Analysis Plan\nPage 6\nFigure 1.\nStudy Design\nProtocol B9371021 (PF-06830414) Statistical Analysis PlanPage 7",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "2.2.3.",
+                        "Title": "Assessments",
+                        "Content": "Subjects were to be assessed for medical history and a physical examination was to be performed before the 2nd booster vaccination administration. A blood sample was to be taken at each visit except the booster vaccination visit. AE documentation in association with study procedures were to be collected at each visit and any injection site reactions and systemic AEs were to be recorded.Protocol B9371021 (PF-06830414) Statistical Analysis PlanPage 8",
+                        "Sub-sections": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Header Number": "3.",
+        "Title": "ENDPOINTS AND BASELINE VARIABLES: DEFINITIONS AND CONVENTIONS",
+        "Content": "",
+        "Sub-sections": [
+            {
+                "Header Number": "3.1.",
+                "Title": "Immunogenicity Endpoint(s)",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "3.1.1.",
+                        "Title": "Primary Immunogenicity Endpoints",
+                        "Content": "\uf0b7Seropositivity rate as determined by NT from approximately 3 years (38 months) to 10 years (118 months) after the first booster vaccination administered in Study 700401 and after the second booster vaccination administered in this study.Seropositivity is defined as NT \u226510.",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "3.1.2.",
+                        "Title": "Secondary Immunogenicity Endpoints",
+                        "Content": "\uf0b7Seropositivity rate as determined by ELISA from approximately 3 years (38 months) to 10 years (118 months) after the first booster vaccination in Study 700401 and after the second booster vaccination in this study;\uf0b7Seropositivity is defined as ELISA > 126 VIE U/ml;\uf0b7Geometric mean antibody concentration (GMCs) as determined by ELISA from approximately 3 years (38 months) to 10 years (118 months) after the first booster vaccination in Study 700401 and after the second booster vaccination in this study;\uf0b7Geometric mean antibody titers (GMTs) as determined by NT from approximately 3 years (38 months) to 10 years (118 months) after the first booster vaccination in Study 700401 and after the second booster vaccination in this study;\uf0b7Geometric mean of fold increase (GMFR) as determined by ELISA from before booster to postbooster in this study;\uf0b7Geometric mean of fold increase (GMFR) as determined by NT from before booster to postbooster in this study.",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "3.2.",
+                "Title": "Safety Endpoints",
+                "Content": "\uf0b7Injection site reactions observed in the period from the second booster vaccination until the following blood draw;\uf0b7Systemic reactions observed in the period from the second booster vaccination until the following blood draw.",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "3.3.",
+                "Title": "Baseline Variables",
+                "Content": "Age at first dose of primary vaccination, age at enrollment, age at second booster dose, gender, BMI, tick-bite history are considered as baseline variables. Age at first dose of primary vaccination (Study 209) will be categorized as 1-2, 3-6, 7-15, 12-15 years. Age at second booster dose will be based on vaccine dose-level (0.25 mL vs 0.5 mL).Protocol B9371021 (PF-06830414) Statistical Analysis PlanPage 9Medical history and physical exam evaluated at Visit 1 of this current study are also considered as baseline variables.",
+                "Sub-sections": []
+            }
+        ]
+    },
+    {
+        "Header Number": "4.",
+        "Title": "ANALYSIS SETS",
+        "Content": "",
+        "Sub-sections": [
+            {
+                "Header Number": "4.1.",
+                "Title": "Full Analysis Set",
+                "Content": "An All-Enrolled Population will be defined as the Full Analysis Set, which consists of all subjects enrolled into the study.  Any subjects who consented are included in the population. Subject disposition, history of tick bites, and demography will be presented for this population.",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "4.2.",
+                "Title": "\u2018Per Protocol\u2019 Analysis Set",
+                "Content": " This analysis set is the primary analysis population for immunogenicity.This Per-Protocol population includes subjects who:1. Have been enrolled (consented) and meet all inclusion/exclusion criteria at all visits. 2. Have available assay results (ELISA or NT) at any blood sampling visit.3. Have no other major protocol violations.Above listed items 1 & 2 will be determined by computerized checks of the data, while item 3 will be determined by clinical review as these are considered as major protocol violations per the original protocol, which will eventually be entered into the database from Protocol Deviation (PD) case report form entries.Subjects with major protocol deviations will be excluded from the primary analysis population, or in some instances, the ELISA and NT results affected by a protocol deviation at certain visit(s) will be excluded from the analysis. If a subject meets the exclusion criterion 2, which is that subject has a history of infection with or vaccination against other flaviviruses (eg, Dengue fever, yellow fever, Japanese B encephalitis) since his/her first booster vaccination in Study 700401, the subject\u2019s affected ELISA results will be excluded from the analysis due to cross-reactivity.  There is no cross-reactivity with the NT, so the NT results will be included in the analysis. The subject will be included in Per-Protocol population, under condition that he/she satisfies the rest of the conditions in above items 1 to 3.",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "4.3.",
+                "Title": "Safety Analysis Set",
+                "Content": "The safety population will include any subjects who received the second booster dose in this study.Protocol B9371021 (PF-06830414) Statistical Analysis PlanPage 10",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "4.4.",
+                "Title": "Other Analysis Sets",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "4.4.1.",
+                        "Title": "mITT Population",
+                        "Content": "All enrolled subjects who have assay results (ELISA or NT) available at any blood sampling visit in this study will be included in the modified intent-to-treat (mITT) population.  This analysis set is for the immunogenicity analysis purpose. This population will be used as the secondary analysis population for other immunogenicity objectives. All available assay results will be included in this analysis set.",
+                        "Sub-sections": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Header Number": "5.",
+        "Title": "GENERAL METHODOLOGY AND CONVENTIONS",
+        "Content": "",
+        "Sub-sections": [
+            {
+                "Header Number": "5.1.",
+                "Title": "Hypotheses and Decision Rules",
+                "Content": "Not applicable as this is a descriptive study.",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "5.2.",
+                "Title": "General Methods",
+                "Content": " ",
+                "Sub-sections": [
+                    {
+                        "Header Number": "5.2.1.",
+                        "Title": "Methods to Manage Missing Data",
+                        "Content": "In general, only subjects with available data will be included in the statistical analysis. Missing values for antibody titer at 38 and 46 months will neither be replaced nor estimated. Any missing values at later time points (ie, 58, 70, 82, 94, 106 and 118 months) due to early withdrawal or second booster vaccination within this current study, will be estimated if at least three data points are available, assuming an exponential decline in antibody titers in time (calculated as described in Section 5.2.2.1). ",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "5.2.2.",
+                        "Title": "Analyses for Continuous Data",
+                        "Content": "",
+                        "Sub-sections": [
+                            {
+                                "Header Number": "5.2.2.1.",
+                                "Title": "Annual Decline Rate of Antibody Response",
+                                "Content": "To calculate the annual decline rate of antibody response on NT, the NT titers measured at each blood sampling time point (including Study 700401 post-booster Visit, and Study B9371021 visits 1, 2, 3,6,7,8,9,10 ) will be logarithmically transformed. These log transformed data will be used as dependent variable, with days after first booster dose (from study 700401) as independent variable, to calculate the annual decline rate, using regression model for each subject. The slope from the model multiplied by 365 is considered as the estimated annual decline rate for each subject. Summary statistics on the estimated annual decline across all subjects will then be presented.Subjects with missing assay data at 38-month and 46-month  after the first booster dose will not be included in this analysis. In addition, subjects with a more than 4-fold increase in TBE antibodies between successive visits will be excluded from the analysis.Calculation of the decline rate:\uf0b7Perform linear regression of the log transformed results for each subjects;\uf0b7Annual decline rate=slope of regression line * 365;\uf0b7Calculate descriptive statistics for the annual decline rate across all subjects.Protocol B9371021 (PF-06830414) Statistical Analysis PlanPage 11A similar analysis will be performed for the ELISA data.",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "5.2.2.2.",
+                                "Title": "GMT",
+                                "Content": "To estimate the antibody response from approximately 3 years to 10 years after the first booster vaccination (from precedent study 700401), NT titers and ELISA concentrations measured at each blood sampling time point (including extrapolated from regression modelfor subjects with booster dose or early withdrawals from Section 5.2.2.1, and the available assay results ) after the first booster will be logarithmically transformed for analysis and GMTs/GMCs will be computed with 95% CI for each assay.  The analysis will be applied to the \u2018Per Protocol\u2019 Analysis Set. For the mITT Population, GMTs/GMCs with 95% CI will be computed using all available NT titers and ELISA concentrations, ie, no extrapolation from regression model will be done for subjects with booster dose or early withdrawals.To estimate the antibody response after the second booster vaccination within this current study, NT titers and ELISA concentrations measured at the postbooster visit will be logarithmically transformed for analysis and GMTs/GMCs will be computed with 95% CI for each assay. The analysis will be applied to both the \u2018Per Protocol\u2019 Analysis Set and mITT Population. Data will be presented for each year, as well as for the combined postbooster.The 2-sided, 95% confidence intervals for the GMTs/GMCs will be constructed by back transformation of the confidence intervals for the mean of the logarithmically transformed titers or concentrations computed using the Student t distribution.",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "5.2.2.3.",
+                                "Title": "GMFR",
+                                "Content": "Fold-rise of NT titers from the prebooster visit to postbooster visit will be logarithmically transformed for analysis.  The analysis will be applied to both the \u2018Per Protocol\u2019 Analysis Setand mITT Population. Data will be presented for each year, as well as for the combined.Two (2)-sided, 95% confidence intervals will be constructed by back transformation of the confidence intervals for the mean of the logarithmically transformed fold-rise computed using the Student t distribution.  GMFR on ELISA concentration will be analyzed similarly to NT.",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "5.2.2.4.",
+                                "Title": "RCDC",
+                                "Content": "The empirical reverse cumulative distribution curves (RCDCs) will be presented graphically for NT and ELISA at each visit, for the per-protocol analysis set. If subjects were boostered or an early withdrawal, the extrapolated antibody response (refer to Section 5.2.2.1 and Section 5.2.1) will be combined with nonmissing assay data for the time point. The graph will be presented for the total per-protocol analysis set as well as for each age group based on age at the primary dose (refer to Section 3.3).The analyses will only be applied to the \u2018Per Protocol\u2019 Analysis Set. Protocol B9371021 (PF-06830414) Statistical Analysis PlanPage 12",
+                                "Sub-sections": []
+                            }
+                        ]
+                    },
+                    {
+                        "Header Number": "5.2.3.",
+                        "Title": "Analyses for Binary Data",
+                        "Content": "All of the binary endpoints will be descriptively summarized along with the exact 2-sided 95% confidence interval (or Clopper-Pearson confidence limit) for the proportion. The exact confidence interval for proportion will be computed using the F distribution.  If r equals the number of responses and n equals the number of subjects, then it follows that p = r / n is the estimate of the proportion of responses.  An exact 95% confidence interval can be computed by solving the following 2 equations.  For the lower limit pL, use:))1((\uf02b\uf02d\uf02b\uf03drnrFrFpLLLand for the upper limit pU, use  UUUFrrnFrp)1()()1(\uf02b\uf02b\uf02d\uf02b\uf03dwhere FL is the quantile from the F distribution for \u03b1=0.025, with numerator degrees of freedom equal to 2r and denominator degrees of freedom equal to 2(n-r+1).  FU is the quantile from the F distribution for \u03b1=0.975, with numerator degrees of freedom equal to 2(r+1) and denominator degrees of freedom equal to 2(n-r).  When r equals 0, FL should be set equal to 1.0 so pL equals 0.  When r equals n, FU should be set equal to 1.0 so pU equals 1.  The confidence interval using the F distribution is described in Collett (19911) and implemented in SAS procedure (ie, PROC FREQ).To estimate the seropositivity rate as determined by NT from approximate 3 years to 10 yeasr afet the first booster vaccination (from precedent study 700401), the proportion of subjects with NT \uf0b310 at each blood sampling time point (including extrapolated from regression model for subjects with booster dose or early withdrawals from Section 5.2.2.1, and the available assay results) after the first booster will be summarized with the exact 95% CI. Similarly, the proportion of subjects withELISA > 126 at each blood sampling time point (including extrapolated results) after the first booster will be summarized with the exact 95% CI. The analysis will be applied to \u2018Per Protocol\u2019 Analysis Set. For mITT Population, which will include all available NT titers and ELISA concentrations, ie, no extrapolation from regression model will be done for subjects with booster dose or early withdrawals.To estimate the seropositivity rate after the second booster vaccination within this current study, the proportion of subjects with NT \u226510 and proportion of subjects with ELISA>126 will be summarized at postboost vaccination visit. The analysis will be applied to both \u2018Per Protocol\u2019 Analysis Set and mITT Population. Data will be presented for each year, as well as for the combined postbooster.A logistic regression model will also be applied to examine the seropositive rate at each visit with the covariates (age at first booster dose from study 700401, gender, and BMI). The analyses will only be applied to the \u2018Per Protocol\u2019 Analysis Set. Extrapolated values will be included in the analysis.Protocol B9371021 (PF-06830414) Statistical Analysis PlanPage 13",
+                        "Sub-sections": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Header Number": "6.",
+        "Title": "ANALYSES AND SUMMARIES",
+        "Content": "",
+        "Sub-sections": [
+            {
+                "Header Number": "6.1.",
+                "Title": "Analysis of Primary Immunogenicity Endpoints",
+                "Content": "The primary analysis for the primary objective will be based on the evaluable immunogenicity population for the primary endpoints. 95% exact confidence intervals (CIs) will be presented along with the seropositive rate on NT as described in Section 5.2.3.  Missing values handling were describe in Section 5.2.1.Additional analysis on the primary endpoints will also be applied to the mITT population.P-values from the logistic regression will be presented to assess the relation of seropositive rate with the covariates (per-protocol population only).",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "6.2.",
+                "Title": "Analysis of Secondary Endpoints",
+                "Content": "The seropositive rate on ELISA will be analyzed similar to NT. If no subject had ELISA seronegative, the logistic regression will not be applied.All of the GMCs, GMTs, GMFRs will be summarized for the per-protocol population and for the mITT population .RCDC will only be presented for the per-protocol population. ",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "6.3.",
+                "Title": "Analysis of Safety Data",
+                "Content": "All AE data will be summarized with count and percentages. ",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "6.4.",
+                "Title": "Analyses of Study Conduct",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "6.4.1.",
+                        "Title": "Subject Disposition, Vaccination Administration, Blood Samples",
+                        "Content": "The number and percentage of subjects who are enrolled (or consented), completed the study, are qualified in each analysis population, withdrew, and with major protocol violations(excluded from per-protocol immunogenicity population), will be summarized.  The reasons for withdrawal will also be tabulated. The total number of subjects with blood drawn and subjects who complied with the visit window at each visit will also be summarized.Similarly, for subjects who are eligible for a booster vaccination, the number and percentage of subjects who are vaccinated, and with a postbooster blood draw within the protocol-specified time frame will be tabulated.  The Full Analysis Set will be used to generate these tables.The protocol violators will also be listed.  ",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "6.4.2.",
+                        "Title": "Demographic, Medical History, and Baseline Characteristics",
+                        "Content": "Demographic summaries will include age (at consent or age at second booster), gender, height, weight, and BMI. BMI will be derived as a ratio of body weight in kilograms (kg) to the square of the body height in meters(m) and rounded to 2 decimal points and the unit of BMI is kg/m2.Protocol B9371021 (PF-06830414) Statistical Analysis PlanPage 14These summaries may also be generated for different analysis sets.Medical history and physical examinations performed will be summarized among all enrolled subjects at each visit as well as for any visit. Additionally, the medical history, vital signs, physical exam, and pregnancy test evaluated before the booster vaccination will all be listed among subjects who received booster vaccination.",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "6.4.3.",
+                        "Title": "Nonstudy Vaccination and Concomitant Medication",
+                        "Content": "The data will be listed.",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "6.4.4.",
+                        "Title": "Protocol Deviations",
+                        "Content": "The following describes any protocol deviations that relate to the statistical analyses or populations:  ",
+                        "Sub-sections": [
+                            {
+                                "Header Number": "6.4.4.1.",
+                                "Title": "Deviations Assessed Prior to Enrollment",
+                                "Content": "",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "6.4.4.2.",
+                                "Title": "Deviations Assessed Post Enrollment",
+                                "Content": "",
+                                "Sub-sections": []
+                            },
+                            {
+                                "Header Number": "6.4.4.3.",
+                                "Title": "Deviations Assessed for Booster Vaccination",
+                                "Content": "Refer to the protocol for the eligibility criteria for the booster vaccination. Any subjects who received a booster vaccination but did not meet any of the eligibility criteria for booster vaccination will be listed. Additionally, any subject who did not meet the antibody levels of NT titer \u2264 20 and/or ELISA value \u2264 126VIE U/ml but received a subsequent booster vaccination will be listed.",
+                                "Sub-sections": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Header Number": "7.",
+        "Title": "INTERIM ANALYSES",
+        "Content": "An interim analysis was done by Baxter after completion of the study through 5 years post-first booster, based on Baxter\u2019s final SAP for immunogenicity analysis up to Month 60 (Version 2, dated as 10OCT2012).   No type I error adjustment is needed for these analyses as it is a descriptive study.Protocol B9371021 (PF-06830414) Statistical Analysis PlanPage 15",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "8.",
+        "Title": "REFERENCES",
+        "Content": "",
+        "Sub-sections": []
+    }
+]

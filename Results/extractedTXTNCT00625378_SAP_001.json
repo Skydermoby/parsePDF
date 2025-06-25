@@ -1,0 +1,163 @@
+[
+    {
+        "Header Number": "N/A",
+        "Title": "Study ID_Cover Page_SAP_Final.pdf",
+        "Content": "",
+        "Sub-sections": []
+    },
+    {
+        "Header Number": "N/A",
+        "Title": "12311_Statistical Analysis Plan_Redacted_V1.0_2021-06-22.pdf",
+        "Content": "",
+        "Sub-sections": [
+            {
+                "Header Number": "N/A",
+                "Title": "Title page",
+                "Content": "Sorafenib Long Term Extension Program (STEP)Bayer study drugSorafenib/Nexavar\u00ae  BAY 43-9006Study purpose:The primary purpose of program is to enable patients, currently receiving sorafenib (Nexavar) in a Bayer/Onyx sponsored clinical trial, to continue sorafenib treatment after their respective study has met its primary endpoint and/or has reached the end as defined in the original protocol.Clinical study phase:IIIbDate:22 JUN 2021Study No.:12311Version:1.0Author:ConfidentialThe information provided in this document is strictly confidential and is intended solely for the guidance of the clinical investigation.  Reproduction or disclosure of this document, whether in part or in full, to parties not associated with the clinical investigation or its use for any other purpose without the prior written consent of the sponsor is not permitted.Throughout this document, symbols indicating proprietary names (\u00ae, TM) are not displayed.  Hence, the appearance of product names without these symbols does not imply that these names are not protected.This Statistical Analysis Plan is produced on a word-processing system and bears no signatures.The approval of the Statistical Analysis Plan is documented in a separate Signature Document.PPDStatistical Analysis PlanBAY 43-9006/12311Page: 2 of 8Reference Number: RD-SOP-1119Supplement Version: 10",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "N/A",
+                "Title": "Table of Contents",
+                "Content": "Title page................................................................................................................................... 1 ......................................................................................................................... 2Abbreviations............................................................................................................................ 31.Introduction....................................................................................................................... 32.Study Objectives................................................................................................................ 43.Study Design ...................................................................................................................... 44.General Statistical Considerations .................................................................................. 44.1General Principles............................................................................................................ 44.2Handling of Dropouts ...................................................................................................... 54.3Handling of Missing Data................................................................................................ 54.4Interim Analyses and Data Monitoring ........................................................................... 54.5Data Rules........................................................................................................................ 54.6Blind Review ................................................................................................................... 65.Analysis Sets ...................................................................................................................... 65.1Assignment of analysis sets ............................................................................................. 66.Statistical Methodology .................................................................................................... 66.1Population characteristics ................................................................................................ 66.2Efficacy............................................................................................................................ 76.3Pharmacokinetics/pharmacodynamics............................................................................. 76.4Safety ............................................................................................................................... 77.Document history and changes in the planned statistical analysis............................... 88.References .......................................................................................................................... 8",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "N/A",
+                "Title": "Table of Tables",
+                "Content": " ......................................................................................................................... 2Abbreviations............................................................................................................................ 31.Introduction....................................................................................................................... 32.Study Objectives................................................................................................................ 43.Study Design ...................................................................................................................... 44.General Statistical Considerations .................................................................................. 44.1General Principles............................................................................................................ 44.2Handling of Dropouts ...................................................................................................... 54.3Handling of Missing Data................................................................................................ 54.4Interim Analyses and Data Monitoring ........................................................................... 54.5Data Rules........................................................................................................................ 54.6Blind Review ................................................................................................................... 65.Analysis Sets ...................................................................................................................... 65.1Assignment of analysis sets ............................................................................................. 66.Statistical Methodology .................................................................................................... 66.1Population characteristics ................................................................................................ 66.2Efficacy............................................................................................................................ 76.3Pharmacokinetics/pharmacodynamics............................................................................. 76.4Safety ............................................................................................................................... 77.Document history and changes in the planned statistical analysis............................... 88.References .......................................................................................................................... 8Table 1\u20131: Patient numbers of study 12311 by feeder trial ....................................................... 3Statistical Analysis PlanBAY 43-9006/12311Page: 3 of 8Reference Number: RD-SOP-1119Supplement Version: 10",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "N/A",
+                "Title": "Abbreviations",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "1.",
+                "Title": "Introduction",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "N/A",
+                        "Title": "Table 1\u20131: Patient numbers of study 12311 by feeder trial",
+                        "Content": "Feeder trial numberNumber of Patients,  n (%)1003753      (1.5)10055424      (11.7)1005571      (0.5)108741      (0.5)109161      (0.5)1121318      (8.7)115383      (1.5)115461      (0.5)115591      (0.5)117181      (0.5)117216      (2.9)1184812      (5.8)118491      (0.5)118685      (2.4)1194165      (31.6)119617      (3.4)119883      (1.5)120074      (1.9)123472      (1)127824      (1.9)129137      (3.4)129177      (3.4)129184      (1.9)132665      (2.4)142957      (3.4)1489813      (6.3)Total206      (100)",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "2.",
+                "Title": "Study Objectives",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "3.",
+                "Title": "Study Design",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "4.",
+                "Title": "General Statistical Considerations",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "4.1",
+                        "Title": "General Principles",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "4.2",
+                        "Title": "Handling of Dropouts",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "4.3",
+                        "Title": "Handling of Missing Data",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "4.4",
+                        "Title": "Interim Analyses and Data Monitoring",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "4.5",
+                        "Title": "Data Rules",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "4.6",
+                        "Title": "Blind Review",
+                        "Content": "",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "5.",
+                "Title": "Analysis Sets",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "5.1",
+                        "Title": "Assignment of analysis sets",
+                        "Content": "",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "6.",
+                "Title": "Statistical Methodology",
+                "Content": "",
+                "Sub-sections": [
+                    {
+                        "Header Number": "6.1",
+                        "Title": "Population characteristics",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "6.2",
+                        "Title": "Efficacy",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "6.3",
+                        "Title": "Pharmacokinetics/pharmacodynamics",
+                        "Content": "",
+                        "Sub-sections": []
+                    },
+                    {
+                        "Header Number": "6.4",
+                        "Title": "Safety",
+                        "Content": "",
+                        "Sub-sections": []
+                    }
+                ]
+            },
+            {
+                "Header Number": "7.",
+                "Title": "Document history and changes in the planned statistical analysis",
+                "Content": "",
+                "Sub-sections": []
+            },
+            {
+                "Header Number": "8.",
+                "Title": "References",
+                "Content": "",
+                "Sub-sections": []
+            }
+        ]
+    }
+]
