@@ -51,7 +51,7 @@ def checkHeader(text):
 
 
 def printError(text):
-    print("Something wrong has occured:", text)
+    print("Something wrong has occured:", text, ". This error took place in:", fileName)
 
 breakerControl = 0
 
