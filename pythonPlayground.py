@@ -17,16 +17,16 @@ fileNames = os.listdir('Data\\')
 
 debugMode = False
 verboseMode = False
-cycleMode = True
+cycleMode = False
 
-fileName = "NCT00799266_Prot_000"
+fileName = "NCT00658021_SAP_001"
 
 inputFile = "Data\\" + fileName + ".pdf"
 outputFile = "Results\\extractedTXT" + fileName + ".json"
 
 tableExtractor = pdfplumber.open(inputFile)
 
-
+print(tableExtractor)
 
 def checkHeader(text):
     stillHeader = True
@@ -46,6 +46,9 @@ def extraction(inputFile, outputFile):
     doc = pymupdf.open(inputFile)
     toc = doc.get_toc()
 
+    if debugMode:
+        print(toc)
+
     testDict = []
     pointer = testDict
     breakerControl = 0
@@ -59,6 +62,7 @@ def extraction(inputFile, outputFile):
             curLvl = x[0]
             curTit = x[1]
             curPg = int(x[2])
+            
             if lastLvl < curLvl:
                 newPoint = curDict[-1]["Sub-sections"]
                 curDict = newPoint
@@ -109,7 +113,8 @@ def extraction(inputFile, outputFile):
             curContent.append("".join(splitVile))
             for x in range(curPg, nxtPg - 1):
                 curPage = doc[x].get_textpage()
-                results = curPage.search(curTit)
+                curTB = doc[x].find_tables()
+                print(curTB.tables)
                 curContent.append(curPage.extractText())
             if pgCounter != len(toc)-1:
                 nextTit = toc[pgCounter+1][1]
@@ -125,8 +130,11 @@ def extraction(inputFile, outputFile):
                     print("this happened aaaaaaaaaaaaat", curTit)
                 firstPage = doc[curPg-1].get_textpage()
                 retFirstPg = firstPage.extractText()
-                retFirstPg = retFirstPg.replace('\n', '')
+                retFirstPg = retFirstPg.replace('\n', ' ')
+                
                 splitVile = retFirstPg.split(curTit)
+                if len(splitVile) == 1:
+                    splitVile = retFirstPg.split(curName)
                 splitVile.pop(0)
                 splitVile = "".join(splitVile)
                 splitVile = splitVile.split(nextTit) 
@@ -144,6 +152,7 @@ def extraction(inputFile, outputFile):
             breakerControl =1
     else:
         printError("TOC length is 0 :(")
+        topDict = ["Could not find ToC"]
     if verboseMode:
         print(topDict)
 
