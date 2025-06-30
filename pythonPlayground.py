@@ -177,6 +177,11 @@ else:
 
 doc = pymupdf.open(inputFile)
 
+for page in doc:
+    tabs = page.find_tables()
+    if tabs.tables:
+        print(tabs[0].extract())
+
 for page_index in range(len(doc)): # iterate over pdf pages
     page = doc[page_index] # get the page
     image_list = page.get_images(True)
