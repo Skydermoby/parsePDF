@@ -18,18 +18,20 @@ async def create_upload_file(file: UploadFile | None = None):
         with open(outputFile, "wb") as f:
             f.write(file.file.read())
         #shutil.copyfileobj(file.file, outputFile)
-        #return extraction(file.file)
-        return {"filename": file.filename}
+        return file.filename
 
 @app.get("/items/{item_id}")
-async def read_item(item_id: str, q: str | None = None, short: bool = False):
+async def get_item(item_id: str | None = None):
+    print(len(item_id))
+    filteredName = item_id[1:len(item_id)-1:1]
+    filePath = "Uploaded\\"+filteredName
+    if os.path.exists(filePath):
+        return extraction(filePath)
+        return "Item Found!"
+    else: 
+        return "Error: couldn't find file in storage" , filePath
     item = {"item_id": item_id}
-    if q:
-        item.update({"q": q})
-    if not short:
-        item.update(
-            {"description": "Short was false :("}
-        )
+    
     return item
 
 

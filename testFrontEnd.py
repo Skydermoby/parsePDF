@@ -1,5 +1,6 @@
 import streamlit as st
 import requests
+import json
 
 st.title("Aaron's super shabby front end :p")
 
@@ -8,6 +9,13 @@ uploadFile = st.file_uploader("Upload the pdf you want converted", type=("pdf"))
 if st.button('Convert'):
     files = {'file': uploadFile}
     res = requests.post(url= "http://127.0.0.1:8000/uploadfile/", files=files)
-    st.subheader(f"Response from API = {res.text}")
+    st.subheader(f"File recieved, it's being processed! {res.text}")
+    fileName = res.text
+    newURL = "http://127.0.0.1:8000/items/" + fileName
+    res = requests.get(url=newURL)
+    if (res):
+        st.write("File Processing Completed! Download your JSON file below.")
+        returnName = fileName.replace(".pdf",".json")
+        st.download_button(label="Download JSON", data=res.json(), file_name=returnName[1:len(returnName)-1:1], mime="application/json", icon=":material/download:",)
 
 #steamlit run testFrontEnd.py

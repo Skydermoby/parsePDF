@@ -22,7 +22,8 @@ def printError(text):
 
 
 def extraction(inputFile):
-    doc = pymupdf.open(stream=inputFile.read())
+    #doc = pymupdf.open(stream=inputFile.read())
+    doc = pymupdf.open(inputFile)
     toc = doc.get_toc()
 
     testDict = []
@@ -121,5 +122,5 @@ def extraction(inputFile):
     else:
         printError("TOC length is 0 :(")
         topDict = ["Could not find ToC"]
-
-    return json.dumps(topDict)
+    #return topDict
+    return json.dumps(topDict, indent=4)
