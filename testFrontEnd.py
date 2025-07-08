@@ -18,4 +18,5 @@ if st.button('Convert'):
         returnName = fileName.replace(".pdf",".json")
         st.download_button(label="Download JSON", data=res.json(), file_name=returnName[1:len(returnName)-1:1], mime="application/json", icon=":material/download:",)
 
-#steamlit run testFrontEnd.py
+# C:\Users\ling1\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\Scripts
+# steamlit run testFrontEnd.py
