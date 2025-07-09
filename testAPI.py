@@ -1,8 +1,11 @@
 from fastapi import FastAPI, File, UploadFile
 from converter import extraction
 import os
+from pinecone import Pinecone
 import shutil
+import json
 
+#host name: aarontest-x2rea8e.svc.aped-4627-b74a.pinecone.io
 app = FastAPI()
 
 
@@ -34,5 +37,21 @@ async def get_item(item_id: str | None = None):
     
     return item
 
+
+@app.get("/pinecone/{item_id}")
+async def get_item(item_id: str | None = None):
+    print(item_id)
+    pc = Pinecone(api_key="pcsk_6qzJGA_5xUfNgGmkyDar5tSg2gANqTCzPVWQjutiDaHyDDvFW8KEefuAxHvY1UmXJXJD4J")
+    index = pc.Index(host="aarontest-x2rea8e.svc.aped-4627-b74a.pinecone.io")
+    results = index.search(
+        namespace="example-namespace", 
+        query={
+            "inputs": {"text": item_id[1:len(item_id)-1:1]}, 
+            "top_k": 2
+        },
+        fields=["category", "chunk_text"]
+    )
+    print("AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH")
+    return json.dumps(results)
 
 #fastapi dev testAPI.py

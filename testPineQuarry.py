@@ -13,7 +13,7 @@ index = pc.Index(host="aarontest-x2rea8e.svc.aped-4627-b74a.pinecone.io")
 results = index.search(
     namespace="example-namespace", 
     query={
-        "inputs": {"text": "Disease prevention"}, 
+        "inputs": {"text": "medical protocol"}, 
         "top_k": 2
     },
     fields=["category", "chunk_text"]
