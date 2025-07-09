@@ -40,7 +40,7 @@ def printError(text):
 
 
 
-def extraction(inputFile, outputFile):
+def extraction(fileName):
     inputFile = "Data\\" + fileName + ".pdf"
     doc = pymupdf.open(inputFile)
     docName = doc.metadata["title"]
@@ -57,6 +57,7 @@ def extraction(inputFile, outputFile):
     topDict = curDict
     lastLvl = 1
     if len(toc) != 0:
+        counter = 0
         pgCounter = 0
         secNameList = ["Top"]
         secNumList = ["Top"]
@@ -86,14 +87,9 @@ def extraction(inputFile, outputFile):
                 curName = curTit
             if curHd == "-1":
                 printError("Header Number bypassed Checker")
-            curDict[-1]["Header Number"] = curHd
-            curDict[-1]["Title"] = curName
-            curDict[-1]["File Name"] = inputFile
-            curDict[-1]["Report Name"] = docName
-            curDict[-1]["Parent Name"] = secNameList[-1]
-            curDict[-1]["Parent Num"] = secNumList[-1]
-            lastName = curName
-            lastNum = curHd
+            counter += 1
+            curDict[-1]["_id"] = fileName + "Chunk" + str(counter)
+
             
             nxtPg = -1
             if pgCounter != len(toc) -1:
@@ -149,8 +145,17 @@ def extraction(inputFile, outputFile):
                 curContent = ["".join(splitVile)]
             
             curCont = "".join(curContent)
-
-            curDict[-1]["Content"] = curCont
+            if curCont == "" or curCont == " ":
+                curCont = "blank"
+            curDict[-1]["chunk_text"] = curCont
+            curDict[-1]["Header Number"] = curHd
+            curDict[-1]["Title"] = curName
+            curDict[-1]["File Name"] = inputFile
+            curDict[-1]["Report Name"] = docName
+            curDict[-1]["Parent Name"] = secNameList[-1]
+            curDict[-1]["Parent Num"] = secNumList[-1]
+            lastName = curName
+            lastNum = curHd
 
             lastLvl = curLvl
             pgCounter += 1
@@ -160,16 +165,10 @@ def extraction(inputFile, outputFile):
         topDict = ["Could not find ToC"]
     if verboseMode:
         print(topDict)
-
-
-    if os.path.exists(outputFile):
-        os.remove(outputFile)
-
-    with open(outputFile, "a") as f:
-        f.write(json.dumps(topDict, indent=4))
+    return topDict
 
 #fadsf
-
+"""
 if cycleMode:
     for file in fileNames:
         print("Now running:", file)
@@ -178,3 +177,4 @@ if cycleMode:
         extraction(fileName, outputFile)
 else:
     extraction(fileName, outputFile)
+"""
