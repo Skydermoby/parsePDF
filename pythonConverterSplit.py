@@ -1,7 +1,6 @@
 print("5.0 Introduction " in "elated procedures being performed.5.0 IntroductionThe combination of levodopa/carbidopa")
 
 import pymupdf
-import pymupdf4llm
 import pdfplumber
 import pathlib
 from pypdf import PdfReader
