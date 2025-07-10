@@ -41,7 +41,7 @@ def printError(text):
 
 
 def extraction(fileName):
-    inputFile = "Data\\" + fileName + ".pdf"
+    inputFile = fileName
     doc = pymupdf.open(inputFile)
     docName = doc.metadata["title"]
     toc = doc.get_toc()

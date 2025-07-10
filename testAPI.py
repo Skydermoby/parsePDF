@@ -3,7 +3,7 @@ from converter import extraction
 import os
 from pinecone import Pinecone
 import shutil
-import json
+from testPineconeFunc import upsertReport
 
 #host name: aarontest-x2rea8e.svc.aped-4627-b74a.pinecone.io
 app = FastAPI()
@@ -22,6 +22,8 @@ async def create_upload_file(file: UploadFile | None = None):
             f.write(file.file.read())
         #shutil.copyfileobj(file.file, outputFile)
         return file.filename
+    
+
 
 @app.get("/items/{item_id}")
 async def get_item(item_id: str | None = None):
@@ -37,6 +39,15 @@ async def get_item(item_id: str | None = None):
     
     return item
 
+@app.get("/pineconeUplpoad/{item_id}")
+async def get_item(item_id: str | None = None):
+    filteredName = item_id[1:len(item_id)-1:1]
+    filePath = "Uploaded\\"+filteredName
+    if os.path.exists(filePath):
+        return upsertReport(filePath)
+        return "Item Found!"
+    else: 
+        return "Error: couldn't find file in storage" , filePath
 
 @app.get("/pinecone/{item_id}")
 async def get_item(item_id: str | None = None):
@@ -51,7 +62,8 @@ async def get_item(item_id: str | None = None):
         },
         fields=["category", "chunk_text"]
     )
-    print("AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH")
-    return json.dumps(results)
 
+    return str(results)
+
+#quarry by meta datas, paragraphs, or perhaps even outright file
 #fastapi dev testAPI.py

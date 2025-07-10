@@ -18,5 +18,6 @@ results = index.search(
     },
     fields=["category", "chunk_text"]
 )
-
-print(results)
+#printedResults = str(results).replace('\n', '')
+print([results])
+print(type("help"))
