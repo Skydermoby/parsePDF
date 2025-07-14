@@ -1,0 +1,642 @@
+[
+    {
+        "_id": "Uploaded\\NCT00230607_SAP_001.pdfChunk1",
+        "chunk_text": "blank",
+        "Header Number": "16.1.9",
+        "Title": "Statistical analysis plan",
+        "File Name": "Uploaded\\NCT00230607_SAP_001.pdf",
+        "Report Name": "",
+        "Parent Name": "Top",
+        "Parent Num": "Top"
+    },
+    {
+        "_id": "Uploaded\\NCT00230607_SAP_001.pdfChunk2",
+        "chunk_text": " A Multicenter, Multinational Study of the Effects of Fabrazyme\u00ae (agalsidase beta) Treatment on Lactation and Infants  GZ419828-AGAL02603/MSC12868 STATISTICIAN:  DATE OF ISSUE: 09-Apr-2020 Total number of pages: 25 VV-CLIN-0580758 2.0NCT00230607Statistical Analysis Plan  09-Apr-2020 GZ419828-AGAL02603/MSC12868 - INN Version number: 0.1 Property of the Sanofi Group - strictly confidential Page 2  STATISTICAL ANALYSIS PLAN .................................................................................................................... 1 ",
+        "Header Number": "N/A",
+        "Title": "STATISTICAL ANALYSIS PLAN",
+        "File Name": "Uploaded\\NCT00230607_SAP_001.pdf",
+        "Report Name": "",
+        "Parent Name": "Statistical analysis plan",
+        "Parent Num": "16.1.9"
+    },
+    {
+        "_id": "Uploaded\\NCT00230607_SAP_001.pdfChunk3",
+        "chunk_text": " STATISTICAL ANALYSIS PLAN .................................................................................................................... 1  .................................................................................................................................. 2 LIST OF ABBREVIATIONS AND DEFINITION OF TERMS .......................................................................... 4 1 OVERVIEW AND INVESTIGATIONAL PLAN ................................................................................. 5 1.1 STUDY DESIGN AND RANDOMIZATION ...................................................................................... 5 1.2 OBJECTIVES ................................................................................................................................... 5 1.2.1 Primary objectives ............................................................................................................................ 5 1.2.2 Secondary objectives ....................................................................................................................... 5 1.3 DETERMINATION OF SAMPLE SIZE ............................................................................................. 5 1.4 STUDY PLAN ................................................................................................................................... 6 1.5 MODIFICATIONS TO THE STATISTICAL SECTION OF THE PROTOCOL .................................. 6 1.6 STATISTICAL MODIFICATIONS MADE IN THE STATISTICAL ANALYSIS PLAN........................ 7 2 STATISTICAL AND ANALYTICAL PROCEDURES ....................................................................... 8 2.1 ANALYSIS ENDPOINTS .................................................................................................................. 8 2.1.1 Demographic and baseline characteristics ...................................................................................... 8 2.1.2 Prior or concomitant medications ..................................................................................................... 8 2.1.3 Efficacy endpoints ............................................................................................................................ 9 2.1.3.1 Primary efficacy endpoint(s) ............................................................................................................. 9 2.1.3.2 Secondary efficacy endpoint(s) ........................................................................................................ 9 2.1.4 Safety endpoints ............................................................................................................................... 9 2.1.4.1 Adverse events variables ............................................................................................................... 10 2.1.4.2 Deaths ............................................................................................................................................ 11 2.1.4.3 Laboratory safety variables ............................................................................................................ 11 2.1.4.4 Vital signs variables ........................................................................................................................ 11 2.1.4.5 Electrocardiogram variables ........................................................................................................... 11 2.1.4.6 Other safety endpoints ................................................................................................................... 11 2.1.5 Pharmacokinetic variables ............................................................................................................. 11 2.2 DISPOSITION OF PATIENTS ....................................................................................................... 12 2.2.1 Randomization and drug dispensing irregularities ......................................................................... 12 2.3 ANALYSIS POPULATIONS ........................................................................................................... 12 VV-CLIN-0580758 2.0Statistical Analysis Plan  \n09-Apr-2020 \nGZ419828-AGAL02603/MSC12868 - INN \nVersion number: 0.1 \nProperty of the Sanofi Group - strictly confidential \nPage 3 \n2.3.1 \nEfficacy populations ....................................................................................................................... 13 \n2.3.2 \nSafety population ............................................................................................................................ 13 \n2.4 \nSTATISTICAL METHODS ............................................................................................................. 13 \n2.4.1 \nDemographics and baseline characteristics .................................................................................. 13 \n2.4.2 \nPrior or concomitant medications ................................................................................................... 13 \n2.4.3 \nExtent of investigational medicinal product exposure and compliance .......................................... 14 \n2.4.3.1 \nExtent of investigational medicinal product exposure .................................................................... 14 \n2.4.3.2 \nCompliance .................................................................................................................................... 14 \n2.4.4 \nAnalyses of efficacy endpoints ....................................................................................................... 14 \n2.4.4.1 \nAnalysis of primary efficacy endpoint(s) ......................................................................................... 14 \n2.4.4.2 \nAnalyses of secondary efficacy endpoints ..................................................................................... 14 \n2.4.4.3 \nMultiplicity issues ............................................................................................................................ 14 \n2.4.4.4 \nAdditional efficacy analysis(es) ...................................................................................................... 14 \n2.4.5 \nAnalyses of safety data .................................................................................................................. 14 \n2.4.5.1 \nAnalyses of adverse events ........................................................................................................... 15 \n2.4.5.2 \nDeaths ............................................................................................................................................ 16 \n2.4.5.3 \nAnalyses of laboratory variables .................................................................................................... 16 \n2.4.5.4 \nAnalyses of vital sign variables ...................................................................................................... 16 \n2.4.5.5 \nAnalyses of electrocardiogram variables ....................................................................................... 16 \n2.4.5.6 \nAnalyses of other safety endpoints ................................................................................................ 16 \n2.4.6 \nAnalyses of pharmacokinetic and pharmacodynamic variables .................................................... 16 \n2.5 \nDATA HANDLING CONVENTIONS............................................................................................... 16 \n2.5.1 \nGeneral conventions ...................................................................................................................... 16 \n2.5.2 \nData handling conventions for secondary efficacy variables.......................................................... 16 \n2.5.3 \nMissing data ................................................................................................................................... 16 \n2.5.4 \nWindows for time points ................................................................................................................. 17 \n2.5.5 \nUnscheduled visits ......................................................................................................................... 17 \n2.5.6 \nPooling of centers for statistical analyses ...................................................................................... 17 \n2.5.7 \nStatistical technical issues ............................................................................................................. 18 \n3 \nINTERIM ANALYSIS ..................................................................................................................... 19 \n4 \nDATABASE LOCK ........................................................................................................................ 20 \n5 \nSOFTWARE DOCUMENTATION .................................................................................................. 21 \n6 \nREFERENCES ............................................................................................................................... 22 \n7 \nLIST OF APPENDICES ................................................................................................................. 23 \nVV-CLIN-0580758 2.0\nStatistical Analysis Plan  09-Apr-2020 GZ419828-AGAL02603/MSC12868 - INN Version number: 0.1 Property of the Sanofi Group - strictly confidential Page 4 ",
+        "Header Number": "N/A",
+        "Title": "TABLE OF CONTENTS",
+        "File Name": "Uploaded\\NCT00230607_SAP_001.pdf",
+        "Report Name": "",
+        "Parent Name": "Statistical analysis plan",
+        "Parent Num": "16.1.9"
+    },
+    {
+        "_id": "Uploaded\\NCT00230607_SAP_001.pdfChunk4",
+        "chunk_text": "   AE: Adverse Event MCC: Maternal Cell Contamination NA: Not Applicable PK: Pharmacokinetic   VV-CLIN-0580758 2.0Statistical Analysis Plan  09-Apr-2020 GZ419828-AGAL02603/MSC12868 - INN Version number: 0.1 Property of the Sanofi Group - strictly confidential Page 5 ",
+        "Header Number": "N/A",
+        "Title": "LIST OF ABBREVIATIONS AND DEFINITION OF TERMS",
+        "File Name": "Uploaded\\NCT00230607_SAP_001.pdf",
+        "Report Name": "",
+        "Parent Name": "Statistical analysis plan",
+        "Parent Num": "16.1.9"
+    },
+    {
+        "_id": "Uploaded\\NCT00230607_SAP_001.pdfChunk5",
+        "chunk_text": "blank",
+        "Header Number": "1",
+        "Title": "OVERVIEW AND INVESTIGATIONAL PLAN",
+        "File Name": "Uploaded\\NCT00230607_SAP_001.pdf",
+        "Report Name": "",
+        "Parent Name": "Statistical analysis plan",
+        "Parent Num": "16.1.9"
+    },
+    {
+        "_id": "Uploaded\\NCT00230607_SAP_001.pdfChunk6",
+        "chunk_text": "blank",
+        "Header Number": "1.1",
+        "Title": "STUDY DESIGN AND RANDOMIZATION",
+        "File Name": "Uploaded\\NCT00230607_SAP_001.pdf",
+        "Report Name": "",
+        "Parent Name": "OVERVIEW AND INVESTIGATIONAL PLAN",
+        "Parent Num": "1"
+    },
+    {
+        "_id": "Uploaded\\NCT00230607_SAP_001.pdfChunk7",
+        "chunk_text": "   ",
+        "Header Number": "1.2",
+        "Title": "OBJECTIVES",
+        "File Name": "Uploaded\\NCT00230607_SAP_001.pdf",
+        "Report Name": "",
+        "Parent Name": "OVERVIEW AND INVESTIGATIONAL PLAN",
+        "Parent Num": "1"
+    },
+    {
+        "_id": "Uploaded\\NCT00230607_SAP_001.pdfChunk8",
+        "chunk_text": "   The primary objectives of this study are:  1. To determine whether \u03b1GAL activity is present in the breast milk of mothers with Fabry  disease who are being treated with Fabrazyme during lactation.  2. To measure breast milk production and composition (volume, protein and fat content) in  women with Fabry disease who receive Fabrazyme during lactation.  3. To determine whether Fabrazyme affects the growth, development, and immunologic response  of infants born to mothers with Fabry disease who receive Fabrazyme during lactation.  ",
+        "Header Number": "1.2.1",
+        "Title": "Primary objectives",
+        "File Name": "Uploaded\\NCT00230607_SAP_001.pdf",
+        "Report Name": "",
+        "Parent Name": "OBJECTIVES",
+        "Parent Num": "1.2"
+    },
+    {
+        "_id": "Uploaded\\NCT00230607_SAP_001.pdfChunk9",
+        "chunk_text": "blank",
+        "Header Number": "1.2.2",
+        "Title": "Secondary objectives",
+        "File Name": "Uploaded\\NCT00230607_SAP_001.pdf",
+        "Report Name": "",
+        "Parent Name": "OBJECTIVES",
+        "Parent Num": "1.2"
+    },
+    {
+        "_id": "Uploaded\\NCT00230607_SAP_001.pdfChunk10",
+        "chunk_text": "  No formal statistical sample size calculations were performed for this study. The sample size of approximately 10 mothers and up to 10 infants is based upon 1) the availability of mothers to study lactation in this rare disease and 2) the availability of infants whose parents or legal guardians consent to their participation in this study. VV-CLIN-0580758 2.0Statistical Analysis Plan  09-Apr-2020 GZ419828-AGAL02603/MSC12868 - INN Version number: 0.1 Property of the Sanofi Group - strictly confidential Page 6 ",
+        "Header Number": "1.3",
+        "Title": "DETERMINATION OF SAMPLE SIZE",
+        "File Name": "Uploaded\\NCT00230607_SAP_001.pdf",
+        "Report Name": "",
+        "Parent Name": "OVERVIEW AND INVESTIGATIONAL PLAN",
+        "Parent Num": "1"
+    },
+    {
+        "_id": "Uploaded\\NCT00230607_SAP_001.pdfChunk11",
+        "chunk_text": "blank",
+        "Header Number": "1.4",
+        "Title": "STUDY PLAN",
+        "File Name": "Uploaded\\NCT00230607_SAP_001.pdf",
+        "Report Name": "",
+        "Parent Name": "OVERVIEW AND INVESTIGATIONAL PLAN",
+        "Parent Num": "1"
+    },
+    {
+        "_id": "Uploaded\\NCT00230607_SAP_001.pdfChunk12",
+        "chunk_text": "  The statistical section of the protocol was never changed in an amendment. VV-CLIN-0580758 2.0Statistical Analysis Plan  09-Apr-2020 GZ419828-AGAL02603/MSC12868 - INN Version number: 0.1 Property of the Sanofi Group - strictly confidential Page 7 The first patient was enrolled on August 29, 2006. After 5 mothers have contributed breast milk samples to this study, an interim analysis of \u03b1GAL activity in the breast milk will be performed. In addition, the status of this study will be summarized annually as part of the Fabry Registry Program Annual Report and the Fabrazyme Post-Marketing Commitment Annual Report.. ",
+        "Header Number": "1.5",
+        "Title": "MODIFICATIONS TO THE STATISTICAL SECTION OF THE PROTOCOL",
+        "File Name": "Uploaded\\NCT00230607_SAP_001.pdf",
+        "Report Name": "",
+        "Parent Name": "OVERVIEW AND INVESTIGATIONAL PLAN",
+        "Parent Num": "1"
+    },
+    {
+        "_id": "Uploaded\\NCT00230607_SAP_001.pdfChunk13",
+        "chunk_text": "  NA VV-CLIN-0580758 2.0Statistical Analysis Plan  09-Apr-2020 GZ419828-AGAL02603/MSC12868 - INN Version number: 0.1 Property of the Sanofi Group - strictly confidential Page 8 ",
+        "Header Number": "1.6",
+        "Title": "STATISTICAL MODIFICATIONS MADE IN THE STATISTICAL ANALYSIS PLAN",
+        "File Name": "Uploaded\\NCT00230607_SAP_001.pdf",
+        "Report Name": "",
+        "Parent Name": "OVERVIEW AND INVESTIGATIONAL PLAN",
+        "Parent Num": "1"
+    },
+    {
+        "_id": "Uploaded\\NCT00230607_SAP_001.pdfChunk14",
+        "chunk_text": "blank",
+        "Header Number": "2",
+        "Title": "STATISTICAL AND ANALYTICAL PROCEDURES",
+        "File Name": "Uploaded\\NCT00230607_SAP_001.pdf",
+        "Report Name": "",
+        "Parent Name": "Statistical analysis plan",
+        "Parent Num": "16.1.9"
+    },
+    {
+        "_id": "Uploaded\\NCT00230607_SAP_001.pdfChunk15",
+        "chunk_text": "   ",
+        "Header Number": "2.1",
+        "Title": "ANALYSIS ENDPOINTS",
+        "File Name": "Uploaded\\NCT00230607_SAP_001.pdf",
+        "Report Name": "",
+        "Parent Name": "STATISTICAL AND ANALYTICAL PROCEDURES",
+        "Parent Num": "2"
+    },
+    {
+        "_id": "Uploaded\\NCT00230607_SAP_001.pdfChunk16",
+        "chunk_text": "   The baseline value is defined as within 1 month prior to delivery (mother) and at birth (infant).   All baseline safety parameters are presented along with the on-treatment summary statistics in the  safety sections (Section 2.4.5 and Section 2.4.4).  Demographic characteristics  Demographic variables are gender (Male, Female), race (white, Black, Asian, American Indian or  Alaska Native, Native Hawaiian or other Pacific Island), age in years (quantitative), ethnicity  (Hispanic or Latino, non-Hispanic or Latino).  Lactation Status  The mother\u2019s lactation status will be provided: Is the mother providing milk for the protocol?  (Yes, No); Is the mother planning on breast feeding the infant(s)? (Yes, No).   Maternal cell contamination (MCC) analysis  If umbilical cord blood sample was collected and MCC analysis was performed, the results  (Maternal Cell Contamination detected, No Maternal Cell Contamination detected) will be  collected.  Medical history  Medical history (including Fabrazyme status during pregnancy) will be collected through the  Registry.   This information will be coded using the version of Medical Dictionary for Regulatory Activities  (MedDRA) currently in effect at Sanofi at the time of database lock.  Any technical details related to computation, dates, and imputation for missing dates are described  in Section 2.5.   ",
+        "Header Number": "2.1.1",
+        "Title": "Demographic and baseline characteristics",
+        "File Name": "Uploaded\\NCT00230607_SAP_001.pdf",
+        "Report Name": "",
+        "Parent Name": "ANALYSIS ENDPOINTS",
+        "Parent Num": "2.1"
+    },
+    {
+        "_id": "Uploaded\\NCT00230607_SAP_001.pdfChunk17",
+        "chunk_text": "  All medications taken from the time of signing the informed consent through study completion are to be reported in the case report form pages. VV-CLIN-0580758 2.0Statistical Analysis Plan  09-Apr-2020 GZ419828-AGAL02603/MSC12868 - INN Version number: 0.1 Property of the Sanofi Group - strictly confidential Page 9 All medications will be coded using the World Health Organization-Drug Dictionary (WHO-DD) using the version currently in effect at Sanofi at the time of database lock. Any technical details related to computation, dates, imputation for missing dates are described in Section 2.5. ",
+        "Header Number": "2.1.2",
+        "Title": "Prior or concomitant medications",
+        "File Name": "Uploaded\\NCT00230607_SAP_001.pdf",
+        "Report Name": "",
+        "Parent Name": "ANALYSIS ENDPOINTS",
+        "Parent Num": "2.1"
+    },
+    {
+        "_id": "Uploaded\\NCT00230607_SAP_001.pdfChunk18",
+        "chunk_text": "   NA  ",
+        "Header Number": "2.1.3",
+        "Title": "Efficacy endpoints",
+        "File Name": "Uploaded\\NCT00230607_SAP_001.pdf",
+        "Report Name": "",
+        "Parent Name": "ANALYSIS ENDPOINTS",
+        "Parent Num": "2.1"
+    },
+    {
+        "_id": "Uploaded\\NCT00230607_SAP_001.pdfChunk19",
+        "chunk_text": "   NA  ",
+        "Header Number": "2.1.3.1",
+        "Title": "Primary efficacy endpoint(s)",
+        "File Name": "Uploaded\\NCT00230607_SAP_001.pdf",
+        "Report Name": "",
+        "Parent Name": "Efficacy endpoints",
+        "Parent Num": "2.1.3"
+    },
+    {
+        "_id": "Uploaded\\NCT00230607_SAP_001.pdfChunk20",
+        "chunk_text": "   NA  ",
+        "Header Number": "2.1.3.2",
+        "Title": "Secondary efficacy endpoint(s)",
+        "File Name": "Uploaded\\NCT00230607_SAP_001.pdf",
+        "Report Name": "",
+        "Parent Name": "Efficacy endpoints",
+        "Parent Num": "2.1.3"
+    },
+    {
+        "_id": "Uploaded\\NCT00230607_SAP_001.pdfChunk21",
+        "chunk_text": "  The safety analysis will be based on the reported adverse events (AEs) and other safety information, such as physical examinations, etc.  The following study variables will be summarized as appropriate for the mothers (items marked with * will be collected through the Registry): \uf0b7 Medical history (including Fabrazyme status during pregnancy)* \uf0b7 Genotyping* \uf0b7 Pregnancy outcome* \uf0b7 IgG antibody status* \uf0b7 Lactation status \uf0b7 Plasma and breast milk PK testing \uf0b7 The level of \u03b1GAL, volume, and fat and protein content in breast milk samples \uf0b7 Frequency of AEs \uf0b7 Frequency of concomitant medications  The following study variables will be summarized as appropriate for the infants: \uf0b7 Medical history \uf0b7 Physical examination \uf0b7 Gender VV-CLIN-0580758 2.0Statistical Analysis Plan  09-Apr-2020 GZ419828-AGAL02603/MSC12868 - INN Version number: 0.1 Property of the Sanofi Group - strictly confidential Page 10 \uf0b7 Genotype \uf0b7 Apgar score at 1 minute and 5 minutes after birth \uf0b7 Denver II Developmental Screening Test \uf0b7 IgM antibodies to r-h\u03b1GAL \u2013 presence, time to development, level of titers present \uf0b7 IgG antibodies to r-h\u03b1GAL \u2013 presence, time to development, level of titers present \uf0b7 Frequency of AEs \uf0b7 Frequency of concomitant medications Observation period  The on-study observation period is defined as the time from the signing of the informed consent until the end of the study (defined as last protocol planned patient contact by telephone approximately 28 days after the final study procedures are completed).  ",
+        "Header Number": "2.1.4",
+        "Title": "Safety endpoints",
+        "File Name": "Uploaded\\NCT00230607_SAP_001.pdf",
+        "Report Name": "",
+        "Parent Name": "ANALYSIS ENDPOINTS",
+        "Parent Num": "2.1"
+    },
+    {
+        "_id": "Uploaded\\NCT00230607_SAP_001.pdfChunk22",
+        "chunk_text": "  All AEs ongoing at the time of withdrawal, study termination, or study completion require a follow up at approximately 28 days after discontinuation of study participation. The Investigator will be asked to follow-up on all SAEs that were ongoing at the time of withdrawal, termination or completion until resolution, until both the sponsor and investigator agree follow-up is deemed no longer medically necessary or until the patient is lost to follow-up. If any new SAEs are identified during the course of this follow-up of ongoing SAEs, additional follow-up of these new SAEs may be performed. The Investigator and sponsor will determine if the follow-up is clinically warranted and relevant to the evaluation of the safety of the trial treatment or until patient is lost to follow up. The investigator must follow patients with AEs until their condition resolves or stabilizes. Certain conditions that are not expected to resolve, such as metastatic cancer, need not be followed indefinitely by the investigator. All adverse events (including serious adverse events) will be coded to a lower-level term (LLT), preferred term (PT), high-level term (HLT), high-level group term (HLGT), and associated primary system organ class (SOC) using the version of Medical Dictionary for Regulatory Activities (MedDRA) currently in effect at Sanofi at the time of database lock. All occurrences of adverse events (including serious adverse) from the time of signed informed consent until the end of the study will be recorded. VV-CLIN-0580758 2.0Statistical Analysis Plan  09-Apr-2020 GZ419828-AGAL02603/MSC12868 - INN Version number: 0.1 Property of the Sanofi Group - strictly confidential Page 11 ",
+        "Header Number": "2.1.4.1",
+        "Title": "Adverse events variables",
+        "File Name": "Uploaded\\NCT00230607_SAP_001.pdf",
+        "Report Name": "",
+        "Parent Name": "Safety endpoints",
+        "Parent Num": "2.1.4"
+    },
+    {
+        "_id": "Uploaded\\NCT00230607_SAP_001.pdfChunk23",
+        "chunk_text": "   The deaths from the signing of the informed consent through the completion of the study will be  recorded.   ",
+        "Header Number": "2.1.4.2",
+        "Title": "Deaths",
+        "File Name": "Uploaded\\NCT00230607_SAP_001.pdf",
+        "Report Name": "",
+        "Parent Name": "Safety endpoints",
+        "Parent Num": "2.1.4"
+    },
+    {
+        "_id": "Uploaded\\NCT00230607_SAP_001.pdfChunk24",
+        "chunk_text": "   NA  ",
+        "Header Number": "2.1.4.3",
+        "Title": "Laboratory safety variables",
+        "File Name": "Uploaded\\NCT00230607_SAP_001.pdf",
+        "Report Name": "",
+        "Parent Name": "Safety endpoints",
+        "Parent Num": "2.1.4"
+    },
+    {
+        "_id": "Uploaded\\NCT00230607_SAP_001.pdfChunk25",
+        "chunk_text": "   NA  ",
+        "Header Number": "2.1.4.4",
+        "Title": "Vital signs variables",
+        "File Name": "Uploaded\\NCT00230607_SAP_001.pdf",
+        "Report Name": "",
+        "Parent Name": "Safety endpoints",
+        "Parent Num": "2.1.4"
+    },
+    {
+        "_id": "Uploaded\\NCT00230607_SAP_001.pdfChunk26",
+        "chunk_text": "   NA  ",
+        "Header Number": "2.1.4.5",
+        "Title": "Electrocardiogram variables",
+        "File Name": "Uploaded\\NCT00230607_SAP_001.pdf",
+        "Report Name": "",
+        "Parent Name": "Safety endpoints",
+        "Parent Num": "2.1.4"
+    },
+    {
+        "_id": "Uploaded\\NCT00230607_SAP_001.pdfChunk27",
+        "chunk_text": "  Pharmacokinetic Sampling \u03b1GAL concentrations will be measured form Blood and breast milk samples taken from the mothers. Blood samples will be taken from the mother at Months 1, 3, and 6 for PK testing (if mother is lactating at the time of the evaluation and is receiving Fabrazyme therapy).  Bioanalytical Method Plasma and milk \u03b1GAL concentrations will be quantified by measuring enzyme activity using a fluorometric assay with a lower limit of quantification of 1.38 ng/mL. The assay does not differentiate between endogenous \u03b1GAL and Fabrazyme. Pharmacokinetic parameters The following pharmacokinetic parameters will be calculated, using noncompartmental methods from plasma \u03b1GAL concentrations and milk \u03b1GAL concentrations \uf0b7 maximum plasma concentration observed (Cmax) in plasma and milk \uf0b7 area under the plasma \u03b1GAL concentration versus time curve calculated using the trapezoidal method from 0 to 2 hours post end of infusion (AUC0-2 plasma). \uf0b7 the amount of \u03b1GAL in milk calculated as the product of \u03b1GAL activity times the milk volume \uf0b7 area under the milk \u03b1GAL concentration versus time curve calculated using the trapezoidal method from 0 to 2 hours post end of infusion (AUC0-2 milk). VV-CLIN-0580758 2.0Statistical Analysis Plan  09-Apr-2020 GZ419828-AGAL02603/MSC12868 - INN Version number: 0.1 Property of the Sanofi Group - strictly confidential Page 12 \uf0b7 lactation clearance determined in the 0-2 hours interval, according to the following equation: amount of \u03b1GAL excreted over the sampling period divided by the AUC during the sampling period The milk to plasma ratio for AUC0-2 will also be computed. ",
+        "Header Number": "2.1.5",
+        "Title": "Pharmacokinetic variables",
+        "File Name": "Uploaded\\NCT00230607_SAP_001.pdf",
+        "Report Name": "",
+        "Parent Name": "ANALYSIS ENDPOINTS",
+        "Parent Num": "2.1"
+    },
+    {
+        "_id": "Uploaded\\NCT00230607_SAP_001.pdfChunk28",
+        "chunk_text": "   This section describes patient disposition for both patient study status and the patient analysis  populations.  Screened patients are defined as any patient who met the inclusion criteria and signed the  informed consent. Enrolled patients are defined as any patient who signed the informed consent  and participated in at least one study visit.  For patient study status, the total number of patients in each of the following categories will be  presented in the clinical study report using a flowchart diagram or summary table:  \uf0b7  Screened patients  \uf0b7  Screen failure patients and reasons for screen failure  \uf0b7  Patients who did not complete the study treatment period as per protocol  \uf0b7  Patients who discontinued study treatment by main reason for permanent treatment  discontinuation  \uf0b7  Status at last study contact   For all categories of patients (except for the screened and nonrandomized categories) percentages  will be calculated using the number of enrolled patients as the denominator.  Reasons for  treatment discontinuation will be supplied in tables giving numbers and percentages by treatment  group.    A patient is considered lost to follow-up at the end of the study if he/she is not assessed at the last  protocol planned visit.   ",
+        "Header Number": "2.2",
+        "Title": "DISPOSITION OF PATIENTS",
+        "File Name": "Uploaded\\NCT00230607_SAP_001.pdf",
+        "Report Name": "",
+        "Parent Name": "STATISTICAL AND ANALYTICAL PROCEDURES",
+        "Parent Num": "2"
+    },
+    {
+        "_id": "Uploaded\\NCT00230607_SAP_001.pdfChunk29",
+        "chunk_text": "blank",
+        "Header Number": "2.2.1",
+        "Title": "Randomization and drug dispensing irregularities",
+        "File Name": "Uploaded\\NCT00230607_SAP_001.pdf",
+        "Report Name": "",
+        "Parent Name": "DISPOSITION OF PATIENTS",
+        "Parent Num": "2.2"
+    },
+    {
+        "_id": "Uploaded\\NCT00230607_SAP_001.pdfChunk30",
+        "chunk_text": "  All patients enrolled will be included in the safety population. Patients who signed the informed consent but did not participate in any study visit are not considered enrolled in the study.   VV-CLIN-0580758 2.0Statistical Analysis Plan  09-Apr-2020 GZ419828-AGAL02603/MSC12868 - INN Version number: 0.1 Property of the Sanofi Group - strictly confidential Page 13 ",
+        "Header Number": "2.3",
+        "Title": "ANALYSIS POPULATIONS",
+        "File Name": "Uploaded\\NCT00230607_SAP_001.pdf",
+        "Report Name": "",
+        "Parent Name": "STATISTICAL AND ANALYTICAL PROCEDURES",
+        "Parent Num": "2"
+    },
+    {
+        "_id": "Uploaded\\NCT00230607_SAP_001.pdfChunk31",
+        "chunk_text": "   NA  ",
+        "Header Number": "2.3.1",
+        "Title": "Efficacy populations",
+        "File Name": "Uploaded\\NCT00230607_SAP_001.pdf",
+        "Report Name": "",
+        "Parent Name": "ANALYSIS POPULATIONS",
+        "Parent Num": "2.3"
+    },
+    {
+        "_id": "Uploaded\\NCT00230607_SAP_001.pdfChunk32",
+        "chunk_text": "blank",
+        "Header Number": "2.3.2",
+        "Title": "Safety population",
+        "File Name": "Uploaded\\NCT00230607_SAP_001.pdf",
+        "Report Name": "",
+        "Parent Name": "ANALYSIS POPULATIONS",
+        "Parent Num": "2.3"
+    },
+    {
+        "_id": "Uploaded\\NCT00230607_SAP_001.pdfChunk33",
+        "chunk_text": "   The descriptions of analysis below assume that a sufficient number of patients will be enrolled in  the study such that summary statistics of the data will be meaningful to the reviewers. In case of  sparse data (less than 5 mothers and/or 5 infants enrolled), the collected data will be presented in  patient listings.  ",
+        "Header Number": "2.4",
+        "Title": "STATISTICAL METHODS",
+        "File Name": "Uploaded\\NCT00230607_SAP_001.pdf",
+        "Report Name": "",
+        "Parent Name": "STATISTICAL AND ANALYTICAL PROCEDURES",
+        "Parent Num": "2"
+    },
+    {
+        "_id": "Uploaded\\NCT00230607_SAP_001.pdfChunk34",
+        "chunk_text": "   Continuous data will be summarized using the number of available data, mean, standard  deviation (SD), median, minimum, and maximum for each treatment group.  Categorical and  ordinal data will be summarized using the number and percentage of patients in each treatment  group.   Parameters described in Section 2.1.1 will be summarized by mother and infant groups using  descriptive statistics.   Medical history as collected in the Registry will be presented according to the preprinted case  report form history responses.  ",
+        "Header Number": "2.4.1",
+        "Title": "Demographics and baseline characteristics",
+        "File Name": "Uploaded\\NCT00230607_SAP_001.pdf",
+        "Report Name": "",
+        "Parent Name": "STATISTICAL METHODS",
+        "Parent Num": "2.4"
+    },
+    {
+        "_id": "Uploaded\\NCT00230607_SAP_001.pdfChunk35",
+        "chunk_text": "  The concomitant medications will be presented for the enrolled population.  Medications will be summarized by treatment group according to the WHO-DD dictionary, considering the first digit of the anatomic category (ATC) class (anatomic category) and the first 3 digits of the ATC class (therapeutic category).  All ATC codes corresponding to a medication will be summarized, and patients will be counted once in each ATC category (anatomic or therapeutic) linked to the medication. Consequently, patients may be counted several time for the same medication.  The table for prior medications will be sorted by decreasing frequency of ATC followed by all other therapeutic classes based on the overall incidence across treatment groups.  In case of equal frequency regarding ATCs, alphabetical order will be used. VV-CLIN-0580758 2.0Statistical Analysis Plan  09-Apr-2020 GZ419828-AGAL02603/MSC12868 - INN Version number: 0.1 Property of the Sanofi Group - strictly confidential Page 14 The tables for concomitant medications will be sorted by decreasing frequency of ATC followed by all other therapeutic classes based on the incidence. In case of equal frequency regarding ATCs, alphabetical order will be used.  ",
+        "Header Number": "2.4.2",
+        "Title": "Prior or concomitant medications",
+        "File Name": "Uploaded\\NCT00230607_SAP_001.pdf",
+        "Report Name": "",
+        "Parent Name": "STATISTICAL METHODS",
+        "Parent Num": "2.4"
+    },
+    {
+        "_id": "Uploaded\\NCT00230607_SAP_001.pdfChunk36",
+        "chunk_text": "   The enrolled mothers will receive Fabrazyme treatment (commercially available) at their currently  prescribed dosage regimen as determined by their treating physician. Therefore, the extent of IMP  exposure and compliance will not be assessed nor summarized.  ",
+        "Header Number": "2.4.3",
+        "Title": "Extent of investigational medicinal product exposure and compliance",
+        "File Name": "Uploaded\\NCT00230607_SAP_001.pdf",
+        "Report Name": "",
+        "Parent Name": "STATISTICAL METHODS",
+        "Parent Num": "2.4"
+    },
+    {
+        "_id": "Uploaded\\NCT00230607_SAP_001.pdfChunk37",
+        "chunk_text": "     The data collected for Fabrazyme infusions received by the mother will be presented in a listing.  ",
+        "Header Number": "2.4.3.1",
+        "Title": "Extent of investigational medicinal product exposure",
+        "File Name": "Uploaded\\NCT00230607_SAP_001.pdf",
+        "Report Name": "",
+        "Parent Name": "Extent of investigational medicinal product exposure and compliance",
+        "Parent Num": "2.4.3"
+    },
+    {
+        "_id": "Uploaded\\NCT00230607_SAP_001.pdfChunk38",
+        "chunk_text": "   NA  ",
+        "Header Number": "2.4.3.2",
+        "Title": "Compliance",
+        "File Name": "Uploaded\\NCT00230607_SAP_001.pdf",
+        "Report Name": "",
+        "Parent Name": "Extent of investigational medicinal product exposure and compliance",
+        "Parent Num": "2.4.3"
+    },
+    {
+        "_id": "Uploaded\\NCT00230607_SAP_001.pdfChunk39",
+        "chunk_text": "   ",
+        "Header Number": "2.4.4",
+        "Title": "Analyses of efficacy endpoints",
+        "File Name": "Uploaded\\NCT00230607_SAP_001.pdf",
+        "Report Name": "",
+        "Parent Name": "STATISTICAL METHODS",
+        "Parent Num": "2.4"
+    },
+    {
+        "_id": "Uploaded\\NCT00230607_SAP_001.pdfChunk40",
+        "chunk_text": "   NA  ",
+        "Header Number": "2.4.4.1",
+        "Title": "Analysis of primary efficacy endpoint(s)",
+        "File Name": "Uploaded\\NCT00230607_SAP_001.pdf",
+        "Report Name": "",
+        "Parent Name": "Analyses of efficacy endpoints",
+        "Parent Num": "2.4.4"
+    },
+    {
+        "_id": "Uploaded\\NCT00230607_SAP_001.pdfChunk41",
+        "chunk_text": "   NA  ",
+        "Header Number": "2.4.4.2",
+        "Title": "Analyses of secondary efficacy endpoints",
+        "File Name": "Uploaded\\NCT00230607_SAP_001.pdf",
+        "Report Name": "",
+        "Parent Name": "Analyses of efficacy endpoints",
+        "Parent Num": "2.4.4"
+    },
+    {
+        "_id": "Uploaded\\NCT00230607_SAP_001.pdfChunk42",
+        "chunk_text": "   NA  ",
+        "Header Number": "2.4.4.3",
+        "Title": "Multiplicity issues",
+        "File Name": "Uploaded\\NCT00230607_SAP_001.pdf",
+        "Report Name": "",
+        "Parent Name": "Analyses of efficacy endpoints",
+        "Parent Num": "2.4.4"
+    },
+    {
+        "_id": "Uploaded\\NCT00230607_SAP_001.pdfChunk43",
+        "chunk_text": "   NA  ",
+        "Header Number": "2.4.4.4",
+        "Title": "Additional efficacy analysis(es)",
+        "File Name": "Uploaded\\NCT00230607_SAP_001.pdf",
+        "Report Name": "",
+        "Parent Name": "Analyses of efficacy endpoints",
+        "Parent Num": "2.4.4"
+    },
+    {
+        "_id": "Uploaded\\NCT00230607_SAP_001.pdfChunk44",
+        "chunk_text": "  The summary of safety results will be presented by mother and infant groups.  General common rules All safety analyses will be performed on the safety population as defined in Section 2.3.2. In case of sparse data, the results will be presented in patient listings. VV-CLIN-0580758 2.0Statistical Analysis Plan  09-Apr-2020 GZ419828-AGAL02603/MSC12868 - INN Version number: 0.1 Property of the Sanofi Group - strictly confidential Page 15 ",
+        "Header Number": "2.4.5",
+        "Title": "Analyses of safety data",
+        "File Name": "Uploaded\\NCT00230607_SAP_001.pdf",
+        "Report Name": "",
+        "Parent Name": "STATISTICAL METHODS",
+        "Parent Num": "2.4"
+    },
+    {
+        "_id": "Uploaded\\NCT00230607_SAP_001.pdfChunk45",
+        "chunk_text": "  Generalities All adverse events (AEs) reported from signing of informed consent through completion of the study will be presented. Adverse event incidence tables will present by SOC and PT, sorted in alphabetical order for each group (mother, infant), the number (n) and percentage (%) of patients experiencing an adverse event.  Multiple occurrences of the same event in the same patient will be counted only once in the tables within the study period.  The denominator for computation of percentages is the safety population within each group (mother, infant). Sorting within tables ensures the same presentation for the set of all adverse events within the observation period.  For that purpose, the table of all adverse events presented by SOC and PT sorted by the internationally agreed SOC order and decreasing frequency of PTs within SOCs will define the presentation order for all other tables unless otherwise specified.  Analysis of all adverse events The following adverse event summaries will be generated for the safety population. \uf0b7 Overview of adverse events, summarizing number (%) of patients with any - adverse event - serious adverse event - adverse event leading to death - adverse event leading to permanent treatment discontinuation \uf0b7 All adverse events by primary SOC and PT, showing the number (%) of patients with at least 1 adverse event, sorted by the internationally agreed SOC order and by decreasing incidence of PTs within each SOC.  This sorting order will be applied to all other tables, unless otherwise specified \uf0b7 All adverse events regardless of relationship and related to IMP, by primary SOC and PT, showing the number (%) of patients with at least 1 adverse event \uf0b7 All adverse events by maximal severity, presented by primary SOC and PT, showing the number (%) of patients with at least 1 adverse event by severity (ie, mild, moderate, or severe) Analysis of all treatment emergent serious adverse event(s) \uf0b7 All serious adverse events by primary SOC and PT, showing the number (%) of patients with at least 1 serious adverse event \uf0b7 All serious adverse events regardless of relationship and related to IMP, by primary SOC and PT, showing the number (%) of patients with at least 1 serious adverse event VV-CLIN-0580758 2.0Statistical Analysis Plan  09-Apr-2020 GZ419828-AGAL02603/MSC12868 - INN Version number: 0.1 Property of the Sanofi Group - strictly confidential Page 16 \uf0b7 All serious adverse events by maximal severity, presented by primary SOC and PT, showing the number (%) of patients with at least 1 serious adverse event by severity (ie, mild, moderate, or severe) Analysis of all adverse event(s) leading to treatment discontinuation \uf0b7 A listing of all adverse events leading to treatment discontinuation will be presented ",
+        "Header Number": "2.4.5.1",
+        "Title": "Analyses of adverse events",
+        "File Name": "Uploaded\\NCT00230607_SAP_001.pdf",
+        "Report Name": "",
+        "Parent Name": "Analyses of safety data",
+        "Parent Num": "2.4.5"
+    },
+    {
+        "_id": "Uploaded\\NCT00230607_SAP_001.pdfChunk46",
+        "chunk_text": "   A listing of adverse events leading to death (death as an outcome on the adverse event case report  form page as reported by the Investigator) will be presented.   ",
+        "Header Number": "2.4.5.2",
+        "Title": "Deaths",
+        "File Name": "Uploaded\\NCT00230607_SAP_001.pdf",
+        "Report Name": "",
+        "Parent Name": "Analyses of safety data",
+        "Parent Num": "2.4.5"
+    },
+    {
+        "_id": "Uploaded\\NCT00230607_SAP_001.pdfChunk47",
+        "chunk_text": "   NA   ",
+        "Header Number": "2.4.5.3",
+        "Title": "Analyses of laboratory variables",
+        "File Name": "Uploaded\\NCT00230607_SAP_001.pdf",
+        "Report Name": "",
+        "Parent Name": "Analyses of safety data",
+        "Parent Num": "2.4.5"
+    },
+    {
+        "_id": "Uploaded\\NCT00230607_SAP_001.pdfChunk48",
+        "chunk_text": "   NA   ",
+        "Header Number": "2.4.5.4",
+        "Title": "Analyses of vital sign variables",
+        "File Name": "Uploaded\\NCT00230607_SAP_001.pdf",
+        "Report Name": "",
+        "Parent Name": "Analyses of safety data",
+        "Parent Num": "2.4.5"
+    },
+    {
+        "_id": "Uploaded\\NCT00230607_SAP_001.pdfChunk49",
+        "chunk_text": "   NA   ",
+        "Header Number": "2.4.5.5",
+        "Title": "Analyses of electrocardiogram variables",
+        "File Name": "Uploaded\\NCT00230607_SAP_001.pdf",
+        "Report Name": "",
+        "Parent Name": "Analyses of safety data",
+        "Parent Num": "2.4.5"
+    },
+    {
+        "_id": "Uploaded\\NCT00230607_SAP_001.pdfChunk50",
+        "chunk_text": "   ",
+        "Header Number": "2.4.5.6",
+        "Title": "Analyses of other safety endpoints",
+        "File Name": "Uploaded\\NCT00230607_SAP_001.pdf",
+        "Report Name": "",
+        "Parent Name": "Analyses of safety data",
+        "Parent Num": "2.4.5"
+    },
+    {
+        "_id": "Uploaded\\NCT00230607_SAP_001.pdfChunk51",
+        "chunk_text": "blank",
+        "Header Number": "2.4.6",
+        "Title": "Analyses of pharmacokinetic and pharmacodynamic variables",
+        "File Name": "Uploaded\\NCT00230607_SAP_001.pdf",
+        "Report Name": "",
+        "Parent Name": "STATISTICAL METHODS",
+        "Parent Num": "2.4"
+    },
+    {
+        "_id": "Uploaded\\NCT00230607_SAP_001.pdfChunk52",
+        "chunk_text": "   ",
+        "Header Number": "2.5",
+        "Title": "DATA HANDLING CONVENTIONS",
+        "File Name": "Uploaded\\NCT00230607_SAP_001.pdf",
+        "Report Name": "",
+        "Parent Name": "STATISTICAL AND ANALYTICAL PROCEDURES",
+        "Parent Num": "2"
+    },
+    {
+        "_id": "Uploaded\\NCT00230607_SAP_001.pdfChunk53",
+        "chunk_text": "   None.  ",
+        "Header Number": "2.5.1",
+        "Title": "General conventions",
+        "File Name": "Uploaded\\NCT00230607_SAP_001.pdf",
+        "Report Name": "",
+        "Parent Name": "DATA HANDLING CONVENTIONS",
+        "Parent Num": "2.5"
+    },
+    {
+        "_id": "Uploaded\\NCT00230607_SAP_001.pdfChunk54",
+        "chunk_text": "   NA  ",
+        "Header Number": "2.5.2",
+        "Title": "Data handling conventions for secondary efficacy variables",
+        "File Name": "Uploaded\\NCT00230607_SAP_001.pdf",
+        "Report Name": "",
+        "Parent Name": "DATA HANDLING CONVENTIONS",
+        "Parent Num": "2.5"
+    },
+    {
+        "_id": "Uploaded\\NCT00230607_SAP_001.pdfChunk55",
+        "chunk_text": "  For categorical variables, patients with missing data are not included in calculations of VV-CLIN-0580758 2.0Statistical Analysis Plan  09-Apr-2020 GZ419828-AGAL02603/MSC12868 - INN Version number: 0.1 Property of the Sanofi Group - strictly confidential Page 17 percentages unless otherwise specified.  When relevant, the number of patients with missing data is presented.  Handling of medication missing/partial dates No imputation of medication start/end dates or times will be performed.  If a medication date or time is missing or partially missing and it cannot be determined whether it was taken prior or concomitantly, it will be considered a concomitant medication. Handling of adverse events with missing or partial date/time of onset Missing or partial adverse event onset dates and times will not be imputed.  No imputation of adverse event end dates/times will be performed.  No imputation is planned for date/time of adverse event resolution. Handling of missing assessment of relationship of adverse events to investigational medicinal product  If the assessment of the relationship to IMP is missing, then the relationship to IMP has to be assumed and the adverse event considered as such in the frequency tables of possibly related adverse events, but no imputation should be done at the data level. No imputation of relationship will be presented in the listings. Handling of missing severity of adverse events If the severity is missing for 1 of the occurrences of an adverse event, the maximal severity on the remaining occurrences will be considered.  If the severity is missing for all the occurrences, a \u201cmissing\u201d category will be added in the summary table. ",
+        "Header Number": "2.5.3",
+        "Title": "Missing data",
+        "File Name": "Uploaded\\NCT00230607_SAP_001.pdf",
+        "Report Name": "",
+        "Parent Name": "DATA HANDLING CONVENTIONS",
+        "Parent Num": "2.5"
+    },
+    {
+        "_id": "Uploaded\\NCT00230607_SAP_001.pdfChunk56",
+        "chunk_text": "   None  ",
+        "Header Number": "2.5.4",
+        "Title": "Windows for time points",
+        "File Name": "Uploaded\\NCT00230607_SAP_001.pdf",
+        "Report Name": "",
+        "Parent Name": "DATA HANDLING CONVENTIONS",
+        "Parent Num": "2.5"
+    },
+    {
+        "_id": "Uploaded\\NCT00230607_SAP_001.pdfChunk57",
+        "chunk_text": "   Unscheduled visit measurements will not be presented in by-visit summaries but will be presented  in listings.  ",
+        "Header Number": "2.5.5",
+        "Title": "Unscheduled visits",
+        "File Name": "Uploaded\\NCT00230607_SAP_001.pdf",
+        "Report Name": "",
+        "Parent Name": "DATA HANDLING CONVENTIONS",
+        "Parent Num": "2.5"
+    },
+    {
+        "_id": "Uploaded\\NCT00230607_SAP_001.pdfChunk58",
+        "chunk_text": "  All analyses will be performed on the safety population. VV-CLIN-0580758 2.0Statistical Analysis Plan  09-Apr-2020 GZ419828-AGAL02603/MSC12868 - INN Version number: 0.1 Property of the Sanofi Group - strictly confidential Page 18 ",
+        "Header Number": "2.5.6",
+        "Title": "Pooling of centers for statistical analyses",
+        "File Name": "Uploaded\\NCT00230607_SAP_001.pdf",
+        "Report Name": "",
+        "Parent Name": "DATA HANDLING CONVENTIONS",
+        "Parent Num": "2.5"
+    },
+    {
+        "_id": "Uploaded\\NCT00230607_SAP_001.pdfChunk59",
+        "chunk_text": "  None VV-CLIN-0580758 2.0Statistical Analysis Plan  09-Apr-2020 GZ419828-AGAL02603/MSC12868 - INN Version number: 0.1 Property of the Sanofi Group - strictly confidential Page 19 ",
+        "Header Number": "2.5.7",
+        "Title": "Statistical technical issues",
+        "File Name": "Uploaded\\NCT00230607_SAP_001.pdf",
+        "Report Name": "",
+        "Parent Name": "DATA HANDLING CONVENTIONS",
+        "Parent Num": "2.5"
+    },
+    {
+        "_id": "Uploaded\\NCT00230607_SAP_001.pdfChunk60",
+        "chunk_text": "  After 5 mothers have contributed breast milk samples to this study, an interim analysis of \u03b1GAL activity in the breast milk will be performed.  In addition, the status of this study will be summarized annually as part of the Fabry Registry Program Annual Report and the Fabrazyme Post-Marketing Commitment Annual Report. VV-CLIN-0580758 2.0Statistical Analysis Plan  09-Apr-2020 GZ419828-AGAL02603/MSC12868 - INN Version number: 0.1 Property of the Sanofi Group - strictly confidential Page 20 ",
+        "Header Number": "3",
+        "Title": "INTERIM ANALYSIS",
+        "File Name": "Uploaded\\NCT00230607_SAP_001.pdf",
+        "Report Name": "",
+        "Parent Name": "STATISTICAL AND ANALYTICAL PROCEDURES",
+        "Parent Num": "2"
+    },
+    {
+        "_id": "Uploaded\\NCT00230607_SAP_001.pdfChunk61",
+        "chunk_text": "  The database is planned to be locked at 60 days after last patient last visit. VV-CLIN-0580758 2.0Statistical Analysis Plan  09-Apr-2020 GZ419828-AGAL02603/MSC12868 - INN Version number: 0.1 Property of the Sanofi Group - strictly confidential Page 21 ",
+        "Header Number": "4",
+        "Title": "DATABASE LOCK",
+        "File Name": "Uploaded\\NCT00230607_SAP_001.pdf",
+        "Report Name": "",
+        "Parent Name": "STATISTICAL AND ANALYTICAL PROCEDURES",
+        "Parent Num": "2"
+    },
+    {
+        "_id": "Uploaded\\NCT00230607_SAP_001.pdfChunk62",
+        "chunk_text": "  All summaries and statistical analyses will be generated using SAS version 9.4 or higher. VV-CLIN-0580758 2.0Statistical Analysis Plan  09-Apr-2020 GZ419828-AGAL02603/MSC12868 - INN Version number: 0.1 Property of the Sanofi Group - strictly confidential Page 22 ",
+        "Header Number": "5",
+        "Title": "SOFTWARE DOCUMENTATION",
+        "File Name": "Uploaded\\NCT00230607_SAP_001.pdf",
+        "Report Name": "",
+        "Parent Name": "STATISTICAL AND ANALYTICAL PROCEDURES",
+        "Parent Num": "2"
+    },
+    {
+        "_id": "Uploaded\\NCT00230607_SAP_001.pdfChunk63",
+        "chunk_text": "  None VV-CLIN-0580758 2.0Statistical Analysis Plan  09-Apr-2020 GZ419828-AGAL02603/MSC12868 - INN Version number: 0.1 Property of the Sanofi Group - strictly confidential Page 23 ",
+        "Header Number": "6",
+        "Title": "REFERENCES",
+        "File Name": "Uploaded\\NCT00230607_SAP_001.pdf",
+        "Report Name": "",
+        "Parent Name": "STATISTICAL AND ANALYTICAL PROCEDURES",
+        "Parent Num": "2"
+    },
+    {
+        "_id": "Uploaded\\NCT00230607_SAP_001.pdfChunk64",
+        "chunk_text": "  None    VV-CLIN-0580758 2.0Statistical Analysis Plan  \n09-Apr-2020 \nGZ419828-AGAL02603/MSC12868 - INN \nVersion number: 0.1 \nProperty of the Sanofi Group - strictly confidential \nPage 24 \nVV-CLIN-0580758 2.0\nThis page was left intentionally blank\n",
+        "Header Number": "7",
+        "Title": "LIST OF APPENDICES",
+        "File Name": "Uploaded\\NCT00230607_SAP_001.pdf",
+        "Report Name": "",
+        "Parent Name": "STATISTICAL AND ANALYTICAL PROCEDURES",
+        "Parent Num": "2"
+    }
+]

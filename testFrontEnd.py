@@ -23,7 +23,7 @@ st.title("Pinecone storage and quarry")
 
 splitFile = st.file_uploader("Upload the file you want to upsert into the Pinecone" , type=("pdf"))
 if st.button('Upsert'):
-    files = {'file': uploadFile}
+    files = {'file': splitFile}
     res = requests.post(url= "http://127.0.0.1:8000/uploadfile/", files=files)
     st.subheader(f"File recieved, it's being processed! {res.text}")
     fileName = res.text
@@ -37,7 +37,14 @@ if semantic:
     newURL = "http://127.0.0.1:8000/pinecone/" + semantic
     res = requests.get(url=newURL)
     if res:
-        st.subheader(f"Top 2 semantic searches {res.text}")
+        st.subheader(f"Top 5 semantic searches {res.text}")
+
+semantic = st.text_input("Enter text to do id search")
+if semantic:
+    newURL = "http://127.0.0.1:8000/idsearch/" + semantic
+    res = requests.get(url=newURL)
+    if res:
+        st.subheader(f"Top 10 id searches {res.text}")
 
 # C:\Users\ling1\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\Scripts
-# steamlit run testFrontEnd.py
+# streamlit run testFrontEnd.py

@@ -4,10 +4,18 @@ import os
 from pinecone import Pinecone
 import shutil
 from testPineconeFunc import upsertReport
+from fastapi.middleware.cors import CORSMiddleware
 
 #host name: aarontest-x2rea8e.svc.aped-4627-b74a.pinecone.io
 app = FastAPI()
 
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # or specify frontend URL for production
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 @app.post("/uploadfile/")
 async def create_upload_file(file: UploadFile | None = None):
@@ -58,6 +66,23 @@ async def get_item(item_id: str | None = None):
         namespace="example-namespace", 
         query={
             "inputs": {"text": item_id[1:len(item_id)-1:1]}, 
+            "top_k": 5
+        },
+        fields=["category", "chunk_text"]
+    )
+
+    return str(results)
+
+
+@app.get("/idsearch/{item_id}")
+async def get_item(item_id: str | None = None):
+    print(item_id)
+    pc = Pinecone(api_key="pcsk_6qzJGA_5xUfNgGmkyDar5tSg2gANqTCzPVWQjutiDaHyDDvFW8KEefuAxHvY1UmXJXJD4J")
+    index = pc.Index(host="aarontest-x2rea8e.svc.aped-4627-b74a.pinecone.io")
+    results = index.search(
+        namespace="example-namespace", 
+        query={
+            "id": item_id, 
             "top_k": 2
         },
         fields=["category", "chunk_text"]

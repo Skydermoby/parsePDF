@@ -41,9 +41,12 @@ def printError(text):
 
 
 def extraction(fileName):
+    
     inputFile = fileName
     doc = pymupdf.open(inputFile)
     docName = doc.metadata["title"]
+    if docName == "":
+        docName = "Blank"
     toc = doc.get_toc()
 
     if debugMode:
@@ -145,7 +148,7 @@ def extraction(fileName):
                 curContent = ["".join(splitVile)]
             
             curCont = "".join(curContent)
-            if curCont == "" or curCont == " ":
+            if curCont.isspace() or curCont == "":
                 curCont = "blank"
             curDict[-1]["chunk_text"] = curCont
             curDict[-1]["Header Number"] = curHd
@@ -165,6 +168,14 @@ def extraction(fileName):
         topDict = ["Could not find ToC"]
     if verboseMode:
         print(topDict)
+
+    outputFile = "Results\\FLAT" + docName + ".json"
+    if os.path.exists(outputFile):
+        os.remove(outputFile)
+
+    with open(outputFile, "a") as f:
+        f.write(json.dumps(topDict, indent=4))
+
     return topDict
 
 #fadsf
