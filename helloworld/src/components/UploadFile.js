@@ -4,6 +4,7 @@ import React, { useState } from "react";
 const UploadFile = () => {
 	const [selectedFile, setSelectedFile] = useState(null);
   const [savedData, setData] = useState(null);
+  const [hasUpload, setUpload] = useState(false);
 	const onFileChange = (event) => {
 		setSelectedFile(event.target.files[0]);
 	};
@@ -18,11 +19,7 @@ const UploadFile = () => {
 		axios.post("http://127.0.0.1:8000/uploadfile/", formData, {headers: {'Content-Type': 'multipart/form-data'}})
     .then(res => {
       console.log(res)
-    })
-    axios.get("http://127.0.0.1:8000/items/" + selectedFile.name)
-    .then(res=>{
-      console.log(JSON.parse(res.data))
-      setData(res.data)
+      setUpload(true)
     })
 	};
 	const fileData = () => {
@@ -32,6 +29,14 @@ const UploadFile = () => {
           <h2>File Conversion Completed! Please press the download button below!</h2>
         </div>
       );
+    }
+    else if (hasUpload) {
+      <div>
+          <h2>File successfully uploaded! Please wait for it to be converted</h2>
+        </div>
+    }
+    else if (!hasUpload) {
+
     }
     else if (selectedFile) {
 			return (
@@ -66,6 +71,15 @@ const UploadFile = () => {
       link.click();
       document.body.removeChild(link);
     }
+  }
+
+  if (hasUpload) {
+    axios.get("http://127.0.0.1:8000/items/" + selectedFile.name)
+    .then(res=>{
+      console.log(JSON.parse(res.data))
+      setData(res.data)
+    })
+    setUpload(false);
   }
 
 	return (
