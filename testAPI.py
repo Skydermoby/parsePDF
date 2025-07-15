@@ -35,8 +35,8 @@ async def create_upload_file(file: UploadFile | None = None):
 
 @app.get("/items/{item_id}")
 async def get_item(item_id: str | None = None):
-    print(len(item_id))
-    filteredName = item_id[1:len(item_id)-1:1]
+    print(item_id)
+    filteredName = item_id[0:len(item_id):1]
     filePath = "Uploaded\\"+filteredName
     if os.path.exists(filePath):
         return extraction(filePath)
