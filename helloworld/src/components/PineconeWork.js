@@ -1,11 +1,11 @@
 import axios from "axios";
 import React, { useState } from "react";
 
-const UploadFile = () => {
+const PineconeWork = () => {
 	const [selectedFile, setSelectedFile] = useState(null);
-  const [savedData, setData] = useState(null);
-  const [hasUpload, setUpload] = useState(false);
-  const [message, setMessage] = useState("Please upload a pdf file to be converted into json")
+  	const [savedData, setData] = useState(null);
+  	const [hasUpload, setUpload] = useState(false);
+  	const [message, setMessage] = useState("Please upload a pdf file to upload to vector data base")
 	const onFileChange = (event) => {
 		setSelectedFile(event.target.files[0]);
 	};
@@ -21,7 +21,7 @@ const UploadFile = () => {
     .then(res => {
       console.log(res)
       setUpload(true)
-	  setMessage("File successfully uploaded! Please wait for it to be converted")
+	  setMessage("File successfully uploaded! Please wait for it to be processed")
     })
 	};
 	const fileData = () => {
@@ -76,28 +76,26 @@ const UploadFile = () => {
   }
 
   if (hasUpload) {
-    axios.get("http://127.0.0.1:8000/items/" + selectedFile.name)
+    axios.get("http://127.0.0.1:8000/pineconeUplpoad/" + selectedFile.name)
     .then(res=>{
-      console.log(JSON.parse(res.data))
+      console.log((res.data))
       setData(res.data)
-	  setMessage("File Conversion Completed! Please press the download button below!")
+	  setMessage(JSON.stringify(res.data))
     })
     setUpload(false);
   }
 
 	return (
 		<div>
-			<h1>Aaron's even shabbier front end 0_0</h1>
-			<h3>PDF to JSON Conversion:</h3>
+			<h3>Pinecond Database Upload</h3>
 			<div>
 				<input type="file" onChange={onFileChange} /> 
 				<button onClick={onFileUpload}>Upload!</button>
 			</div>
 			<div>{message}</div>
-			<button onClick={onButtonClick}> Download JSON File </button>
 		</div>
 		
 	);
 };
 
-export default UploadFile;
+export default PineconeWork;
